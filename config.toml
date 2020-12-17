@@ -8,6 +8,7 @@ theme = "bodhi"
     avatar = "/images/lobster.jpg"
     author = "Rohan Verma"
     footerMessage = "Daily top stories from lobste.rs"
+    featherIconsCDN = true
 
 [[menu.main]]
 name = "rohanverma.net"
@@ -31,3 +32,7 @@ weight = 2
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+
+[params.fathomAnalytics]
+    siteID = "IUAMK"
+    serverURL = "fathom.rohanverma.net"

@@ -1,5 +1,5 @@
 ---
-title: "Daily lobste.rs Hottest Page for {{ dateFormat "2006-01-02" .Date }}"
+title: "Daily lobste.rs News for {{ dateFormat "2006-01-02" .Date }}"
 date: {{.Date}}
 draft: false
 ---
