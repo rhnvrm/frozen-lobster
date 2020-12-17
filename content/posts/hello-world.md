@@ -1,0 +1,49 @@
+---
+title: "Daily lobste.rs Hottest Page for 2020-12-17"
+date: 2020-12-17T19:55:38+05:30
+draft: false
+---
+
+
+
+
+
+- [On the Graying of GNOME](https://hpjansson.org/blag/2020/12/16/on-the-graying-of-gnome/)
+  [(comments)](https://lobste.rs/s/z8cejq/on_graying_gnome)
+  
+
+- [GTK 4.0](https://blog.gtk.org/2020/12/16/gtk-4-0/)
+  [(comments)](https://lobste.rs/s/yqe6rs/gtk_4_0)
+  
+
+- [Machine learning could be fundamentally unexplainable](https://cerebralab.com/Machine_learning_could_be_fundamentally_unexplainable)
+  [(comments)](https://lobste.rs/s/dvannd/machine_learning_could_be_fundamentally)
+  
+
+- [Torus Trooper - old-school 3D shooter, written in D 15 years ago](https://torustrooper.xyz/)
+  [(comments)](https://lobste.rs/s/2cw5gm/torus_trooper_old_school_3d_shooter)
+  
+
+- [The architecture of IMGZ](https://imgz.org/blog/2020/11/19/look-ma-no-seo/)
+  [(comments)](https://lobste.rs/s/fkasbf/architecture_imgz)
+  
+
+- [Static calls in Linux 5.10](https://blog.yossarian.net/2020/12/16/Static-calls-in-Linux-5-10)
+  [(comments)](https://lobste.rs/s/qg0i67/static_calls_linux_5_10)
+  
+
+- [Coreutils Gotchas](https://www.pixelbeat.org/docs/coreutils-gotchas.html)
+  [(comments)](https://lobste.rs/s/vpplsy/coreutils_gotchas)
+  
+
+- [Reducing flaky builds by 18x](https://github.blog/2020-12-16-reducing-flaky-builds-by-18x/)
+  [(comments)](https://lobste.rs/s/a8yv7o/reducing_flaky_builds_by_18x)
+  
+
+- [It’s not legacy code — it’s PHP](https://medium.com/vimeo-engineering-blog/its-not-legacy-code-it-s-php-1f0ee0462580)
+  [(comments)](https://lobste.rs/s/7p1gl2/it_s_not_legacy_code_it_s_php)
+  
+
+- [bspwm: a tiling window manager representing windows as leaves of a binary tree](https://github.com/baskerville/bspwm)
+  [(comments)](https://lobste.rs/s/8cg3pp/bspwm_tiling_window_manager)
+  

@@ -1,0 +1,3 @@
+[submodule "themes/bodhi"]
+	path = themes/bodhi
+	url = https://github.com/rhnvrm/bodhi
