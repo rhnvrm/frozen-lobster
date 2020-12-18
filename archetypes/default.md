@@ -6,8 +6,9 @@ draft: false
 
 {{ $data := getJSON "https://lobste.rs/hottest.json" }}
 
-{{ range first 10 (sort $data "score" "desc") }}
+{{ range first 10 $data }}
 
 - [{{ .title }}]({{ .url }})
   [(comments)]({{ .comments_url }})
-  {{ end }}
+
+{{ end }}
