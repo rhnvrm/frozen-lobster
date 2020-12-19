@@ -30,6 +30,11 @@ name = "posts"
 url = "/posts"
 weight = 2
 
+[[params.social]]
+name = "RSS Feed"
+icon = "rss"
+url = "/index.xml"
+
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
