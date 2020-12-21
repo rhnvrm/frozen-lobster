@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 20 Dec 2020 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2020-12-20</title><link>https://frozen-lobster.rohanverma.net/posts/2020-12-20/</link><pubDate>Sun, 20 Dec 2020 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2020-12-20/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 21 Dec 2020 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2020-12-21</title><link>https://frozen-lobster.rohanverma.net/posts/2020-12-21/</link><pubDate>Mon, 21 Dec 2020 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2020-12-21/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://hitchdev.com/strictyaml/why/implicit-typing-removed/">The Norway Problem&lt;/a>
+&lt;a href="https://lobste.rs/s/xa3gs7/norway_problem">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://serhack.me/articles/convos-web-client-persistent-irc/">Convos: A Persistent Self-Hosted Web Client for IRC&lt;/a>
+&lt;a href="https://lobste.rs/s/waikz7/convos_persistent_self_hosted_web_client">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sqlite.org/assert.html">The Use Of assert() In SQLite&lt;/a>
+&lt;a href="https://lobste.rs/s/4oqjxw/use_assert_sqlite">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://utcc.utoronto.ca/~cks/space/blog/programming/GoModulesOnlyFuture">Go modules are soon going to be the only future&lt;/a>
+&lt;a href="https://lobste.rs/s/umybn7/go_modules_are_soon_going_be_only_future">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://www.andrewturnbull.net/mozilla/history.html">A Visual Browser History, from Netscape 4 to Mozilla Firefox&lt;/a>
+&lt;a href="https://lobste.rs/s/iovbgy/visual_browser_history_from_netscape_4">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jellypbc.com/posts/ezmntq-counting-complexity">Counting Complexity&lt;/a>
+&lt;a href="https://lobste.rs/s/lnszhq/counting_complexity">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://kowainik.github.io/posts/naming-conventions">Foo to Bar: Naming Conventions in Haskell&lt;/a>
+&lt;a href="https://lobste.rs/s/jh6vh7/foo_bar_naming_conventions_haskell">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sunainapai.in/blog/get-started-with-tmux/">Get Started With Tmux&lt;/a>
+&lt;a href="https://lobste.rs/s/mqwfhu/get_started_with_tmux">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://arstechnica.com/features/2020/12/how-an-obscure-british-pc-maker-invented-arm-and-changed-the-world/">How an obscure British PC maker invented ARM and changed the world&lt;/a>
+&lt;a href="https://lobste.rs/s/7pnyql/how_obscure_british_pc_maker_invented_arm">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://habr.com/en/company/milandr/blog/533322/">Russian microcontroller K1986BK025 based on the RISC-V processor core for smart electricity meters&lt;/a>
+&lt;a href="https://lobste.rs/s/nxwj0o/russian_microcontroller_k1986bk025">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2020-12-20</title><link>https://frozen-lobster.rohanverma.net/posts/2020-12-20/</link><pubDate>Sun, 20 Dec 2020 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2020-12-20/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://blog.jmdawson.co.uk/zimaboard-a-70-single-board-home-server/">ZimaBoard - A $70 Single Board Home Server&lt;/a>
 &lt;a href="https://lobste.rs/s/ht6qzv/zimaboard_70_single_board_home_server">(comments)&lt;/a>&lt;/p>
