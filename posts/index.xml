@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 23 Dec 2020 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2020-12-23</title><link>https://frozen-lobster.rohanverma.net/posts/2020-12-23/</link><pubDate>Wed, 23 Dec 2020 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2020-12-23/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 24 Dec 2020 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2020-12-24</title><link>https://frozen-lobster.rohanverma.net/posts/2020-12-24/</link><pubDate>Thu, 24 Dec 2020 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2020-12-24/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://catchjs.com/Blog/PerformanceInTheWild">We rendered a million web pages to find out what makes the web slow&lt;/a>
+&lt;a href="https://lobste.rs/s/m4t02k/we_rendered_million_web_pages_find_out">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tokio.rs/blog/2020-12-tokio-1-0">Announcing Tokio 1.0&lt;/a>
+&lt;a href="https://lobste.rs/s/znn5d6/announcing_tokio_1_0">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://fabiensanglard.net/tb3/index.html">The beautiful Silent ThunderBolt-3 PC&lt;/a>
+&lt;a href="https://lobste.rs/s/z7floj/beautiful_silent_thunderbolt_3_pc">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://smallstep.com/blog/build-a-tiny-ca-with-raspberry-pi-yubikey/">Build a Tiny Certificate Authority For Your Homelab&lt;/a>
+&lt;a href="https://lobste.rs/s/icmejn/build_tiny_certificate_authority_for">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://mcwhirter.com.au/craige/blog/2019/Deploying_Gitea_on_NixOS/">Deploying Gitea on NixOS (Git self-hosting)&lt;/a>
+&lt;a href="https://lobste.rs/s/d6i0pj/deploying_gitea_on_nixos_git_self_hosting">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://fabiensanglard.net/the_beautiful_machine/index.html">The Beautiful Machine&lt;/a>
+&lt;a href="https://lobste.rs/s/d6cytn/beautiful_machine">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jepsen.io/analyses/scylla-4.2-rc3">Jepsen: Scylla 4.2-rc3&lt;/a>
+&lt;a href="https://lobste.rs/s/lloot0/jepsen_scylla_4_2_rc3">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.johnnovak.net/2020/12/21/nim-apocrypha-vol1/">Nim Apocrypha, Vol. I&lt;/a>
+&lt;a href="https://lobste.rs/s/e66qex/nim_apocrypha_vol_i">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://www.abclinuxu.cz/blog/jenda/2020/12/my-e-mail-honeypots">My e-mail honeypots&lt;/a>
+&lt;a href="https://lobste.rs/s/9feje5/my_e_mail_honeypots">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://xfce.org/about/news/?post=1608595200">Xfce 4.16 released&lt;/a>
+&lt;a href="https://lobste.rs/s/zywt49/xfce_4_16_released">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2020-12-23</title><link>https://frozen-lobster.rohanverma.net/posts/2020-12-23/</link><pubDate>Wed, 23 Dec 2020 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2020-12-23/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://vsevolod.net/good-webcams/">Why can’t you buy a good webcam?&lt;/a>
 &lt;a href="https://lobste.rs/s/hmwpil/why_can_t_you_buy_good_webcam">(comments)&lt;/a>&lt;/p>
