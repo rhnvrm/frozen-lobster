@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 24 Dec 2020 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2020-12-24</title><link>https://frozen-lobster.rohanverma.net/posts/2020-12-24/</link><pubDate>Thu, 24 Dec 2020 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2020-12-24/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 25 Dec 2020 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2020-12-25</title><link>https://frozen-lobster.rohanverma.net/posts/2020-12-25/</link><pubDate>Fri, 25 Dec 2020 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2020-12-25/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="">Happy holidays, Crustaceans&lt;/a>
+&lt;a href="https://lobste.rs/s/ilsxu2/happy_holidays_crustaceans">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.ocharles.org.uk/posts/2020-12-23-monad-transformers-and-effects-with-backpack.html">Monad Transformers and Effects with Backpack&lt;/a>
+&lt;a href="https://lobste.rs/s/pxreiu/monad_transformers_effects_with">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://soatok.blog/2020/12/24/cryptographic-wear-out-for-symmetric-encryption/">Cryptographic Wear-Out for Symmetric Encryption&lt;/a>
+&lt;a href="https://lobste.rs/s/2m20u4/cryptographic_wear_out_for_symmetric">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://kemenaran.winosx.com/posts/links-awakening-partial-translucency">Achieving partial translucency on the Game Boy Color&lt;/a>
+&lt;a href="https://lobste.rs/s/oomc39/achieving_partial_translucency_on_game">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.eyecontrol.nl/blog/undocumented-user-account-in-zyxel-products.html">Undocumented user account in Zyxel products (CVE-2020-29583)&lt;/a>
+&lt;a href="https://lobste.rs/s/yrd1cx/undocumented_user_account_zyxel">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://oldvcr.blogspot.com/2020/12/unboxing-best-gift-of-1983-commodore-sx.html">Unboxing the best gift of 1983: the Commodore SX-64&lt;/a>
+&lt;a href="https://lobste.rs/s/fj7jq3/unboxing_best_gift_1983_commodore_sx_64">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=TvlpIojusBE">I wired my tree with 500 LED lights and calculated their 3D coordinates&lt;/a>
+&lt;a href="https://lobste.rs/s/youkgy/i_wired_my_tree_with_500_led_lights">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://htmx.org/">htmx - high power tools for html&lt;/a>
+&lt;a href="https://lobste.rs/s/sk9cvw/htmx_high_power_tools_for_html">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tokio.rs/blog/2020-12-tokio-1-0">Announcing Tokio 1.0&lt;/a>
+&lt;a href="https://lobste.rs/s/znn5d6/announcing_tokio_1_0">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://bottosson.github.io/posts/oklab/">A perceptual color space for image processing&lt;/a>
+&lt;a href="https://lobste.rs/s/oijife/perceptual_color_space_for_image">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2020-12-24</title><link>https://frozen-lobster.rohanverma.net/posts/2020-12-24/</link><pubDate>Thu, 24 Dec 2020 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2020-12-24/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://catchjs.com/Blog/PerformanceInTheWild">We rendered a million web pages to find out what makes the web slow&lt;/a>
 &lt;a href="https://lobste.rs/s/m4t02k/we_rendered_million_web_pages_find_out">(comments)&lt;/a>&lt;/p>
