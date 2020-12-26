@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 25 Dec 2020 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2020-12-25</title><link>https://frozen-lobster.rohanverma.net/posts/2020-12-25/</link><pubDate>Fri, 25 Dec 2020 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2020-12-25/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 26 Dec 2020 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2020-12-26</title><link>https://frozen-lobster.rohanverma.net/posts/2020-12-26/</link><pubDate>Sat, 26 Dec 2020 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2020-12-26/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/">Reverse Engineering the source code of the BioNTech/Pfizer SARS-CoV-2 Vaccine&lt;/a>
+&lt;a href="https://lobste.rs/s/qoqbdc/reverse_engineering_source_code">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://raccoon.onyxbits.de/blog/reactions-bugreport-free-support/">The aftermath of &amp;ldquo;No, &amp;lsquo;Open Source&amp;rsquo; does not mean &amp;lsquo;Includes Free Support&amp;rsquo;&amp;quot;&lt;/a>
+&lt;a href="https://lobste.rs/s/nohfr6/aftermath_no_open_source_does_not_mean">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://flix.dev/">The Flix Programming Language&lt;/a>
+&lt;a href="https://lobste.rs/s/ehfg4y/flix_programming_language">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ruby-lang.org/en/news/2020/12/25/ruby-3-0-0-released/">Ruby 3.0.0 Released&lt;/a>
+&lt;a href="https://lobste.rs/s/5ppa9c/ruby_3_0_0_released">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://matrix.org/blog/2020/12/25/the-matrix-holiday-special-2020">The Matrix Holiday Special 2020&lt;/a>
+&lt;a href="https://lobste.rs/s/sxt5zc/matrix_holiday_special_2020">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this weekend?&lt;/a>
+&lt;a href="https://lobste.rs/s/qhespn/what_are_you_doing_this_weekend">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.redox-os.org/news/release-0.6.0/">Redox OS 0.6.0&lt;/a>
+&lt;a href="https://lobste.rs/s/nfltqa/redox_os_0_6_0">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.solipsys.co.uk/new/TheParityOfZero.html?tl24lo">The Parity Of Zero&lt;/a>
+&lt;a href="https://lobste.rs/s/vfpipb/parity_zero">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://rachelbythebay.com/w/2020/12/24/wg/">WireGuard: great protocol, but skip the Mac app&lt;/a>
+&lt;a href="https://lobste.rs/s/ns7pdp/wireguard_great_protocol_skip_mac_app">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.hanselman.com/blog/scott-hanselmans-2021-ultimate-developer-and-power-users-tool-list-for-windows">Scott Hanselman&amp;rsquo;s 2021 Ultimate Developer and Power Users Tool List for Windows&lt;/a>
+&lt;a href="https://lobste.rs/s/mv3s2z/scott_hanselman_s_2021_ultimate">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2020-12-25</title><link>https://frozen-lobster.rohanverma.net/posts/2020-12-25/</link><pubDate>Fri, 25 Dec 2020 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2020-12-25/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="">Happy holidays, Crustaceans&lt;/a>
 &lt;a href="https://lobste.rs/s/ilsxu2/happy_holidays_crustaceans">(comments)&lt;/a>&lt;/p>
