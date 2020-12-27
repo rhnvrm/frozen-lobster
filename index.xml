@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 26 Dec 2020 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2020-12-26</title><link>https://frozen-lobster.rohanverma.net/posts/2020-12-26/</link><pubDate>Sat, 26 Dec 2020 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2020-12-26/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 27 Dec 2020 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2020-12-27</title><link>https://frozen-lobster.rohanverma.net/posts/2020-12-27/</link><pubDate>Sun, 27 Dec 2020 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2020-12-27/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/">Reverse Engineering the source code of the BioNTech/Pfizer SARS-CoV-2 Vaccine&lt;/a>
+&lt;a href="https://lobste.rs/s/qoqbdc/reverse_engineering_source_code">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/dpapathanasiou/simple-graph">simple-graph: a graph database in SQLite, inspired by &amp;ldquo;SQLite as a document database&amp;rdquo;&lt;/a>
+&lt;a href="https://lobste.rs/s/x0fk0a/simple_graph_graph_database_sqlite">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://fraidyc.at/">Fraidycat&lt;/a>
+&lt;a href="https://lobste.rs/s/f6lnog/fraidycat">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://djharper.dev/post/2020/12/26/executable-pngs/">Executable PNGs&lt;/a>
+&lt;a href="https://lobste.rs/s/npswqw/executable_pngs">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://erik-engheim.medium.com/the-genius-of-risc-v-microprocessors-b19d735abaa6">The Genius of RISC-V Microprocessors&lt;/a>
+&lt;a href="https://lobste.rs/s/ar3phv/genius_risc_v_microprocessors">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.dave.tf/post/ip-addr-parsing/">Fun with IP address parsing&lt;/a>
+&lt;a href="https://lobste.rs/s/fcgrjt/fun_with_ip_address_parsing">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://hongchao.me/cli-and-emacs/">Emacs is the 2D Command-line Interface&lt;/a>
+&lt;a href="https://lobste.rs/s/iliflm/emacs_is_2d_command_line_interface">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://drewdevault.com/2020/12/25/How-to-design-a-new-programming-language.html">How to design a new programming language from scratch&lt;/a>
+&lt;a href="https://lobste.rs/s/vs08dv/how_design_new_programming_language_from">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blogs.embarcadero.com/dev-c-is-a-low-memory-windows-native-c-ide-built-in-delphi/">Dev-C++ Is A Low Memory Windows Native C++ IDE Built In Delphi&lt;/a>
+&lt;a href="https://lobste.rs/s/sl0fvk/dev_c_is_low_memory_windows_native_c_ide">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.agwa.name/blog/post/preventing_server_side_request_forgery_in_golang">Preventing Server Side Request Forgery in Golang&lt;/a>
+&lt;a href="https://lobste.rs/s/mhcf4n/preventing_server_side_request_forgery">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2020-12-26</title><link>https://frozen-lobster.rohanverma.net/posts/2020-12-26/</link><pubDate>Sat, 26 Dec 2020 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2020-12-26/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/">Reverse Engineering the source code of the BioNTech/Pfizer SARS-CoV-2 Vaccine&lt;/a>
 &lt;a href="https://lobste.rs/s/qoqbdc/reverse_engineering_source_code">(comments)&lt;/a>&lt;/p>
