@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 27 Dec 2020 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2020-12-27</title><link>https://frozen-lobster.rohanverma.net/posts/2020-12-27/</link><pubDate>Sun, 27 Dec 2020 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2020-12-27/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 28 Dec 2020 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2020-12-28</title><link>https://frozen-lobster.rohanverma.net/posts/2020-12-28/</link><pubDate>Mon, 28 Dec 2020 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2020-12-28/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://jameslittle.me/blog/2020/one-year-of-stork/">Stork Turns One: Building a search tool for static sites with Rust and WebAssembly&lt;/a>
+&lt;a href="https://lobste.rs/s/fagsxa/stork_turns_one_building_search_tool_for">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://raymii.org/s/software/Bash_HTTP_Monitoring_Dashboard.html">Bash HTTP monitoring dashboard&lt;/a>
+&lt;a href="https://lobste.rs/s/4pivy1/bash_http_monitoring_dashboard">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thevaluable.dev/vim-intermediate/">A Vim Guide for Intermediate Users&lt;/a>
+&lt;a href="https://lobste.rs/s/mr8ynv/vim_guide_for_intermediate_users">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lore.kernel.org/linux-mips/20201225190503.12353218812e1655f56f0bf8@gmx.com/T/#m0862c3484e0da7195dc8989421d30f01b3b1c63a">Nintendo 64 Linux kernel port&lt;/a>
+&lt;a href="https://lobste.rs/s/ikqwaj/nintendo_64_linux_kernel_port">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://nikhiljha.com/posts/kubernetes-intro/">Kubernetes is a container orchestration system, but &lt;em>that&amp;rsquo;s not the point&lt;/em>&lt;/a>
+&lt;a href="https://lobste.rs/s/xdcrsa/kubernetes_is_container_orchestration">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">Why doesn’t Lobsters have a dark mode?&lt;/a>
+&lt;a href="https://lobste.rs/s/raehqo/why_doesn_t_lobsters_have_dark_mode">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://extrawurst.github.io/gamedev/unity/programming/rust/2020/12/26/unity-flatbuffers.html">Flatbuffers in Unity - a 40x gain&lt;/a>
+&lt;a href="https://lobste.rs/s/vvu3kl/flatbuffers_unity_40x_gain">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://streaming.media.ccc.de/rc3">rC3 Streaming (remote CCC event live streaming)&lt;/a>
+&lt;a href="https://lobste.rs/s/0lfjrb/rc3_streaming_remote_ccc_event_live">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.hillelwayne.com/post/intermediate-vim/">At least one Vim trick you might not know&lt;/a>
+&lt;a href="https://lobste.rs/s/zdnwqy/at_least_one_vim_trick_you_might_not_know">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://endler.dev/2019/maybe-you-dont-need-kubernetes/">Maybe You Don&amp;rsquo;t Need Kubernetes&lt;/a>
+&lt;a href="https://lobste.rs/s/c1vhla/maybe_you_don_t_need_kubernetes">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2020-12-27</title><link>https://frozen-lobster.rohanverma.net/posts/2020-12-27/</link><pubDate>Sun, 27 Dec 2020 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2020-12-27/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/">Reverse Engineering the source code of the BioNTech/Pfizer SARS-CoV-2 Vaccine&lt;/a>
 &lt;a href="https://lobste.rs/s/qoqbdc/reverse_engineering_source_code">(comments)&lt;/a>&lt;/p>
