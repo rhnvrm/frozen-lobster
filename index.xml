@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 29 Dec 2020 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2020-12-29</title><link>https://frozen-lobster.rohanverma.net/posts/2020-12-29/</link><pubDate>Tue, 29 Dec 2020 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2020-12-29/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 30 Dec 2020 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2020-12-30</title><link>https://frozen-lobster.rohanverma.net/posts/2020-12-30/</link><pubDate>Wed, 30 Dec 2020 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2020-12-30/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://lukashermann.dev/writing/why-the-iphone-timer-displays-fake-time/">Why the iPhone Timer App displays a Fake Time&lt;/a>
+&lt;a href="https://lobste.rs/s/yvw2xg/why_iphone_timer_app_displays_fake_time">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://danluu.com/essential-complexity/">Against essential and accidental complexity&lt;/a>
+&lt;a href="https://lobste.rs/s/gvahe2/against_essential_accidental">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tuckersiemens.com/posts/node-example-com-is-an-ip-address/">node.example.com Is An IP Address&lt;/a>
+&lt;a href="https://lobste.rs/s/dewdco/node_example_com_is_ip_address">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">Have historical changes in development practices / tooling degraded the quality of programmers?&lt;/a>
+&lt;a href="https://lobste.rs/s/shgt0b/have_historical_changes_development">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.redblobgames.com/grids/hexagons/">Hexagonal Grids&lt;/a>
+&lt;a href="https://lobste.rs/s/u3uo77/hexagonal_grids">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://chrisdone.com/posts/haskell-doesnt-have-macros/">Haskell doesn&amp;rsquo;t have macros&lt;/a>
+&lt;a href="https://lobste.rs/s/jdtclx/haskell_doesn_t_have_macros">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/glouw/ctl">C Template Library&lt;/a>
+&lt;a href="https://lobste.rs/s/9gc2ku/c_template_library">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/picolisp/pil21">PicoLisp on PicoLisp on LLVM-IR&lt;/a>
+&lt;a href="https://lobste.rs/s/y5reab/picolisp_on_picolisp_on_llvm_ir">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.erlang-solutions.com/blog/how-to-use-lua-for-flexible-configurations-in-erlang-and-elixir.html">How to use Lua for flexible configurations in Erlang and Elixir&lt;/a>
+&lt;a href="https://lobste.rs/s/9hlmo6/how_use_lua_for_flexible_configurations">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tibleiz.net/copper/index.html">Copper Language&lt;/a>
+&lt;a href="https://lobste.rs/s/0otalx/copper_language">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2020-12-29</title><link>https://frozen-lobster.rohanverma.net/posts/2020-12-29/</link><pubDate>Tue, 29 Dec 2020 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2020-12-29/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://justine.lol/cosmopolitan/index.html">Cosmopolitan C Library&lt;/a>
 &lt;a href="https://lobste.rs/s/xnqpyp/cosmopolitan_c_library">(comments)&lt;/a>&lt;/p>
