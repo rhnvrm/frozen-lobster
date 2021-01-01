@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 31 Dec 2020 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2020-12-31</title><link>https://frozen-lobster.rohanverma.net/posts/2020-12-31/</link><pubDate>Thu, 31 Dec 2020 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2020-12-31/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-01-01</title><link>https://frozen-lobster.rohanverma.net/posts/2021-01-01/</link><pubDate>Fri, 01 Jan 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-01-01/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://christine.website/blog/k8s-pondering-2020-12-31">Kubernetes Pondering&lt;/a>
+&lt;a href="https://lobste.rs/s/avqtvh/kubernetes_pondering">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://berthub.eu/articles/posts/part-2-reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/">Contest: Reverse engineering the BioNTech vaccine RNA optimization algorithm&lt;/a>
+&lt;a href="https://lobste.rs/s/uzoifn/contest_reverse_engineering_biontech">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.venthur.de/2020-12-creating-beautiful-github-streaks.html">Creating Beautiful Github Streaks&lt;/a>
+&lt;a href="https://lobste.rs/s/kl7lsd/creating_beautiful_github_streaks">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://morepypy.blogspot.com/2020/12/mac-meets-arm64.html">PyPy is looking for sponsorship to support Apple Silicon&lt;/a>
+&lt;a href="https://lobste.rs/s/kyb2sh/pypy_is_looking_for_sponsorship_support">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://nim-lang.org/blog/2020/12/28/nim-in-2020-a-short-recap.html">Nim in 2020: A short recap&lt;/a>
+&lt;a href="https://lobste.rs/s/dekzvk/nim_2020_short_recap">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://unmdplyr-new.bearblog.dev/a-case-against-text-protocols/">A case against text protocols&lt;/a>
+&lt;a href="https://lobste.rs/s/vl9o4z/case_against_text_protocols">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/erebe/personal-server">Managing my personal server in 2020&lt;/a>
+&lt;a href="https://lobste.rs/s/zopjay/managing_my_personal_server_2020">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://minnie.tuhs.org/pipermail/tuhs/2020-December/022658.html">The 2038 bug&lt;/a>
+&lt;a href="https://lobste.rs/s/rjexcd/2038_bug">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://incoherency.co.uk/blog/stories/chess-steg.html">Hiding messages in chess games&lt;/a>
+&lt;a href="https://lobste.rs/s/ikxxhw/hiding_messages_chess_games">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ideolalia.com/essays/two-concepts-of-legibility.html">Two Concepts of Legibility&lt;/a>
+&lt;a href="https://lobste.rs/s/0mel38/two_concepts_legibility">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2020-12-31</title><link>https://frozen-lobster.rohanverma.net/posts/2020-12-31/</link><pubDate>Thu, 31 Dec 2020 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2020-12-31/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://gopher.floodgap.com/gopher/gw?a=eyeblea.ch">eyeblea.ch, the Melbourne home of the Gopher and IRC revival&lt;/a>
 &lt;a href="https://lobste.rs/s/yz9qrp/eyeblea_ch_melbourne_home_gopher_irc">(comments)&lt;/a>&lt;/p>
