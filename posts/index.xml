@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 03 Jan 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-01-03</title><link>https://frozen-lobster.rohanverma.net/posts/2021-01-03/</link><pubDate>Sun, 03 Jan 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-01-03/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 05 Jan 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-01-05</title><link>https://frozen-lobster.rohanverma.net/posts/2021-01-05/</link><pubDate>Tue, 05 Jan 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-01-05/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="">Hosting Update&lt;/a>
+&lt;a href="https://lobste.rs/s/udj6qf/hosting_update">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://eloydegen.com/blog/posts/arm-linux-distribtions/">ARM support in Linux distributions demystified&lt;/a>
+&lt;a href="https://lobste.rs/s/ucohle/arm_support_linux_distributions">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gist.github.com/prologic/5f6afe9c1b98016ca278f4d507e65510">Learn Go in ~5mins&lt;/a>
+&lt;a href="https://lobste.rs/s/loxv7y/learn_go_5mins">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://notes.neeasade.net/systemd-user-services.html">systemd user services&lt;/a>
+&lt;a href="https://lobste.rs/s/sy8ulu/systemd_user_services">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://surma.dev/things/ditherpunk/">Ditherpunk: The article I wish I had about monochrome image dithering&lt;/a>
+&lt;a href="https://lobste.rs/s/cpncuc/ditherpunk_article_i_wish_i_had_about">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://drewdevault.com/2021/01/04/A-culture-of-stability-and-reliability.html">Fostering a culture that values stability and reliability&lt;/a>
+&lt;a href="https://lobste.rs/s/t9sz67/fostering_culture_values_stability">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://seancoates.com/blogs/internet-optional-things">IoT: Internet-Optional Things&lt;/a>
+&lt;a href="https://lobste.rs/s/9saj5u/iot_internet_optional_things">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=wjsI0lTSjIo">Weeks of Debugging Can Save You Hours of TLA+&lt;/a>
+&lt;a href="https://lobste.rs/s/xy39hu/weeks_debugging_can_save_you_hours_tla">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://kakoune-editor.github.io/community-articles/2021/01/01/first_two_hours_in_two_minutes.html">The first two hours of Kakoune in two minutes&lt;/a>
+&lt;a href="https://lobste.rs/s/cpmfyt/first_two_hours_kakoune_two_minutes">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://christine.website/blog/hlang-in-30s-2020-01-04">hlang in 30 Seconds&lt;/a>
+&lt;a href="https://lobste.rs/s/4hj32p/hlang_30_seconds">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-01-03</title><link>https://frozen-lobster.rohanverma.net/posts/2021-01-03/</link><pubDate>Sun, 03 Jan 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-01-03/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://acha.ninja/blog/encrypted_backup_shootout/">Encrypted Backup Shootout&lt;/a>
 &lt;a href="https://lobste.rs/s/ddmx7d/encrypted_backup_shootout">(comments)&lt;/a>&lt;/p>
