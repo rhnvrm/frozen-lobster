@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 08 Jan 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-01-08</title><link>https://frozen-lobster.rohanverma.net/posts/2021-01-08/</link><pubDate>Fri, 08 Jan 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-01-08/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 09 Jan 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-01-09</title><link>https://frozen-lobster.rohanverma.net/posts/2021-01-09/</link><pubDate>Sat, 09 Jan 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-01-09/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="">Lobsters battlestations and screenshots (2021)&lt;/a>
+&lt;a href="https://lobste.rs/s/jsd8qv/lobsters_battlestations_screenshots">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pan.earth/posts/why-i-am-janet.html">Why I am Janet&lt;/a>
+&lt;a href="https://lobste.rs/s/pwkit0/why_i_am_janet">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://vale.dev/blog/generational-references">Generational references 2.3x faster than reference counting (unoptimized)&lt;/a>
+&lt;a href="https://lobste.rs/s/sglvcc/generational_references_2_3x_faster_than">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://no-gravity.github.io/html_editor/">A lean HTML editor with instant preview&lt;/a>
+&lt;a href="https://lobste.rs/s/enlvoc/lean_html_editor_with_instant_preview">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/erezsh/Preql">Introducing Preql - a new relational programming language, that compiles to SQL&lt;/a>
+&lt;a href="https://lobste.rs/s/r5qaap/introducing_preql_new_relational">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you working on this weekend?&lt;/a>
+&lt;a href="https://lobste.rs/s/mtn868/what_are_you_working_on_this_weekend">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://danielbmarkham.com/why-are-reusable-components-so-difficult/">Why are Reusable Components so Difficult? (2016)&lt;/a>
+&lt;a href="https://lobste.rs/s/3vjg0d/why_are_reusable_components_so_difficult">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://owlspace.xyz/cybersec/steam-login/">Steam&amp;rsquo;s login method is kinda interesting&lt;/a>
+&lt;a href="https://lobste.rs/s/rfpblh/steam_s_login_method_is_kinda_interesting">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.joyfulbikeshedding.com/blog/2021-01-06-the-future-of-traveling-ruby.html">The future of Traveling Ruby&lt;/a>
+&lt;a href="https://lobste.rs/s/pwrrbf/future_traveling_ruby">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/norvig/pytudes/blob/master/ipynb/Advent-2020.ipynb">Peter Norvig&amp;rsquo;s Pytudes: Advent of Code 2020&lt;/a>
+&lt;a href="https://lobste.rs/s/aryngm/peter_norvig_s_pytudes_advent_code_2020">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-01-08</title><link>https://frozen-lobster.rohanverma.net/posts/2021-01-08/</link><pubDate>Fri, 08 Jan 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-01-08/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://github.com/erezsh/Preql">Introducing Preql - a new relational programming language, that compiles to SQL&lt;/a>
 &lt;a href="https://lobste.rs/s/r5qaap/introducing_preql_new_relational">(comments)&lt;/a>&lt;/p>
