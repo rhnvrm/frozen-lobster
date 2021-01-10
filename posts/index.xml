@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 09 Jan 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-01-09</title><link>https://frozen-lobster.rohanverma.net/posts/2021-01-09/</link><pubDate>Sat, 09 Jan 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-01-09/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 10 Jan 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-01-10</title><link>https://frozen-lobster.rohanverma.net/posts/2021-01-10/</link><pubDate>Sun, 10 Jan 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-01-10/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://christine.website/blog/borg-backup-2021-01-09">How to Set Up Borg Backup on NixOS&lt;/a>
+&lt;a href="https://lobste.rs/s/j9f58n/how_set_up_borg_backup_on_nixos">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://raymii.org/s/tutorials/Cpp_std_async_with_a_concurrency_limit.html">C++ std::async with a concurrency limit (via semaphores)&lt;/a>
+&lt;a href="https://lobste.rs/s/do6zii/c_std_async_with_concurrency_limit_via">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://64.github.io/cmake-raytracer/">Ray Tracing in pure CMake&lt;/a>
+&lt;a href="https://lobste.rs/s/8dsf4j/ray_tracing_pure_cmake">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://shkspr.mobi/blog/2021/01/falsehoods-programmers-believe-about-biometrics/">Falsehoods programmers believe about… Biometrics&lt;/a>
+&lt;a href="https://lobste.rs/s/ytki5n/falsehoods_programmers_believe_about">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">Lobsters battlestations and screenshots (2021)&lt;/a>
+&lt;a href="https://lobste.rs/s/jsd8qv/lobsters_battlestations_screenshots">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.shitiomatic.tech/post/haskell-is-a-bad-programming-language/">Haskell is a Bad Programming Language&lt;/a>
+&lt;a href="https://lobste.rs/s/ny9at0/haskell_is_bad_programming_language">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.tweag.io/blog/2017-03-13-linear-types/">Linear types make performance more predictable (2017)&lt;/a>
+&lt;a href="https://lobste.rs/s/s2mpng/linear_types_make_performance_more">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://scottlocklin.wordpress.com/2021/01/08/woo-for-its-own-sake/">Woo for its own sake&lt;/a>
+&lt;a href="https://lobste.rs/s/dphvv5/woo_for_its_own_sake">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pan.earth/posts/why-i-am-janet.html">Why I am Janet&lt;/a>
+&lt;a href="https://lobste.rs/s/pwkit0/why_i_am_janet">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tails.boum.org/news/verification_extension_deprecation/index.en.html">Tails - Deprecation of the Tails Verification extension&lt;/a>
+&lt;a href="https://lobste.rs/s/lirlxh/tails_deprecation_tails_verification">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-01-09</title><link>https://frozen-lobster.rohanverma.net/posts/2021-01-09/</link><pubDate>Sat, 09 Jan 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-01-09/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="">Lobsters battlestations and screenshots (2021)&lt;/a>
 &lt;a href="https://lobste.rs/s/jsd8qv/lobsters_battlestations_screenshots">(comments)&lt;/a>&lt;/p>
