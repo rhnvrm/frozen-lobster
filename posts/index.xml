@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 11 Jan 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-01-11</title><link>https://frozen-lobster.rohanverma.net/posts/2021-01-11/</link><pubDate>Mon, 11 Jan 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-01-11/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 12 Jan 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-01-12</title><link>https://frozen-lobster.rohanverma.net/posts/2021-01-12/</link><pubDate>Tue, 12 Jan 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-01-12/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://aduros.com/blog/xterm-its-better-than-you-thought/">XTerm: It&amp;rsquo;s Better Than You Thought&lt;/a>
+&lt;a href="https://lobste.rs/s/pxsgmt/xterm_it_s_better_than_you_thought">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://hakibenita.com/postgresql-hash-index">Re-Introducing Hash Indexes in PostgreSQL&lt;/a>
+&lt;a href="https://lobste.rs/s/cspcz2/re_introducing_hash_indexes_postgresql">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://zakaria.org/posts/2021-01-11-usbkiller.html">usbkill the OpenBSD way&lt;/a>
+&lt;a href="https://lobste.rs/s/jvdtaj/usbkill_openbsd_way">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.pragmaticengineer.com/what-silicon-valley-gets-right-on-software-engineers/">What Silicon Valley &amp;ldquo;Gets&amp;rdquo; about Software Engineers that Traditional Companies Do Not&lt;/a>
+&lt;a href="https://lobste.rs/s/tzjjmr/what_silicon_valley_gets_about_software">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://soatok.blog/2021/01/11/block-cipher-structures-ranked/">Block Cipher Structures Ranked&lt;/a>
+&lt;a href="https://lobste.rs/s/olu9mg/block_cipher_structures_ranked">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pythonspeed.com/articles/docker-buildkit/">It’s time to switch to Docker BuildKit&lt;/a>
+&lt;a href="https://lobste.rs/s/zh18id/it_s_time_switch_docker_buildkit">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://solovyov.net/blog/2021/streaming/">Code streaming: hundred ounces of nuances&lt;/a>
+&lt;a href="https://lobste.rs/s/wnvol8/code_streaming_hundred_ounces_nuances">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://avinayak.github.io/art/2021/01/09/noise-planets.html">Noise Planets&lt;/a>
+&lt;a href="https://lobste.rs/s/e4qkpz/noise_planets">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.reddit.com/r/linux/comments/kux9xx/success_iphone_7_with_dead_nand_netbooting/">iPhone 7 with dead NAND netbooting unmodified Ubuntu 20.04 arm64 over usb gadget ethernet&lt;/a>
+&lt;a href="https://lobste.rs/s/niryhd/iphone_7_with_dead_nand_netbooting">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://y.tsutsumi.io/quiet-keyboard/">The Quietest Mechanical Keyboard&lt;/a>
+&lt;a href="https://lobste.rs/s/iwkhbr/quietest_mechanical_keyboard">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-01-11</title><link>https://frozen-lobster.rohanverma.net/posts/2021-01-11/</link><pubDate>Mon, 11 Jan 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-01-11/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://michael.stapelberg.ch/posts/2021-01-10-mqtt-introduction/">A quick introduction to MQTT for IOT&lt;/a>
 &lt;a href="https://lobste.rs/s/amgohv/quick_introduction_mqtt_for_iot">(comments)&lt;/a>&lt;/p>
