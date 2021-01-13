@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 12 Jan 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-01-12</title><link>https://frozen-lobster.rohanverma.net/posts/2021-01-12/</link><pubDate>Tue, 12 Jan 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-01-12/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 13 Jan 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-01-13</title><link>https://frozen-lobster.rohanverma.net/posts/2021-01-13/</link><pubDate>Wed, 13 Jan 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-01-13/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://maxbittker.github.io/noise-draw/">draw with noise&lt;/a>
+&lt;a href="https://lobste.rs/s/xxx4ro/draw_with_noise">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://kristoff.it/blog/first-zig-website-redesign/">The First Zig Website Redesign&lt;/a>
+&lt;a href="https://lobste.rs/s/ycxtxy/first_zig_website_redesign">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://drafty.cs.brown.edu/csopenrankings/">computer science open rankings&lt;/a>
+&lt;a href="https://lobste.rs/s/p1fxyb/computer_science_open_rankings">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://codeprints.dev">Create personal prints from your GitHub contributions&lt;/a>
+&lt;a href="https://lobste.rs/s/b5fbw8/create_personal_prints_from_your_github">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.golang.org/generics-proposal">A Proposal for Adding Generics to Go&lt;/a>
+&lt;a href="https://lobste.rs/s/gubotm/proposal_for_adding_generics_go">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://electronupdate.blogspot.com/2021/01/amazon-echo-flex-microphone-mute-real.html">Amazon Echo Flex: Microphone Mute, Real or Fake?&lt;/a>
+&lt;a href="https://lobste.rs/s/wzdzdt/amazon_echo_flex_microphone_mute_real">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://futhark-lang.org/blog/2021-01-11-no-regrets.html">Design decisions I do not regret&lt;/a>
+&lt;a href="https://lobste.rs/s/w2np08/design_decisions_i_do_not_regret">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jayfax.neocities.org/mediocrity/gnome-has-no-thumbnails-in-the-file-picker.html">GNOME has no thumbnails in the file picker (and my toilets are blocked)&lt;/a>
+&lt;a href="https://lobste.rs/s/ky5yop/gnome_has_no_thumbnails_file_picker_my">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ntietz.com/tech-blog/lessons-from-my-first-on-call/">Lessons from my first (very bad) on-call experience&lt;/a>
+&lt;a href="https://lobste.rs/s/zfkcx1/lessons_from_my_first_very_bad_on_call">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://aduros.com/blog/xterm-its-better-than-you-thought/">XTerm: It&amp;rsquo;s Better Than You Thought&lt;/a>
+&lt;a href="https://lobste.rs/s/pxsgmt/xterm_it_s_better_than_you_thought">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-01-12</title><link>https://frozen-lobster.rohanverma.net/posts/2021-01-12/</link><pubDate>Tue, 12 Jan 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-01-12/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://aduros.com/blog/xterm-its-better-than-you-thought/">XTerm: It&amp;rsquo;s Better Than You Thought&lt;/a>
 &lt;a href="https://lobste.rs/s/pxsgmt/xterm_it_s_better_than_you_thought">(comments)&lt;/a>&lt;/p>
