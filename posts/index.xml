@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 13 Jan 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-01-13</title><link>https://frozen-lobster.rohanverma.net/posts/2021-01-13/</link><pubDate>Wed, 13 Jan 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-01-13/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 14 Jan 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-01-14</title><link>https://frozen-lobster.rohanverma.net/posts/2021-01-14/</link><pubDate>Thu, 14 Jan 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-01-14/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://danso.ca/blog/happy-space/">happy-space: a whitespace-sensitive calculator&lt;/a>
+&lt;a href="https://lobste.rs/s/uwf49c/happy_space_whitespace_sensitive">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.idris-lang.org/idris-2-version-030-released.html">Idris 2 version 0.3.0 Released&lt;/a>
+&lt;a href="https://lobste.rs/s/nb3w8n/idris_2_version_0_3_0_released">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://kristoff.it/blog/first-zig-website-redesign/">The First Zig Website Redesign&lt;/a>
+&lt;a href="https://lobste.rs/s/ycxtxy/first_zig_website_redesign">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tailscale.com/blog/an-unlikely-database-migration/">An unlikely database migration&lt;/a>
+&lt;a href="https://lobste.rs/s/xbiogv/unlikely_database_migration">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://beaglev.seeed.cc/">BeagleV: An affordable RISC-V computer designed to run Linux&lt;/a>
+&lt;a href="https://lobste.rs/s/xwnvcs/beaglev_affordable_risc_v_computer">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.murilopereira.com/a-rabbit-hole-full-of-lisp/">A rabbit hole full of Lisp&lt;/a>
+&lt;a href="https://lobste.rs/s/fdizu4/rabbit_hole_full_lisp">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://popey.com/blog/2021/01/null/">null&lt;/a>
+&lt;a href="https://lobste.rs/s/yn4ejr/null">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lwn.net/SubscriberLink/842319/8adb13e08d0302bd/">Debian discusses vendoring—again&lt;/a>
+&lt;a href="https://lobste.rs/s/1exdkb/debian_discusses_vendoring_again">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jvns.ca/blog/2021/01/12/day-36--server-sent-events-are-cool--and-a-fun-bug/">Server-sent events: a simple way to stream events from a server&lt;/a>
+&lt;a href="https://lobste.rs/s/zpeqgs/server_sent_events_simple_way_stream">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gleam.run/news/gleam-v0.13-released/">0.13 of Gleam, a type safe language for the Erlang VM, is out&lt;/a>
+&lt;a href="https://lobste.rs/s/egazt3/0_13_gleam_type_safe_language_for_erlang_vm">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-01-13</title><link>https://frozen-lobster.rohanverma.net/posts/2021-01-13/</link><pubDate>Wed, 13 Jan 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-01-13/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://maxbittker.github.io/noise-draw/">draw with noise&lt;/a>
 &lt;a href="https://lobste.rs/s/xxx4ro/draw_with_noise">(comments)&lt;/a>&lt;/p>
