@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 14 Jan 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-01-14</title><link>https://frozen-lobster.rohanverma.net/posts/2021-01-14/</link><pubDate>Thu, 14 Jan 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-01-14/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 15 Jan 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-01-15</title><link>https://frozen-lobster.rohanverma.net/posts/2021-01-15/</link><pubDate>Fri, 15 Jan 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-01-15/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="http://boris-marinov.github.io/if/">Structured programming: how to write proper if statements&lt;/a>
+&lt;a href="https://lobste.rs/s/z17zyg/structured_programming_how_write_proper">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jlelse.blog/posts/email-messenger-delta-chat">Email is the messenger you should migrate to&lt;/a>
+&lt;a href="https://lobste.rs/s/4ydfpc/email_is_messenger_you_should_migrate">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sin-ack.github.io/posts/a-tour-of-self/">A tour of Self&lt;/a>
+&lt;a href="https://lobste.rs/s/hwuhhx/tour_self">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://amattn.com/p/the_sublime_developer_efficiency_of_elixir_phoenix_and_liveview_part_1.html">The Sublime Developer Efficiency of Elixir, Phoenix and LiveView&lt;/a>
+&lt;a href="https://lobste.rs/s/prqwpt/sublime_developer_efficiency_elixir">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tomscii.sig7.se/2020/12/A-totally-biased-comparison-of-Zutty">A totally biased comparison of Zutty (to some better-known X terminal emulators)&lt;/a>
+&lt;a href="https://lobste.rs/s/e08zjd/totally_biased_comparison_zutty_some">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.syncinc.so/dev-guide">The Complete Developer&amp;rsquo;s Guide to Airtable&lt;/a>
+&lt;a href="https://lobste.rs/s/63podc/complete_developer_s_guide_airtable">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://danso.ca/blog/happy-space/">happy-space: a whitespace-sensitive calculator&lt;/a>
+&lt;a href="https://lobste.rs/s/uwf49c/happy_space_whitespace_sensitive">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://bernsteinbear.com/blog/inline-caching/">Inline caching&lt;/a>
+&lt;a href="https://lobste.rs/s/shn694/inline_caching">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ideolalia.com/essays/composition-is-interpretation.html">Composition is Interpretation&lt;/a>
+&lt;a href="https://lobste.rs/s/h6upnu/composition_is_interpretation">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://course.raku.org/">A Complete Course of the Raku programming language&lt;/a>
+&lt;a href="https://lobste.rs/s/tceqp0/complete_course_raku_programming">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-01-14</title><link>https://frozen-lobster.rohanverma.net/posts/2021-01-14/</link><pubDate>Thu, 14 Jan 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-01-14/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://danso.ca/blog/happy-space/">happy-space: a whitespace-sensitive calculator&lt;/a>
 &lt;a href="https://lobste.rs/s/uwf49c/happy_space_whitespace_sensitive">(comments)&lt;/a>&lt;/p>
