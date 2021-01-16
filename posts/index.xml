@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 15 Jan 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-01-15</title><link>https://frozen-lobster.rohanverma.net/posts/2021-01-15/</link><pubDate>Fri, 15 Jan 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-01-15/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 16 Jan 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-01-16</title><link>https://frozen-lobster.rohanverma.net/posts/2021-01-16/</link><pubDate>Sat, 16 Jan 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-01-16/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://andregarzia.com/2021/01/lua-a-misunderstood-language.html">Lua, a misunderstood language&lt;/a>
+&lt;a href="https://lobste.rs/s/novtvd/lua_misunderstood_language">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://danielbmarkham.com/code-budgets/">Code Budgets&lt;/a>
+&lt;a href="https://lobste.rs/s/skmsqg/code_budgets">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sin-ack.github.io/posts/a-tour-of-self/">A tour of Self&lt;/a>
+&lt;a href="https://lobste.rs/s/hwuhhx/tour_self">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://christine.website/blog/site-update-rss-bandwidth-2021-01-14">RSS Bandwidth Fixes&lt;/a>
+&lt;a href="https://lobste.rs/s/m2kawl/rss_bandwidth_fixes">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://hangar.tech/posts/our-dsq/">Our Dumb Security Questionnaire&lt;/a>
+&lt;a href="https://lobste.rs/s/tmqmud/our_dumb_security_questionnaire">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://anderstrier.dk/2021/01/11/my-isp-is-killing-my-idle-ssh-sessions-yours-might-be-too/">My ISP Is Killing My Idle SSH Sessions. Yours Might Be Too&lt;/a>
+&lt;a href="https://lobste.rs/s/kpnj2r/my_isp_is_killing_my_idle_ssh_sessions">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://macwright.com/2021/01/15/rust.html">Rust is a hard way to make a web API&lt;/a>
+&lt;a href="https://lobste.rs/s/275ihk/rust_is_hard_way_make_web_api">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thedorkweb.substack.com/p/a-week-with-plan-9">A Week With Plan 9&lt;/a>
+&lt;a href="https://lobste.rs/s/2tvtwp/week_with_plan_9">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jlelse.blog/posts/email-messenger-delta-chat">Email is the messenger you should migrate to&lt;/a>
+&lt;a href="https://lobste.rs/s/4ydfpc/email_is_messenger_you_should_migrate">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://interconnected.blog/some-bearish-thoughts-on-risc-v/">Some Bearish Thoughts on RISC-V&lt;/a>
+&lt;a href="https://lobste.rs/s/ltxucv/some_bearish_thoughts_on_risc_v">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-01-15</title><link>https://frozen-lobster.rohanverma.net/posts/2021-01-15/</link><pubDate>Fri, 15 Jan 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-01-15/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="http://boris-marinov.github.io/if/">Structured programming: how to write proper if statements&lt;/a>
 &lt;a href="https://lobste.rs/s/z17zyg/structured_programming_how_write_proper">(comments)&lt;/a>&lt;/p>
