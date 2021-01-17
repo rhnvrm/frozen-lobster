@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 16 Jan 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-01-16</title><link>https://frozen-lobster.rohanverma.net/posts/2021-01-16/</link><pubDate>Sat, 16 Jan 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-01-16/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 17 Jan 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-01-17</title><link>https://frozen-lobster.rohanverma.net/posts/2021-01-17/</link><pubDate>Sun, 17 Jan 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-01-17/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.jwz.org/blog/2021/01/i-told-you-so-2021-edition/">I told you so, 2021 edition&lt;/a>
+&lt;a href="https://lobste.rs/s/oe5uhl/i_told_you_so_2021_edition">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://andregarzia.com/2021/01/lua-a-misunderstood-language.html">Lua, a misunderstood language&lt;/a>
+&lt;a href="https://lobste.rs/s/novtvd/lua_misunderstood_language">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://timmmm.github.io/curl-vulnerabilities-rust/">Would Rust secure cURL?&lt;/a>
+&lt;a href="https://lobste.rs/s/4cpmgh/would_rust_secure_curl">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sin-ack.github.io/posts/self-transporter/">Self Transporter: how to share your Self code&lt;/a>
+&lt;a href="https://lobste.rs/s/fbv7hi/self_transporter_how_share_your_self_code">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://macwright.com/2021/01/15/rust.html">Rust is a hard way to make a web API&lt;/a>
+&lt;a href="https://lobste.rs/s/275ihk/rust_is_hard_way_make_web_api">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you working on this weekend?&lt;/a>
+&lt;a href="https://lobste.rs/s/rfp33d/what_are_you_working_on_this_weekend">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ueokande.github.io/go-slice-tricks/">Go Slice Tricks Cheat Sheet&lt;/a>
+&lt;a href="https://lobste.rs/s/pnd61p/go_slice_tricks_cheat_sheet">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.dragonflydigest.com/2021/01/15/25364.html">Chat without servers&lt;/a>
+&lt;a href="https://lobste.rs/s/uem4jv/chat_without_servers">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pijul.org/posts/2021-01-15-sanakirja-locks/">Cross-process locks in Rust (for the Sanakirja database engine)&lt;/a>
+&lt;a href="https://lobste.rs/s/nabxaq/cross_process_locks_rust_for_sanakirja">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=p0-EUMHxNNk">The IBM z15 High-Frequency Mainframe Branch Predictor&lt;/a>
+&lt;a href="https://lobste.rs/s/8nc7r7/ibm_z15_high_frequency_mainframe_branch">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-01-16</title><link>https://frozen-lobster.rohanverma.net/posts/2021-01-16/</link><pubDate>Sat, 16 Jan 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-01-16/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://andregarzia.com/2021/01/lua-a-misunderstood-language.html">Lua, a misunderstood language&lt;/a>
 &lt;a href="https://lobste.rs/s/novtvd/lua_misunderstood_language">(comments)&lt;/a>&lt;/p>
