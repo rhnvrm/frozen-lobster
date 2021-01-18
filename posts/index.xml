@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 17 Jan 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-01-17</title><link>https://frozen-lobster.rohanverma.net/posts/2021-01-17/</link><pubDate>Sun, 17 Jan 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-01-17/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 18 Jan 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-01-18</title><link>https://frozen-lobster.rohanverma.net/posts/2021-01-18/</link><pubDate>Mon, 18 Jan 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-01-18/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://icyphox.sh/blog/signal/">We can do better than Signal&lt;/a>
+&lt;a href="https://lobste.rs/s/ypzg4z/we_can_do_better_than_signal">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://0x46.net/thoughts/2019/04/09/use-firefox/">It is your moral obligation to use Firefox (2019)&lt;/a>
+&lt;a href="https://lobste.rs/s/1qncez/it_is_your_moral_obligation_use_firefox">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.murilopereira.com/the-values-of-emacs-the-neovim-revolution-and-the-vscode-gorilla/">The values of Emacs, the Neovim revolution, and the VSCode gorilla&lt;/a>
+&lt;a href="https://lobste.rs/s/5zs0ge/values_emacs_neovim_revolution_vscode">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://maya.land/monologues/2021/01/11/the-tragedy-of-gemini.html">the tragedy of gemini&lt;/a>
+&lt;a href="https://lobste.rs/s/fssseb/tragedy_gemini">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/pschanely/CrossHair/blob/master/doc/diff_behavior.md">Diff the behavior of two python functions&lt;/a>
+&lt;a href="https://lobste.rs/s/gijoie/diff_behavior_two_python_functions">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://timmmm.github.io/curl-vulnerabilities-rust/">Would Rust secure cURL?&lt;/a>
+&lt;a href="https://lobste.rs/s/4cpmgh/would_rust_secure_curl">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sgolem.com/blog/neat-simple-neuroevolution-framework-in-rust">NEAT: Simple neuroevolution framework, in Rust&lt;/a>
+&lt;a href="https://lobste.rs/s/h9lsc5/neat_simple_neuroevolution_framework">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sgx101.gitbook.io/sgx101/">SGX 101&lt;/a>
+&lt;a href="https://lobste.rs/s/sc8omz/sgx_101">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://rpeszek.github.io/posts/2021-01-16-maybe-harmful.html">Maybe Considered Harmful&lt;/a>
+&lt;a href="https://lobste.rs/s/p5xyhq/maybe_considered_harmful">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.freebsd.org/news/status/report-2020-10-2020-12.html">FreeBSD Quarterly Status Report 2020 Q4&lt;/a>
+&lt;a href="https://lobste.rs/s/lj06vf/freebsd_quarterly_status_report_2020_q4">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-01-17</title><link>https://frozen-lobster.rohanverma.net/posts/2021-01-17/</link><pubDate>Sun, 17 Jan 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-01-17/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://www.jwz.org/blog/2021/01/i-told-you-so-2021-edition/">I told you so, 2021 edition&lt;/a>
 &lt;a href="https://lobste.rs/s/oe5uhl/i_told_you_so_2021_edition">(comments)&lt;/a>&lt;/p>
