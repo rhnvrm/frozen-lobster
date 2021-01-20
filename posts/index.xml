@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 19 Jan 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-01-19</title><link>https://frozen-lobster.rohanverma.net/posts/2021-01-19/</link><pubDate>Tue, 19 Jan 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-01-19/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 20 Jan 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-01-20</title><link>https://frozen-lobster.rohanverma.net/posts/2021-01-20/</link><pubDate>Wed, 20 Jan 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-01-20/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="">2021 Mod Applications&lt;/a>
+&lt;a href="https://lobste.rs/s/mox75k/2021_mod_applications">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tailscale.com/blog/nixos-minecraft/">Tailscale on NixOS: A New Minecraft Server in Ten Minutes&lt;/a>
+&lt;a href="https://lobste.rs/s/yppnts/tailscale_on_nixos_new_minecraft_server">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.srcbeat.com/2021/01/golang-ioutil-deprecated/">Go&amp;rsquo;s ioutil package to be deprecated in 1.16&lt;/a>
+&lt;a href="https://lobste.rs/s/6tuifc/go_s_ioutil_package_be_deprecated_1_16">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lists.sr.ht/~technomancy/fennel/%3C878s8px0sl.fsf%40whirlwind%3E">Fennel 0.8.0 released&lt;/a>
+&lt;a href="https://lobste.rs/s/wp9p0c/fennel_0_8_0_released">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/golang/go/issues/43123">Go proposal: types that can only be created by defining package&lt;/a>
+&lt;a href="https://lobste.rs/s/k09lee/go_proposal_types_can_only_be_created_by">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://matteoguadrini.github.io/posts/linux-and-powershell/">Linux and Powershell&lt;/a>
+&lt;a href="https://lobste.rs/s/p3obxh/linux_powershell">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://hisham.hm/2020/12/18/user-power-not-power-users-htop-and-its-design-philosophy/">User power, not power users: htop and its design philosophy&lt;/a>
+&lt;a href="https://lobste.rs/s/s2q1ob/user_power_not_power_users_htop_its_design">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://drewdevault.com/2020/12/18/godocs.io.html">godocs.io is now available&lt;/a>
+&lt;a href="https://lobste.rs/s/9xtfkc/godocs_io_is_now_available">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://drewdevault.com/2021/01/19/Spooky-code-at-a-distance.html">Spooky action at a distance&lt;/a>
+&lt;a href="https://lobste.rs/s/yqsvh1/spooky_action_at_distance">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://vulcanhammer.info/2017/07/14/a-few-words-about-the-telex/">A Few Words About the Telex&lt;/a>
+&lt;a href="https://lobste.rs/s/fmdazs/few_words_about_telex">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-01-19</title><link>https://frozen-lobster.rohanverma.net/posts/2021-01-19/</link><pubDate>Tue, 19 Jan 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-01-19/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="">2021 Mod Applications&lt;/a>
 &lt;a href="https://lobste.rs/s/mox75k/2021_mod_applications">(comments)&lt;/a>&lt;/p>
