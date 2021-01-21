@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 20 Jan 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-01-20</title><link>https://frozen-lobster.rohanverma.net/posts/2021-01-20/</link><pubDate>Wed, 20 Jan 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-01-20/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 21 Jan 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-01-21</title><link>https://frozen-lobster.rohanverma.net/posts/2021-01-21/</link><pubDate>Thu, 21 Jan 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-01-21/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/treenotation/dumbdown">Dumbdown - the dumb alternative to markdown, is now a real project&lt;/a>
+&lt;a href="https://lobste.rs/s/ajxrpm/dumbdown_dumb_alternative_markdown_is">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://spyware.neocities.org/articles/browsers.html">Privacy Comparison of Web Browsers&lt;/a>
+&lt;a href="https://lobste.rs/s/gt5wqi/privacy_comparison_web_browsers">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://dev.to/davidedelpapa/rust-gui-introduction-a-k-a-the-state-of-rust-gui-libraries-as-of-january-2021-40gl">Rust GUI: Introduction, a.k.a. the state of Rust GUI libraries (As of January 2021)&lt;/a>
+&lt;a href="https://lobste.rs/s/u3asmj/rust_gui_introduction_k_state_rust_gui">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tailscale.com/blog/nixos-minecraft/">Tailscale on NixOS: A New Minecraft Server in Ten Minutes&lt;/a>
+&lt;a href="https://lobste.rs/s/yppnts/tailscale_on_nixos_new_minecraft_server">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://hacks.mozilla.org/2021/01/porting-firefox-to-apple-silicon/">Porting Firefox to Apple Silicon&lt;/a>
+&lt;a href="https://lobste.rs/s/nrtvfn/porting_firefox_apple_silicon">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://christine.website/blog/nixos-encrypted-secrets-2021-01-20">Encrypted Secrets with NixOS&lt;/a>
+&lt;a href="https://lobste.rs/s/gur8yy/encrypted_secrets_with_nixos">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ozataman.medium.com/choosing-haskell-isnt-a-stand-in-for-good-software-design-7d893882f963">Choosing Haskell isn’t a stand-in for good software design&lt;/a>
+&lt;a href="https://lobste.rs/s/y70ien/choosing_haskell_isn_t_stand_for_good">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jessitron.com/2021/01/18/when-costs-are-nonlinear-keep-it-small/">When costs are nonlinear, keep it small&lt;/a>
+&lt;a href="https://lobste.rs/s/l94ma2/when_costs_are_nonlinear_keep_it_small">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">2021 Mod Applications&lt;/a>
+&lt;a href="https://lobste.rs/s/mox75k/2021_mod_applications">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://github.com/bwasti/mebm">Browser-based Video Editor in ~1k Lines of Vanilla Javascript&lt;/a>
+&lt;a href="https://lobste.rs/s/9xnjt1/browser_based_video_editor_1k_lines">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-01-20</title><link>https://frozen-lobster.rohanverma.net/posts/2021-01-20/</link><pubDate>Wed, 20 Jan 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-01-20/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="">2021 Mod Applications&lt;/a>
 &lt;a href="https://lobste.rs/s/mox75k/2021_mod_applications">(comments)&lt;/a>&lt;/p>
