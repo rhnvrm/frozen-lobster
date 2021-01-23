@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 22 Jan 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-01-22</title><link>https://frozen-lobster.rohanverma.net/posts/2021-01-22/</link><pubDate>Fri, 22 Jan 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-01-22/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 23 Jan 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-01-23</title><link>https://frozen-lobster.rohanverma.net/posts/2021-01-23/</link><pubDate>Sat, 23 Jan 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-01-23/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://boris-marinov.github.io/category-theory-illustrated/03_monoid/">Category Theory Illustrated - Monoids&lt;/a>
+&lt;a href="https://lobste.rs/s/bc11fo/category_theory_illustrated_monoids">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://drewdevault.com/2020/06/12/Can-we-talk-about-client-side-certs.html">Can we talk about client-side certificates?&lt;/a>
+&lt;a href="https://lobste.rs/s/tf40s4/can_we_talk_about_client_side">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://scattered-thoughts.net/writing/why-isnt-differential-dataflow-more-popular/">Why isn&amp;rsquo;t differential dataflow more popular?&lt;/a>
+&lt;a href="https://lobste.rs/s/7zeb3x/why_isn_t_differential_dataflow_more">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.reaktor.com/blog/why-ive-tracked-every-single-piece-of-clothing-ive-worn-for-three-years/">Why I’ve tracked every single piece of clothing I’ve worn for three years&lt;/a>
+&lt;a href="https://lobste.rs/s/gemxxr/why_i_ve_tracked_every_single_piece">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/tio/tio">tio, A simple TTY terminal I/O application&lt;/a>
+&lt;a href="https://lobste.rs/s/vmffh4/tio_simple_tty_terminal_i_o_application">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://dev.to/jwoudenberg/don-t-dry-care-3he9">Don&amp;rsquo;t DRY, CARE&lt;/a>
+&lt;a href="https://lobste.rs/s/vmclya/don_t_dry_care">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this weekend?&lt;/a>
+&lt;a href="https://lobste.rs/s/682ojv/what_are_you_doing_this_weekend">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://writing.kemitchell.com/2021/01/21/Open-Source-Discrimination.html">Open Source is Discrimination&lt;/a>
+&lt;a href="https://lobste.rs/s/btwamx/open_source_is_discrimination">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://aws.amazon.com/blogs/opensource/stepping-up-for-a-truly-open-source-elasticsearch/">AWS blog: Stepping up for a truly open source Elasticsearch&lt;/a>
+&lt;a href="https://lobste.rs/s/nuibyq/aws_blog_stepping_up_for_truly_open_source">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://corellium.com/blog/linux-m1">How We Ported Linux to the M1&lt;/a>
+&lt;a href="https://lobste.rs/s/dmvwoo/how_we_ported_linux_m1">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-01-22</title><link>https://frozen-lobster.rohanverma.net/posts/2021-01-22/</link><pubDate>Fri, 22 Jan 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-01-22/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://soatok.blog/2021/01/20/please-stop-encrypting-with-rsa-directly/">Please Stop Encrypting with RSA Directly&lt;/a>
 &lt;a href="https://lobste.rs/s/70fa3f/please_stop_encrypting_with_rsa_directly">(comments)&lt;/a>&lt;/p>
