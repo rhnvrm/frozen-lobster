@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 23 Jan 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-01-23</title><link>https://frozen-lobster.rohanverma.net/posts/2021-01-23/</link><pubDate>Sat, 23 Jan 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-01-23/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 24 Jan 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-01-24</title><link>https://frozen-lobster.rohanverma.net/posts/2021-01-24/</link><pubDate>Sun, 24 Jan 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-01-24/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://figbert.com/posts/remarkable-tablet/">Quite the reMarkable Device&lt;/a>
+&lt;a href="https://lobste.rs/s/cdhgjg/quite_remarkable_device">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What do you use for password management?&lt;/a>
+&lt;a href="https://lobste.rs/s/emqfkc/what_do_you_use_for_password_management">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What do you use to share URLs, photos, or random bits of text between devices?&lt;/a>
+&lt;a href="https://lobste.rs/s/knwoju/what_do_you_use_share_urls_photos_random">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jvns.ca/blog/2021/01/23/firecracker--start-a-vm-in-less-than-a-second/">Firecracker: start a VM in less than a second&lt;/a>
+&lt;a href="https://lobste.rs/s/ylmbuk/firecracker_start_vm_less_than_second">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.legacy.com/us/obituaries/scnow/name/brad-cox-obituary?pid=197454225">Brad Cox (creator of Objective-C) has died&lt;/a>
+&lt;a href="https://lobste.rs/s/nzn7i3/brad_cox_creator_objective_c_has_died">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.jmdawson.co.uk/i-bought-200-raspberry-pi-model-bs-and-im-going-to-fix-them-part-1/">I bought 200+ Raspberry Pi Model B&amp;rsquo;s and I&amp;rsquo;m going to fix them! Part 1&lt;/a>
+&lt;a href="https://lobste.rs/s/mxisvr/i_bought_200_raspberry_pi_model_b_s_i_m_going">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://len.falken.ink/web/perceived-relations-between-gopher-gemini-and-http.txt">Perceived relations between Gopher, Gemini, and HTTP&lt;/a>
+&lt;a href="https://lobste.rs/s/putuek/perceived_relations_between_gopher">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://brunocalza.me/but-how-exactly-databases-use-mmap/">But how, exactly, databases use mmap?&lt;/a>
+&lt;a href="https://lobste.rs/s/9ukket/how_exactly_databases_use_mmap">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.fluentcpp.com/2021/01/22/how-to-pass-a-variadic-pack-as-a-first-argument-of-a-function-in-cpp/">How to Pass a Variadic Pack as a First Argument of a Function in C++&lt;/a>
+&lt;a href="https://lobste.rs/s/2lxeln/how_pass_variadic_pack_as_first_argument">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/sagittaros/terraform-k3s-private-cloud">Deploy full fledged K3s private clusters with Terraform&lt;/a>
+&lt;a href="https://lobste.rs/s/qfq9pw/deploy_full_fledged_k3s_private_clusters">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-01-23</title><link>https://frozen-lobster.rohanverma.net/posts/2021-01-23/</link><pubDate>Sat, 23 Jan 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-01-23/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://boris-marinov.github.io/category-theory-illustrated/03_monoid/">Category Theory Illustrated - Monoids&lt;/a>
 &lt;a href="https://lobste.rs/s/bc11fo/category_theory_illustrated_monoids">(comments)&lt;/a>&lt;/p>
