@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 29 Jan 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-01-29</title><link>https://frozen-lobster.rohanverma.net/posts/2021-01-29/</link><pubDate>Fri, 29 Jan 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-01-29/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 30 Jan 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-01-30</title><link>https://frozen-lobster.rohanverma.net/posts/2021-01-30/</link><pubDate>Sat, 30 Jan 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-01-30/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://benhoyt.com/writings/go-readdir/">Coming in Go 1.16: ReadDir and DirEntry&lt;/a>
+&lt;a href="https://lobste.rs/s/q1iznj/coming_go_1_16_readdir_direntry">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://benburkert.com/posts/on-go2-generics/">On Go 2 Generics&lt;/a>
+&lt;a href="https://lobste.rs/s/udqdru/on_go_2_generics">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://jehanne.io/pages/overview.html">Jehanne - a simple operating system&lt;/a>
+&lt;a href="https://lobste.rs/s/vdgemd/jehanne_simple_operating_system">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://uxdesign.cc/uniwidth-typefaces-for-interface-design-b6e8078dc0f7">Uniwidth typefaces for interface design&lt;/a>
+&lt;a href="https://lobste.rs/s/pnjjya/uniwidth_typefaces_for_interface_design">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tanelpoder.com/posts/11m-iops-with-10-ssds-on-amd-threadripper-pro-workstation/">Achieving 11M IOPS &amp;amp; 66 GB/s IO on a Single ThreadRipper Workstation&lt;/a>
+&lt;a href="https://lobste.rs/s/9q6rnb/achieving_11m_iops_66_gb_s_io_on_single">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://doc.replicated.cc/%5EWiki/strictmark.sm">StrictMark: rational Markdown&lt;/a>
+&lt;a href="https://lobste.rs/s/lbqaev/strictmark_rational_markdown">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.recursive.design/">Recursive Sans &amp;amp; Mono: A highly-flexible variable font&lt;/a>
+&lt;a href="https://lobste.rs/s/s3n4xd/recursive_sans_mono_highly_flexible">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lists.gnupg.org/pipermail/gnupg-announce/2021q1/000455.html">Stop using Libgcrypt 1.9.0&lt;/a>
+&lt;a href="https://lobste.rs/s/qcg2d8/stop_using_libgcrypt_1_9_0">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this weekend?&lt;/a>
+&lt;a href="https://lobste.rs/s/ebt6xx/what_are_you_doing_this_weekend">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://creativegood.com/blog/21/losing-faith-in-ux.html">Why I&amp;rsquo;m losing faith in UX&lt;/a>
+&lt;a href="https://lobste.rs/s/cg2pu3/why_i_m_losing_faith_ux">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-01-29</title><link>https://frozen-lobster.rohanverma.net/posts/2021-01-29/</link><pubDate>Fri, 29 Jan 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-01-29/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://daniel.haxx.se/blog/2021/01/28/what-if-github-is-the-devil/">Why curl uses GitHub&lt;/a>
 &lt;a href="https://lobste.rs/s/bfxd28/why_curl_uses_github">(comments)&lt;/a>&lt;/p>
