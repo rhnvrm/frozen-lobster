@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 31 Jan 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-01-31</title><link>https://frozen-lobster.rohanverma.net/posts/2021-01-31/</link><pubDate>Sun, 31 Jan 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-01-31/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 01 Feb 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-02-01</title><link>https://frozen-lobster.rohanverma.net/posts/2021-02-01/</link><pubDate>Mon, 01 Feb 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-02-01/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://christine.website/blog/identity-model-software-2021-01-31">A Model for Identity in Software&lt;/a>
+&lt;a href="https://lobste.rs/s/ikgrzb/model_for_identity_software">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://mendhekar.medium.com/why-i-still-lisp-and-you-should-too-18a2ae36bd8">Why I still Lisp (and you should too!)&lt;/a>
+&lt;a href="https://lobste.rs/s/x6gwmv/why_i_still_lisp_you_should_too">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/microsoft/Extensible-Storage-Engine">Microsoft open sources database library used in Exchange and Windows&lt;/a>
+&lt;a href="https://lobste.rs/s/yizf7e/microsoft_open_sources_database_library">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://hackaday.com/2021/01/30/nissan-gives-up-root-shell-thanks-to-hacked-usb-drive/">Nissan Gives Up Root Shell Thanks To Hacked USB Drive&lt;/a>
+&lt;a href="https://lobste.rs/s/8uui6t/nissan_gives_up_root_shell_thanks_hacked">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gist.github.com/zeux/3ce4fcc3a43072b4315abde95319ecb6">How does clang 2.7 hold up in 2021?&lt;/a>
+&lt;a href="https://lobste.rs/s/s36cvv/how_does_clang_2_7_hold_up_2021">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.solipsys.co.uk/new/MoreMentalModelMissteps.html?UA31LO">More Mental Model Missteps&lt;/a>
+&lt;a href="https://lobste.rs/s/elnqee/more_mental_model_missteps">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sequoia-pgp.org/">Sequoia PGP&lt;/a>
+&lt;a href="https://lobste.rs/s/mf23pa/sequoia_pgp">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/lf94/png2linetext">I couldn&amp;rsquo;t find any &amp;ldquo;image to textual line art&amp;rdquo; programs, so I made one&lt;/a>
+&lt;a href="https://lobste.rs/s/ddt0go/i_couldn_t_find_any_image_textual_line_art">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://davmac.wordpress.com/2021/01/31/hammers-and-nails-and-operator-overloads/">Hammers and nails, and operator overloads&lt;/a>
+&lt;a href="https://lobste.rs/s/kfsoym/hammers_nails_operator_overloads">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://forth.works/doc.html">RETRO: a Modern, Pragmatic Forth&lt;/a>
+&lt;a href="https://lobste.rs/s/36kr6y/retro_modern_pragmatic_forth">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-01-31</title><link>https://frozen-lobster.rohanverma.net/posts/2021-01-31/</link><pubDate>Sun, 31 Jan 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-01-31/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://element.io/blog/element-on-google-play-store/">Element on Google Play Store&lt;/a>
 &lt;a href="https://lobste.rs/s/y3dtgs/element_on_google_play_store">(comments)&lt;/a>&lt;/p>
