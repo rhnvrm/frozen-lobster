@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 01 Feb 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-02-01</title><link>https://frozen-lobster.rohanverma.net/posts/2021-02-01/</link><pubDate>Mon, 01 Feb 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-02-01/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 02 Feb 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-02-02</title><link>https://frozen-lobster.rohanverma.net/posts/2021-02-02/</link><pubDate>Tue, 02 Feb 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-02-02/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://hakibenita.com/postgresql-unused-index-size">The Unexpected Find That Freed 20GB of Unused Index Space in PostgreSQL&lt;/a>
+&lt;a href="https://lobste.rs/s/ypwxby/unexpected_find_freed_20gb_unused_index">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://qmacro.org/2021/02/01/do-less-and-do-it-better/">Do less and do it better&lt;/a>
+&lt;a href="https://lobste.rs/s/n1lgx7/do_less_do_it_better">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you self hosting? (2021)&lt;/a>
+&lt;a href="https://lobste.rs/s/p4edt5/what_are_you_self_hosting_2021">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this week?&lt;/a>
+&lt;a href="https://lobste.rs/s/ac7qur/what_are_you_doing_this_week">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sporks.space/2021/02/01/risc-v-isnt-as-interesting-as-you-think/">RISC-V isn&amp;rsquo;t as interesting as you think&lt;/a>
+&lt;a href="https://lobste.rs/s/wzdymn/risc_v_isn_t_as_interesting_as_you_think">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jlelse.blog/thoughts/2021/01/windows-os">Will Windows become Open Source?&lt;/a>
+&lt;a href="https://lobste.rs/s/cvvptf/will_windows_become_open_source">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://groups.google.com/g/cap-talk/c/e7eNJefLVfs/m/6vWv9-1dAwAJ">&amp;ldquo;Everything is an actor&amp;rdquo; implies that there is a category of actors&lt;/a>
+&lt;a href="https://lobste.rs/s/nyfkzt/everything_is_actor_implies_there_is">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb/">Why You Should Never Use MongoDB (2013)&lt;/a>
+&lt;a href="https://lobste.rs/s/xriq3g/why_you_should_never_use_mongodb_2013">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://christine.website/blog/identity-model-software-2021-01-31">A Model for Identity in Software&lt;/a>
+&lt;a href="https://lobste.rs/s/ikgrzb/model_for_identity_software">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.commandprompt.com/blog/null-characters-workarounds-arent-good-enough/">Null Characters: Workarounds Aren’t Good Enough&lt;/a>
+&lt;a href="https://lobste.rs/s/gxzmfv/null_characters_workarounds_aren_t_good">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-02-01</title><link>https://frozen-lobster.rohanverma.net/posts/2021-02-01/</link><pubDate>Mon, 01 Feb 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-02-01/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://christine.website/blog/identity-model-software-2021-01-31">A Model for Identity in Software&lt;/a>
 &lt;a href="https://lobste.rs/s/ikgrzb/model_for_identity_software">(comments)&lt;/a>&lt;/p>
