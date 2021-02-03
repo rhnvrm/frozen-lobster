@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 02 Feb 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-02-02</title><link>https://frozen-lobster.rohanverma.net/posts/2021-02-02/</link><pubDate>Tue, 02 Feb 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-02-02/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 03 Feb 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-02-03</title><link>https://frozen-lobster.rohanverma.net/posts/2021-02-03/</link><pubDate>Wed, 03 Feb 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-02-03/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://arxiv.org/pdf/2011.07966.pdf">A Modern Compiler for the French Tax Code&lt;/a>
+&lt;a href="https://lobste.rs/s/nlcstu/modern_compiler_for_french_tax_code">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://medium.com/@shemnon/is-a-git-repository-a-blockchain-35cb1cd2c491">Is a Git Repository a Blockchain? (2016)&lt;/a>
+&lt;a href="https://lobste.rs/s/3gddhi/is_git_repository_blockchain_2016">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.murilopereira.com/emacs-from-catching-up-to-getting-ahead/">Emacs: from catching up to getting ahead&lt;/a>
+&lt;a href="https://lobste.rs/s/mb25tc/emacs_from_catching_up_getting_ahead">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pawelurbanek.com/elixir-phoenix-uuid">UUID Primary Key in Elixir Phoenix with PostgreSQL and Ecto&lt;/a>
+&lt;a href="https://lobste.rs/s/67mofs/uuid_primary_key_elixir_phoenix_with">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://healeycodes.com/generating-text-with-markov-chains/">Generating Text With Markov Chains&lt;/a>
+&lt;a href="https://lobste.rs/s/1ehc9u/generating_text_with_markov_chains">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://dev.to/progrium/use-mac-apis-and-build-mac-apps-with-go-ap6">Use Mac APIs and build Mac apps with Go&lt;/a>
+&lt;a href="https://lobste.rs/s/myr1ez/use_mac_apis_build_mac_apps_with_go">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lars.ingebrigtsen.no/2021/01/13/the-only-m1-benchmark-that-matters/">The Only M1 Benchmark That Matters&lt;/a>
+&lt;a href="https://lobste.rs/s/zxxz9q/only_m1_benchmark_matters">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://notes.eatonphil.com/books-developers-should-read.html">Four books professional developers should read (and a few you don&amp;rsquo;t need to)&lt;/a>
+&lt;a href="https://lobste.rs/s/a95uiy/four_books_professional_developers">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://utcc.utoronto.ca/~cks/space/blog/programming/Go116OpenBSDUsesLibc">Go 1.16 will make system calls through libc on OpenBSD&lt;/a>
+&lt;a href="https://lobste.rs/s/ngwubf/go_1_16_will_make_system_calls_through_libc">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.auxon.io/2021/02/01/effective-property-based-testing/">Effective Property-Based Testing&lt;/a>
+&lt;a href="https://lobste.rs/s/2c3tnr/effective_property_based_testing">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-02-02</title><link>https://frozen-lobster.rohanverma.net/posts/2021-02-02/</link><pubDate>Tue, 02 Feb 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-02-02/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://hakibenita.com/postgresql-unused-index-size">The Unexpected Find That Freed 20GB of Unused Index Space in PostgreSQL&lt;/a>
 &lt;a href="https://lobste.rs/s/ypwxby/unexpected_find_freed_20gb_unused_index">(comments)&lt;/a>&lt;/p>
