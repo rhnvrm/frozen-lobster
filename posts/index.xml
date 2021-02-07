@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 06 Feb 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-02-06</title><link>https://frozen-lobster.rohanverma.net/posts/2021-02-06/</link><pubDate>Sat, 06 Feb 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-02-06/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 07 Feb 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-02-07</title><link>https://frozen-lobster.rohanverma.net/posts/2021-02-07/</link><pubDate>Sun, 07 Feb 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-02-07/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://matklad.github.io//2021/02/06/ARCHITECTURE.md.html">ARCHITECTURE.md&lt;/a>
+&lt;a href="https://lobste.rs/s/tcqizo/architecture_md">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://christine.website/blog/my-wireguard-setup-2021-02-06">My Automagic NixOS Wireguard Setup&lt;/a>
+&lt;a href="https://lobste.rs/s/eajbhx/my_automagic_nixos_wireguard_setup">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.datagubbe.se/endofciv/">Is abstraction killing civilization?&lt;/a>
+&lt;a href="https://lobste.rs/s/z78h6s/is_abstraction_killing_civilization">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://opensource.stackexchange.com/questions/11251/is-license-compatibility-a-partial-order">Is license compatibility a partial order?&lt;/a>
+&lt;a href="https://lobste.rs/s/6loqzq/is_license_compatibility_partial_order">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://danielbmarkham.com/fun-with-an-interview-question/">Fun with a Functional Programming Interview Question&lt;/a>
+&lt;a href="https://lobste.rs/s/okvawh/fun_with_functional_programming">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://ditaa.sourceforge.net/">ditaa: DIagrams Through Ascii Art&lt;/a>
+&lt;a href="https://lobste.rs/s/pkbhum/ditaa_diagrams_through_ascii_art">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.haskellforall.com/2021/02/folds-are-constructor-substitution.html">Folds are constructor substitution&lt;/a>
+&lt;a href="https://lobste.rs/s/xc4ea2/folds_are_constructor_substitution">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.zdsmith.com/notes/creativity.html">creativity&lt;/a>
+&lt;a href="https://lobste.rs/s/jqgdsz/creativity">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://bernsteinbear.com/blog/inline-caching-quickening/">Inline caching: quickening&lt;/a>
+&lt;a href="https://lobste.rs/s/egfbsy/inline_caching_quickening">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://takenobu-hs.github.io/downloads/haskell_ghc_reading_guide.pdf">GHC 9.0 Reading Guide&lt;/a>
+&lt;a href="https://lobste.rs/s/7zlqnm/ghc_9_0_reading_guide">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-02-06</title><link>https://frozen-lobster.rohanverma.net/posts/2021-02-06/</link><pubDate>Sat, 06 Feb 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-02-06/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://pijul.org/posts/2021-02-06-rethinking-sanakirja/">Rethinking Sanakirja, a Rust database engine with fast clones&lt;/a>
 &lt;a href="https://lobste.rs/s/y556cm/rethinking_sanakirja_rust_database">(comments)&lt;/a>&lt;/p>
