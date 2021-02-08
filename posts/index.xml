@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 07 Feb 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-02-07</title><link>https://frozen-lobster.rohanverma.net/posts/2021-02-07/</link><pubDate>Sun, 07 Feb 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-02-07/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 08 Feb 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-02-08</title><link>https://frozen-lobster.rohanverma.net/posts/2021-02-08/</link><pubDate>Mon, 08 Feb 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-02-08/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://venam.nixers.net/blog/unix/2021/02/07/audio-stack.html">Making Sense of The Audio Stack On Unix&lt;/a>
+&lt;a href="https://lobste.rs/s/rsvg4s/making_sense_audio_stack_on_unix">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://shithub.us">Shithub: Public git hosting on 9front&lt;/a>
+&lt;a href="https://lobste.rs/s/a9zjb2/shithub_public_git_hosting_on_9front">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">Please add a &lt;code>nix&lt;/code> tag&lt;/a>
+&lt;a href="https://lobste.rs/s/26bnoc/please_add_nix_tag">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://icyphox.sh/blog/nvim-lua">Configuring Neovim using Lua&lt;/a>
+&lt;a href="https://lobste.rs/s/wovfog/configuring_neovim_using_lua">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://matklad.github.io//2021/02/06/ARCHITECTURE.md.html">ARCHITECTURE.md&lt;/a>
+&lt;a href="https://lobste.rs/s/tcqizo/architecture_md">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.pcworld.com/article/3606592/intel-benchmarks-say-apples-m1-isnt-faster.html">Intel benchmarks say Apple&amp;rsquo;s M1 isn&amp;rsquo;t faster: Reality checked claims&lt;/a>
+&lt;a href="https://lobste.rs/s/yv2rgd/intel_benchmarks_say_apple_s_m1_isn_t">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.haiku-os.org/blog/pulkomandy/2021-02-06-haiku_activity_report_january_2021/">Haiku activity report - January 2021&lt;/a>
+&lt;a href="https://lobste.rs/s/vj9x40/haiku_activity_report_january_2021">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://critter.blog/2021/02/03/snowflake-retros/">Snowflake retros&lt;/a>
+&lt;a href="https://lobste.rs/s/be5ary/snowflake_retros">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/treenotation/jtree/tree/master/langs/stamp">Stamp: turn a whole folder into a plain text file and expand a plain text file into a folder&lt;/a>
+&lt;a href="https://lobste.rs/s/con1pd/stamp_turn_whole_folder_into_plain_text">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/cisco/systemf">cisco/systemf&lt;/a>
+&lt;a href="https://lobste.rs/s/oc38dh/cisco_systemf">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-02-07</title><link>https://frozen-lobster.rohanverma.net/posts/2021-02-07/</link><pubDate>Sun, 07 Feb 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-02-07/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://matklad.github.io//2021/02/06/ARCHITECTURE.md.html">ARCHITECTURE.md&lt;/a>
 &lt;a href="https://lobste.rs/s/tcqizo/architecture_md">(comments)&lt;/a>&lt;/p>
