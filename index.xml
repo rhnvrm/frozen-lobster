@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 08 Feb 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-02-08</title><link>https://frozen-lobster.rohanverma.net/posts/2021-02-08/</link><pubDate>Mon, 08 Feb 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-02-08/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 09 Feb 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-02-09</title><link>https://frozen-lobster.rohanverma.net/posts/2021-02-09/</link><pubDate>Tue, 09 Feb 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-02-09/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://foundation.rust-lang.org/posts/2021-02-08-hello-world/">Rust Foundation - Hello World&lt;/a>
+&lt;a href="https://lobste.rs/s/akbqap/rust_foundation_hello_world">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/pyca/cryptography/issues/5771">Dependency on rust removes support for a number of platforms · Issue #5771 · pyca/cryptography&lt;/a>
+&lt;a href="https://lobste.rs/s/f4chm2/dependency_on_rust_removes_support_for">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.noa-s.org/nano.html">an atonement of nano&lt;/a>
+&lt;a href="https://lobste.rs/s/ehf1v3/atonement_nano">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pawelurbanek.com/cloudflare-free-plan">Intermittent 503s on Cloudflare&amp;rsquo;s Free Plan&lt;/a>
+&lt;a href="https://lobste.rs/s/toxu4r/intermittent_503s_on_cloudflare_s_free">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.theregister.com/2021/02/04/dna_testing_software/">Accused murderer wins right to check source code of DNA testing kit used by police&lt;/a>
+&lt;a href="https://lobste.rs/s/77jtrz/accused_murderer_wins_right_check_source">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pythonspeed.com/articles/faster-python/">All Pythons are slow, but some are faster than others&lt;/a>
+&lt;a href="https://lobste.rs/s/0bf8es/all_pythons_are_slow_some_are_faster_than">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://shithub.us">Shithub: Public git hosting on 9front&lt;/a>
+&lt;a href="https://lobste.rs/s/a9zjb2/shithub_public_git_hosting_on_9front">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://liam-on-linux.livejournal.com/77065.html">Starting Over: A FOSS proposal for a new type of OS for a new type of computer&lt;/a>
+&lt;a href="https://lobste.rs/s/rqhhvl/starting_over_foss_proposal_for_new_type">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://marcin.juszkiewicz.com.pl/2021/02/08/fosdem-2021-was-the-best-online-event-ever/">FOSDEM 2021 was the best online event ever&lt;/a>
+&lt;a href="https://lobste.rs/s/q65ifd/fosdem_2021_was_best_online_event_ever">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this week?&lt;/a>
+&lt;a href="https://lobste.rs/s/zerceb/what_are_you_doing_this_week">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-02-08</title><link>https://frozen-lobster.rohanverma.net/posts/2021-02-08/</link><pubDate>Mon, 08 Feb 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-02-08/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://venam.nixers.net/blog/unix/2021/02/07/audio-stack.html">Making Sense of The Audio Stack On Unix&lt;/a>
 &lt;a href="https://lobste.rs/s/rsvg4s/making_sense_audio_stack_on_unix">(comments)&lt;/a>&lt;/p>
