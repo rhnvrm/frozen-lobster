@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 09 Feb 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-02-09</title><link>https://frozen-lobster.rohanverma.net/posts/2021-02-09/</link><pubDate>Tue, 09 Feb 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-02-09/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 10 Feb 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-02-10</title><link>https://frozen-lobster.rohanverma.net/posts/2021-02-10/</link><pubDate>Wed, 10 Feb 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-02-10/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://soatok.blog/2021/02/09/crackpot-cryptography-and-security-theater/">Crackpot Cryptography and Security Theater&lt;/a>
+&lt;a href="https://lobste.rs/s/eext9b/crackpot_cryptography_security_theater">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">How much are non x86/arm platforms used?&lt;/a>
+&lt;a href="https://lobste.rs/s/79plp4/how_much_are_non_x86_arm_platforms_used">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">Why is SQL so successful?&lt;/a>
+&lt;a href="https://lobste.rs/s/snflhf/why_is_sql_so_successful">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://daniel.haxx.se/blog/2021/02/09/curl-supports-rustls/">cURL supports rustls&lt;/a>
+&lt;a href="https://lobste.rs/s/be0eor/curl_supports_rustls">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://marmelab.com/blog/2020/10/21/sunsetting-faker.html">Sunsetting PHP Faker&lt;/a>
+&lt;a href="https://lobste.rs/s/iq16oa/sunsetting_php_faker">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/apps/mergequeue">An extension to Github auto-merge feature&lt;/a>
+&lt;a href="https://lobste.rs/s/icbg5y/extension_github_auto_merge_feature">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://foundation.rust-lang.org/posts/2021-02-08-hello-world/">Rust Foundation - Hello World&lt;/a>
+&lt;a href="https://lobste.rs/s/akbqap/rust_foundation_hello_world">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610">Dependency Confusion: How I Hacked Into Apple, Microsoft and Dozens of Other Companies&lt;/a>
+&lt;a href="https://lobste.rs/s/u9mr4o/dependency_confusion_how_i_hacked_into">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://madaidans-insecurities.github.io/linux.html">Madaidan&amp;rsquo;s Insecurities&lt;/a>
+&lt;a href="https://lobste.rs/s/hgxm6r/madaidan_s_insecurities">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://hacks.mozilla.org/2021/02/browser-fuzzing-at-mozilla/">Browser fuzzing at Mozilla&lt;/a>
+&lt;a href="https://lobste.rs/s/uhanh7/browser_fuzzing_at_mozilla">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-02-09</title><link>https://frozen-lobster.rohanverma.net/posts/2021-02-09/</link><pubDate>Tue, 09 Feb 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-02-09/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://foundation.rust-lang.org/posts/2021-02-08-hello-world/">Rust Foundation - Hello World&lt;/a>
 &lt;a href="https://lobste.rs/s/akbqap/rust_foundation_hello_world">(comments)&lt;/a>&lt;/p>
