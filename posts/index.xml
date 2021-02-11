@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 10 Feb 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-02-10</title><link>https://frozen-lobster.rohanverma.net/posts/2021-02-10/</link><pubDate>Wed, 10 Feb 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-02-10/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 11 Feb 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-02-11</title><link>https://frozen-lobster.rohanverma.net/posts/2021-02-11/</link><pubDate>Thu, 11 Feb 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-02-11/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.toolchains.net">Toolchains.net - A collection of toolchain resources&lt;/a>
+&lt;a href="https://lobste.rs/s/wvh38f/toolchains_net_collection_toolchain">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://soatok.blog/2021/02/09/crackpot-cryptography-and-security-theater/">Crackpot Cryptography and Security Theater&lt;/a>
+&lt;a href="https://lobste.rs/s/eext9b/crackpot_cryptography_security_theater">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.boringcactus.com/2021/02/09/anti-rust-horseshit.html">I&amp;rsquo;m tired of this anti-Rust horseshit&lt;/a>
+&lt;a href="https://lobste.rs/s/nxv3xr/i_m_tired_this_anti_rust_horseshit">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610">Dependency Confusion: How I Hacked Into Apple, Microsoft and Dozens of Other Companies&lt;/a>
+&lt;a href="https://lobste.rs/s/u9mr4o/dependency_confusion_how_i_hacked_into">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.askonomm.com/blog/i-dont-want-to-do-frontend-anymore">I don&amp;rsquo;t want to do front-end anymore&lt;/a>
+&lt;a href="https://lobste.rs/s/vxasiq/i_don_t_want_do_front_end_anymore">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.freecodecamp.org/news/do-not-use-mac-system-ruby-do-this-instead/">Don&amp;rsquo;t Use the Mac System Ruby&lt;/a>
+&lt;a href="https://lobste.rs/s/0iekgx/don_t_use_mac_system_ruby">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.asrpo.com/minimal_ffi">Adding a minimal foreign function interface to your language&lt;/a>
+&lt;a href="https://lobste.rs/s/zdpeqa/adding_minimal_foreign_function">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">How much are non x86/arm platforms used?&lt;/a>
+&lt;a href="https://lobste.rs/s/79plp4/how_much_are_non_x86_arm_platforms_used">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://yuzu-emu.org/entry/yuzu-progress-report-jan-2021/">Yuzu Progress Report January 2021&lt;/a>
+&lt;a href="https://lobste.rs/s/ss3xew/yuzu_progress_report_january_2021">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/kokke/tiny-regex-c">A small regex implementation in C in less than 600 LOC&lt;/a>
+&lt;a href="https://lobste.rs/s/xouda7/small_regex_implementation_c_less_than">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-02-10</title><link>https://frozen-lobster.rohanverma.net/posts/2021-02-10/</link><pubDate>Wed, 10 Feb 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-02-10/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://soatok.blog/2021/02/09/crackpot-cryptography-and-security-theater/">Crackpot Cryptography and Security Theater&lt;/a>
 &lt;a href="https://lobste.rs/s/eext9b/crackpot_cryptography_security_theater">(comments)&lt;/a>&lt;/p>
