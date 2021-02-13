@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 12 Feb 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-02-12</title><link>https://frozen-lobster.rohanverma.net/posts/2021-02-12/</link><pubDate>Fri, 12 Feb 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-02-12/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 13 Feb 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-02-13</title><link>https://frozen-lobster.rohanverma.net/posts/2021-02-13/</link><pubDate>Sat, 13 Feb 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-02-13/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://litestream.io/blog/why-i-built-litestream/">Why I Built Litestream&lt;/a>
+&lt;a href="https://lobste.rs/s/bplm1x/why_i_built_litestream">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.astrosnail.pt.eu.org/2021-02-11-snake.html">I have no name, and I must recurse&lt;/a>
+&lt;a href="https://lobste.rs/s/gguvow/i_have_no_name_i_must_recurse">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://devcraft.io/2021/02/11/serenityos-writing-a-full-chain-exploit.html">SerenityOS - Writing a full chain exploit&lt;/a>
+&lt;a href="https://lobste.rs/s/ilvpdh/serenityos_writing_full_chain_exploit">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/tensorflow/swift">Tensorflow for Swift has been Deprecated&lt;/a>
+&lt;a href="https://lobste.rs/s/fcnkvu/tensorflow_for_swift_has_been_deprecated">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.lambda.cx/posts/org-agenda-eink/">Creating an Always On E-Ink Org Agenda&lt;/a>
+&lt;a href="https://lobste.rs/s/50615l/creating_always_on_e_ink_org_agenda">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this weekend?&lt;/a>
+&lt;a href="https://lobste.rs/s/6aji3n/what_are_you_doing_this_weekend">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://wayland-book.com/">The Wayland Protocol&lt;/a>
+&lt;a href="https://lobste.rs/s/enq5lu/wayland_protocol">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://bernsteinbear.com/blog/small-objects/">Small objects and pointer tagging&lt;/a>
+&lt;a href="https://lobste.rs/s/umu3g8/small_objects_pointer_tagging">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://distill.pub/selforg/2021/textures">Self-Organising Textures&lt;/a>
+&lt;a href="https://lobste.rs/s/nkz7hw/self_organising_textures">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://danielbmarkham.com/for-the-love-of-all-thats-holy-use-ccl-to-control-complexity-in-your-systems/">For The Love Of All That&amp;rsquo;s Holy, Use CCL To Control Complexity In Your Systems&lt;/a>
+&lt;a href="https://lobste.rs/s/8e0zk7/for_love_all_s_holy_use_ccl_control">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-02-12</title><link>https://frozen-lobster.rohanverma.net/posts/2021-02-12/</link><pubDate>Fri, 12 Feb 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-02-12/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://jhall.io/posts/6-logging-mistakes/">6 ways to log ineffectively&lt;/a>
 &lt;a href="https://lobste.rs/s/no1zra/6_ways_log_ineffectively">(comments)&lt;/a>&lt;/p>
