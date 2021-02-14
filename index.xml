@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 13 Feb 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-02-13</title><link>https://frozen-lobster.rohanverma.net/posts/2021-02-13/</link><pubDate>Sat, 13 Feb 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-02-13/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 14 Feb 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-02-14</title><link>https://frozen-lobster.rohanverma.net/posts/2021-02-14/</link><pubDate>Sun, 14 Feb 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-02-14/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/oilshell/oil/wiki/Alternative-Shells">Alternative Shells&lt;/a>
+&lt;a href="https://lobste.rs/s/bhqflt/alternative_shells">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://christine.website/blog/a-trip-into-freebsd-2021-02-13">A Trip into FreeBSD&lt;/a>
+&lt;a href="https://lobste.rs/s/x0jtjw/trip_into_freebsd">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://elronnd.net/writ/2021-02-13_att-asm.html">Why no one should use the AT&amp;amp;T syntax ever, for any reason, under any circumstances&lt;/a>
+&lt;a href="https://lobste.rs/s/zifjgi/why_no_one_should_use_at_t_syntax_ever_for">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://eloydegen.com/blog/posts/display-connectors-networking-equipment/">Display connectors in networking equipment&lt;/a>
+&lt;a href="https://lobste.rs/s/kk1wti/display_connectors_networking">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/ratfactor/ziglings">ratfactor/ziglings - Learn zig by fixing little broken programs&lt;/a>
+&lt;a href="https://lobste.rs/s/arciqw/ratfactor_ziglings_learn_zig_by_fixing">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=c4Z25DJusuo">ATS or Why Linear Types are the Future of Systems Programming&lt;/a>
+&lt;a href="https://lobste.rs/s/eu70sb/ats_why_linear_types_are_future_systems">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ocw.mit.edu/resources/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/">A 2020 Vision of Linear Algebra&lt;/a>
+&lt;a href="https://lobste.rs/s/7eup50/2020_vision_linear_algebra">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://litestream.io/blog/why-i-built-litestream/">Why I Built Litestream&lt;/a>
+&lt;a href="https://lobste.rs/s/bplm1x/why_i_built_litestream">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.eisfunke.com/article/svg-the-good-the-bad-and-the-ugly.html">SVG: The Good, the Bad and the Ugly&lt;/a>
+&lt;a href="https://lobste.rs/s/lwtgar/svg_good_bad_ugly">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cfallin.org/blog/2020/09/18/cranelift-isel-1/">A New Backend for Cranelift, Part 1: Instruction Selection&lt;/a>
+&lt;a href="https://lobste.rs/s/ana6oj/new_backend_for_cranelift_part_1">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-02-13</title><link>https://frozen-lobster.rohanverma.net/posts/2021-02-13/</link><pubDate>Sat, 13 Feb 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-02-13/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://litestream.io/blog/why-i-built-litestream/">Why I Built Litestream&lt;/a>
 &lt;a href="https://lobste.rs/s/bplm1x/why_i_built_litestream">(comments)&lt;/a>&lt;/p>
