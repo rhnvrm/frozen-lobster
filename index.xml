@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 14 Feb 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-02-14</title><link>https://frozen-lobster.rohanverma.net/posts/2021-02-14/</link><pubDate>Sun, 14 Feb 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-02-14/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 15 Feb 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-02-15</title><link>https://frozen-lobster.rohanverma.net/posts/2021-02-15/</link><pubDate>Mon, 15 Feb 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-02-15/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://mrkaran.dev/posts/home-server-nomad/">Running Nomad for home server&lt;/a>
+&lt;a href="https://lobste.rs/s/bybybm/running_nomad_for_home_server">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://dev.to/thibaultduponchelle/the-github-action-mining-attack-through-pull-request-2lmc">The GitHub Action mining attack through Pull Request&lt;/a>
+&lt;a href="https://lobste.rs/s/xjurrp/github_action_mining_attack_through_pull">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://trekhleb.dev/blog/2017/solid-principles-around-you/">S.O.L.I.D. principles around you (2017)&lt;/a>
+&lt;a href="https://lobste.rs/s/vlswwg/s_o_l_i_d_principles_around_you_2017">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://christine.website/blog/a-trip-into-freebsd-2021-02-13">A Trip into FreeBSD&lt;/a>
+&lt;a href="https://lobste.rs/s/x0jtjw/trip_into_freebsd">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.racket-lang.org/2021/02/racket-v8-0.html">Racket v8.0&lt;/a>
+&lt;a href="https://lobste.rs/s/v4t5yl/racket_v8_0">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/oilshell/oil/wiki/Alternative-Shells">Alternative Shells&lt;/a>
+&lt;a href="https://lobste.rs/s/bhqflt/alternative_shells">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.musictech.net/guides/essential-guide/history-of-trackers/">The history of trackers&lt;/a>
+&lt;a href="https://lobste.rs/s/0esop3/history_trackers">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/PyO3/pyo3/issues/1420">PyO3 to support Rust 1.41 to support Python&amp;rsquo;s cryptography package&lt;/a>
+&lt;a href="https://lobste.rs/s/h1tyqa/pyo3_support_rust_1_41_support_python_s">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://isotopp.github.io/2021/01/20/database-as-a-queue.html">Database as a Queue&lt;/a>
+&lt;a href="https://lobste.rs/s/ukhpmn/database_as_queue">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://andydote.co.uk/2019/04/06/nomad-rabbitmq-secure/">Running a Secure RabbitMQ Cluster in Nomad (2019)&lt;/a>
+&lt;a href="https://lobste.rs/s/v53zdf/running_secure_rabbitmq_cluster_nomad">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-02-14</title><link>https://frozen-lobster.rohanverma.net/posts/2021-02-14/</link><pubDate>Sun, 14 Feb 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-02-14/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://github.com/oilshell/oil/wiki/Alternative-Shells">Alternative Shells&lt;/a>
 &lt;a href="https://lobste.rs/s/bhqflt/alternative_shells">(comments)&lt;/a>&lt;/p>
