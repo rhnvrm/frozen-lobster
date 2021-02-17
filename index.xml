@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 16 Feb 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-02-16</title><link>https://frozen-lobster.rohanverma.net/posts/2021-02-16/</link><pubDate>Tue, 16 Feb 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-02-16/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 17 Feb 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-02-17</title><link>https://frozen-lobster.rohanverma.net/posts/2021-02-17/</link><pubDate>Wed, 17 Feb 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-02-17/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://blog.golang.org/go1.16">Go 1.16 is released&lt;/a>
+&lt;a href="https://lobste.rs/s/yn1iig/go_1_16_is_released">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://nikhilism.com/post/2021/experiencing-smalltalk/">Experiencing Smalltalk&lt;/a>
+&lt;a href="https://lobste.rs/s/wgnazl/experiencing_smalltalk">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://christine.website/blog/apple-macbook-air-m1-review-2021-02-15">The Worst Experience I&amp;rsquo;ve Had With an aarch64 MacBook&lt;/a>
+&lt;a href="https://lobste.rs/s/owv6vn/worst_experience_i_ve_had_with_aarch64">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://neilkakkar.com/why-is-naming-things-hard.html">Why Is Naming Things Hard?&lt;/a>
+&lt;a href="https://lobste.rs/s/xzebh4/why_is_naming_things_hard">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://randomascii.wordpress.com/2021/02/16/arranging-invisible-icons-in-quadratic-time/">Arranging Invisible Icons in Quadratic Time&lt;/a>
+&lt;a href="https://lobste.rs/s/raurtp/arranging_invisible_icons_quadratic">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.monotux.tech/posts/2021/02/bug-reference-mode/">bug-reference-mode&lt;/a>
+&lt;a href="https://lobste.rs/s/wx66qd/bug_reference_mode">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.linux.it/~ema/posts/porsche-book/">Lessons learned from a 27 years old UNIX book&lt;/a>
+&lt;a href="https://lobste.rs/s/uk5mgl/lessons_learned_from_27_years_old_unix">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://maskray.me/blog/2021-02-14-all-about-thread-local-storage">All about thread-local storage&lt;/a>
+&lt;a href="https://lobste.rs/s/go5ep3/all_about_thread_local_storage">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://evincarofautumn.blogspot.com/2011/10/programming-languages-have-bad-user.html">Programming Languages Suck at UX&lt;/a>
+&lt;a href="https://lobste.rs/s/gykifw/programming_languages_suck_at_ux">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://code.rosaelefanten.org/fileweight/">fileweight — How much does a file weigh&lt;/a>
+&lt;a href="https://lobste.rs/s/w3ri4k/fileweight_how_much_does_file_weigh">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-02-16</title><link>https://frozen-lobster.rohanverma.net/posts/2021-02-16/</link><pubDate>Tue, 16 Feb 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-02-16/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://christine.website/blog/apple-macbook-air-m1-review-2021-02-15">The Worst Experience I&amp;rsquo;ve Had With an aarch64 MacBook&lt;/a>
 &lt;a href="https://lobste.rs/s/owv6vn/worst_experience_i_ve_had_with_aarch64">(comments)&lt;/a>&lt;/p>
