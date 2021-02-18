@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 17 Feb 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-02-17</title><link>https://frozen-lobster.rohanverma.net/posts/2021-02-17/</link><pubDate>Wed, 17 Feb 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-02-17/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 18 Feb 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-02-18</title><link>https://frozen-lobster.rohanverma.net/posts/2021-02-18/</link><pubDate>Thu, 18 Feb 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-02-18/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://pythonspeed.com/articles/upgrade-pip/">Why you really need to upgrade pip&lt;/a>
+&lt;a href="https://lobste.rs/s/gywypy/why_you_really_need_upgrade_pip">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://dashbit.co/blog/nx-numerical-elixir-is-now-publicly-available">Nx (Numerical Elixir) is now publicly available&lt;/a>
+&lt;a href="https://lobste.rs/s/qzwqdu/nx_numerical_elixir_is_now_publicly">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://wbond.net/thoughts/building_a_high_performance_text_editor">Building a High Performance Text Editor&lt;/a>
+&lt;a href="https://lobste.rs/s/lplpn8/building_high_performance_text_editor">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://bartoszmilewski.com/2021/02/16/functorio/">Functorio&lt;/a>
+&lt;a href="https://lobste.rs/s/a4nmeb/functorio">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://css-auditors.com/reports/premier-league-2021-02/">The CSS File Size and Count Report for Premier League sites&lt;/a>
+&lt;a href="https://lobste.rs/s/fnw3ru/css_file_size_count_report_for_premier">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://openjdk.java.net/jeps/395">Java 16 gets records: JEP 395&lt;/a>
+&lt;a href="https://lobste.rs/s/cpfajx/java_16_gets_records_jep_395">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/Wren6991/PicoDVI">Bitbanged DVI on the RP2040 Microcontroller&lt;/a>
+&lt;a href="https://lobste.rs/s/h0pr8u/bitbanged_dvi_on_rp2040_microcontroller">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://stereobooster.com/posts/my-experience-of-writing-lisp-in-pony/">My experience of writing Lisp in Pony&lt;/a>
+&lt;a href="https://lobste.rs/s/l3sw8y/my_experience_writing_lisp_pony">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.golang.org/go1.16">Go 1.16 is released&lt;/a>
+&lt;a href="https://lobste.rs/s/yn1iig/go_1_16_is_released">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://scattered-thoughts.net/writing/materialize-decorrelation">How Materialize and other databases optimize SQL subqueries&lt;/a>
+&lt;a href="https://lobste.rs/s/y7zndx/how_materialize_other_databases">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-02-17</title><link>https://frozen-lobster.rohanverma.net/posts/2021-02-17/</link><pubDate>Wed, 17 Feb 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-02-17/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://blog.golang.org/go1.16">Go 1.16 is released&lt;/a>
 &lt;a href="https://lobste.rs/s/yn1iig/go_1_16_is_released">(comments)&lt;/a>&lt;/p>
