@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 20 Feb 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-02-20</title><link>https://frozen-lobster.rohanverma.net/posts/2021-02-20/</link><pubDate>Sat, 20 Feb 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-02-20/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 21 Feb 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-02-21</title><link>https://frozen-lobster.rohanverma.net/posts/2021-02-21/</link><pubDate>Sun, 21 Feb 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-02-21/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://ols.wtf/2021/02/20/injecting-golang-variables-at-build-time.html">Injecting Golang variables at build time&lt;/a>
+&lt;a href="https://lobste.rs/s/llmkdm/injecting_golang_variables_at_build_time">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blogs.gentoo.org/mgorny/2021/02/19/the-modern-packagers-security-nightmare/">The modern packager’s security nightmare&lt;/a>
+&lt;a href="https://lobste.rs/s/zb1c4k/modern_packager_s_security_nightmare">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tevps.net/blog/2021/2/20/immutable-systems-infrastructure-or-how-mashup-kub/">Immutable Systems Infrastructure, or how to mashup Kubernetes and Nix&lt;/a>
+&lt;a href="https://lobste.rs/s/h8ejms/immutable_systems_infrastructure_how">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://healeycodes.com/webassembly-search-tools-for-static-websites/">WebAssembly Search Tools for Static Sites&lt;/a>
+&lt;a href="https://lobste.rs/s/g8i4w5/webassembly_search_tools_for_static">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">Resources for crypto fundamentals?&lt;/a>
+&lt;a href="https://lobste.rs/s/edpwke/resources_for_crypto_fundamentals">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://joshdata.me/iceberger.html">Draw an iceberg and see how it will float&lt;/a>
+&lt;a href="https://lobste.rs/s/gqnal1/draw_iceberg_see_how_it_will_float">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://marc.info/?l=openbsd-arm&amp;amp;m=161386122115249&amp;amp;w=2">OpenBSD boots multi-user on the new Apple M1 hardware&lt;/a>
+&lt;a href="https://lobste.rs/s/fnua1q/openbsd_boots_multi_user_on_new_apple_m1">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://siag.nu/siag/index.html">Scheme In A Grid&lt;/a>
+&lt;a href="https://lobste.rs/s/sn7iwf/scheme_grid">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blogs.nvidia.com/blog/2021/02/18/geforce-cmp/">GeForce Is Made for Gaming, CMP Is Made to Mine&lt;/a>
+&lt;a href="https://lobste.rs/s/y9n9kp/geforce_is_made_for_gaming_cmp_is_made_mine">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://same.energy">Same Energy | Visual Search Engine&lt;/a>
+&lt;a href="https://lobste.rs/s/id0xdw/same_energy_visual_search_engine">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-02-20</title><link>https://frozen-lobster.rohanverma.net/posts/2021-02-20/</link><pubDate>Sat, 20 Feb 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-02-20/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://www.youtube.com/watch?v=pq1XqP4-qOo">2021: Year of the Linux Gaming Desktop&lt;/a>
 &lt;a href="https://lobste.rs/s/g02hnu/2021_year_linux_gaming_desktop">(comments)&lt;/a>&lt;/p>
