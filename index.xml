@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 21 Feb 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-02-21</title><link>https://frozen-lobster.rohanverma.net/posts/2021-02-21/</link><pubDate>Sun, 21 Feb 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-02-21/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 22 Feb 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-02-22</title><link>https://frozen-lobster.rohanverma.net/posts/2021-02-22/</link><pubDate>Mon, 22 Feb 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-02-22/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://blog.hboeck.de/archives/904-Please-do-not-put-IP-addresses-into-DNS-MX-records.html">Please do not put IP addresses into DNS MX records&lt;/a>
+&lt;a href="https://lobste.rs/s/5r2uri/please_do_not_put_ip_addresses_into_dns_mx">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://snikket.org/blog/products-vs-protocols/">Products vs Protocols: What Signal got right&lt;/a>
+&lt;a href="https://lobste.rs/s/4w5oke/products_vs_protocols_what_signal_got">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://buttondown.email/hillelwayne/archive/oracle-testing/">Oracle Testing&lt;/a>
+&lt;a href="https://lobste.rs/s/7eewcn/oracle_testing">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://arstechnica.com/information-technology/2021/02/new-browser-tracking-hack-works-even-when-you-flush-caches-or-go-incognito/">New browser-tracking hack works even when you flush caches or go incognito&lt;/a>
+&lt;a href="https://lobste.rs/s/ifv0yz/new_browser_tracking_hack_works_even_when">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.geoffreylitt.com/wildcard/">Wildcard&lt;/a>
+&lt;a href="https://lobste.rs/s/qmpwwq/wildcard">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=OqXbnaDR8QY">What&amp;rsquo;s Next for Teal, the typed dialect of Lua&lt;/a>
+&lt;a href="https://lobste.rs/s/gkj61c/what_s_next_for_teal_typed_dialect_lua">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/tkaitchuck/aHash/blob/master/compare/readme.md">Comparing ahash to other hashing algorithms&lt;/a>
+&lt;a href="https://lobste.rs/s/jitsly/comparing_ahash_other_hashing">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://dotty.epfl.ch/blog/2021/02/17/scala3-rc1.html">Scala 3.0.0-RC1 – first release candidate is here&lt;/a>
+&lt;a href="https://lobste.rs/s/4zmbpr/scala_3_0_0_rc1_first_release_candidate_is">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://marc.info/?l=openbsd-arm&amp;amp;m=161386122115249&amp;amp;w=2">OpenBSD boots multi-user on the new Apple M1 hardware&lt;/a>
+&lt;a href="https://lobste.rs/s/fnua1q/openbsd_boots_multi_user_on_new_apple_m1">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.anthropicstudios.com/2021/02/20/fullscreen-exclusive-is-a-lie/">Fullscreen Exclusive Is A Lie (…sort of)&lt;/a>
+&lt;a href="https://lobste.rs/s/9ewlcg/fullscreen_exclusive_is_lie_sort">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-02-21</title><link>https://frozen-lobster.rohanverma.net/posts/2021-02-21/</link><pubDate>Sun, 21 Feb 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-02-21/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://ols.wtf/2021/02/20/injecting-golang-variables-at-build-time.html">Injecting Golang variables at build time&lt;/a>
 &lt;a href="https://lobste.rs/s/llmkdm/injecting_golang_variables_at_build_time">(comments)&lt;/a>&lt;/p>
