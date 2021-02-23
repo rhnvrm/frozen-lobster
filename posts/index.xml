@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 22 Feb 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-02-22</title><link>https://frozen-lobster.rohanverma.net/posts/2021-02-22/</link><pubDate>Mon, 22 Feb 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-02-22/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 23 Feb 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-02-23</title><link>https://frozen-lobster.rohanverma.net/posts/2021-02-23/</link><pubDate>Tue, 23 Feb 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-02-23/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.arp242.net/go-easy.html">Go is not an easy language&lt;/a>
+&lt;a href="https://lobste.rs/s/ee6nsc/go_is_not_easy_language">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/treenotation/dumbdown/blob/master/scroll/readme.md">Scroll: a new way to publish&lt;/a>
+&lt;a href="https://lobste.rs/s/xyn2iy/scroll_new_way_publish">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/rui314/mold">Mold: a Modern Linker&lt;/a>
+&lt;a href="https://lobste.rs/s/t9gvtg/mold_modern_linker">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://fy.blackhats.net.au/blog/html/2021/02/16/against_packaging_rust_crates.html">Against Packaging Rust Crates&lt;/a>
+&lt;a href="https://lobste.rs/s/unaq3j/against_packaging_rust_crates">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.discord.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f">Why Discord is switching from Go to Rust (2020)&lt;/a>
+&lt;a href="https://lobste.rs/s/fle8ou/why_discord_is_switching_from_go_rust_2020">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this week?&lt;/a>
+&lt;a href="https://lobste.rs/s/f4ytzp/what_are_you_doing_this_week">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.kraken.com/post/7964/oxidizing-kraken/">Oxiziding Kraken - 2+ years of rewriting Kraken&amp;rsquo;s backend to Rust&lt;/a>
+&lt;a href="https://lobste.rs/s/6tqwu0/oxiziding_kraken_2_years_rewriting">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://buttondown.email/nelhage/archive/http-pipelining-s3-and-gg/">HTTP Pipelining, S3, and gg&lt;/a>
+&lt;a href="https://lobste.rs/s/i02dsl/http_pipelining_s3_gg">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://dfithian.github.io/2021/02/18/database-implementation-part-2.html">Haskell Database Implementation - Part 2, Domain Specific Language and Transactionality&lt;/a>
+&lt;a href="https://lobste.rs/s/vidw7d/haskell_database_implementation_part_2">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://leontrolski.github.io/alter.html">Can we contain mutable data in imperative languages?&lt;/a>
+&lt;a href="https://lobste.rs/s/qstow5/can_we_contain_mutable_data_imperative">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-02-22</title><link>https://frozen-lobster.rohanverma.net/posts/2021-02-22/</link><pubDate>Mon, 22 Feb 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-02-22/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://blog.hboeck.de/archives/904-Please-do-not-put-IP-addresses-into-DNS-MX-records.html">Please do not put IP addresses into DNS MX records&lt;/a>
 &lt;a href="https://lobste.rs/s/5r2uri/please_do_not_put_ip_addresses_into_dns_mx">(comments)&lt;/a>&lt;/p>
