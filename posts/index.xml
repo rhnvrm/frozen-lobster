@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 24 Feb 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-02-24</title><link>https://frozen-lobster.rohanverma.net/posts/2021-02-24/</link><pubDate>Wed, 24 Feb 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-02-24/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 25 Feb 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-02-25</title><link>https://frozen-lobster.rohanverma.net/posts/2021-02-25/</link><pubDate>Thu, 25 Feb 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-02-25/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://seirdy.one/2021/02/23/keeping-platforms-open.html">Keeping platforms open&lt;/a>
+&lt;a href="https://lobste.rs/s/ur3eul/keeping_platforms_open">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tailscale.com/blog/rotate-ssh-keys/">How often should I rotate my ssh keys?&lt;/a>
+&lt;a href="https://lobste.rs/s/nrtqwx/how_often_should_i_rotate_my_ssh_keys">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://soatok.blog/2021/02/24/cryptography-interface-design-is-a-security-concern/">Cryptography Interface Design is a Security Concern&lt;/a>
+&lt;a href="https://lobste.rs/s/hiyj9i/cryptography_interface_design_is">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://philidor.dev/blog/go-embed-usecase">One file web application in go with embed package&lt;/a>
+&lt;a href="https://lobste.rs/s/xkihgh/one_file_web_application_go_with_embed">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jvns.ca/blog/2021/02/24/a-little-tool-to-make-dns-queries/">A little tool to make DNS queries&lt;/a>
+&lt;a href="https://lobste.rs/s/9o8zsq/little_tool_make_dns_queries">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cacm.acm.org/magazines/2021/3/250705-50-years-of-pascal/fulltext">50 Years of Pascal&lt;/a>
+&lt;a href="https://lobste.rs/s/rm4shm/50_years_pascal">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.pusher.com/counting-connections-at-scale/">Counting connections at scale&lt;/a>
+&lt;a href="https://lobste.rs/s/mrgg77/counting_connections_at_scale">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://rxi.github.io/lite_an_implementation_overview.html">Lite: An Implementation Overview&lt;/a>
+&lt;a href="https://lobste.rs/s/stki2q/lite_implementation_overview">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/cdiggins/cat-language">Cat: A statically-typed stack-based functional language&lt;/a>
+&lt;a href="https://lobste.rs/s/lopom6/cat_statically_typed_stack_based">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blainsmith.com/articles/plain-text-protocols/">Plain Text Protocols&lt;/a>
+&lt;a href="https://lobste.rs/s/rzhxyk/plain_text_protocols">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-02-24</title><link>https://frozen-lobster.rohanverma.net/posts/2021-02-24/</link><pubDate>Wed, 24 Feb 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-02-24/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="">Neighbourhood social platform&lt;/a>
 &lt;a href="https://lobste.rs/s/uuf4s4/neighbourhood_social_platform">(comments)&lt;/a>&lt;/p>
