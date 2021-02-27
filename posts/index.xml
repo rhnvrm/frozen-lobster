@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 26 Feb 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-02-26</title><link>https://frozen-lobster.rohanverma.net/posts/2021-02-26/</link><pubDate>Fri, 26 Feb 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-02-26/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 27 Feb 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-02-27</title><link>https://frozen-lobster.rohanverma.net/posts/2021-02-27/</link><pubDate>Sat, 27 Feb 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-02-27/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://kirby.kevinson.org/blog/iso-8601-the-better-date-format/">ISO 8601: the better date format&lt;/a>
+&lt;a href="https://lobste.rs/s/m1obj4/iso_8601_better_date_format">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://frame.work/blog/introducing-the-framework-laptop">Introducing the Framework Laptop&lt;/a>
+&lt;a href="https://lobste.rs/s/hhqli7/introducing_framework_laptop">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://godotengine.org/article/why-isnt-godot-ecs-based-game-engine">Why isn&amp;rsquo;t Godot an ECS-based game engine?&lt;/a>
+&lt;a href="https://lobste.rs/s/hzqlgc/why_isn_t_godot_ecs_based_game_engine">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://justine.lol/redbean/index.html">redbean: single-file distributable web server&lt;/a>
+&lt;a href="https://lobste.rs/s/3emvqh/redbean_single_file_distributable_web">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://elixirforum.com/t/why-u-is-an-ascii-charatcter/37721">Why ü is an ASCII charatcter?&lt;/a>
+&lt;a href="https://lobste.rs/s/2vs9ar/why_u_is_ascii_charatcter">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.earthly.dev/intercal-yaml-and-other-horrible-programming-languages/">INTERCAL, YAML, And Other Horrible Programming Languages&lt;/a>
+&lt;a href="https://lobste.rs/s/1nxt6g/intercal_yaml_other_horrible">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://liam-on-linux.livejournal.com/78006.html">What was the difference between Windows, Windows/286 &amp;amp; Windows/386?&lt;/a>
+&lt;a href="https://lobste.rs/s/4xfswa/what_was_difference_between_windows">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/rxi/microui">microui: A tiny, portable, immediate-mode UI library written in ANSI C&lt;/a>
+&lt;a href="https://lobste.rs/s/q0z96t/microui_tiny_portable_immediate_mode_ui">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.rust-lang.org/2021/02/26/const-generics-mvp-beta">Const generics MVP hits beta&lt;/a>
+&lt;a href="https://lobste.rs/s/raohuz/const_generics_mvp_hits_beta">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://people.gnome.org/~federico/blog/librsvg-rust-and-non-mainstream-architectures.html">Librsvg, Rust, and non-mainstream architectures&lt;/a>
+&lt;a href="https://lobste.rs/s/udfjlx/librsvg_rust_non_mainstream">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-02-26</title><link>https://frozen-lobster.rohanverma.net/posts/2021-02-26/</link><pubDate>Fri, 26 Feb 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-02-26/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://soatok.blog/2021/02/24/cryptography-interface-design-is-a-security-concern/">Cryptography Interface Design is a Security Concern&lt;/a>
 &lt;a href="https://lobste.rs/s/hiyj9i/cryptography_interface_design_is">(comments)&lt;/a>&lt;/p>
