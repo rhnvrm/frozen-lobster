@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 27 Feb 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-02-27</title><link>https://frozen-lobster.rohanverma.net/posts/2021-02-27/</link><pubDate>Sat, 27 Feb 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-02-27/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 28 Feb 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-02-28</title><link>https://frozen-lobster.rohanverma.net/posts/2021-02-28/</link><pubDate>Sun, 28 Feb 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-02-28/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.reciperadar.com/">RecipeRadar - a free and open source recipe search engine&lt;/a>
+&lt;a href="https://lobste.rs/s/sbgz5h/reciperadar_free_open_source_recipe">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://timvisee.com/blog/solving-aoc-2020-in-under-a-second/">Solving Advent of Code 2020 in under a second&lt;/a>
+&lt;a href="https://lobste.rs/s/rlx7ff/solving_advent_code_2020_under_second">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://m.signalvnoise.com/html-over-the-wire/">HTML over the wire (2020)&lt;/a>
+&lt;a href="https://lobste.rs/s/ocdtdk/html_over_wire_2020">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://mrsh.sh/">mrsh: A strictly POSIX-compliant shell&lt;/a>
+&lt;a href="https://lobste.rs/s/coz8km/mrsh_strictly_posix_compliant_shell">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://asthasr.github.io/posts/abstraction-is-okay/">Abstraction is Okay, Magic is Not&lt;/a>
+&lt;a href="https://lobste.rs/s/mxcmxg/abstraction_is_okay_magic_is_not">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">How do you self-hosted?&lt;/a>
+&lt;a href="https://lobste.rs/s/drisof/how_do_you_self_hosted">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://acha.ninja/blog/the_bupstash_garbage_collector/">The Bupstash Garbage Collector&lt;/a>
+&lt;a href="https://lobste.rs/s/xnspcm/bupstash_garbage_collector">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/lmorg/murex">murex: Bash-like $SHELL designed for greater commandline productivity and safer shell scripts&lt;/a>
+&lt;a href="https://lobste.rs/s/kws24j/murex_bash_like_shell_designed_for">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://wolchok.org/posts/how-to-read-assembly-language/">How to Read Assembly Language&lt;/a>
+&lt;a href="https://lobste.rs/s/wukxxp/how_read_assembly_language">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.tyk.nu/blog/freebsd-wall-display-computer/">FreeBSD Wall Display Computer&lt;/a>
+&lt;a href="https://lobste.rs/s/pvxx0e/freebsd_wall_display_computer">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-02-27</title><link>https://frozen-lobster.rohanverma.net/posts/2021-02-27/</link><pubDate>Sat, 27 Feb 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-02-27/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://kirby.kevinson.org/blog/iso-8601-the-better-date-format/">ISO 8601: the better date format&lt;/a>
 &lt;a href="https://lobste.rs/s/m1obj4/iso_8601_better_date_format">(comments)&lt;/a>&lt;/p>
