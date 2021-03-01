@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 28 Feb 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-02-28</title><link>https://frozen-lobster.rohanverma.net/posts/2021-02-28/</link><pubDate>Sun, 28 Feb 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-02-28/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 01 Mar 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-03-01</title><link>https://frozen-lobster.rohanverma.net/posts/2021-03-01/</link><pubDate>Mon, 01 Mar 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-03-01/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://atodorov.me/2021/02/27/why-you-should-take-a-look-at-nomad-before-jumping-on-kubernetes/">Why you should take a look at Nomad before jumping on Kubernetes&lt;/a>
+&lt;a href="https://lobste.rs/s/yigjfi/why_you_should_take_look_at_nomad_before">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ahgamut.github.io/c/2021/02/27/ape-cosmo/">Actually Portable Executables&lt;/a>
+&lt;a href="https://lobste.rs/s/zhvkpk/actually_portable_executables">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://justinblank.com/notebooks/modelsofabstraction.html">Models of Abstraction&lt;/a>
+&lt;a href="https://lobste.rs/s/3zpeio/models_abstraction">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.yossarian.net/2021/02/28/Weird-architectures-werent-supported-to-begin-with">Weird architectures weren&amp;rsquo;t supported to begin with&lt;/a>
+&lt;a href="https://lobste.rs/s/bgk9cs/weird_architectures_weren_t_supported">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/">How I cut GTA Online loading times by 70%&lt;/a>
+&lt;a href="https://lobste.rs/s/jzj4q9/how_i_cut_gta_online_loading_times_by_70">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/xmake-io/xmake/wiki/xmake-v2.5.2-released,-Support-pull-remote-cross-toolchain-and-package-integration">xmake v2.5.2 released, Support pull remote cross toolchain and package integration&lt;/a>
+&lt;a href="https://lobste.rs/s/i2ojzu/xmake_v2_5_2_released_support_pull_remote">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://crypto.stanford.edu/~blynn/haskell/life.html">Get a Life&lt;/a>
+&lt;a href="https://lobste.rs/s/uulbea/get_life">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://evinsellin.medium.com/this-is-my-thinly-veiled-attempt-to-get-you-to-use-a-library-i-wrote-9755dd0fa917">This is my thinly veiled attempt to get you to use a library I wrote&lt;/a>
+&lt;a href="https://lobste.rs/s/px3kdr/this_is_my_thinly_veiled_attempt_get_you">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://hardenedbsd.org/article/shawn-webb/2021-02-28/hardenedbsd-february-2021-status-report">HardenedBSD February 2021 Status Report&lt;/a>
+&lt;a href="https://lobste.rs/s/uigvrf/hardenedbsd_february_2021_status_report">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://muratbuffalo.blogspot.com/2021/02/foundational-distributed-systems-papers.html">Foundational distributed systems papers&lt;/a>
+&lt;a href="https://lobste.rs/s/fooce0/foundational_distributed_systems">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-02-28</title><link>https://frozen-lobster.rohanverma.net/posts/2021-02-28/</link><pubDate>Sun, 28 Feb 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-02-28/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://www.reciperadar.com/">RecipeRadar - a free and open source recipe search engine&lt;/a>
 &lt;a href="https://lobste.rs/s/sbgz5h/reciperadar_free_open_source_recipe">(comments)&lt;/a>&lt;/p>
