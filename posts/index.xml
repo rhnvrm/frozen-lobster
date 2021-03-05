@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 04 Mar 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-03-04</title><link>https://frozen-lobster.rohanverma.net/posts/2021-03-04/</link><pubDate>Thu, 04 Mar 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-03-04/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 05 Mar 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-03-05</title><link>https://frozen-lobster.rohanverma.net/posts/2021-03-05/</link><pubDate>Fri, 05 Mar 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-03-05/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://blog.rust-lang.org/inside-rust/2021/03/04/planning-rust-2021.html">Planning the Rust 2021 Edition&lt;/a>
+&lt;a href="https://lobste.rs/s/eaezsy/planning_rust_2021_edition">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://christine.website/blog/windows-pain-2021-03-03">Development on Windows is Painful&lt;/a>
+&lt;a href="https://lobste.rs/s/ibxmxb/development_on_windows_is_painful">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jaylittle.com/post/view/2021/3/goodbye-small-server-hello-150-watt-office">Goodbye Small Server, Hello 150 Watt Office&lt;/a>
+&lt;a href="https://lobste.rs/s/ghmxgk/goodbye_small_server_hello_150_watt">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/vvilhonen/nethoscope">Listen to your network traffic with this small rust app&lt;/a>
+&lt;a href="https://lobste.rs/s/zb1ouc/listen_your_network_traffic_with_this">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://httptoolkit.tech/blog/http-wtf/">HTTPWTF&lt;/a>
+&lt;a href="https://lobste.rs/s/m96het/httpwtf">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/charkost/prosopite">Rails N+1 queries auto-detection with zero false positives / false negatives&lt;/a>
+&lt;a href="https://lobste.rs/s/dyz5iz/rails_n_1_queries_auto_detection_with_zero">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pythonspeed.com/articles/docker-security-scanner/">The security scanner that cried wolf&lt;/a>
+&lt;a href="https://lobste.rs/s/43sksx/security_scanner_cried_wolf">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://remyhax.xyz/posts/bitsquatting-windows/">Bitsquatting windows.com&lt;/a>
+&lt;a href="https://lobste.rs/s/ybw9qg/bitsquatting_windows_com">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lwn.net/Articles/844224/">An introduction to lockless algorithms&lt;/a>
+&lt;a href="https://lobste.rs/s/8it3sz/introduction_lockless_algorithms">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lwn.net/SubscriberLink/847412/d7826b1353e33734">PipeWire: The Linux audio/video bus&lt;/a>
+&lt;a href="https://lobste.rs/s/tvljr0/pipewire_linux_audio_video_bus">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-03-04</title><link>https://frozen-lobster.rohanverma.net/posts/2021-03-04/</link><pubDate>Thu, 04 Mar 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-03-04/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://mudita.com/products/pure/">Feature phone with E Ink display and open-source OS&lt;/a>
 &lt;a href="https://lobste.rs/s/ate6jj/feature_phone_with_e_ink_display_open">(comments)&lt;/a>&lt;/p>
