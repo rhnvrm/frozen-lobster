@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 05 Mar 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-03-05</title><link>https://frozen-lobster.rohanverma.net/posts/2021-03-05/</link><pubDate>Fri, 05 Mar 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-03-05/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 06 Mar 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-03-06</title><link>https://frozen-lobster.rohanverma.net/posts/2021-03-06/</link><pubDate>Sat, 06 Mar 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-03-06/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.more-magic.net/posts/thoughts-on-clojure.html">Clojure from a Schemer&amp;rsquo;s perspective&lt;/a>
+&lt;a href="https://lobste.rs/s/uzq4af/clojure_from_schemer_s_perspective">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/git/git/blob/master/banned.h">Banned C functions in git source code&lt;/a>
+&lt;a href="https://lobste.rs/s/lw5lb8/banned_c_functions_git_source_code">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://f5n.org/blog/2021/dell-latitude-5130/">Dell Latitude 5310&lt;/a>
+&lt;a href="https://lobste.rs/s/y976tq/dell_latitude_5310">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/vvilhonen/nethoscope">Listen to your network traffic with this small rust app&lt;/a>
+&lt;a href="https://lobste.rs/s/zb1ouc/listen_your_network_traffic_with_this">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.klipse.tech/java/2021/03/05/data-oriented-programming-in-java.html">Data-Oriented programming in Java&lt;/a>
+&lt;a href="https://lobste.rs/s/zuxhma/data_oriented_programming_java">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.osnews.com/story/133093/review-blackbird-secure-desktop-a-fully-open-source-modern-power9-workstation-without-any-proprietary-code/">Review: Blackbird Secure Desktop&lt;/a>
+&lt;a href="https://lobste.rs/s/lhyngn/review_blackbird_secure_desktop">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://builtin.com/software-engineering-perspectives/platform-engineer-twilio-ask-your-developer-excerpt">How a Brilliant Platform Engineer Saved Twilio From ‘Absolute Disaster’&lt;/a>
+&lt;a href="https://lobste.rs/s/zdtudo/how_brilliant_platform_engineer_saved">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://discourse.haskell.org/t/towards-a-prevalent-alternative-prelude/1986">Towards a prevalent alternative prelude?&lt;/a>
+&lt;a href="https://lobste.rs/s/obtefh/towards_prevalent_alternative_prelude">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://beny23.github.io/posts/fizzbuzz_without_ifs/">Fizzbuzz without if clauses&lt;/a>
+&lt;a href="https://lobste.rs/s/urpaj3/fizzbuzz_without_if_clauses">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.rust-lang.org/inside-rust/2021/03/04/planning-rust-2021.html">Planning the Rust 2021 Edition&lt;/a>
+&lt;a href="https://lobste.rs/s/eaezsy/planning_rust_2021_edition">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-03-05</title><link>https://frozen-lobster.rohanverma.net/posts/2021-03-05/</link><pubDate>Fri, 05 Mar 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-03-05/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://blog.rust-lang.org/inside-rust/2021/03/04/planning-rust-2021.html">Planning the Rust 2021 Edition&lt;/a>
 &lt;a href="https://lobste.rs/s/eaezsy/planning_rust_2021_edition">(comments)&lt;/a>&lt;/p>
