@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 06 Mar 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-03-06</title><link>https://frozen-lobster.rohanverma.net/posts/2021-03-06/</link><pubDate>Sat, 06 Mar 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-03-06/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 07 Mar 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-03-07</title><link>https://frozen-lobster.rohanverma.net/posts/2021-03-07/</link><pubDate>Sun, 07 Mar 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-03-07/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://openjdk.java.net/jeps/398">JEP 398: Deprecate the Applet API for Removal&lt;/a>
+&lt;a href="https://lobste.rs/s/6eiwer/jep_398_deprecate_applet_api_for_removal">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://halt.software/dead-simple-layouts/">RectCut for dead simple UI layouts&lt;/a>
+&lt;a href="https://lobste.rs/s/mijmpa/rectcut_for_dead_simple_ui_layouts">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.elementary.io/look-and-feel-changes-elementary-os-6/">Look &amp;amp; Feel Changes Coming to elementary OS 6&lt;/a>
+&lt;a href="https://lobste.rs/s/m1nkw3/look_feel_changes_coming_elementary_os_6">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.more-magic.net/posts/thoughts-on-clojure.html">Clojure from a Schemer&amp;rsquo;s perspective&lt;/a>
+&lt;a href="https://lobste.rs/s/uzq4af/clojure_from_schemer_s_perspective">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://krebsonsecurity.com/2021/03/at-least-30000-u-s-organizations-newly-hacked-via-holes-in-microsofts-email-software/">U.S. Organizations Hacked Via Microsoft Exchange&lt;/a>
+&lt;a href="https://lobste.rs/s/xhbsdl/u_s_organizations_hacked_via_microsoft">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=dDtZLm7HIJs">Functional Parsing (2020)&lt;/a>
+&lt;a href="https://lobste.rs/s/8rt5ls/functional_parsing_2020">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/git/git/blob/master/banned.h">Banned C functions in git source code&lt;/a>
+&lt;a href="https://lobste.rs/s/lw5lb8/banned_c_functions_git_source_code">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.johnnunemaker.com/resilience-in-ruby-shell-commands/">Resilience in Ruby: Shell Commands&lt;/a>
+&lt;a href="https://lobste.rs/s/xmwwep/resilience_ruby_shell_commands">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://discourse.haskell.org/t/towards-a-prevalent-alternative-prelude/1986">Towards a prevalent alternative prelude?&lt;/a>
+&lt;a href="https://lobste.rs/s/obtefh/towards_prevalent_alternative_prelude">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.techspot.com/article/1821-how-cpus-are-designed-and-built/">How CPUs are Designed and Built: Computer Architecture (1/4)&lt;/a>
+&lt;a href="https://lobste.rs/s/7uyto8/how_cpus_are_designed_built_computer">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-03-06</title><link>https://frozen-lobster.rohanverma.net/posts/2021-03-06/</link><pubDate>Sat, 06 Mar 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-03-06/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://www.more-magic.net/posts/thoughts-on-clojure.html">Clojure from a Schemer&amp;rsquo;s perspective&lt;/a>
 &lt;a href="https://lobste.rs/s/uzq4af/clojure_from_schemer_s_perspective">(comments)&lt;/a>&lt;/p>
