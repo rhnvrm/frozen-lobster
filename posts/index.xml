@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 09 Mar 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-03-09</title><link>https://frozen-lobster.rohanverma.net/posts/2021-03-09/</link><pubDate>Tue, 09 Mar 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-03-09/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 10 Mar 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-03-10</title><link>https://frozen-lobster.rohanverma.net/posts/2021-03-10/</link><pubDate>Wed, 10 Mar 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-03-10/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://daniel.haxx.se/blog/2021/03/09/half-of-curls-vulnerabilities-are-c-mistakes/">half of curl’s vulnerabilities are C mistakes&lt;/a>
+&lt;a href="https://lobste.rs/s/3efzcx/half_curl_s_vulnerabilities_are_c">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sylvestre.ledru.info/blog/2021/03/09/debian-running-on-rust-coreutils">Debian running on Rust coreutils&lt;/a>
+&lt;a href="https://lobste.rs/s/jdqu4m/debian_running_on_rust_coreutils">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.silvestar.codes/articles/you-want-a-single-enabling-selector-not-the-one-that-disables-the-rule-of-the-previous-one/">You want enabling CSS selectors, not disabling ones&lt;/a>
+&lt;a href="https://lobste.rs/s/gjt15n/you_want_enabling_css_selectors_not">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://christophermeiklejohn.com/food/2021/03/09/food-part-1.html">Food: A Bittersweet Affair, Can I Program Out of My Food Problems?&lt;/a>
+&lt;a href="https://lobste.rs/s/wngmzm/food_bittersweet_affair_can_i_program_out">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.openwall.com/lists/oss-security/2021/03/09/3">git: malicious repositories can execute remote code while cloning&lt;/a>
+&lt;a href="https://lobste.rs/s/eu3lso/git_malicious_repositories_can_execute">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://vermaden.wordpress.com/2021/03/09/glusterfs-8-on-freebsd-13/">GlusterFS 8 on FreeBSD 13&lt;/a>
+&lt;a href="https://lobste.rs/s/js3dxa/glusterfs_8_on_freebsd_13">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://theroadchoseme.com/how-i-self-published-a-professional-paperback-and-ebook-using-latex-and-pandoc">How I self-published a professional paperback and eBook using LaTeX and Pandoc&lt;/a>
+&lt;a href="https://lobste.rs/s/rsxhli/how_i_self_published_professional">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://savo.rocks/posts/my-journey-to-understanding-function-composition/">My Journey To Understanding Function Composition&lt;/a>
+&lt;a href="https://lobste.rs/s/srs8qx/my_journey_understanding_function">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://danielbmarkham.com/coding-constructs-i-now-avoid/">Coding Constructs I Now Avoid (and why)&lt;/a>
+&lt;a href="https://lobste.rs/s/suqsnm/coding_constructs_i_now_avoid_why">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jott.live/markdown/elementary_blockchain">Children Playing Blockchain&lt;/a>
+&lt;a href="https://lobste.rs/s/qj8mbe/children_playing_blockchain">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-03-09</title><link>https://frozen-lobster.rohanverma.net/posts/2021-03-09/</link><pubDate>Tue, 09 Mar 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-03-09/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://danielbmarkham.com/coding-constructs-i-now-avoid/">Coding Constructs I Now Avoid (and why)&lt;/a>
 &lt;a href="https://lobste.rs/s/suqsnm/coding_constructs_i_now_avoid_why">(comments)&lt;/a>&lt;/p>
