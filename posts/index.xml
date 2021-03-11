@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 10 Mar 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-03-10</title><link>https://frozen-lobster.rohanverma.net/posts/2021-03-10/</link><pubDate>Wed, 10 Mar 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-03-10/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 11 Mar 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-03-11</title><link>https://frozen-lobster.rohanverma.net/posts/2021-03-11/</link><pubDate>Thu, 11 Mar 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-03-11/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://twitter.com/olesovhcom/status/1369478732247932929">fire in OVH cloud datacenter - complete dc lost&lt;/a>
+&lt;a href="https://lobste.rs/s/pnf6my/fire_ovh_cloud_datacenter_complete_dc">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.eff.org/deeplinks/2021/03/googles-floc-terrible-idea">Google’s FLoC Is a Terrible Idea&lt;/a>
+&lt;a href="https://lobste.rs/s/oweqde/google_s_floc_is_terrible_idea">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://dimamoroz.com/2021/03/09/intel-nuc-for-development/">Intel NUC as a backend for development&lt;/a>
+&lt;a href="https://lobste.rs/s/lgofch/intel_nuc_as_backend_for_development">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://theta.eu.org/2021/03/08/async-rust-2.html">Why asynchronous Rust doesn&amp;rsquo;t work&lt;/a>
+&lt;a href="https://lobste.rs/s/3vt0s6/why_asynchronous_rust_doesn_t_work">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.worldofbs.com/why-documentation-sucks/">Why Your Company&amp;rsquo;s Documentation Sucks&lt;/a>
+&lt;a href="https://lobste.rs/s/x3fdlt/why_your_company_s_documentation_sucks">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://devlog.hexops.com/2021/zig-parser-combinators-and-why-theyre-awesome">Zig, Parser Combinators - and Why They&amp;rsquo;re Awesome&lt;/a>
+&lt;a href="https://lobste.rs/s/8ee8ly/zig_parser_combinators_why_they_re">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://danielbmarkham.com/incremental-strong-typing/">Incremental Strong Typing&lt;/a>
+&lt;a href="https://lobste.rs/s/r9ehql/incremental_strong_typing">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.silvestar.codes/articles/you-want-a-single-enabling-selector-not-the-one-that-disables-the-rule-of-the-previous-one/">You want enabling CSS selectors, not disabling ones&lt;/a>
+&lt;a href="https://lobste.rs/s/gjt15n/you_want_enabling_css_selectors_not">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://calpaterson.com/ttl-hell.html">Staying out of TTL hell&lt;/a>
+&lt;a href="https://lobste.rs/s/8w1mhc/staying_out_ttl_hell">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://heroiclabs.com/blog/announcements/godot-fishgame/">Making an online multiplayer game with Godot and Nakama&lt;/a>
+&lt;a href="https://lobste.rs/s/rikico/making_online_multiplayer_game_with">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-03-10</title><link>https://frozen-lobster.rohanverma.net/posts/2021-03-10/</link><pubDate>Wed, 10 Mar 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-03-10/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://daniel.haxx.se/blog/2021/03/09/half-of-curls-vulnerabilities-are-c-mistakes/">half of curl’s vulnerabilities are C mistakes&lt;/a>
 &lt;a href="https://lobste.rs/s/3efzcx/half_curl_s_vulnerabilities_are_c">(comments)&lt;/a>&lt;/p>
