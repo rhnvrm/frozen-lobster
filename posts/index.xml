@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 11 Mar 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-03-11</title><link>https://frozen-lobster.rohanverma.net/posts/2021-03-11/</link><pubDate>Thu, 11 Mar 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-03-11/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 12 Mar 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-03-12</title><link>https://frozen-lobster.rohanverma.net/posts/2021-03-12/</link><pubDate>Fri, 12 Mar 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-03-12/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.indiehackers.com/post/how-i-earn-a-living-selling-my-open-source-software-476f6bb07e">How I earn a living selling my open source software&lt;/a>
+&lt;a href="https://lobste.rs/s/a0wz7u/how_i_earn_living_selling_my_open_source">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ofnumbers.com/2021/02/14/bitcoin-and-other-pow-coins-are-an-esg-nightmare/">Bitcoin and other PoW coins are an ESG nightmare&lt;/a>
+&lt;a href="https://lobste.rs/s/khhkfy/bitcoin_other_pow_coins_are_esg_nightmare">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://bert.org/2021/03/10/building-a-zoom-mute-button/">Building a Zoom Mute Button&lt;/a>
+&lt;a href="https://lobste.rs/s/lcorqq/building_zoom_mute_button">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://soatok.blog/2021/03/04/no-gates-no-keepers/">No Gates, No Keepers&lt;/a>
+&lt;a href="https://lobste.rs/s/rht5g9/no_gates_no_keepers">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://rachelbythebay.com/w/2021/03/10/sealed/">Mac upgrade opened sshd to brute force password attacks&lt;/a>
+&lt;a href="https://lobste.rs/s/zwyyrw/mac_upgrade_opened_sshd_brute_force">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lars.hupel.info/articles/routing-the-interview/">Routing the technical interview&lt;/a>
+&lt;a href="https://lobste.rs/s/ttcxph/routing_technical_interview">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://discuss.ocaml.org/t/multicore-ocaml-february-2021/7449">Multicore OCaml: February 2021&lt;/a>
+&lt;a href="https://lobste.rs/s/hsarmb/multicore_ocaml_february_2021">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tailscale.com/blog/netaddr-new-ip-type-for-go/">netaddr.IP: a new IP address type for Go&lt;/a>
+&lt;a href="https://lobste.rs/s/pkshbf/netaddr_ip_new_ip_address_type_for_go">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.eff.org/deeplinks/2021/03/googles-floc-terrible-idea">Google’s FLoC Is a Terrible Idea&lt;/a>
+&lt;a href="https://lobste.rs/s/oweqde/google_s_floc_is_terrible_idea">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tldp.org/LDP/abs/html/index.html">Advanced Bash-Scripting Guide&lt;/a>
+&lt;a href="https://lobste.rs/s/ckz3l6/advanced_bash_scripting_guide">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-03-11</title><link>https://frozen-lobster.rohanverma.net/posts/2021-03-11/</link><pubDate>Thu, 11 Mar 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-03-11/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://twitter.com/olesovhcom/status/1369478732247932929">fire in OVH cloud datacenter - complete dc lost&lt;/a>
 &lt;a href="https://lobste.rs/s/pnf6my/fire_ovh_cloud_datacenter_complete_dc">(comments)&lt;/a>&lt;/p>
