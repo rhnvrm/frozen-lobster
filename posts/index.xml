@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 13 Mar 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-03-13</title><link>https://frozen-lobster.rohanverma.net/posts/2021-03-13/</link><pubDate>Sat, 13 Mar 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-03-13/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 14 Mar 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-03-14</title><link>https://frozen-lobster.rohanverma.net/posts/2021-03-14/</link><pubDate>Sun, 14 Mar 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-03-14/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="http://www.mattmillman.com/why-i-dont-do-arduino/">Why I don’t ‘do’ Arduino&lt;/a>
+&lt;a href="https://lobste.rs/s/x0jdod/why_i_don_t_do_arduino">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://kornel.ski/rust-c-speed">Speed of Rust vs C&lt;/a>
+&lt;a href="https://lobste.rs/s/ee3g3t/speed_rust_vs_c">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://matklad.github.io//2021/03/12/goroutines-are-not-significantly-lighter-than-threads.html">Goroutines Are Not Significantly Lighter Than Threads&lt;/a>
+&lt;a href="https://lobste.rs/s/wxdvlr/goroutines_are_not_significantly">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://quuxplusone.github.io/blog/2021/03/12/gets-considered-harmful-duh/">C’s removal of gets could have been done better&lt;/a>
+&lt;a href="https://lobste.rs/s/ofqq3i/c_s_removal_gets_could_have_been_done">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://adam.nels.onl/blog/an-oo-languge-for-the-20s/">An Object-Oriented Language for the &amp;rsquo;20s&lt;/a>
+&lt;a href="https://lobste.rs/s/tzjhse/object_oriented_language_for_20s">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://anmonteiro.com/2021/03/on-ocaml-and-the-js-platform/">On OCaml and the JS platform&lt;/a>
+&lt;a href="https://lobste.rs/s/xzrphq/on_ocaml_js_platform">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://junglecoder.com/blog/learning-without-burnout">Learning without Burnout&lt;/a>
+&lt;a href="https://lobste.rs/s/kupamm/learning_without_burnout">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://nalgeon.github.io/sqlite-3-35/">What’s new in SQLite 3.35&lt;/a>
+&lt;a href="https://lobste.rs/s/hmaxgz/what_s_new_sqlite_3_35">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/diimdeep/awesome-split-keyboards">List of split keyboards&lt;/a>
+&lt;a href="https://lobste.rs/s/hpjtmq/list_split_keyboards">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://michael.stapelberg.ch/posts/2021-03-13-smart-intercom-backpack/">Make your intercom smarter with an MQTT backpack&lt;/a>
+&lt;a href="https://lobste.rs/s/pgh6rn/make_your_intercom_smarter_with_mqtt">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-03-13</title><link>https://frozen-lobster.rohanverma.net/posts/2021-03-13/</link><pubDate>Sat, 13 Mar 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-03-13/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://matklad.github.io//2021/03/12/goroutines-are-not-significantly-lighter-than-threads.html">Goroutines Are Not Significantly Lighter Than Threads&lt;/a>
 &lt;a href="https://lobste.rs/s/wxdvlr/goroutines_are_not_significantly">(comments)&lt;/a>&lt;/p>
