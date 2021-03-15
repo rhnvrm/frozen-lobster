@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 14 Mar 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-03-14</title><link>https://frozen-lobster.rohanverma.net/posts/2021-03-14/</link><pubDate>Sun, 14 Mar 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-03-14/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 15 Mar 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-03-15</title><link>https://frozen-lobster.rohanverma.net/posts/2021-03-15/</link><pubDate>Mon, 15 Mar 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-03-15/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://partee.io/2021/02/21/climate-model-response/">Why are Climate models written in programming languages from 1950?&lt;/a>
+&lt;a href="https://lobste.rs/s/zlwgmm/why_are_climate_models_written">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://carolynvanslyck.com/blog/2021/01/mage-is-my-favorite-make/">Mage is My Favorite Make&lt;/a>
+&lt;a href="https://lobste.rs/s/zry6q1/mage_is_my_favorite_make">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.jpl.nasa.gov/edu/news/2016/3/16/how-many-decimals-of-pi-do-we-really-need/">How Many Decimals of Pi Do We Really Need?&lt;/a>
+&lt;a href="https://lobste.rs/s/xewonp/how_many_decimals_pi_do_we_really_need">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=OyrByPkiX7s">The Hindley-Milner Type System&lt;/a>
+&lt;a href="https://lobste.rs/s/o8ckxh/hindley_milner_type_system">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ritchievink.com/blog/2021/02/28/i-wrote-one-of-the-fastest-dataframe-libraries/">I wrote one of the fastest DataFrame libraries&lt;/a>
+&lt;a href="https://lobste.rs/s/2vdztu/i_wrote_one_fastest_dataframe_libraries">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.theverge.com/22321816/csk-twine">Text Adventures: how Twine remade gaming&lt;/a>
+&lt;a href="https://lobste.rs/s/kvi91t/text_adventures_how_twine_remade_gaming">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/rcaden/Frontier#userland-frontier-open-source-release">UserLand Frontier Open Source Release&lt;/a>
+&lt;a href="https://lobste.rs/s/kfj4jw/userland_frontier_open_source_release">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/qarmin/czkawka">Czkawka - Simple/Fast/Easy App to Find/Remove Unnecessary Files&lt;/a>
+&lt;a href="https://lobste.rs/s/gpdigz/czkawka_simple_fast_easy_app_find_remove">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://anmonteiro.com/2021/03/on-ocaml-and-the-js-platform/">On OCaml and the JS platform&lt;/a>
+&lt;a href="https://lobste.rs/s/xzrphq/on_ocaml_js_platform">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/soywod/react-pin-field">React component for entering PIN codes&lt;/a>
+&lt;a href="https://lobste.rs/s/hj13kt/react_component_for_entering_pin_codes">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-03-14</title><link>https://frozen-lobster.rohanverma.net/posts/2021-03-14/</link><pubDate>Sun, 14 Mar 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-03-14/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="http://www.mattmillman.com/why-i-dont-do-arduino/">Why I don’t ‘do’ Arduino&lt;/a>
 &lt;a href="https://lobste.rs/s/x0jdod/why_i_don_t_do_arduino">(comments)&lt;/a>&lt;/p>
