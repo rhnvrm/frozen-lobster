@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 16 Mar 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-03-16</title><link>https://frozen-lobster.rohanverma.net/posts/2021-03-16/</link><pubDate>Tue, 16 Mar 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-03-16/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 17 Mar 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-03-17</title><link>https://frozen-lobster.rohanverma.net/posts/2021-03-17/</link><pubDate>Wed, 17 Mar 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-03-17/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://blog.yossarian.net/2021/03/16/totally_safe_transmute-line-by-line">totally_safe_transmute, line-by-line&lt;/a>
+&lt;a href="https://lobste.rs/s/9rmsyl/totally_safe_transmute_line_by_line">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://medium.com/swlh/why-senior-engineers-hate-coding-interviews-d583d2855757">Why Senior Engineers Hate Coding Interviews&lt;/a>
+&lt;a href="https://lobste.rs/s/tw2pdg/why_senior_engineers_hate_coding">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://benbernardblog.com/what-ive-learned-from-10-years-of-personal-projects/">What I&amp;rsquo;ve Learned From 10+ Years of Personal Projects and Startups&lt;/a>
+&lt;a href="https://lobste.rs/s/mbiwvb/what_i_ve_learned_from_10_years_personal">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lists.zx2c4.com/pipermail/wireguard/2021-March/006494.html">WireGuard for FreeBSD in development for 13.y – and a note of how we got here&lt;/a>
+&lt;a href="https://lobste.rs/s/cqdh3x/wireguard_for_freebsd_development_for_13">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://launchyourapp.meezeeworkouts.com/2021/03/why-we-dont-use-docker-we-dont-need-it.html">Why We Don’t Use Docker (We Don’t Need It)&lt;/a>
+&lt;a href="https://lobste.rs/s/dsk7m1/why_we_don_t_use_docker_we_don_t_need_it">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://torrentfreak.com/adobe-goes-after-27-year-old-pirated-copy-of-acrobat-reader-1-0-for-ms-dos-210315/">Adobe Goes After 27-Year Old &amp;lsquo;Pirated&amp;rsquo; Copy of Acrobat Reader 1.0 for MS-DOS&lt;/a>
+&lt;a href="https://lobste.rs/s/oreiag/adobe_goes_after_27_year_old_pirated_copy">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.monotux.tech/posts/2021/03/built-with-srht-sites/">Build, deploy and host hugo with srht.site&lt;/a>
+&lt;a href="https://lobste.rs/s/pjrbwg/build_deploy_host_hugo_with_srht_site">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://benhoyt.com/writings/count-words/">Performance comparison: counting words in Python, Go, C++, C, AWK, Forth, and Rust&lt;/a>
+&lt;a href="https://lobste.rs/s/3byl7t/performance_comparison_counting_words">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ianthehenry.com/posts/sd-my-script-directory/">sd: my script directory&lt;/a>
+&lt;a href="https://lobste.rs/s/cqiw84/sd_my_script_directory">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/eyal0/Chicken-story/blob/main/README.md">Chicken Story&lt;/a>
+&lt;a href="https://lobste.rs/s/4nns8s/chicken_story">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-03-16</title><link>https://frozen-lobster.rohanverma.net/posts/2021-03-16/</link><pubDate>Tue, 16 Mar 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-03-16/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://benhoyt.com/writings/count-words/">Performance comparison: counting words in Python, Go, C++, C, AWK, Forth, and Rust&lt;/a>
 &lt;a href="https://lobste.rs/s/3byl7t/performance_comparison_counting_words">(comments)&lt;/a>&lt;/p>
