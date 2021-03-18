@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 17 Mar 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-03-17</title><link>https://frozen-lobster.rohanverma.net/posts/2021-03-17/</link><pubDate>Wed, 17 Mar 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-03-17/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 18 Mar 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-03-18</title><link>https://frozen-lobster.rohanverma.net/posts/2021-03-18/</link><pubDate>Thu, 18 Mar 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-03-18/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://zverok.github.io/blog/2021-03-16-spellchecking-dictionaries.html">17 (ever so slightly) weird facts about the most popular dictionary format&lt;/a>
+&lt;a href="https://lobste.rs/s/d3jwnr/17_ever_so_slightly_weird_facts_about_most">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.schneier.com/blog/archives/2021/03/illegal-content-and-the-blockchain.html">Illegal content and the blockchain&lt;/a>
+&lt;a href="https://lobste.rs/s/yl20qv/illegal_content_blockchain">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/ezrosent/frawk">frawk, a JITted and SIMD-optimized AWK written in Rust&lt;/a>
+&lt;a href="https://lobste.rs/s/bdzlsu/frawk_jitted_simd_optimized_awk_written">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://arxiv.org/pdf/1204.1749.pdf">Robust Soldier Crab Ball Gate&lt;/a>
+&lt;a href="https://lobste.rs/s/gfsmvp/robust_soldier_crab_ball_gate">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://utcc.utoronto.ca/~cks/space/blog/unix/RemoteXLifesaver">Remote X has been a life saver over this past year&lt;/a>
+&lt;a href="https://lobste.rs/s/5rt95l/remote_x_has_been_life_saver_over_this_past">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/samuelkarp/runj">runj is Experimental Proof of Concept OCI Compatible Runtime for FreeBSD Jails&lt;/a>
+&lt;a href="https://lobste.rs/s/n78763/runj_is_experimental_proof_concept_oci">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://stevelosh.com/blog/2021/03/small-common-lisp-cli-programs/">Writing Small CLI Programs in Common Lisp&lt;/a>
+&lt;a href="https://lobste.rs/s/zqx3ly/writing_small_cli_programs_common_lisp">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.yossarian.net/2021/03/16/totally_safe_transmute-line-by-line">totally_safe_transmute, line-by-line&lt;/a>
+&lt;a href="https://lobste.rs/s/9rmsyl/totally_safe_transmute_line_by_line">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://mooseyanon.medium.com/github-f-ck-your-name-change-de599033bbbe">GitHub, f*ck your name change&lt;/a>
+&lt;a href="https://lobste.rs/s/evs3px/github_f_ck_your_name_change">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/ChartsCSS/charts.css">Charts CSS&lt;/a>
+&lt;a href="https://lobste.rs/s/ahphyy/charts_css">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-03-17</title><link>https://frozen-lobster.rohanverma.net/posts/2021-03-17/</link><pubDate>Wed, 17 Mar 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-03-17/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://blog.yossarian.net/2021/03/16/totally_safe_transmute-line-by-line">totally_safe_transmute, line-by-line&lt;/a>
 &lt;a href="https://lobste.rs/s/9rmsyl/totally_safe_transmute_line_by_line">(comments)&lt;/a>&lt;/p>
