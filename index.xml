@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 20 Mar 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-03-20</title><link>https://frozen-lobster.rohanverma.net/posts/2021-03-20/</link><pubDate>Sat, 20 Mar 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-03-20/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 21 Mar 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-03-21</title><link>https://frozen-lobster.rohanverma.net/posts/2021-03-21/</link><pubDate>Sun, 21 Mar 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-03-21/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://rhardih.io/2021/03/migrating-from-lastpass-to-pass/">Migrating from LastPass to pass&lt;/a>
+&lt;a href="https://lobste.rs/s/jikx6o/migrating_from_lastpass_pass">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://scattered-thoughts.net/writing/how-safe-is-zig/">How safe is zig?&lt;/a>
+&lt;a href="https://lobste.rs/s/v5y4jb/how_safe_is_zig">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://anarc.at/blog/2021-03-19-dtach-screen-security/">Securing my IRC (irssi, screen) session with dtach and systemd&lt;/a>
+&lt;a href="https://lobste.rs/s/t3ntme/securing_my_irc_irssi_screen_session_with">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gist.github.com/MMI/eaae59cb9481f17b63ab0e7fb07ee4fb">ARM gcc may generate illegal instructions in place of integer division by zero&lt;/a>
+&lt;a href="https://lobste.rs/s/fbd08h/arm_gcc_may_generate_illegal">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://emojraw.glitch.me">Emoji Pixel Art&lt;/a>
+&lt;a href="https://lobste.rs/s/4fez6h/emoji_pixel_art">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.mediocregopher.com/2021/03/20/a-simple-rule-for-better-errors.html">A Simple Rule for Better Errors&lt;/a>
+&lt;a href="https://lobste.rs/s/pqocwu/simple_rule_for_better_errors">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/zpl-c/zpl">ZPL: A cross-platform header-only C99 toolkit&lt;/a>
+&lt;a href="https://lobste.rs/s/casuoz/zpl_cross_platform_header_only_c99">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://briancallahan.net/blog/20210320.html">A working D compiler on OpenBSD&lt;/a>
+&lt;a href="https://lobste.rs/s/vwwohh/working_d_compiler_on_openbsd">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://libreplanet.org/2021/program/">LibrePlanet 2021&lt;/a>
+&lt;a href="https://lobste.rs/s/z8j20w/libreplanet_2021">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.efavdb.com/generalized_dollar_cost_averaging">Generalized Dollar Cost Averaging&lt;/a>
+&lt;a href="https://lobste.rs/s/4lypzr/generalized_dollar_cost_averaging">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-03-20</title><link>https://frozen-lobster.rohanverma.net/posts/2021-03-20/</link><pubDate>Sat, 20 Mar 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-03-20/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://git.kernel.org/pub/scm/linux/kernel/git/next/linux-next.git/commit/rust?id=c77c8025525c36c9d2b9d82e4539403701276a1d">Rust support in linux-next.git&lt;/a>
 &lt;a href="https://lobste.rs/s/p85vjf/rust_support_linux_next_git">(comments)&lt;/a>&lt;/p>
