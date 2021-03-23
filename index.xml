@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 22 Mar 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-03-22</title><link>https://frozen-lobster.rohanverma.net/posts/2021-03-22/</link><pubDate>Mon, 22 Mar 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-03-22/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 23 Mar 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-03-23</title><link>https://frozen-lobster.rohanverma.net/posts/2021-03-23/</link><pubDate>Tue, 23 Mar 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-03-23/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://technomancy.us/194">There is no such thing as a functional programming language&lt;/a>
+&lt;a href="https://lobste.rs/s/bdaiwc/there_is_no_such_thing_as_functional">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://hmarr.com/blog/vitals/">Vitals: a tiny macOS process monitor&lt;/a>
+&lt;a href="https://lobste.rs/s/fkawxy/vitals_tiny_macos_process_monitor">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.mozilla.org/security/2021/03/22/firefox-87-trims-http-referrers-by-default-to-protect-user-privacy/">Firefox 87 trims HTTP Referrers by default to protect user privacy&lt;/a>
+&lt;a href="https://lobste.rs/s/lolybq/firefox_87_trims_http_referrers_by">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://rytisbiel.com/2021/03/06/darker-corners-of-go/">Darker Corners of Go&lt;/a>
+&lt;a href="https://lobste.rs/s/cbjhdi/darker_corners_go">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://klarasystems.com/articles/history-of-zfs-part-1-the-birth-of-zfs/">History of ZFS – Part 1: The Birth of ZFS&lt;/a>
+&lt;a href="https://lobste.rs/s/criht7/history_zfs_part_1_birth_zfs">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://twitter.com/Benjojo12/status/1373707799054712836?s=19">B2 web UI seems to submit files to facebook&lt;/a>
+&lt;a href="https://lobste.rs/s/blhsea/b2_web_ui_seems_submit_files_facebook">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.cyberciti.biz/interview/curl-creator-and-swedish-software-developer-daniel-stenberg/">Interview with curl creator &amp;amp; software developer Daniel Stenberg&lt;/a>
+&lt;a href="https://lobste.rs/s/f3k8pr/interview_with_curl_creator_software">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this week?&lt;/a>
+&lt;a href="https://lobste.rs/s/zmeotc/what_are_you_doing_this_week">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ianthehenry.com/posts/getting-drunk-with-datalog/">Getting Drunk with Datalog&lt;/a>
+&lt;a href="https://lobste.rs/s/x9kejq/getting_drunk_with_datalog">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://crystal-lang.org/2021/03/22/crystal-1.0-what-to-expect.html">Crystal 1.0 - What to expect&lt;/a>
+&lt;a href="https://lobste.rs/s/fmidmy/crystal_1_0_what_expect">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-03-22</title><link>https://frozen-lobster.rohanverma.net/posts/2021-03-22/</link><pubDate>Mon, 22 Mar 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-03-22/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://tomaka.medium.com/a-look-back-at-asynchronous-rust-d54d63934a1c">A look back at asynchronous Rust&lt;/a>
 &lt;a href="https://lobste.rs/s/tid6pj/look_back_at_asynchronous_rust">(comments)&lt;/a>&lt;/p>
