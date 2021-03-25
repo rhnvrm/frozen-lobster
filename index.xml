@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 24 Mar 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-03-24</title><link>https://frozen-lobster.rohanverma.net/posts/2021-03-24/</link><pubDate>Wed, 24 Mar 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-03-24/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 25 Mar 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-03-25</title><link>https://frozen-lobster.rohanverma.net/posts/2021-03-25/</link><pubDate>Thu, 25 Mar 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-03-25/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.fossil-scm.org/home/doc/trunk/www/chat.md">Fossil Chat&lt;/a>
+&lt;a href="https://lobste.rs/s/gruxgj/fossil_chat">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://zserge.com/posts/better-c-benchmark/">A &amp;ldquo;Better C&amp;rdquo; Benchmark&lt;/a>
+&lt;a href="https://lobste.rs/s/ndxi2r/better_c_benchmark">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://notes.ameo.design/fm.html">Fully-Featured FM Synthesizer in the Browser made with Rust, Web Audio, and SIMD WebAssembly&lt;/a>
+&lt;a href="https://lobste.rs/s/t3fzpa/fully_featured_fm_synthesizer_browser">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://acco.io/i-escaped-node">I finally escaped Node (and you can too)&lt;/a>
+&lt;a href="https://lobste.rs/s/eaaxsb/i_finally_escaped_node_you_can_too">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://hugodaniel.com/posts/infinite-grid-with-just-one-square/">Infinite grid with just one square&lt;/a>
+&lt;a href="https://lobste.rs/s/qqkja3/infinite_grid_with_just_one_square">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://esoteric.codes/">esoteric.codes&lt;/a>
+&lt;a href="https://lobste.rs/s/qt3dfh/esoteric_codes">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.can.ac/2021/03/22/speculating-x86-64-isa-with-one-weird-trick/">Speculating the entire x86-64 Instruction Set In Seconds with This One Weird Trick&lt;/a>
+&lt;a href="https://lobste.rs/s/opiqvc/speculating_entire_x86_64_instruction">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.cryptohack.org/twitter-secrets">Recovering a full PEM Private Key when half of it is redacted&lt;/a>
+&lt;a href="https://lobste.rs/s/ac9x95/recovering_full_pem_private_key_when_half">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/rails/rails/issues/41750">Dependency on mimemagic 0.3.x no longer valid&lt;/a>
+&lt;a href="https://lobste.rs/s/tpr2v8/dependency_on_mimemagic_0_3_x_no_longer">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pythonspeed.com/articles/security-updates-in-docker/">The worst so-called “best practice” for Docker&lt;/a>
+&lt;a href="https://lobste.rs/s/rji8ex/worst_so_called_best_practice_for_docker">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-03-24</title><link>https://frozen-lobster.rohanverma.net/posts/2021-03-24/</link><pubDate>Wed, 24 Mar 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-03-24/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://acco.io/i-escaped-node">I finally escaped Node (and you can too)&lt;/a>
 &lt;a href="https://lobste.rs/s/eaaxsb/i_finally_escaped_node_you_can_too">(comments)&lt;/a>&lt;/p>
