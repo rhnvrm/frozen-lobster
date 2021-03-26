@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 25 Mar 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-03-25</title><link>https://frozen-lobster.rohanverma.net/posts/2021-03-25/</link><pubDate>Thu, 25 Mar 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-03-25/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 26 Mar 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-03-26</title><link>https://frozen-lobster.rohanverma.net/posts/2021-03-26/</link><pubDate>Fri, 26 Mar 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-03-26/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://antonz.org/sqlite-is-not-a-toy-database/">SQLite is not a toy database&lt;/a>
+&lt;a href="https://lobste.rs/s/ts0vtk/sqlite_is_not_toy_database">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://dev.to/awwsmm/20-intriguing-unusual-and-goofy-programming-languages-238f">20 Intriguing, Unusual, and Goofy Programming Languages&lt;/a>
+&lt;a href="https://lobste.rs/s/vltbai/20_intriguing_unusual_goofy_programming">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://rachelbythebay.com/w/2021/03/24/comp/">Compile times, and why &amp;ldquo;the obvious&amp;rdquo; might not be so&lt;/a>
+&lt;a href="https://lobste.rs/s/ounjyq/compile_times_why_obvious_might_not_be_so">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.rust-lang.org/2021/03/25/Rust-1.51.0.html">Announcing Rust 1.51.0&lt;/a>
+&lt;a href="https://lobste.rs/s/172hph/announcing_rust_1_51_0">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://bart.degoe.de/building-a-full-text-search-engine-150-lines-of-code/">Building a full-text search engine in 150 lines of Python code&lt;/a>
+&lt;a href="https://lobste.rs/s/2zbnqf/building_full_text_search_engine_150">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://shape-of-code.coding-guidelines.com/2021/01/17/software-effort-estimation-is-mostly-fake-research/">Software effort estimation is mostly fake research&lt;/a>
+&lt;a href="https://lobste.rs/s/2ryeyj/software_effort_estimation_is_mostly">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://notes.ameo.design/fm.html">Fully-Featured FM Synthesizer in the Browser made with Rust, Web Audio, and SIMD WebAssembly&lt;/a>
+&lt;a href="https://lobste.rs/s/t3fzpa/fully_featured_fm_synthesizer_browser">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://brianschrader.com/archive/why-all-my-servers-have-an-8gb-empty-file/">Why All My Servers Have an 8GB Empty File&lt;/a>
+&lt;a href="https://lobste.rs/s/ytajxp/why_all_my_servers_have_8gb_empty_file">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://lexi-lambda.github.io/blog/2021/03/25/an-introduction-to-typeclass-metaprogramming/">An introduction to typeclass metaprogramming&lt;/a>
+&lt;a href="https://lobste.rs/s/nezteb/introduction_typeclass">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://repo.or.cz/h/mob.html">About the Mob Account&lt;/a>
+&lt;a href="https://lobste.rs/s/neqoir/about_mob_account">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-03-25</title><link>https://frozen-lobster.rohanverma.net/posts/2021-03-25/</link><pubDate>Thu, 25 Mar 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-03-25/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://www.fossil-scm.org/home/doc/trunk/www/chat.md">Fossil Chat&lt;/a>
 &lt;a href="https://lobste.rs/s/gruxgj/fossil_chat">(comments)&lt;/a>&lt;/p>
