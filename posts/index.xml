@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 26 Mar 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-03-26</title><link>https://frozen-lobster.rohanverma.net/posts/2021-03-26/</link><pubDate>Fri, 26 Mar 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-03-26/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 27 Mar 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-03-27</title><link>https://frozen-lobster.rohanverma.net/posts/2021-03-27/</link><pubDate>Sat, 27 Mar 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-03-27/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://erikmcclure.com/blog/factorio-is-best-interview-we-have/">Factorio Is The Best Technical Interview We Have&lt;/a>
+&lt;a href="https://lobste.rs/s/nwvm1p/factorio_is_best_technical_interview_we">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://arstechnica.com/gadgets/2021/03/buffer-overruns-license-violations-and-bad-code-freebsd-13s-close-call/">Buffer overruns, license violations, and bad code: FreeBSD 13’s close call&lt;/a>
+&lt;a href="https://lobste.rs/s/sh2kcf/buffer_overruns_license_violations_bad">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://benhoyt.com/writings/hash-table-in-c/">How to implement a hash table (in C)&lt;/a>
+&lt;a href="https://lobste.rs/s/6v0vxq/how_implement_hash_table_c">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://elv.sh/learn/tour.html">Quick Tour - Elvish Shell&lt;/a>
+&lt;a href="https://lobste.rs/s/aw2p1b/quick_tour_elvish_shell">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/sinic/ednc">The Emacs Desktop Notification Center&lt;/a>
+&lt;a href="https://lobste.rs/s/dp0tef/emacs_desktop_notification_center">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://antonz.org/sqlite-is-not-a-toy-database/">SQLite is not a toy database&lt;/a>
+&lt;a href="https://lobste.rs/s/ts0vtk/sqlite_is_not_toy_database">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://vadosware.io/post/serving-a-single-file-over-http-with-rust-and-go/">Serving a single file over HTTP with Rust and Go&lt;/a>
+&lt;a href="https://lobste.rs/s/3kpklv/serving_single_file_over_http_with_rust_go">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this weekend?&lt;/a>
+&lt;a href="https://lobste.rs/s/waj0ky/what_are_you_doing_this_weekend">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://brianschrader.com/archive/why-all-my-servers-have-an-8gb-empty-file/">Why All My Servers Have an 8GB Empty File&lt;/a>
+&lt;a href="https://lobste.rs/s/ytajxp/why_all_my_servers_have_8gb_empty_file">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://techcommunity.microsoft.com/t5/identity-standards-blog/ion-we-have-liftoff/ba-p/1441555">Microsoft launches ION, a decentralized identifier network running on Bitcoin blockchain&lt;/a>
+&lt;a href="https://lobste.rs/s/1blslq/microsoft_launches_ion_decentralized">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-03-26</title><link>https://frozen-lobster.rohanverma.net/posts/2021-03-26/</link><pubDate>Fri, 26 Mar 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-03-26/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://antonz.org/sqlite-is-not-a-toy-database/">SQLite is not a toy database&lt;/a>
 &lt;a href="https://lobste.rs/s/ts0vtk/sqlite_is_not_toy_database">(comments)&lt;/a>&lt;/p>
