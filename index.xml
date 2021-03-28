@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 27 Mar 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-03-27</title><link>https://frozen-lobster.rohanverma.net/posts/2021-03-27/</link><pubDate>Sat, 27 Mar 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-03-27/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 28 Mar 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-03-28</title><link>https://frozen-lobster.rohanverma.net/posts/2021-03-28/</link><pubDate>Sun, 28 Mar 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-03-28/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/goplus/gop">Go+: Go designed for data science&lt;/a>
+&lt;a href="https://lobste.rs/s/rjzmr3/go_go_designed_for_data_science">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://copyconstruct.medium.com/socat-29453e9fc8a6">socat&lt;/a>
+&lt;a href="https://lobste.rs/s/ezzgzg/socat">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://arxiv.org/pdf/2102.12922.pdf">BPF for storage: an exokernel-inspired approach&lt;/a>
+&lt;a href="https://lobste.rs/s/qvuqgj/bpf_for_storage_exokernel_inspired">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://twitter.com/mangopdf/status/1375558319570448385">you&amp;rsquo;re naming a file, but the name doesn&amp;rsquo;t matter. what do you usually call it?&lt;/a>
+&lt;a href="https://lobste.rs/s/fjj18p/you_re_naming_file_name_doesn_t_matter_what">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://blog.cretaria.com/posts/kludge-kingdom.html">Kludge kingdom&lt;/a>
+&lt;a href="https://lobste.rs/s/sl3pav/kludge_kingdom">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://erikmcclure.com/blog/factorio-is-best-interview-we-have/">Factorio Is The Best Technical Interview We Have&lt;/a>
+&lt;a href="https://lobste.rs/s/nwvm1p/factorio_is_best_technical_interview_we">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://stackoverflow.blog/2021/03/18/creating-a-good-feedback-loop-between-ops-and-devs-using-documentation/">“This should never happen. If it does, call the developers.”&lt;/a>
+&lt;a href="https://lobste.rs/s/2ject9/this_should_never_happen_if_it_does_call">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://arstechnica.com/gadgets/2021/03/buffer-overruns-license-violations-and-bad-code-freebsd-13s-close-call/">Buffer overruns, license violations, and bad code: FreeBSD 13’s close call&lt;/a>
+&lt;a href="https://lobste.rs/s/sh2kcf/buffer_overruns_license_violations_bad">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://www.lord-enki.net/medium-backup/2021-02-24_The-Moral-Valence-of-Technical-Decisions-aadc1b307747.html">The Moral Valence of Technical Decisions&lt;/a>
+&lt;a href="https://lobste.rs/s/tpyckq/moral_valence_technical_decisions">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">How can we help fix replies on lobste.rs?&lt;/a>
+&lt;a href="https://lobste.rs/s/j4luhv/how_can_we_help_fix_replies_on_lobste_rs">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-03-27</title><link>https://frozen-lobster.rohanverma.net/posts/2021-03-27/</link><pubDate>Sat, 27 Mar 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-03-27/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://erikmcclure.com/blog/factorio-is-best-interview-we-have/">Factorio Is The Best Technical Interview We Have&lt;/a>
 &lt;a href="https://lobste.rs/s/nwvm1p/factorio_is_best_technical_interview_we">(comments)&lt;/a>&lt;/p>
