@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 28 Mar 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-03-28</title><link>https://frozen-lobster.rohanverma.net/posts/2021-03-28/</link><pubDate>Sun, 28 Mar 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-03-28/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 29 Mar 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-03-29</title><link>https://frozen-lobster.rohanverma.net/posts/2021-03-29/</link><pubDate>Mon, 29 Mar 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-03-29/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="http://www.pathsensitive.com/2021/03/developer-tools-can-be-magic-instead.html">Developer tools can be magic. Instead, they collect dust&lt;/a>
+&lt;a href="https://lobste.rs/s/cme1nr/developer_tools_can_be_magic_instead_they">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://fasterthanli.me/articles/pin-and-suffering">Pin and suffering&lt;/a>
+&lt;a href="https://lobste.rs/s/f98dpj/pin_suffering">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thume.ca/2021/03/14/iforests/">Implicit In-order Forests: Zooming a billion trace events at 60fps&lt;/a>
+&lt;a href="https://lobste.rs/s/gkmpyc/implicit_order_forests_zooming_billion">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://loige.co/where-to-go-to-learn-rust-in-2021/">Where to go to learn Rust in 2021&lt;/a>
+&lt;a href="https://lobste.rs/s/sy7y7f/where_go_learn_rust_2021">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://medium.com/inside-inovo/your-ai-skills-are-worth-less-than-you-think-e4b5640adb4f">Your AI skills are worth less than you think (2019)&lt;/a>
+&lt;a href="https://lobste.rs/s/inujah/your_ai_skills_are_worth_less_than_you">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://muboard.net/">Muboard - Mathematics Scribbling Board&lt;/a>
+&lt;a href="https://lobste.rs/s/kxdccq/muboard_mathematics_scribbling_board">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.klipse.tech/java/2021/03/28/dynamic-data-access-in-java.html">How to access data dynamically in Java without losing type safety&lt;/a>
+&lt;a href="https://lobste.rs/s/9odkbw/how_access_data_dynamically_java_without">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=4ckjr9x214c">Mining Bitcoin on the Game Boy&lt;/a>
+&lt;a href="https://lobste.rs/s/nqbvxy/mining_bitcoin_on_game_boy">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://nedbatchelder.com/blog/202103/gefilte_fish_gmail_filter_creation.html">Gefilte Fish: gmail filter creation&lt;/a>
+&lt;a href="https://lobste.rs/s/2nxnyz/gefilte_fish_gmail_filter_creation">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://mbuffett.com/posts/qr-code-hitchhikers-guide/">How Much of the Hitchhiker&amp;rsquo;s Guide to the Galaxy Can You Fit on a QR Code?&lt;/a>
+&lt;a href="https://lobste.rs/s/bvuvjc/how_much_hitchhiker_s_guide_galaxy_can_you">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-03-28</title><link>https://frozen-lobster.rohanverma.net/posts/2021-03-28/</link><pubDate>Sun, 28 Mar 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-03-28/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://github.com/goplus/gop">Go+: Go designed for data science&lt;/a>
 &lt;a href="https://lobste.rs/s/rjzmr3/go_go_designed_for_data_science">(comments)&lt;/a>&lt;/p>
