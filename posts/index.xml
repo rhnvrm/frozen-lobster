@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 29 Mar 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-03-29</title><link>https://frozen-lobster.rohanverma.net/posts/2021-03-29/</link><pubDate>Mon, 29 Mar 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-03-29/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 30 Mar 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-03-30</title><link>https://frozen-lobster.rohanverma.net/posts/2021-03-30/</link><pubDate>Tue, 30 Mar 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-03-30/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.hillelwayne.com/post/linked-lists/">Why do Interviewers Ask Linked List Questions?&lt;/a>
+&lt;a href="https://lobste.rs/s/kptfk5/why_do_interviewers_ask_linked_list">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://rory.bio/posts/git-plan/">git&amp;rsquo;s commit workflow is backwards, and encourages bad habits&lt;/a>
+&lt;a href="https://lobste.rs/s/c05dgd/git_s_commit_workflow_is_backwards">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://martin.baillie.id/wrote/gotchas-in-the-go-network-packages-defaults/">Gotchas in the Go Network Packages Defaults&lt;/a>
+&lt;a href="https://lobste.rs/s/chfmrw/gotchas_go_network_packages_defaults">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://www.pathsensitive.com/2021/03/developer-tools-can-be-magic-instead.html">Developer tools can be magic. Instead, they collect dust&lt;/a>
+&lt;a href="https://lobste.rs/s/cme1nr/developer_tools_can_be_magic_instead_they">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this week?&lt;/a>
+&lt;a href="https://lobste.rs/s/brz3yb/what_are_you_doing_this_week">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://news-web.php.net/php.internals/113838">Malicious Commits to PHPs Git Repository&lt;/a>
+&lt;a href="https://lobste.rs/s/gwwjsi/malicious_commits_phps_git_repository">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://tenfourfox.blogspot.com/2020/04/the-end-of-tenfourfox-and-what-ive.html">The end of TenFourFox and what I&amp;rsquo;ve learned from it&lt;/a>
+&lt;a href="https://lobste.rs/s/amkzup/end_tenfourfox_what_i_ve_learned_from_it">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.mergify.io/un-signed-commits-how-we-found-a-non-security-bug-in-github/">(Un)signed commits: how we found a (non) security bug in GitHub&lt;/a>
+&lt;a href="https://lobste.rs/s/e1ozfu/un_signed_commits_how_we_found_non">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://commandcenter.blogspot.com/2012/04/byte-order-fallacy.html">The byte order fallacy - Rob Pike&lt;/a>
+&lt;a href="https://lobste.rs/s/e2pfcs/byte_order_fallacy_rob_pike">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sin-ack.github.io/posts/self-object-system/">A look at Self&amp;rsquo;s object system&lt;/a>
+&lt;a href="https://lobste.rs/s/meoh5y/look_at_self_s_object_system">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-03-29</title><link>https://frozen-lobster.rohanverma.net/posts/2021-03-29/</link><pubDate>Mon, 29 Mar 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-03-29/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="http://www.pathsensitive.com/2021/03/developer-tools-can-be-magic-instead.html">Developer tools can be magic. Instead, they collect dust&lt;/a>
 &lt;a href="https://lobste.rs/s/cme1nr/developer_tools_can_be_magic_instead_they">(comments)&lt;/a>&lt;/p>
