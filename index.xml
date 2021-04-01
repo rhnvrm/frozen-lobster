@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 31 Mar 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-03-31</title><link>https://frozen-lobster.rohanverma.net/posts/2021-03-31/</link><pubDate>Wed, 31 Mar 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-03-31/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 01 Apr 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-04-01</title><link>https://frozen-lobster.rohanverma.net/posts/2021-04-01/</link><pubDate>Thu, 01 Apr 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-04-01/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://the-brannons.com/cgit/cgit.cgi/nawp/about/">NAWP Aint WordPress (minimal blogging engine in Chicken Scheme)&lt;/a>
+&lt;a href="https://lobste.rs/s/2pttwt/nawp_aint_wordpress_minimal_blogging">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://daniel.haxx.se/blog/2021/03/31/curl-7-76-0-adds-rustls/">curl 7.76.0 adds rustls&lt;/a>
+&lt;a href="https://lobste.rs/s/1lodrt/curl_7_76_0_adds_rustls">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://arxiv.org/pdf/2005.06444.pdf">Pika parsing: reformulating packrat parsing as a dynamic programming algorithm solves the left recursion and error recovery problems&lt;/a>
+&lt;a href="https://lobste.rs/s/2lr9m2/pika_parsing_reformulating_packrat">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jvns.ca/blog/2021/03/31/dnspeep-tool/">A tool to spy on your DNS queries: dnspeep&lt;/a>
+&lt;a href="https://lobste.rs/s/83f9yt/tool_spy_on_your_dns_queries_dnspeep">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://giansegato.com/essays/how-i-beat-the-berlin-rental-market-with-a-python-script/">How I Beat the Berlin Rental Market With a Python Script&lt;/a>
+&lt;a href="https://lobste.rs/s/abffzf/how_i_beat_berlin_rental_market_with">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tonsky.me/blog/font-size/">Font size is useless; let’s fix it&lt;/a>
+&lt;a href="https://lobste.rs/s/nl6nd3/font_size_is_useless_let_s_fix_it">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What do you use for your home networking setup?&lt;/a>
+&lt;a href="https://lobste.rs/s/dbr7yu/what_do_you_use_for_your_home_networking">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://doma.dev/blog/parsing-stuff-in-rust/">Parser combinators in Rust&lt;/a>
+&lt;a href="https://lobste.rs/s/ah0wcm/parser_combinators_rust">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://v5.chriskrycho.com/elsewhere/keep-it-local/">Keep It Local, or: (part of) what “reasoning about your code” really means&lt;/a>
+&lt;a href="https://lobste.rs/s/df9dzp/keep_it_local_part_what_reasoning_about">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.nelhage.com/post/some-opinionated-sql-takes/">Some opinionated thoughts on SQL databases&lt;/a>
+&lt;a href="https://lobste.rs/s/jb8jk1/some_opinionated_thoughts_on_sql">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-03-31</title><link>https://frozen-lobster.rohanverma.net/posts/2021-03-31/</link><pubDate>Wed, 31 Mar 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-03-31/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="">What do you use for your home networking setup?&lt;/a>
 &lt;a href="https://lobste.rs/s/dbr7yu/what_do_you_use_for_your_home_networking">(comments)&lt;/a>&lt;/p>
