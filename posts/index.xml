@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 02 Apr 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-04-02</title><link>https://frozen-lobster.rohanverma.net/posts/2021-04-02/</link><pubDate>Fri, 02 Apr 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-04-02/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 03 Apr 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-04-03</title><link>https://frozen-lobster.rohanverma.net/posts/2021-04-03/</link><pubDate>Sat, 03 Apr 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-04-03/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://cfenollosa.com/blog/fed-up-with-the-mac-i-spent-six-months-with-a-linux-laptop-the-grass-is-not-greener-on-the-other-side.html">Fed up with the Mac, I spent six months with a Linux laptop. The grass is not greener on the other side&lt;/a>
+&lt;a href="https://lobste.rs/s/pjkafl/fed_up_with_mac_i_spent_six_months_with">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://christine.website/blog/unix-domain-sockets-2021-04-01">Unix Domain Sockets for Serving HTTP in Production&lt;/a>
+&lt;a href="https://lobste.rs/s/fqqsct/unix_domain_sockets_for_serving_http">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://nns.ee/blog/2021/04/01/modem-blog.html">This blog is now hosted on a GPS/LTE modem&lt;/a>
+&lt;a href="https://lobste.rs/s/mbrvxk/this_blog_is_now_hosted_on_gps_lte_modem">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.nayuki.io/page/summary-of-c-cpp-integer-rules">Summary of C/C++ integer rules&lt;/a>
+&lt;a href="https://lobste.rs/s/kbvdnu/summary_c_c_integer_rules">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ianthehenry.com/posts/tmux-psa/">tmux lets you select and copy text with your keyboard&lt;/a>
+&lt;a href="https://lobste.rs/s/0vlkba/tmux_lets_you_select_copy_text_with_your">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://www.youtube.com/playlist?list=PLi6VoEKYdlE39FKNE-oz0Z6LYqdmymTss">Racketfest 2021 Amateur Night Talks&lt;/a>
+&lt;a href="https://lobste.rs/s/0pnme2/racketfest_2021_amateur_night_talks">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">Who&amp;rsquo;s hiring? Q2Y2021&lt;/a>
+&lt;a href="https://lobste.rs/s/6lrojl/who_s_hiring_q2y2021">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.microsoftcoffee.org/">Microsoft Coffee&lt;/a>
+&lt;a href="https://lobste.rs/s/i6jxoq/microsoft_coffee">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://oleksandrkvl.github.io/2021/04/02/cpp-20-overview.html">All C++20 core language features with examples&lt;/a>
+&lt;a href="https://lobste.rs/s/j6oycr/all_c_20_core_language_features_with">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://daniel.haxx.se/blog/2021/04/02/where-is-http-3-right-now/">Where is HTTP/3 right now?&lt;/a>
+&lt;a href="https://lobste.rs/s/jbgpvc/where_is_http_3_right_now">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-04-02</title><link>https://frozen-lobster.rohanverma.net/posts/2021-04-02/</link><pubDate>Fri, 02 Apr 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-04-02/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://sporks.space/2021/03/31/why-thinkpads-are-overrated-and-misunderstood/">Why ThinkPads are overrated and misunderstood&lt;/a>
 &lt;a href="https://lobste.rs/s/mwul4w/why_thinkpads_are_overrated">(comments)&lt;/a>&lt;/p>
