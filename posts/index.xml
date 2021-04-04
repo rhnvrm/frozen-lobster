@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 03 Apr 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-04-03</title><link>https://frozen-lobster.rohanverma.net/posts/2021-04-03/</link><pubDate>Sat, 03 Apr 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-04-03/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 04 Apr 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-04-04</title><link>https://frozen-lobster.rohanverma.net/posts/2021-04-04/</link><pubDate>Sun, 04 Apr 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-04-04/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/charmbracelet/lipgloss/">Lip Gloss - a CSS-like layout library for your Go terminal apps&lt;/a>
+&lt;a href="https://lobste.rs/s/9m6xxu/lip_gloss_css_like_layout_library_for_your">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/climech/grit#grit">grit: A multitree-based personal task manager&lt;/a>
+&lt;a href="https://lobste.rs/s/xuqtx0/grit_multitree_based_personal_task">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/michaeljones/on-commit-messages">On Git Commit Messages&lt;/a>
+&lt;a href="https://lobste.rs/s/iy37mk/on_git_commit_messages">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jvns.ca/blog/2021/04/03/what-problems-do-people-solve-with-strace/">What problems do people solve with strace?&lt;/a>
+&lt;a href="https://lobste.rs/s/d9ucpe/what_problems_do_people_solve_with_strace">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/Kleidukos/ghc-proposals/blob/patch-1/proposals/0000-ghc-maintainer-preview.md">GHC Maintainer Preview Proposal&lt;/a>
+&lt;a href="https://lobste.rs/s/jtlzur/ghc_maintainer_preview_proposal">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cfenollosa.com/blog/fed-up-with-the-mac-i-spent-six-months-with-a-linux-laptop-the-grass-is-not-greener-on-the-other-side.html">Fed up with the Mac, I spent six months with a Linux laptop. The grass is not greener on the other side&lt;/a>
+&lt;a href="https://lobste.rs/s/pjkafl/fed_up_with_mac_i_spent_six_months_with">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jrms-random-blog.blogspot.com/2021/03/a-google-interview-question.html">A Google Interview Question&lt;/a>
+&lt;a href="https://lobste.rs/s/4w9ld6/google_interview_question">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=Ok5sKLXqynQ">Are We Automating Racism?&lt;/a>
+&lt;a href="https://lobste.rs/s/uomm6f/are_we_automating_racism">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://kevingal.com/blog/java-overloading.html">Not Growing a Language&lt;/a>
+&lt;a href="https://lobste.rs/s/ykgg1e/not_growing_language">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.paulosyibelo.com/2021/04/this-man-thought-opening-txt-file-is.html">This man thought opening a TXT file is fine, he thought wrong. macOS CVE-2019-8761&lt;/a>
+&lt;a href="https://lobste.rs/s/ljv0pa/this_man_thought_opening_txt_file_is_fine">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-04-03</title><link>https://frozen-lobster.rohanverma.net/posts/2021-04-03/</link><pubDate>Sat, 03 Apr 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-04-03/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://cfenollosa.com/blog/fed-up-with-the-mac-i-spent-six-months-with-a-linux-laptop-the-grass-is-not-greener-on-the-other-side.html">Fed up with the Mac, I spent six months with a Linux laptop. The grass is not greener on the other side&lt;/a>
 &lt;a href="https://lobste.rs/s/pjkafl/fed_up_with_mac_i_spent_six_months_with">(comments)&lt;/a>&lt;/p>
