@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 04 Apr 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-04-04</title><link>https://frozen-lobster.rohanverma.net/posts/2021-04-04/</link><pubDate>Sun, 04 Apr 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-04-04/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 05 Apr 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-04-05</title><link>https://frozen-lobster.rohanverma.net/posts/2021-04-05/</link><pubDate>Mon, 05 Apr 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-04-05/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/soywod/himalaya">A CLI email client written in Rust&lt;/a>
+&lt;a href="https://lobste.rs/s/hheh5v/cli_email_client_written_rust">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://secret.club/2021/04/03/runescape-heuristics.html">How Runescape catches botters, and why they didn’t catch me&lt;/a>
+&lt;a href="https://lobste.rs/s/3exlil/how_runescape_catches_botters_why_they">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/MGreim/ultiboberon">Oberon on bare metal Raspberry Pi&lt;/a>
+&lt;a href="https://lobste.rs/s/f3ystu/oberon_on_bare_metal_raspberry_pi">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/charmbracelet/lipgloss/">Lip Gloss - a CSS-like layout library for your Go terminal apps&lt;/a>
+&lt;a href="https://lobste.rs/s/9m6xxu/lip_gloss_css_like_layout_library_for_your">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/docuowl/docuowl">Docuowl: Stripe-style documentation generator using Markdown&lt;/a>
+&lt;a href="https://lobste.rs/s/qleuqo/docuowl_stripe_style_documentation">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://mxb.dev/blog/space-jam/">Space Jam&lt;/a>
+&lt;a href="https://lobste.rs/s/g9gnbu/space_jam">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://stacked-git.github.io/">Stacked Git&lt;/a>
+&lt;a href="https://lobste.rs/s/e6quvg/stacked_git">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/twpayne/chezmoi/blob/master/docs/CHANGES.md">chezmoi (powerful dotfile manager) v2 released&lt;/a>
+&lt;a href="https://lobste.rs/s/zy7wn3/chezmoi_powerful_dotfile_manager_v2">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jvns.ca/blog/2021/04/03/what-problems-do-people-solve-with-strace/">What problems do people solve with strace?&lt;/a>
+&lt;a href="https://lobste.rs/s/d9ucpe/what_problems_do_people_solve_with_strace">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=cNICGEwmXLU">&amp;ldquo;Systems that run forever self-heal and scale&amp;rdquo; by Joe Armstrong (2013)&lt;/a>
+&lt;a href="https://lobste.rs/s/crctmi/systems_run_forever_self_heal_scale_by_joe">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-04-04</title><link>https://frozen-lobster.rohanverma.net/posts/2021-04-04/</link><pubDate>Sun, 04 Apr 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-04-04/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://github.com/charmbracelet/lipgloss/">Lip Gloss - a CSS-like layout library for your Go terminal apps&lt;/a>
 &lt;a href="https://lobste.rs/s/9m6xxu/lip_gloss_css_like_layout_library_for_your">(comments)&lt;/a>&lt;/p>
