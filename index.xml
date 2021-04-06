@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 05 Apr 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-04-05</title><link>https://frozen-lobster.rohanverma.net/posts/2021-04-05/</link><pubDate>Mon, 05 Apr 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-04-05/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 06 Apr 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-04-06</title><link>https://frozen-lobster.rohanverma.net/posts/2021-04-06/</link><pubDate>Tue, 06 Apr 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-04-06/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.supremecourt.gov/opinions/20pdf/18-956_d18f.pdf">18-956 Google LLC v. Oracle America, Inc. (04/05/2021)&lt;/a>
+&lt;a href="https://lobste.rs/s/xnohcy/18_956_google_llc_v_oracle_america_inc_04_05">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.eff.org/deeplinks/2021/03/google-testing-its-controversial-new-ad-targeting-tech-millions-browsers-heres">Google Is Testing Its Controversial New Ad Targeting Tech in Millions of Browsers. Here’s What We Know&lt;/a>
+&lt;a href="https://lobste.rs/s/ziweht/google_is_testing_its_controversial_new">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.hammerspoon.org/">Hammerspoon&lt;/a>
+&lt;a href="https://lobste.rs/s/ltu8du/hammerspoon">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://fasterthanli.me/articles/rust-vs-java-generics">Rust generics vs Java generics&lt;/a>
+&lt;a href="https://lobste.rs/s/dal2ic/rust_generics_vs_java_generics">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/soywod/himalaya">A CLI email client written in Rust&lt;/a>
+&lt;a href="https://lobste.rs/s/hheh5v/cli_email_client_written_rust">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://code.lag.net/robey/yeri/">yeri: graph timeseries data into an SVG in the browser&lt;/a>
+&lt;a href="https://lobste.rs/s/wvdkha/yeri_graph_timeseries_data_into_svg">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pythonspeed.com/articles/pandas-sql-chunking/">Loading SQL data into Pandas without running out of memory&lt;/a>
+&lt;a href="https://lobste.rs/s/9nwxab/loading_sql_data_into_pandas_without">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://secret.club/2021/01/29/touch-lockscreen-bypass.html">Windows lockscreen bypass on touchscreen with BitLocker&lt;/a>
+&lt;a href="https://lobste.rs/s/0oh13s/windows_lockscreen_bypass_on">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this week?&lt;/a>
+&lt;a href="https://lobste.rs/s/lfdjhc/what_are_you_doing_this_week">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://notes.eatonphil.com/learning-a-new-codebase-hacking-nginx.html">Learning a new codebase: hacking on nginx&lt;/a>
+&lt;a href="https://lobste.rs/s/cqzt8u/learning_new_codebase_hacking_on_nginx">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-04-05</title><link>https://frozen-lobster.rohanverma.net/posts/2021-04-05/</link><pubDate>Mon, 05 Apr 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-04-05/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://github.com/soywod/himalaya">A CLI email client written in Rust&lt;/a>
 &lt;a href="https://lobste.rs/s/hheh5v/cli_email_client_written_rust">(comments)&lt;/a>&lt;/p>
