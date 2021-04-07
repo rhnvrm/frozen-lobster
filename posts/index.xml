@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 06 Apr 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-04-06</title><link>https://frozen-lobster.rohanverma.net/posts/2021-04-06/</link><pubDate>Tue, 06 Apr 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-04-06/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 07 Apr 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-04-07</title><link>https://frozen-lobster.rohanverma.net/posts/2021-04-07/</link><pubDate>Wed, 07 Apr 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-04-07/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://gregoryszorc.com/blog/2021/04/06/surprisingly-slow/">Surprisingly Slow&lt;/a>
+&lt;a href="https://lobste.rs/s/vgldsr/surprisingly_slow">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://rbranson.medium.com/10-things-i-hate-about-postgresql-20dbab8c2791">10 Things I Hate About PostgreSQL&lt;/a>
+&lt;a href="https://lobste.rs/s/vytsm4/10_things_i_hate_about_postgresql">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://homehack.nl/activitypub-the-secret-weapon-of-the-fediverse/">ActivityPub, the secret weapon of the Fediverse&lt;/a>
+&lt;a href="https://lobste.rs/s/ccseq4/activitypub_secret_weapon_fediverse">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://bevyengine.org/news/bevy-0-5/">Bevy 0.5 Released&lt;/a>
+&lt;a href="https://lobste.rs/s/w0adqh/bevy_0_5_released">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ziglang.org/news/jakub-konka-hired-full-time/">Jakub Konka hired full time by Zig Software Foundation&lt;/a>
+&lt;a href="https://lobste.rs/s/x6xtp7/jakub_konka_hired_full_time_by_zig">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://security.googleblog.com/2021/04/rust-in-android-platform.html">Rust in the Android platform&lt;/a>
+&lt;a href="https://lobste.rs/s/pul3xg/rust_android_platform">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://robertchen.cc/blog/2021/04/03/github-pages-xss">Breaking GitHub Private Pages for $35k&lt;/a>
+&lt;a href="https://lobste.rs/s/jg6bmy/breaking_github_private_pages_for_35k">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://medium.com/gopherjs/gopherjs-1-16-released-73805c81674c">GopherJS 1.16 released&lt;/a>
+&lt;a href="https://lobste.rs/s/ifb4ft/gopherjs_1_16_released">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://rust-osdev.com/showcase/rusty-hermit/">The RustyHermit Unikernel&lt;/a>
+&lt;a href="https://lobste.rs/s/bnfdd7/rustyhermit_unikernel">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What was your first contribution to an open source project?&lt;/a>
+&lt;a href="https://lobste.rs/s/efr1ww/what_was_your_first_contribution_open">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-04-06</title><link>https://frozen-lobster.rohanverma.net/posts/2021-04-06/</link><pubDate>Tue, 06 Apr 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-04-06/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://www.supremecourt.gov/opinions/20pdf/18-956_d18f.pdf">18-956 Google LLC v. Oracle America, Inc. (04/05/2021)&lt;/a>
 &lt;a href="https://lobste.rs/s/xnohcy/18_956_google_llc_v_oracle_america_inc_04_05">(comments)&lt;/a>&lt;/p>
