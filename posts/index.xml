@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 07 Apr 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-04-07</title><link>https://frozen-lobster.rohanverma.net/posts/2021-04-07/</link><pubDate>Wed, 07 Apr 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-04-07/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 08 Apr 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-04-08</title><link>https://frozen-lobster.rohanverma.net/posts/2021-04-08/</link><pubDate>Thu, 08 Apr 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-04-08/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://gregoryszorc.com/blog/2021/04/07/modern-ci-is-too-complex-and-misdirected/">Modern CI is Too Complex and Misdirected&lt;/a>
+&lt;a href="https://lobste.rs/s/k0qhfw/modern_ci_is_too_complex_misdirected">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gregoryszorc.com/blog/2021/04/06/surprisingly-slow/">Surprisingly Slow&lt;/a>
+&lt;a href="https://lobste.rs/s/vgldsr/surprisingly_slow">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://itnext.io/modern-storage-is-plenty-fast-it-is-the-apis-that-are-bad-6a68319fbc1a">Modern storage is plenty fast. It is the APIs that are bad&lt;/a>
+&lt;a href="https://lobste.rs/s/vxpcur/modern_storage_is_plenty_fast_it_is_apis">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://danielbmarkham.com/is-programming-hard-how-long-is-a-piece-of-string/">Is Programming Hard? How Long Is A Piece Of String?&lt;/a>
+&lt;a href="https://lobste.rs/s/vaujg7/is_programming_hard_how_long_is_piece">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://healeycodes.com/computer-vision-and-embroidery/">Computer Vision and Embroidery&lt;/a>
+&lt;a href="https://lobste.rs/s/zhqtxl/computer_vision_embroidery">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=7RNbIEJvjUA">What have we lost?&lt;/a>
+&lt;a href="https://lobste.rs/s/3yhn8s/what_have_we_lost">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/google/wuffs/blob/main/doc/wuffs-the-language.md">Wuffs the Language&lt;/a>
+&lt;a href="https://lobste.rs/s/kuv1lj/wuffs_language">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://norvig.com/java-lisp.html">Lisp as an Alternative to Java&lt;/a>
+&lt;a href="https://lobste.rs/s/nulzri/lisp_as_alternative_java">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://waffleironer.medium.com/legalizing-gay-marriage-in-crusader-kings-iii-with-ghidra-2602e6aa8689">Legalizing Gay Marriage in Crusader Kings III with Ghidra&lt;/a>
+&lt;a href="https://lobste.rs/s/kuracg/legalizing_gay_marriage_crusader_kings">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://alistairb.dev/benefits-of-learning-haskell">The Benefits of Learning Haskell&lt;/a>
+&lt;a href="https://lobste.rs/s/fxc0j9/benefits_learning_haskell">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-04-07</title><link>https://frozen-lobster.rohanverma.net/posts/2021-04-07/</link><pubDate>Wed, 07 Apr 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-04-07/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://gregoryszorc.com/blog/2021/04/06/surprisingly-slow/">Surprisingly Slow&lt;/a>
 &lt;a href="https://lobste.rs/s/vgldsr/surprisingly_slow">(comments)&lt;/a>&lt;/p>
