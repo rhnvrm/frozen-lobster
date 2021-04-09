@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 08 Apr 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-04-08</title><link>https://frozen-lobster.rohanverma.net/posts/2021-04-08/</link><pubDate>Thu, 08 Apr 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-04-08/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 09 Apr 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-04-09</title><link>https://frozen-lobster.rohanverma.net/posts/2021-04-09/</link><pubDate>Fri, 09 Apr 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-04-09/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="">How do you monitor your small scale server infrastructure?&lt;/a>
+&lt;a href="https://lobste.rs/s/ddt1zo/how_do_you_monitor_your_small_scale_server">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sequoia-pgp.org/blog/2021/04/08/202103-a-new-backend-for-thunderbird/">Sequoia: Super Powering End-to-End Email Encryption in Mozilla Thunderbird&lt;/a>
+&lt;a href="https://lobste.rs/s/cz7wxi/sequoia_super_powering_end_end_email">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://doc.cat-v.org/bell_labs/utf-8_history">The history of UTF-8 as told by Rob Pike&lt;/a>
+&lt;a href="https://lobste.rs/s/jo5he6/history_utf_8_as_told_by_rob_pike">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://notes.srid.ca/fsharp-exploration">A brief F# exploration&lt;/a>
+&lt;a href="https://lobste.rs/s/odejpy/brief_f_exploration">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://anthonynsimon.com/blog/one-man-saas-architecture/">The Architecture Behind A One-Person Tech Startup&lt;/a>
+&lt;a href="https://lobste.rs/s/tv2uwy/architecture_behind_one_person_tech">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://yogthos.net/posts/2020-04-08-advantages-of-data-oriented-programming.html">Advantages of Data Oriented Programming&lt;/a>
+&lt;a href="https://lobste.rs/s/k7vj9j/advantages_data_oriented_programming">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/martanne/dvtm">dvtm: A tiling window manager for the terminal&lt;/a>
+&lt;a href="https://lobste.rs/s/tup4ll/dvtm_tiling_window_manager_for_terminal">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://if50.substack.com/p/1984-the-hitchhikers-guide-to-the-galaxy">1984: The Hitchhiker&amp;rsquo;s Guide to the Galaxy&lt;/a>
+&lt;a href="https://lobste.rs/s/l5ibdi/1984_hitchhiker_s_guide_galaxy">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gregoryszorc.com/blog/2021/04/07/modern-ci-is-too-complex-and-misdirected/">Modern CI is Too Complex and Misdirected&lt;/a>
+&lt;a href="https://lobste.rs/s/k0qhfw/modern_ci_is_too_complex_misdirected">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://alistairb.dev/benefits-of-learning-haskell">The Benefits of Learning Haskell&lt;/a>
+&lt;a href="https://lobste.rs/s/fxc0j9/benefits_learning_haskell">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-04-08</title><link>https://frozen-lobster.rohanverma.net/posts/2021-04-08/</link><pubDate>Thu, 08 Apr 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-04-08/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://gregoryszorc.com/blog/2021/04/07/modern-ci-is-too-complex-and-misdirected/">Modern CI is Too Complex and Misdirected&lt;/a>
 &lt;a href="https://lobste.rs/s/k0qhfw/modern_ci_is_too_complex_misdirected">(comments)&lt;/a>&lt;/p>
