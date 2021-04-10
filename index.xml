@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 09 Apr 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-04-09</title><link>https://frozen-lobster.rohanverma.net/posts/2021-04-09/</link><pubDate>Fri, 09 Apr 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-04-09/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 10 Apr 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-04-10</title><link>https://frozen-lobster.rohanverma.net/posts/2021-04-10/</link><pubDate>Sat, 10 Apr 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-04-10/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://phasedust.com/sms-static-site-authoring-with-twilio-and-perl.html">SMS static site authoring with Twilio and Perl&lt;/a>
+&lt;a href="https://lobste.rs/s/zyffpm/sms_static_site_authoring_with_twilio">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.dawn-lang.org/posts/introducing-dawn-(part-1)/">Introducing Dawn (Part 1)&lt;/a>
+&lt;a href="https://lobste.rs/s/rqc2sj/introducing_dawn_part_1">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.cambus.net/the-state-of-toolchains-in-netbsd/">The state of toolchains in NetBSD&lt;/a>
+&lt;a href="https://lobste.rs/s/un3rop/state_toolchains_netbsd">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html">Nix is the ultimate DevOps toolkit&lt;/a>
+&lt;a href="https://lobste.rs/s/5gbbp2/nix_is_ultimate_devops_toolkit">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lists.freebsd.org/pipermail/freebsd-arm/2021-April/023602.html">FreeBSD/arm64 becoming Tier 1 in FreeBSD 13&lt;/a>
+&lt;a href="https://lobste.rs/s/rebkb1/freebsd_arm64_becoming_tier_1_freebsd_13">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://proctor.ninja/proctorios-facial-recognition-is-racist">Proctorio&amp;rsquo;s facial recognition is racist&lt;/a>
+&lt;a href="https://lobste.rs/s/xbejbe/proctorio_s_facial_recognition_is_racist">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.haproxy.com/blog/haproxy-forwards-over-2-million-http-requests-per-second-on-a-single-aws-arm-instance/">HAProxy Forwards Over 2 Million HTTP Requests per Second on a Single Arm-based AWS Graviton2 Instance&lt;/a>
+&lt;a href="https://lobste.rs/s/qj2yoj/haproxy_forwards_over_2_million_http">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://fly.io/blog/docker-without-docker/">Docker without Docker&lt;/a>
+&lt;a href="https://lobste.rs/s/cwxcbl/docker_without_docker">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this weekend?&lt;/a>
+&lt;a href="https://lobste.rs/s/kxmf99/what_are_you_doing_this_weekend">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://journal.infinitenegativeutility.com/how-i-do-generative-art-in-praise-of-netpbm">How I Do Generative Art: In Praise of Netpbm&lt;/a>
+&lt;a href="https://lobste.rs/s/d8tbot/how_i_do_generative_art_praise_netpbm">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-04-09</title><link>https://frozen-lobster.rohanverma.net/posts/2021-04-09/</link><pubDate>Fri, 09 Apr 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-04-09/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="">How do you monitor your small scale server infrastructure?&lt;/a>
 &lt;a href="https://lobste.rs/s/ddt1zo/how_do_you_monitor_your_small_scale_server">(comments)&lt;/a>&lt;/p>
