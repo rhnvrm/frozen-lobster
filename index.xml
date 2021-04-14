@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 13 Apr 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-04-13</title><link>https://frozen-lobster.rohanverma.net/posts/2021-04-13/</link><pubDate>Tue, 13 Apr 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-04-13/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 14 Apr 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-04-14</title><link>https://frozen-lobster.rohanverma.net/posts/2021-04-14/</link><pubDate>Wed, 14 Apr 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-04-14/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://gregoryszorc.com/blog/2021/04/13/rust-is-for-professionals/">Rust is for Professionals&lt;/a>
+&lt;a href="https://lobste.rs/s/5fj3hb/rust_is_for_professionals">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lists.freebsd.org/pipermail/freebsd-announce/2021-April/002031.html">FreeBSD 13.0-RELEASE Now Available&lt;/a>
+&lt;a href="https://lobste.rs/s/wtl4av/freebsd_13_0_release_now_available">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://loige.co/rust-shenanigans-return-type-polymorphism">Rust shenanigans: return type polymorphism&lt;/a>
+&lt;a href="https://lobste.rs/s/w0ufh8/rust_shenanigans_return_type">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lobste.rs/s/qutmhe/ceph_war_story#c_typjil">Requesting an &amp;ldquo;incident&amp;rdquo; tag&lt;/a>
+&lt;a href="https://lobste.rs/s/m2igxc/requesting_incident_tag">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://surma.dev/things/js-to-asc/">Is WebAssembly magic performance pixie dust?&lt;/a>
+&lt;a href="https://lobste.rs/s/e9x81u/is_webassembly_magic_performance_pixie">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://minimalmodeling.substack.com/p/left-joins-pt-ii">Left joins, pt. II&lt;/a>
+&lt;a href="https://lobste.rs/s/knqrrf/left_joins_pt_ii">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://www.oilshell.org/blog/2021/04/release-0.8.9.html">Release of Oil 0.8.9&lt;/a>
+&lt;a href="https://lobste.rs/s/cmexhh/release_oil_0_8_9">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://omarshehata.me/notebook/how_to_turn_an_image_black_and_white">How to turn an image black and white&lt;/a>
+&lt;a href="https://lobste.rs/s/4dhkav/how_turn_image_black_white">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://inflex.io/">Inflex - Online spreadsheets re-invented&lt;/a>
+&lt;a href="https://lobste.rs/s/oogw3s/inflex_online_spreadsheets_re_invented">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/elixir-nx/livebook">Livebook - interactive notepad for Elixir and Nx&lt;/a>
+&lt;a href="https://lobste.rs/s/f2nmt1/livebook_interactive_notepad_for_elixir">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-04-13</title><link>https://frozen-lobster.rohanverma.net/posts/2021-04-13/</link><pubDate>Tue, 13 Apr 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-04-13/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://kristoff.it/blog/the-open-source-game/">Playing the Open Source Game&lt;/a>
 &lt;a href="https://lobste.rs/s/whaa3i/playing_open_source_game">(comments)&lt;/a>&lt;/p>
