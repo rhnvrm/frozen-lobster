@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 16 Apr 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-04-16</title><link>https://frozen-lobster.rohanverma.net/posts/2021-04-16/</link><pubDate>Fri, 16 Apr 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-04-16/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 17 Apr 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-04-17</title><link>https://frozen-lobster.rohanverma.net/posts/2021-04-17/</link><pubDate>Sat, 17 Apr 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-04-17/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://acco.io/read-from-dbs">Read from databases, write to APIs&lt;/a>
+&lt;a href="https://lobste.rs/s/lyeekg/read_from_databases_write_apis">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">Single board computers?&lt;/a>
+&lt;a href="https://lobste.rs/s/wz9wt8/single_board_computers">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://galois.com/blog/2021/03/actually-you-are-rolling-your-own-crypto/">Actually, You Are Rolling Your Own Crypto&lt;/a>
+&lt;a href="https://lobste.rs/s/vi6chi/actually_you_are_rolling_your_own_crypto">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.cockroachlabs.com/blog/go-file-size-update/">My Go Executable Files Are Still Getting Larger (What&amp;rsquo;s New in 2021 and Go 1.16)&lt;/a>
+&lt;a href="https://lobste.rs/s/gvtstv/my_go_executable_files_are_still_getting">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tailscale.com/blog/sisyphean-dns-client-linux/">The Sisyphean Task Of DNS Client Config on Linux&lt;/a>
+&lt;a href="https://lobste.rs/s/v9w4ax/sisyphean_task_dns_client_config_on_linux">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://njms.ca/posts/ethical-anti-design.html">Ethical anti-design, or designing products that people can&amp;rsquo;t get addicted to&lt;/a>
+&lt;a href="https://lobste.rs/s/8dnful/ethical_anti_design_designing_products">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this weekend?&lt;/a>
+&lt;a href="https://lobste.rs/s/dtxsti/what_are_you_doing_this_weekend">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://trekhleb.dev/blog/2021/content-aware-image-resizing-in-javascript/">Content-aware image resizing in JavaScript&lt;/a>
+&lt;a href="https://lobste.rs/s/3frtbr/content_aware_image_resizing_javascript">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.entrepreneur.com/article/368943">A Casino Gets Hacked Through a Fish-Tank Thermometer&lt;/a>
+&lt;a href="https://lobste.rs/s/xbprjm/casino_gets_hacked_through_fish_tank">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://releases.llvm.org/12.0.0/docs/ReleaseNotes.html">LLVM 12.0.0&lt;/a>
+&lt;a href="https://lobste.rs/s/8olgw6/llvm_12_0_0">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-04-16</title><link>https://frozen-lobster.rohanverma.net/posts/2021-04-16/</link><pubDate>Fri, 16 Apr 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-04-16/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://tailscale.com/blog/sisyphean-dns-client-linux/">The Sisyphean Task Of DNS Client Config on Linux&lt;/a>
 &lt;a href="https://lobste.rs/s/v9w4ax/sisyphean_task_dns_client_config_on_linux">(comments)&lt;/a>&lt;/p>
