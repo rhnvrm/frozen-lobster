@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 18 Apr 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-04-18</title><link>https://frozen-lobster.rohanverma.net/posts/2021-04-18/</link><pubDate>Sun, 18 Apr 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-04-18/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 19 Apr 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-04-19</title><link>https://frozen-lobster.rohanverma.net/posts/2021-04-19/</link><pubDate>Mon, 19 Apr 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-04-19/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://rhardih.io/2021/04/listing-the-contents-of-a-remote-zip-archive-without-downloading-the-entire-file/">Listing the contents of a remote ZIP archive, without downloading the entire file&lt;/a>
+&lt;a href="https://lobste.rs/s/opu18i/listing_contents_remote_zip_archive">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://skuz.xyz/typeup/">typeup - a markup language that gets out of your way&lt;/a>
+&lt;a href="https://lobste.rs/s/kjmpgq/typeup_markup_language_gets_out_your_way">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://einarwh.wordpress.com/2021/04/18/no-programming-as-other/">NO! Programming as Other&lt;/a>
+&lt;a href="https://lobste.rs/s/wluncj/no_programming_as_other">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://madned.substack.com/p/thanks-for-the-bonus-i-quit">Thanks for the Bonus, I Quit&lt;/a>
+&lt;a href="https://lobste.rs/s/zmetu4/thanks_for_bonus_i_quit">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.dedoimedo.com/computers/gnome-40.html">Gnome 40 - The anti-desktop desktop&lt;/a>
+&lt;a href="https://lobste.rs/s/nu7xcg/gnome_40_anti_desktop_desktop">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://christine.website/blog/dev-printerfact-2021-04-17">How I Implemented /dev/printerfact in Rust&lt;/a>
+&lt;a href="https://lobste.rs/s/n5trnx/how_i_implemented_dev_printerfact_rust">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://andregarzia.com/2021/04/writing-a-technical-book.html">Writing a Technical Book&lt;/a>
+&lt;a href="https://lobste.rs/s/9mcwxo/writing_technical_book">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://frankchimero.com/blog/2018/everything-easy/">Everything Easy is Hard Again&lt;/a>
+&lt;a href="https://lobste.rs/s/fy4t3o/everything_easy_is_hard_again">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tilde.team/~kiedtl/projects/cursed/">cursed_font: A 9x18 bitmapped font based on Chicago&lt;/a>
+&lt;a href="https://lobste.rs/s/br7xkz/cursed_font_9x18_bitmapped_font_based_on">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.excamera.com/files/j1.pdf">J1: a small Forth CPU Core for FPGAs&lt;/a>
+&lt;a href="https://lobste.rs/s/fkfoms/j1_small_forth_cpu_core_for_fpgas">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-04-18</title><link>https://frozen-lobster.rohanverma.net/posts/2021-04-18/</link><pubDate>Sun, 18 Apr 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-04-18/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://tilde.team/~kiedtl/projects/cursed/">cursed_font: A 9x18 bitmapped font based on Chicago&lt;/a>
 &lt;a href="https://lobste.rs/s/br7xkz/cursed_font_9x18_bitmapped_font_based_on">(comments)&lt;/a>&lt;/p>
