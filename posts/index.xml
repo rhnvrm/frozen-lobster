@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 19 Apr 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-04-19</title><link>https://frozen-lobster.rohanverma.net/posts/2021-04-19/</link><pubDate>Mon, 19 Apr 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-04-19/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 20 Apr 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-04-20</title><link>https://frozen-lobster.rohanverma.net/posts/2021-04-20/</link><pubDate>Tue, 20 Apr 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-04-20/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.hillelwayne.com/post/spec-composition/">Why Specifications Don&amp;rsquo;t Compose&lt;/a>
+&lt;a href="https://lobste.rs/s/3fopae/why_specifications_don_t_compose">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://superuser.com/questions/784978/why-did-the-ietf-specifically-choose-192-168-16-to-be-a-private-ip-address-class">Why did the IETF specifically choose 192.168/16 to be a private IP address class?&lt;/a>
+&lt;a href="https://lobste.rs/s/yzk1rb/why_did_ietf_specifically_choose_192_168">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://frigidriver.com/mazes/">A Maze Generator in Go in WebAssembly&lt;/a>
+&lt;a href="https://lobste.rs/s/kwzuqn/maze_generator_go_webassembly">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://mastering-openscad.eu/">Mastering OpenSCAD&lt;/a>
+&lt;a href="https://lobste.rs/s/hpeona/mastering_openscad">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this week?&lt;/a>
+&lt;a href="https://lobste.rs/s/ctfkc1/what_are_you_doing_this_week">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.humio.com/whats-new/blog/why-we-chose-elm-for-humio-s-web-ui">Why we chose Elm for Humio’s web UI&lt;/a>
+&lt;a href="https://lobste.rs/s/cuxhio/why_we_chose_elm_for_humio_s_web_ui">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://daniel.haxx.se/blog/2021/04/19/curl-those-funny-ipv4-addresses/">curl those funny IPv4 addresses&lt;/a>
+&lt;a href="https://lobste.rs/s/hqvbq1/curl_those_funny_ipv4_addresses">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://shufflingbytes.com/posts/sip-honeypot/">What I learned of the VOIP hacker scene by setting up a SIP Honeypot&lt;/a>
+&lt;a href="https://lobste.rs/s/azfnod/what_i_learned_voip_hacker_scene_by">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://klarasystems.com/articles/openzfs-draid-finally/">ZFS dRAID Finally – Sneak Peak into Latest and Long Awaited Feature of OpenZFS&lt;/a>
+&lt;a href="https://lobste.rs/s/azb0eg/zfs_draid_finally_sneak_peak_into_latest">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://rhardih.io/2021/04/listing-the-contents-of-a-remote-zip-archive-without-downloading-the-entire-file/">Listing the contents of a remote ZIP archive, without downloading the entire file&lt;/a>
+&lt;a href="https://lobste.rs/s/opu18i/listing_contents_remote_zip_archive">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-04-19</title><link>https://frozen-lobster.rohanverma.net/posts/2021-04-19/</link><pubDate>Mon, 19 Apr 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-04-19/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://rhardih.io/2021/04/listing-the-contents-of-a-remote-zip-archive-without-downloading-the-entire-file/">Listing the contents of a remote ZIP archive, without downloading the entire file&lt;/a>
 &lt;a href="https://lobste.rs/s/opu18i/listing_contents_remote_zip_archive">(comments)&lt;/a>&lt;/p>
