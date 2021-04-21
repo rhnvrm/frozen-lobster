@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 20 Apr 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-04-20</title><link>https://frozen-lobster.rohanverma.net/posts/2021-04-20/</link><pubDate>Tue, 20 Apr 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-04-20/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 21 Apr 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-04-21</title><link>https://frozen-lobster.rohanverma.net/posts/2021-04-21/</link><pubDate>Wed, 21 Apr 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-04-21/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://minimalmodeling.substack.com/p/240-tables-and-no-documentation">240 tables and no documentation?&lt;/a>
+&lt;a href="https://lobste.rs/s/mlntme/240_tables_no_documentation">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/reHackable/awesome-reMarkable">reHackable/awesome-reMarkable&lt;/a>
+&lt;a href="https://lobste.rs/s/qbye59/rehackable_awesome_remarkable">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/zellij-org/zellij">Zellij: A Rusty terminal workspace releases beta&lt;/a>
+&lt;a href="https://lobste.rs/s/wkqfdv/zellij_rusty_terminal_workspace">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://mail.python.org/archives/list/python-dev@python.org/thread/CLVXXPQ2T2LQ5MP2Y53VVQFCXYWQJHKZ/">PEP 563 and Python 3.10&lt;/a>
+&lt;a href="https://lobste.rs/s/q923q8/pep_563_python_3_10">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://eighty-twenty.org/2021/04/20/on-screen-keyboard-morph">OnScreenKeyboardMorph: Smalltalk keyboard on a phone&lt;/a>
+&lt;a href="https://lobste.rs/s/a7d1br/onscreenkeyboardmorph_smalltalk">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.apple.com/apple-events/">Apple Event for April 20th, 2021&lt;/a>
+&lt;a href="https://lobste.rs/s/sobwlm/apple_event_for_april_20th_2021">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://paramdeo.com//blog/opting-your-website-out-of-googles-floc-network">Opting your Website out of Google&amp;rsquo;s FLoC Network&lt;/a>
+&lt;a href="https://lobste.rs/s/pgcmhd/opting_your_website_out_google_s_floc">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gekkio.fi/blog/2021/power-consumption-of-game-boy-flash-cartridges/">Power consumption of Game Boy flash cartridges&lt;/a>
+&lt;a href="https://lobste.rs/s/ggelmp/power_consumption_game_boy_flash">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://janvitek.org/pubs/toplas19.pdf">On the Impact of Programming Languages on Code Quality, A Reproduction Study&lt;/a>
+&lt;a href="https://lobste.rs/s/mlravq/on_impact_programming_languages_on_code">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.cyberciti.biz/interview/michael-lucas-bsd-unix-it-and-other-books-author/">Interview with Michael Lucas FreeBSD, OpenBSD, Unix, IT and other books author&lt;/a>
+&lt;a href="https://lobste.rs/s/z1c4kx/interview_with_michael_lucas_freebsd">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-04-20</title><link>https://frozen-lobster.rohanverma.net/posts/2021-04-20/</link><pubDate>Tue, 20 Apr 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-04-20/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://www.hillelwayne.com/post/spec-composition/">Why Specifications Don&amp;rsquo;t Compose&lt;/a>
 &lt;a href="https://lobste.rs/s/3fopae/why_specifications_don_t_compose">(comments)&lt;/a>&lt;/p>
