@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 21 Apr 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-04-21</title><link>https://frozen-lobster.rohanverma.net/posts/2021-04-21/</link><pubDate>Wed, 21 Apr 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-04-21/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 22 Apr 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-04-22</title><link>https://frozen-lobster.rohanverma.net/posts/2021-04-22/</link><pubDate>Thu, 22 Apr 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-04-22/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://lore.kernel.org/linux-nfs/YH+zwQgBBGUJdiVK@unreal/">&amp;ldquo;They introduce kernel bugs on purpose&amp;rdquo;&lt;/a>
+&lt;a href="https://lobste.rs/s/3qgyzp/they_introduce_kernel_bugs_on_purpose">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tmpout.sh/1/">tmp.0ut zine&lt;/a>
+&lt;a href="https://lobste.rs/s/se1rhc/tmp_0ut_zine">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://signal.org/blog/cellebrite-vulnerabilities">Exploiting vulnerabilities in Cellebrite UFED and Physical Analyzer from an app&amp;rsquo;s perspective&lt;/a>
+&lt;a href="https://lobste.rs/s/jbvcgq/exploiting_vulnerabilities_cellebrite">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://computecuter.com/">Compute Cuter&lt;/a>
+&lt;a href="https://lobste.rs/s/mw6fgw/compute_cuter">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://beam-wisdoms.clau.se/en/latest/">BEAM VM Wisdoms&lt;/a>
+&lt;a href="https://lobste.rs/s/etpbqy/beam_vm_wisdoms">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://root-servers.org/media/news/Statement_on_DNS_Encryption.pdf">Root server operators' Statement on DNS Encryption&lt;/a>
+&lt;a href="https://lobste.rs/s/71skwl/root_server_operators_statement_on_dns">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://peterlyons.com/problog/2021/04/squeezebox-keyboard/">Squeezebox Keyboard&lt;/a>
+&lt;a href="https://lobste.rs/s/qmrccp/squeezebox_keyboard">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://areweyeetyet.rs/">Are we Yeet Yet?&lt;/a>
+&lt;a href="https://lobste.rs/s/3i5r6d/are_we_yeet_yet">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://k3tan.com/starting-a-new-digital-identity">Starting a new digital identity&lt;/a>
+&lt;a href="https://lobste.rs/s/ovbbya/starting_new_digital_identity">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://grafana.com/blog/2021/04/20/grafana-loki-tempo-relicensing-to-agplv3/">Grafana, Loki, and Tempo will be relicensed to AGPLv3&lt;/a>
+&lt;a href="https://lobste.rs/s/kc0wb6/grafana_loki_tempo_will_be_relicensed">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-04-21</title><link>https://frozen-lobster.rohanverma.net/posts/2021-04-21/</link><pubDate>Wed, 21 Apr 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-04-21/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://minimalmodeling.substack.com/p/240-tables-and-no-documentation">240 tables and no documentation?&lt;/a>
 &lt;a href="https://lobste.rs/s/mlntme/240_tables_no_documentation">(comments)&lt;/a>&lt;/p>
