@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 23 Apr 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-04-23</title><link>https://frozen-lobster.rohanverma.net/posts/2021-04-23/</link><pubDate>Fri, 23 Apr 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-04-23/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 24 Apr 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-04-24</title><link>https://frozen-lobster.rohanverma.net/posts/2021-04-24/</link><pubDate>Sat, 24 Apr 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-04-24/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://twitter.com/wasm3_engine/status/1384288567627640839">Wasm3 compiles itself (using LLVM/Clang compiled to wasm) and executes another app via self-hosting&lt;/a>
+&lt;a href="https://lobste.rs/s/qjeefx/wasm3_compiles_itself_using_llvm_clang">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://johnmathews.eu/i-leaked-credentials-onto-a-public-github-repo.html">I Leaked Credentials Onto A Public GitHub Repo&lt;/a>
+&lt;a href="https://lobste.rs/s/5vwctk/i_leaked_credentials_onto_public_github">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=HuegrU_kIq8">ThinkPad X230 with E-INK Display at 30fps&lt;/a>
+&lt;a href="https://lobste.rs/s/r4ejrd/thinkpad_x230_with_e_ink_display_at_30fps">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://preslav.me/2021/04/23/between-golang-and-elixir/">Between Go and Elixir&lt;/a>
+&lt;a href="https://lobste.rs/s/0246zi/between_go_elixir">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://undeadly.org/cgi?action=article;sid=20210423090342">Initial Support for the riscv64 Architecture&lt;/a>
+&lt;a href="https://lobste.rs/s/qkeail/initial_support_for_riscv64">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://css-tricks.com/using-details-for-menus-and-dialogs-is-an-interesting-idea/">Using &lt;!-- raw HTML omitted --> for Menus and Dialogs is an Interesting Idea&lt;/a>
+&lt;a href="https://lobste.rs/s/ggjbzx/using_details_for_menus_dialogs_is">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lists.debian.org/debian-devel-announce/2021/04/msg00011.html">Debian Installer Bullseye RC 1 release&lt;/a>
+&lt;a href="https://lobste.rs/s/gkek7m/debian_installer_bullseye_rc_1_release">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this weekend?&lt;/a>
+&lt;a href="https://lobste.rs/s/4yqamf/what_are_you_doing_this_weekend">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.fluentcpp.com/2021/04/23/make-bad-code-look-bad/">Make Bad Code Look Bad&lt;/a>
+&lt;a href="https://lobste.rs/s/5oxuvi/make_bad_code_look_bad">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lwn.net/Articles/852112/">Comparing SystemTap and bpftrace&lt;/a>
+&lt;a href="https://lobste.rs/s/nxho64/comparing_systemtap_bpftrace">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-04-23</title><link>https://frozen-lobster.rohanverma.net/posts/2021-04-23/</link><pubDate>Fri, 23 Apr 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-04-23/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://world.hey.com/joaoqalves/disasters-i-ve-seen-in-a-microservices-world-a9137a51">Disasters I&amp;rsquo;ve seen in a microservices world&lt;/a>
 &lt;a href="https://lobste.rs/s/kyqsmz/disasters_i_ve_seen_microservices_world">(comments)&lt;/a>&lt;/p>
