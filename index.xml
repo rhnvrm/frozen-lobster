@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 24 Apr 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-04-24</title><link>https://frozen-lobster.rohanverma.net/posts/2021-04-24/</link><pubDate>Sat, 24 Apr 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-04-24/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 25 Apr 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-04-25</title><link>https://frozen-lobster.rohanverma.net/posts/2021-04-25/</link><pubDate>Sun, 25 Apr 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-04-25/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://lwn.net/ml/linux-kernel/20210421130105.1226686-1-gregkh@linuxfoundation.org/">Revertion of all of the umn.edu commits&lt;/a>
+&lt;a href="https://lobste.rs/s/1tc60l/revertion_all_umn_edu_commits">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://twitchard.github.io/posts/2021-04-24-behavior-constraining-features.html">Please, Systematically Enforce Your Constraints&lt;/a>
+&lt;a href="https://lobste.rs/s/9cyjyb/please_systematically_enforce_your">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://earthly.dev/blog/brown-green-language/">Green Vs. Brown Programming Languages&lt;/a>
+&lt;a href="https://lobste.rs/s/m3sosu/green_vs_brown_programming_languages">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://changelog.com/posts/you-might-as-well-timestamp-it">You might as well timestamp it&lt;/a>
+&lt;a href="https://lobste.rs/s/ju4qsx/you_might_as_well_timestamp_it">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.securityweek.com/security-researcher-dan-kaminsky-passes-away">Security Researcher Dan Kaminsky Passes Away&lt;/a>
+&lt;a href="https://lobste.rs/s/jguw6i/security_researcher_dan_kaminsky_passes">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://preslav.me/2021/04/23/between-golang-and-elixir/">Between Go and Elixir&lt;/a>
+&lt;a href="https://lobste.rs/s/0246zi/between_go_elixir">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://wayland.app/protocols/">Wayland Explorer&lt;/a>
+&lt;a href="https://lobste.rs/s/0xkm30/wayland_explorer">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://johnmathews.eu/i-leaked-credentials-onto-a-public-github-repo.html">I Leaked Credentials Onto A Public GitHub Repo&lt;/a>
+&lt;a href="https://lobste.rs/s/5vwctk/i_leaked_credentials_onto_public_github">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/soywod/himalaya/releases/tag/v0.2.7">Himalaya, the CLI email client: v0.2.7 released&lt;/a>
+&lt;a href="https://lobste.rs/s/ifmf7z/himalaya_cli_email_client_v0_2_7_released">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://dustycloud.org/blog/what-is-a-blockchain-really/">Beyond the shouting match: what is a blockchain, really?&lt;/a>
+&lt;a href="https://lobste.rs/s/ozz0ld/beyond_shouting_match_what_is_blockchain">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-04-24</title><link>https://frozen-lobster.rohanverma.net/posts/2021-04-24/</link><pubDate>Sat, 24 Apr 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-04-24/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://twitter.com/wasm3_engine/status/1384288567627640839">Wasm3 compiles itself (using LLVM/Clang compiled to wasm) and executes another app via self-hosting&lt;/a>
 &lt;a href="https://lobste.rs/s/qjeefx/wasm3_compiles_itself_using_llvm_clang">(comments)&lt;/a>&lt;/p>
