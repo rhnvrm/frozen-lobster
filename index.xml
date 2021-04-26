@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 25 Apr 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-04-25</title><link>https://frozen-lobster.rohanverma.net/posts/2021-04-25/</link><pubDate>Sun, 25 Apr 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-04-25/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 26 Apr 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-04-26</title><link>https://frozen-lobster.rohanverma.net/posts/2021-04-26/</link><pubDate>Mon, 26 Apr 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-04-26/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://lore.kernel.org/lkml/CAK8KejpUVLxmqp026JY7x5GzHU2YJLPU8SzTZUNXU2OXC70ZQQ@mail.gmail.com/T/#u">“hypocrite commits” apology letter&lt;/a>
+&lt;a href="https://lobste.rs/s/9miojb/hypocrite_commits_apology_letter">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=SqpIcsN0FTI">Nice bug&lt;/a>
+&lt;a href="https://lobste.rs/s/15yczw/nice_bug">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.reverberate.org/2021/04/21/musttail-efficient-interpreters.html">Parsing Protobuf at 2+GB/s: How I Learned To Love Tail Calls in C&lt;/a>
+&lt;a href="https://lobste.rs/s/ffssdz/parsing_protobuf_at_2_gb_s_how_i_learned">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://christine.website/blog/morph-setup-2021-04-25">Using Morph for Deploying to NixOS&lt;/a>
+&lt;a href="https://lobste.rs/s/qqybio/using_morph_for_deploying_nixos">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.securityweek.com/security-researcher-dan-kaminsky-passes-away">Security Researcher Dan Kaminsky Passes Away&lt;/a>
+&lt;a href="https://lobste.rs/s/jguw6i/security_researcher_dan_kaminsky_passes">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/soywod/himalaya/releases/tag/v0.2.7">Himalaya, the CLI email client: v0.2.7 released&lt;/a>
+&lt;a href="https://lobste.rs/s/ifmf7z/himalaya_cli_email_client_v0_2_7_released">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.gsocket.io/">Global Socket: Connect like there is no firewall. Securely&lt;/a>
+&lt;a href="https://lobste.rs/s/fhpswy/global_socket_connect_like_there_is_no">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://wayland.app/protocols/">Wayland Explorer&lt;/a>
+&lt;a href="https://lobste.rs/s/0xkm30/wayland_explorer">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://twitchard.github.io/posts/2021-04-24-behavior-constraining-features.html">Please, Systematically Enforce Your Constraints&lt;/a>
+&lt;a href="https://lobste.rs/s/9cyjyb/please_systematically_enforce_your">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://arstechnica.com/gadgets/2021/04/apples-airdrop-leaks-users-pii-and-theres-not-much-they-can-do-about-it/">Apple’s AirDrop leaks users’ PII, and there’s not much they can do about it&lt;/a>
+&lt;a href="https://lobste.rs/s/qpy4ow/apple_s_airdrop_leaks_users_pii_there_s_not">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-04-25</title><link>https://frozen-lobster.rohanverma.net/posts/2021-04-25/</link><pubDate>Sun, 25 Apr 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-04-25/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://lwn.net/ml/linux-kernel/20210421130105.1226686-1-gregkh@linuxfoundation.org/">Revertion of all of the umn.edu commits&lt;/a>
 &lt;a href="https://lobste.rs/s/1tc60l/revertion_all_umn_edu_commits">(comments)&lt;/a>&lt;/p>
