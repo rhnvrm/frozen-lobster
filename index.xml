@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 26 Apr 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-04-26</title><link>https://frozen-lobster.rohanverma.net/posts/2021-04-26/</link><pubDate>Mon, 26 Apr 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-04-26/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 27 Apr 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-04-27</title><link>https://frozen-lobster.rohanverma.net/posts/2021-04-27/</link><pubDate>Tue, 27 Apr 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-04-27/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.grammarly.com/blog/engineering/running-lisp-in-production/">Running Lisp in Production&lt;/a>
+&lt;a href="https://lobste.rs/s/whsc7o/running_lisp_production">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ariadne.space/2021/04/25/why-apk-tools-is-different-than-other-package-managers/">Why apk-tools is different than other package managers&lt;/a>
+&lt;a href="https://lobste.rs/s/plr0s0/why_apk_tools_is_different_than_other">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ariadne.space/2021/03/25/lets-build-a-new-service-manager-for-alpine/">Let’s build a new service manager for Alpine&lt;/a>
+&lt;a href="https://lobste.rs/s/vwwkkv/let_s_build_new_service_manager_for_alpine">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://objective-see.com/blog/blog_0x64.html">All Your Macs Are Belong To Us&lt;/a>
+&lt;a href="https://lobste.rs/s/m3j6ar/all_your_macs_are_belong_us">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://hakibenita.com/sql-for-data-analysis">Practical SQL for Data Analysis: What you can do without Pandas&lt;/a>
+&lt;a href="https://lobste.rs/s/bs1qct/practical_sql_for_data_analysis_what_you">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://good-place.org/posts/birth.html">Birth of the Good Place&lt;/a>
+&lt;a href="https://lobste.rs/s/zfknvd/birth_good_place">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://garba.org/posts/2021/uml/">Has UML died without anyone noticing?&lt;/a>
+&lt;a href="https://lobste.rs/s/aoolwb/has_uml_died_without_anyone_noticing">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://justinjaffray.com/query-engines-push-vs.-pull/">Query Engines: Push vs. Pull&lt;/a>
+&lt;a href="https://lobste.rs/s/znxb5w/query_engines_push_vs_pull">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this week?&lt;/a>
+&lt;a href="https://lobste.rs/s/j32tz4/what_are_you_doing_this_week">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://christine.website/blog/morph-setup-2021-04-25">Using Morph for Deploying to NixOS&lt;/a>
+&lt;a href="https://lobste.rs/s/qqybio/using_morph_for_deploying_nixos">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-04-26</title><link>https://frozen-lobster.rohanverma.net/posts/2021-04-26/</link><pubDate>Mon, 26 Apr 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-04-26/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://lore.kernel.org/lkml/CAK8KejpUVLxmqp026JY7x5GzHU2YJLPU8SzTZUNXU2OXC70ZQQ@mail.gmail.com/T/#u">“hypocrite commits” apology letter&lt;/a>
 &lt;a href="https://lobste.rs/s/9miojb/hypocrite_commits_apology_letter">(comments)&lt;/a>&lt;/p>
