@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 28 Apr 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-04-28</title><link>https://frozen-lobster.rohanverma.net/posts/2021-04-28/</link><pubDate>Wed, 28 Apr 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-04-28/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 29 Apr 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-04-29</title><link>https://frozen-lobster.rohanverma.net/posts/2021-04-29/</link><pubDate>Thu, 29 Apr 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-04-29/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="">What are your favorite codebases to study?&lt;/a>
+&lt;a href="https://lobste.rs/s/sp606q/what_are_your_favorite_codebases_study">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://seb.jambor.dev/posts/cd-is-not-a-program/">cd is not a program&lt;/a>
+&lt;a href="https://lobste.rs/s/ilwgjw/cd_is_not_program">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://madaidans-insecurities.github.io/firefox-chromium.html">Firefox and Chromium&lt;/a>
+&lt;a href="https://lobste.rs/s/eys36p/firefox_chromium">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://juliu.is/elm-at-noredink/">Elm at NoRedInk&lt;/a>
+&lt;a href="https://lobste.rs/s/yfor76/elm_at_noredink">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.storj.io/blog/introducing-drpc-our-replacement-for-grpc">Introducing DRPC: Our Replacement for gRPC&lt;/a>
+&lt;a href="https://lobste.rs/s/qo2qqk/introducing_drpc_our_replacement_for">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://raphlinus.github.io/gpu/2021/04/28/slow-shader.html">The case of the curiously slow shader&lt;/a>
+&lt;a href="https://lobste.rs/s/o5lo4i/case_curiously_slow_shader">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://plan9.io/sys/doc/lexnames.pdf">Lexical File Names in Plan 9 or Getting Dot Dot Right&lt;/a>
+&lt;a href="https://lobste.rs/s/gbzawo/lexical_file_names_plan_9_getting_dot_dot">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://notes.srid.ca/ema-announce">Ema: Haskell static site generator with hot reload&lt;/a>
+&lt;a href="https://lobste.rs/s/rkud9l/ema_haskell_static_site_generator_with">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.matuzo.at/blog/html-boilerplate/">My current HTML boilerplate&lt;/a>
+&lt;a href="https://lobste.rs/s/ixgip7/my_current_html_boilerplate">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">Do you use nodejs for scripting instead of bash?&lt;/a>
+&lt;a href="https://lobste.rs/s/bsv2yp/do_you_use_nodejs_for_scripting_instead">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-04-28</title><link>https://frozen-lobster.rohanverma.net/posts/2021-04-28/</link><pubDate>Wed, 28 Apr 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-04-28/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://www.storj.io/blog/introducing-drpc-our-replacement-for-grpc">Introducing DRPC: Our Replacement for gRPC&lt;/a>
 &lt;a href="https://lobste.rs/s/qo2qqk/introducing_drpc_our_replacement_for">(comments)&lt;/a>&lt;/p>
