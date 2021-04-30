@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 29 Apr 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-04-29</title><link>https://frozen-lobster.rohanverma.net/posts/2021-04-29/</link><pubDate>Thu, 29 Apr 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-04-29/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 30 Apr 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-04-30</title><link>https://frozen-lobster.rohanverma.net/posts/2021-04-30/</link><pubDate>Fri, 30 Apr 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-04-30/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="http://catern.com/inheritance.html">Inheritance was invented as a performance hack&lt;/a>
+&lt;a href="https://lobste.rs/s/gq29l7/inheritance_was_invented_as_performance">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://random-state.net/features-of-common-lisp.html">Features of Common Lisp (2008)&lt;/a>
+&lt;a href="https://lobste.rs/s/qqelbo/features_common_lisp_2008">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://developers.facebook.com/blog/post/2021/04/29/facebook-joins-rust-foundation/">Facebook Joins the Rust Foundation&lt;/a>
+&lt;a href="https://lobste.rs/s/dx90cn/facebook_joins_rust_foundation">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pythonspeed.com/articles/python-extension-performance/">The hidden performance overhead of Python C extensions&lt;/a>
+&lt;a href="https://lobste.rs/s/6rxxhh/hidden_performance_overhead_python_c">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are your favorite codebases to study?&lt;/a>
+&lt;a href="https://lobste.rs/s/sp606q/what_are_your_favorite_codebases_study">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://dev.to/savonarola/why-solid-may-be-useful-for-you-in-elixir-58me">Why SOLID may be useful for you in Elixir&lt;/a>
+&lt;a href="https://lobste.rs/s/t4jsf9/why_solid_may_be_useful_for_you_elixir">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/fortran-lang/fpm">Fortran Package Manager (fpm)&lt;/a>
+&lt;a href="https://lobste.rs/s/injccd/fortran_package_manager_fpm">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://notes.srid.ca/ema-announce">Ema: Haskell static site generator with hot reload&lt;/a>
+&lt;a href="https://lobste.rs/s/rkud9l/ema_haskell_static_site_generator_with">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://james-iry.blogspot.com/2011/05/why-eager-languages-dont-have-products.html">Why Eager Languages Don&amp;rsquo;t Have Products and Lazy Languages Don&amp;rsquo;t Have Sums&lt;/a>
+&lt;a href="https://lobste.rs/s/cdq266/why_eager_languages_don_t_have_products">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.baldurbjarnason.com/2021/100-things-every-web-developer-should-know/">136 facts every web dev should know&lt;/a>
+&lt;a href="https://lobste.rs/s/pnmoqc/136_facts_every_web_dev_should_know">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-04-29</title><link>https://frozen-lobster.rohanverma.net/posts/2021-04-29/</link><pubDate>Thu, 29 Apr 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-04-29/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="">What are your favorite codebases to study?&lt;/a>
 &lt;a href="https://lobste.rs/s/sp606q/what_are_your_favorite_codebases_study">(comments)&lt;/a>&lt;/p>
