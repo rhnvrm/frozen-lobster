@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 30 Apr 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-04-30</title><link>https://frozen-lobster.rohanverma.net/posts/2021-04-30/</link><pubDate>Fri, 30 Apr 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-04-30/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 01 May 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-05-01</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-01/</link><pubDate>Sat, 01 May 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-01/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://encore.dev/guide/go.mod">Go Modules Cheat Sheet&lt;/a>
+&lt;a href="https://lobste.rs/s/6zowea/go_modules_cheat_sheet">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://mtlynch.io/litestream/">How Litestream Eliminated My Database Server for $0.03/month&lt;/a>
+&lt;a href="https://lobste.rs/s/ntm9qf/how_litestream_eliminated_my_database">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/1ntEgr8/arss">arss - an rss reader that doesn&amp;rsquo;t try to do too much&lt;/a>
+&lt;a href="https://lobste.rs/s/sywgaz/arss_rss_reader_doesn_t_try_do_too_much">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://chown.me/blog/infrastructure-2020">My infrastructure as of 2020&lt;/a>
+&lt;a href="https://lobste.rs/s/eg92w7/my_infrastructure_as_2020">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://spin.atomicobject.com/2021/03/22/makefiles-vs-package-json-scripts/">Why I Prefer Makefiles Over package.json Scripts for Node.js Projects&lt;/a>
+&lt;a href="https://lobste.rs/s/jzhrcb/why_i_prefer_makefiles_over_package_json">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://daniel.haxx.se/blog/2021/04/30/fixed-vulnerabilities-were-once-created/">fixed vulnerabilities were once created&lt;/a>
+&lt;a href="https://lobste.rs/s/0pbn3r/fixed_vulnerabilities_were_once_created">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://catern.com/inheritance.html">Inheritance was invented as a performance hack&lt;/a>
+&lt;a href="https://lobste.rs/s/gq29l7/inheritance_was_invented_as_performance">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/cohomolo-gy/haskell-resources">A List of Foundational Haskell Papers&lt;/a>
+&lt;a href="https://lobste.rs/s/yq8inp/list_foundational_haskell_papers">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.gingerbeardman.com/2021/04/17/turning-an-ipad-pro-into-the-ultimate-classic-macintosh/">Turning an iPad Pro into the Ultimate Classic Macintosh&lt;/a>
+&lt;a href="https://lobste.rs/s/ewths7/turning_ipad_pro_into_ultimate_classic">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://oxide.computer/blog/lpc55/">Exploiting Undocumented Hardware Blocks in the LPC55S69&lt;/a>
+&lt;a href="https://lobste.rs/s/kqlfq0/exploiting_undocumented_hardware">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-04-30</title><link>https://frozen-lobster.rohanverma.net/posts/2021-04-30/</link><pubDate>Fri, 30 Apr 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-04-30/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="http://catern.com/inheritance.html">Inheritance was invented as a performance hack&lt;/a>
 &lt;a href="https://lobste.rs/s/gq29l7/inheritance_was_invented_as_performance">(comments)&lt;/a>&lt;/p>
