@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 01 May 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-05-01</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-01/</link><pubDate>Sat, 01 May 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-01/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 02 May 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-05-02</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-02/</link><pubDate>Sun, 02 May 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-02/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://massimo-nazaria.github.io/blog/2020/01/15/testability-equals-modularity.html">Testability = Modularity&lt;/a>
+&lt;a href="https://lobste.rs/s/faptvf/testability_modularity">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">I made a mini social network for people to hang out on gemini&lt;/a>
+&lt;a href="https://lobste.rs/s/wrkijb/i_made_mini_social_network_for_people_hang">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://washbear.neocities.org/markdown.html">Markdown, DocBook, and the quest for semantic documentation on NetBSD.org&lt;/a>
+&lt;a href="https://lobste.rs/s/pfg610/markdown_docbook_quest_for_semantic">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.openbsd.org/69.html">OpenBSD 6.9&lt;/a>
+&lt;a href="https://lobste.rs/s/wi6wjw/openbsd_6_9">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gabrieldougherty.com/posts/macos-change-desktop-background-image/">Change desktop background image for all desktops&lt;/a>
+&lt;a href="https://lobste.rs/s/anl6g2/change_desktop_background_image_for_all">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://encore.dev/guide/go.mod">Go Modules Cheat Sheet&lt;/a>
+&lt;a href="https://lobste.rs/s/6zowea/go_modules_cheat_sheet">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://justmathematicscollective.net/nsa_statement.html">Mathematics Beyond Secrecy and Surveillance&lt;/a>
+&lt;a href="https://lobste.rs/s/aivt9e/mathematics_beyond_secrecy">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://linmob.net/will-linux-phones-stay-around-this-time/">Will Linux Phones stay around this time?&lt;/a>
+&lt;a href="https://lobste.rs/s/cayz7a/will_linux_phones_stay_around_this_time">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://guillaume.baierouge.fr/2021/04/23/simulating-digital-circuits-in-racket/a-risc-v-core-in-racket/index.html">A RISC V Core in Racket&lt;/a>
+&lt;a href="https://lobste.rs/s/1lrnyr/risc_v_core_racket">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://carlschwan.eu/2021/04/29/health-of-the-kde-community/">Health of the KDE community&lt;/a>
+&lt;a href="https://lobste.rs/s/4jd261/health_kde_community">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-05-01</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-01/</link><pubDate>Sat, 01 May 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-01/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://encore.dev/guide/go.mod">Go Modules Cheat Sheet&lt;/a>
 &lt;a href="https://lobste.rs/s/6zowea/go_modules_cheat_sheet">(comments)&lt;/a>&lt;/p>
