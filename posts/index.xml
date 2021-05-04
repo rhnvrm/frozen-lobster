@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 03 May 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-05-03</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-03/</link><pubDate>Mon, 03 May 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-03/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 04 May 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-05-04</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-04/</link><pubDate>Tue, 04 May 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-04/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="http://len.falken.ink/misc/tool-sh.txt">Why yes I would love to inject viruses into my computer&lt;/a>
+&lt;a href="https://lobste.rs/s/kfhfb0/why_yes_i_would_love_inject_viruses_into_my">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://web.archive.org/web/20180329073708/https://plus.google.com/102612254593917101378/posts/2CUPZ5yVTRT">Nintendo Switch is not USB-C compliant (2017)&lt;/a>
+&lt;a href="https://lobste.rs/s/gfvpqh/nintendo_switch_is_not_usb_c_compliant">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://wickstrom.tech/programming/2021/05/03/specifying-state-machines-with-temporal-logic.html">Specifying State Machines with Temporal Logic&lt;/a>
+&lt;a href="https://lobste.rs/s/uifucu/specifying_state_machines_with_temporal">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://andrewkelley.me/post/jamulator.html">Statically Recompiling NES Games into Native Executables with LLVM and Go (2013)&lt;/a>
+&lt;a href="https://lobste.rs/s/sek5qc/statically_recompiling_nes_games_into">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://brson.github.io/2021/05/02/rusts-most-unrecognized-contributor">Rust&amp;rsquo;s Most Unrecognized Contributor&lt;/a>
+&lt;a href="https://lobste.rs/s/nw07cy/rust_s_most_unrecognized_contributor">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/">Hosting SQLite databases on Github Pages - (or any static file hoster)&lt;/a>
+&lt;a href="https://lobste.rs/s/rkhnj9/hosting_sqlite_databases_on_github_pages">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this week?&lt;/a>
+&lt;a href="https://lobste.rs/s/ryyzcy/what_are_you_doing_this_week">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://doi.org/10.1145/3386324">Evolution of Emacs Lisp&lt;/a>
+&lt;a href="https://lobste.rs/s/qoosfy/evolution_emacs_lisp">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://rachelbythebay.com/w/2021/05/02/py/">Python and me, or when in Rome&lt;/a>
+&lt;a href="https://lobste.rs/s/potii3/python_me_when_rome">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tlog.linderud.dev/">Kernel.org Transparency Log Monitor&lt;/a>
+&lt;a href="https://lobste.rs/s/3sxyot/kernel_org_transparency_log_monitor">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-05-03</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-03/</link><pubDate>Mon, 03 May 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-03/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://brson.github.io/2021/05/02/rusts-most-unrecognized-contributor">Rust&amp;rsquo;s Most Unrecognized Contributor&lt;/a>
 &lt;a href="https://lobste.rs/s/nw07cy/rust_s_most_unrecognized_contributor">(comments)&lt;/a>&lt;/p>
