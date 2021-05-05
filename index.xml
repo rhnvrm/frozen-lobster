@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 04 May 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-05-04</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-04/</link><pubDate>Tue, 04 May 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-04/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 05 May 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-05-05</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-05/</link><pubDate>Wed, 05 May 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-05/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/susam/may4">Celebrate Star Wars Day with some Forth code. May the Forth be with you&lt;/a>
+&lt;a href="https://lobste.rs/s/qugymq/celebrate_star_wars_day_with_some_forth">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jcs.org/2021/04/23/wifistation">WiFiStation: A WiFi interface for the Cidco MailStation Z80 Computer&lt;/a>
+&lt;a href="https://lobste.rs/s/gc6kzt/wifistation_wifi_interface_for_cidco">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.nodejsdesignpatterns.com/blog/javascript-async-iterators">In-depth exploration of JavaScript iteration protocols&lt;/a>
+&lt;a href="https://lobste.rs/s/oqix2f/depth_exploration_javascript_iteration">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://box.matto.nl/cgi-with-awk-on-openbsd-httpd.html">CGI with Awk on OpenBSD httpd&lt;/a>
+&lt;a href="https://lobste.rs/s/uxsrvp/cgi_with_awk_on_openbsd_httpd">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://200ok.ch/posts/2021-05-04_migrate_off_a_selfmanaged_gitlab_instance_to_gitlab.com.html">Guide on migrating off a self-managed Gitlab instance to gitlab.com&lt;/a>
+&lt;a href="https://lobste.rs/s/7use4i/guide_on_migrating_off_self_managed">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/xmake-io/xmake/wiki/C-and-Cplusplus-build-system,-I-use-xmake">C/C++ build system, I use xmake&lt;/a>
+&lt;a href="https://lobste.rs/s/b9gbkn/c_c_build_system_i_use_xmake">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ifa.supplies/alapatch">I made a web patch editor for the microKORG&lt;/a>
+&lt;a href="https://lobste.rs/s/1wm5te/i_made_web_patch_editor_for_microkorg">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What&amp;rsquo;s the most mysterious bug you&amp;rsquo;ve ever encountered?&lt;/a>
+&lt;a href="https://lobste.rs/s/o5vohj/what_s_most_mysterious_bug_you_ve_ever">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://samuel.karp.dev/blog/2021/05/running-freebsd-jails-with-containerd-1-5/">Running FreeBSD Jails with containerd 1.5&lt;/a>
+&lt;a href="https://lobste.rs/s/d26nlp/running_freebsd_jails_with_containerd_1_5">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.qualys.com/2021/05/04/21nails/21nails.txt">21Nails: Multiple vulnerabilities in Exim&lt;/a>
+&lt;a href="https://lobste.rs/s/6tu6lw/21nails_multiple_vulnerabilities_exim">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-05-04</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-04/</link><pubDate>Tue, 04 May 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-04/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="http://len.falken.ink/misc/tool-sh.txt">Why yes I would love to inject viruses into my computer&lt;/a>
 &lt;a href="https://lobste.rs/s/kfhfb0/why_yes_i_would_love_inject_viruses_into_my">(comments)&lt;/a>&lt;/p>
