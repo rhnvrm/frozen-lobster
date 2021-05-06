@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 05 May 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-05-05</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-05/</link><pubDate>Wed, 05 May 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-05/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 06 May 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-05-06</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-06/</link><pubDate>Thu, 06 May 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-06/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://mysteries.wizardzines.com/50ms-request.html">The Case of the 50ms request&lt;/a>
+&lt;a href="https://lobste.rs/s/uon5yd/case_50ms_request">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://deprogrammaticaipsum.com/the-great-rewriting-in-rust/">The Great Rewriting In Rust&lt;/a>
+&lt;a href="https://lobste.rs/s/qvw9ib/great_rewriting_rust">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/noahlevenson/libfood">decentralized location-aware p2p protocol to make food delivery fair again&lt;/a>
+&lt;a href="https://lobste.rs/s/vhxlg5/decentralized_location_aware_p2p">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://microkerneldude.wordpress.com/2021/05/05/sel4-on-risc-v-verified-to-binary-code/">seL4 on RISC-V Verified to Binary Code&lt;/a>
+&lt;a href="https://lobste.rs/s/hj4akc/sel4_on_risc_v_verified_binary_code">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jix.one/proving-50-year-old-sorting-networks-optimal-part-1/">Proving 50-Year-Old Sorting Networks Optimal: Part 1&lt;/a>
+&lt;a href="https://lobste.rs/s/bgigl9/proving_50_year_old_sorting_networks">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://computer.rip/2021-05-01-simple-as-in-snmp.html">Simple as in SNMP&lt;/a>
+&lt;a href="https://lobste.rs/s/jhkpmb/simple_as_snmp">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/golang/go/issues/45955">Go proposal: new package to provide generic slice functions&lt;/a>
+&lt;a href="https://lobste.rs/s/12an1r/go_proposal_new_package_provide_generic">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://hashrust.com/blog/moves-copies-and-clones-in-rust/">Moves, copies and clones in Rust&lt;/a>
+&lt;a href="https://lobste.rs/s/ywrfsl/moves_copies_clones_rust">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://depts.washington.edu/acelab/proj/dollar/index.html">$1 Recognizer&lt;/a>
+&lt;a href="https://lobste.rs/s/2xsb5a/1_recognizer">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.gatunka.com/2015/06/30/isdn-the-untraveled-path-of-mobile-computing/">ISDN: The Untravelled Path of Mobile Computing&lt;/a>
+&lt;a href="https://lobste.rs/s/okarxa/isdn_untravelled_path_mobile_computing">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-05-05</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-05/</link><pubDate>Wed, 05 May 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-05/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://github.com/susam/may4">Celebrate Star Wars Day with some Forth code. May the Forth be with you&lt;/a>
 &lt;a href="https://lobste.rs/s/qugymq/celebrate_star_wars_day_with_some_forth">(comments)&lt;/a>&lt;/p>
