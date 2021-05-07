@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 06 May 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-05-06</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-06/</link><pubDate>Thu, 06 May 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-06/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 07 May 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-05-07</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-07/</link><pubDate>Fri, 07 May 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-07/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://blog.cloudflare.com/branch-predictor/">Branch predictor: How many &amp;ldquo;if&amp;quot;s are too many? Including x86 and M1 benchmarks&lt;/a>
+&lt;a href="https://lobste.rs/s/h27kp0/branch_predictor_how_many_if_s_are_too_many">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gleam.run/news/gleam-v0.15-released/">v0.15 of Gleam, a type safe language for the Erlang VM, has been released&lt;/a>
+&lt;a href="https://lobste.rs/s/cri3bn/v0_15_gleam_type_safe_language_for_erlang">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://zverok.github.io/blog/2021-05-06-how-to-spellcheck.html">I forgot how to spellcheck&lt;/a>
+&lt;a href="https://lobste.rs/s/otkvpl/i_forgot_how_spellcheck">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.rust-lang.org/2021/05/06/Rust-1.52.0.html">Announcing Rust 1.52.0&lt;/a>
+&lt;a href="https://lobste.rs/s/lvxa2n/announcing_rust_1_52_0">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://arxiv.org/pdf/2103.03198.pdf">Catala: A Programming Language for the Law&lt;/a>
+&lt;a href="https://lobste.rs/s/hs53j4/catala_programming_language_for_law">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/stedolan/jq/wiki/Internals:-introduction">jq Internals&lt;/a>
+&lt;a href="https://lobste.rs/s/jr7ryq/jq_internals">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/google/zx">After discussion here, I created a lib for writing better scripts on nodejs&lt;/a>
+&lt;a href="https://lobste.rs/s/9yu5sl/after_discussion_here_i_created_lib_for">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.asrpo.com/jit_programming">Instruction level just-in-time programming&lt;/a>
+&lt;a href="https://lobste.rs/s/6muxzs/instruction_level_just_time_programming">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://mysteries.wizardzines.com/50ms-request.html">The Case of the 50ms request&lt;/a>
+&lt;a href="https://lobste.rs/s/uon5yd/case_50ms_request">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.benkuhn.net/caw/">Three interesting refrains of Coders at Work (2015)&lt;/a>
+&lt;a href="https://lobste.rs/s/at06k9/three_interesting_refrains_coders_at">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-05-06</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-06/</link><pubDate>Thu, 06 May 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-06/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://mysteries.wizardzines.com/50ms-request.html">The Case of the 50ms request&lt;/a>
 &lt;a href="https://lobste.rs/s/uon5yd/case_50ms_request">(comments)&lt;/a>&lt;/p>
