@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 07 May 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-05-07</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-07/</link><pubDate>Fri, 07 May 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-07/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 08 May 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-05-08</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-08/</link><pubDate>Sat, 08 May 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-08/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://blog.benwinding.com/github-stale-bots/">Github Stale Bots: A False Economy&lt;/a>
+&lt;a href="https://lobste.rs/s/jsuyr4/github_stale_bots_false_economy">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.dannyguo.com/blog/what-i-learned-by-relearning-html">What I Learned by Relearning HTML&lt;/a>
+&lt;a href="https://lobste.rs/s/mm0pya/what_i_learned_by_relearning_html">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/illumos/ipd/blob/master/ipd/0019/README.md">Illumos proposal to drop SPARC support&lt;/a>
+&lt;a href="https://lobste.rs/s/ptda3t/illumos_proposal_drop_sparc_support">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://chuttenblog.wordpress.com/2020/11/05/data-science-is-hard-alsa-in-firefox/">Data Science is Hard: ALSA in Firefox&lt;/a>
+&lt;a href="https://lobste.rs/s/jirmtv/data_science_is_hard_alsa_firefox">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://matrix.org/blog/2021/05/06/introducing-the-pinecone-overlay-network">Introducing the Pinecone overlay network&lt;/a>
+&lt;a href="https://lobste.rs/s/xbhatw/introducing_pinecone_overlay_network">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://aws.amazon.com/blogs/developer/a-new-aws-sdk-for-rust-alpha-launch/">A New AWS SDK for Rust – Alpha Launch&lt;/a>
+&lt;a href="https://lobste.rs/s/85cxrl/new_aws_sdk_for_rust_alpha_launch">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.proctet.net/analytics-audacity/">Analytics, Crashreports and Audacity&lt;/a>
+&lt;a href="https://lobste.rs/s/kbfde4/analytics_crashreports_audacity">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://explained-from-first-principles.com/email/">Email explained from first principles&lt;/a>
+&lt;a href="https://lobste.rs/s/qfil3l/email_explained_from_first_principles">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://hackaday.io/project/179539-hardware-boot-selection-switch">Hardware boot selection switch&lt;/a>
+&lt;a href="https://lobste.rs/s/enserr/hardware_boot_selection_switch">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this weekend?&lt;/a>
+&lt;a href="https://lobste.rs/s/7a3xav/what_are_you_doing_this_weekend">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-05-07</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-07/</link><pubDate>Fri, 07 May 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-07/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://blog.cloudflare.com/branch-predictor/">Branch predictor: How many &amp;ldquo;if&amp;quot;s are too many? Including x86 and M1 benchmarks&lt;/a>
 &lt;a href="https://lobste.rs/s/h27kp0/branch_predictor_how_many_if_s_are_too_many">(comments)&lt;/a>&lt;/p>
