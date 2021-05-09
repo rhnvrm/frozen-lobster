@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 08 May 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-05-08</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-08/</link><pubDate>Sat, 08 May 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-08/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 09 May 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-05-09</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-09/</link><pubDate>Sun, 09 May 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-09/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.simplermachines.com/the-mortifying-ordeal-of-pairing-all-day/">The Mortifying Ordeal of Pairing All Day&lt;/a>
+&lt;a href="https://lobste.rs/s/oqj7jq/mortifying_ordeal_pairing_all_day">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/ellie/atuin">Atuin: Improved shell history with multi-machine sync&lt;/a>
+&lt;a href="https://lobste.rs/s/r5zptc/atuin_improved_shell_history_with_multi">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://justine.lol/endian.html">The Byte Order Fiasco&lt;/a>
+&lt;a href="https://lobste.rs/s/celegm/byte_order_fiasco">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://bhupesh-v.github.io/undo-your-last-git-mistake-with-ugit/">Undo your last git mistake with ugit&lt;/a>
+&lt;a href="https://lobste.rs/s/64lthd/undo_your_last_git_mistake_with_ugit">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.dannyguo.com/blog/what-i-learned-by-relearning-html">What I Learned by Relearning HTML&lt;/a>
+&lt;a href="https://lobste.rs/s/mm0pya/what_i_learned_by_relearning_html">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://michael.stapelberg.ch/posts/2021-05-08-keyboard-input-latency-qmk-kinesis/">Measure and reduce keyboard input latency with QMK on the Kinesis Advantage&lt;/a>
+&lt;a href="https://lobste.rs/s/33he46/measure_reduce_keyboard_input_latency">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://www.malsmith.net/blog/make-ymake/">Why make (and ymake)&lt;/a>
+&lt;a href="https://lobste.rs/s/a25vff/why_make_ymake">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://massimo-nazaria.github.io/blog/2019/05/09/three-alternatives-to-rubber-duck-debugging.html">3 Alternatives to Rubber Duck Debugging&lt;/a>
+&lt;a href="https://lobste.rs/s/8jrozb/3_alternatives_rubber_duck_debugging">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://elronnd.net/writ/boring/2021-05-07_abi-wrong.html">Your ABI is Probably Wrong&lt;/a>
+&lt;a href="https://lobste.rs/s/ltroon/your_abi_is_probably_wrong">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.benwinding.com/github-stale-bots/">Github Stale Bots: A False Economy&lt;/a>
+&lt;a href="https://lobste.rs/s/jsuyr4/github_stale_bots_false_economy">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-05-08</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-08/</link><pubDate>Sat, 08 May 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-08/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://blog.benwinding.com/github-stale-bots/">Github Stale Bots: A False Economy&lt;/a>
 &lt;a href="https://lobste.rs/s/jsuyr4/github_stale_bots_false_economy">(comments)&lt;/a>&lt;/p>
