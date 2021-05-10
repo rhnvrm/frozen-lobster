@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 09 May 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-05-09</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-09/</link><pubDate>Sun, 09 May 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-09/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 10 May 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-05-10</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-10/</link><pubDate>Mon, 10 May 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-10/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.stevenrbaker.com/tech/history-of-rspec.html">History of RSpec&lt;/a>
+&lt;a href="https://lobste.rs/s/hnetcr/history_rspec">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sporks.space/2021/05/09/loose-ideas-for-operating-systems/">Loose ideas for operating systems&lt;/a>
+&lt;a href="https://lobste.rs/s/csd3li/loose_ideas_for_operating_systems">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/tsileo/microblog.pub">microblog.pub: A self-hosted, single-user, ActivityPub powered microblog&lt;/a>
+&lt;a href="https://lobste.rs/s/vayio2/microblog_pub_self_hosted_single_user">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/ahuth/conway4">Conway&amp;rsquo;s game of life in TypeScript, with optimizations from Graphics Programming Black Book&lt;/a>
+&lt;a href="https://lobste.rs/s/imsnts/conway_s_game_life_typescript_with">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.simplermachines.com/the-mortifying-ordeal-of-pairing-all-day/">The Mortifying Ordeal of Pairing All Day&lt;/a>
+&lt;a href="https://lobste.rs/s/oqj7jq/mortifying_ordeal_pairing_all_day">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://grahamc.com/blog/flakes-are-an-obviously-good-thing">Flakes are such an obviously good thing: &amp;hellip;but the design and development process should be better&lt;/a>
+&lt;a href="https://lobste.rs/s/ipvgon/flakes_are_such_obviously_good_thing">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.metaobject.com/2021/05/talking-to-pins.html">Talking to pins&lt;/a>
+&lt;a href="https://lobste.rs/s/kwv1qm/talking_pins">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.pagetable.com/?p=1518">Commodore’s Assemblers: Overview&lt;/a>
+&lt;a href="https://lobste.rs/s/w4dsk1/commodore_s_assemblers_overview">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://microsoft.github.io/react-native-windows/blog/2021/03/16/64updates">React Native for Windows + macOS&lt;/a>
+&lt;a href="https://lobste.rs/s/x6p0mz/react_native_for_windows_macos">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://abhinavsarkar.net/posts/implementing-co-1/">Implementing Co, a Small Interpreted Language With Coroutines #1: TheParser&lt;/a>
+&lt;a href="https://lobste.rs/s/5cn5oa/implementing_co_small_interpreted">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-05-09</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-09/</link><pubDate>Sun, 09 May 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-09/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://www.simplermachines.com/the-mortifying-ordeal-of-pairing-all-day/">The Mortifying Ordeal of Pairing All Day&lt;/a>
 &lt;a href="https://lobste.rs/s/oqj7jq/mortifying_ordeal_pairing_all_day">(comments)&lt;/a>&lt;/p>
