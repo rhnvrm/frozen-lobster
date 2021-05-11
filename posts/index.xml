@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 10 May 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-05-10</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-10/</link><pubDate>Mon, 10 May 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-10/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 11 May 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-05-11</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-11/</link><pubDate>Tue, 11 May 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-11/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://blog.rust-lang.org/2021/05/10/Rust-1.52.1.html">Announcing Rust 1.52.1&lt;/a>
+&lt;a href="https://lobste.rs/s/coi2bn/announcing_rust_1_52_1">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://strlen.com/lobster/">The Lobster Programming Language&lt;/a>
+&lt;a href="https://lobste.rs/s/d14crk/lobster_programming_language">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/tusharsadhwani/zxpy">zxpy: A tool for shell scripting in Python, inspired by Google&amp;rsquo;s zx&lt;/a>
+&lt;a href="https://lobste.rs/s/p1hict/zxpy_tool_for_shell_scripting_python">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=tDacjrSCeq4">Shouting at hard drives in the datacenter (2008)&lt;/a>
+&lt;a href="https://lobste.rs/s/et8pxk/shouting_at_hard_drives_datacenter_2008">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.dragonflybsd.org/release60/">DragonflyBSD 6.0 Released&lt;/a>
+&lt;a href="https://lobste.rs/s/mlvqms/dragonflybsd_6_0_released">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://git.syndicate-lang.org/syndicate-lang/syndicate-java">A surprisingly fast, surprisingly simple Actor library for Java&lt;/a>
+&lt;a href="https://lobste.rs/s/tdsvdd/surprisingly_fast_surprisingly_simple">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this week?&lt;/a>
+&lt;a href="https://lobste.rs/s/ab1r64/what_are_you_doing_this_week">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://qmacro.org/autodidactics/2021/04/28/unpacking-tips/">Unpacking Bash shell tips from a GitHub Actions workflow&lt;/a>
+&lt;a href="https://lobste.rs/s/lpfc9n/unpacking_bash_shell_tips_from_github">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://techblog.bozho.net/the-syslog-hell/">The Syslog Hell&lt;/a>
+&lt;a href="https://lobste.rs/s/242kl1/syslog_hell">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://hpyproject.org/blog/posts/2021/05/may-status-update/">HPy Status Update&lt;/a>
+&lt;a href="https://lobste.rs/s/ahf15h/hpy_status_update">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-05-10</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-10/</link><pubDate>Mon, 10 May 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-10/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://www.stevenrbaker.com/tech/history-of-rspec.html">History of RSpec&lt;/a>
 &lt;a href="https://lobste.rs/s/hnetcr/history_rspec">(comments)&lt;/a>&lt;/p>
