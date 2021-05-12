@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 11 May 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-05-11</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-11/</link><pubDate>Tue, 11 May 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-11/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 12 May 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-05-12</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-12/</link><pubDate>Wed, 12 May 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-12/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://ols.wtf/2021/05/10/orgy-personal-tech-stack.html">OrGY: My Personal Technology Stack&lt;/a>
+&lt;a href="https://lobste.rs/s/fo1vwo/orgy_my_personal_technology_stack">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ideas.offby1.net/posts/development-environment-2021.html">My Development Environment in 2021&lt;/a>
+&lt;a href="https://lobste.rs/s/n6lh6u/my_development_environment_2021">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.rust-lang.org/2021/05/11/edition-2021.html">The Plan for the Rust 2021 Edition&lt;/a>
+&lt;a href="https://lobste.rs/s/ogtxa1/plan_for_rust_2021_edition">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.cambus.net/speedbuilding-llvm-clang-in-5-minutes/">Speedbuilding LLVM/Clang in 5 minutes&lt;/a>
+&lt;a href="https://lobste.rs/s/rqkxyf/speedbuilding_llvm_clang_5_minutes">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/hauleth/dolores">Dolores - local development dynamic TLS proxy&lt;/a>
+&lt;a href="https://lobste.rs/s/xpdfwb/dolores_local_development_dynamic_tls">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://babel.dev/blog/2021/05/10/funding-update">Babel is used by millions, so why are we running out of money?&lt;/a>
+&lt;a href="https://lobste.rs/s/vqas7d/babel_is_used_by_millions_so_why_are_we">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/Ekdohibs/camlboot">camlboot: An OCaml bootstrap experiment&lt;/a>
+&lt;a href="https://lobste.rs/s/vqdx9c/camlboot_ocaml_bootstrap_experiment">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.fragattacks.com/">FragAttacks: Security flaws in all Wi-Fi devices&lt;/a>
+&lt;a href="https://lobste.rs/s/h7rwjd/fragattacks_security_flaws_all_wi_fi">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://evoniuk.github.io/posts/pitfall.html">How Pitfall Builds its World&lt;/a>
+&lt;a href="https://lobste.rs/s/h9oyiq/how_pitfall_builds_its_world">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://security.googleblog.com/2021/05/integrating-rust-into-android-open.html">Integrating Rust Into the Android Open Source Project&lt;/a>
+&lt;a href="https://lobste.rs/s/abnalv/integrating_rust_into_android_open">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-05-11</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-11/</link><pubDate>Tue, 11 May 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-11/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://blog.rust-lang.org/2021/05/10/Rust-1.52.1.html">Announcing Rust 1.52.1&lt;/a>
 &lt;a href="https://lobste.rs/s/coi2bn/announcing_rust_1_52_1">(comments)&lt;/a>&lt;/p>
