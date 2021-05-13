@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 12 May 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-05-12</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-12/</link><pubDate>Wed, 12 May 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-12/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 13 May 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-05-13</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-13/</link><pubDate>Thu, 13 May 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-13/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://schneems.com/2021/05/12/the-room-where-it-happens-how-rails-gets-made/">The room where it happens: How Rails gets made&lt;/a>
+&lt;a href="https://lobste.rs/s/j1gmob/room_where_it_happens_how_rails_gets_made">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://raymii.org/s/articles/It_compiles_does_not_always_means_that_it_works.html">It compiles does not always mean that it works&lt;/a>
+&lt;a href="https://lobste.rs/s/3ls4jj/it_compiles_does_not_always_mean_it_works">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pyjarrett.github.io/programming-with-ada/000-overview.html">Ada in 2021 Overview&lt;/a>
+&lt;a href="https://lobste.rs/s/fszmi0/ada_2021_overview">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://blog.erlang.org/My-OTP-24-Highlights/">Erlang/OTP 24 Highlights&lt;/a>
+&lt;a href="https://lobste.rs/s/xidejg/erlang_otp_24_highlights">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://workspaceupdates.googleblog.com/2021/05/Google-Docs-Canvas-Based-Rendering-Update.html">Google Docs will now use canvas based rendering&lt;/a>
+&lt;a href="https://lobste.rs/s/uqb3kj/google_docs_will_now_use_canvas_based">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pythonspeed.com/articles/docker-performance-overhead/">Docker can slow down your code and distort your benchmarks&lt;/a>
+&lt;a href="https://lobste.rs/s/hahnze/docker_can_slow_down_your_code_distort">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://guix.gnu.org/blog/2021/gnu-guix-1.3.0-released/">GNU Guix 1.3.0 released&lt;/a>
+&lt;a href="https://lobste.rs/s/2bhbe2/gnu_guix_1_3_0_released">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://soapbox.pub/blog/announcing-soapbox-be-v1.0/">Soapbox BE: a new Pleroma fork&lt;/a>
+&lt;a href="https://lobste.rs/s/tshnay/soapbox_be_new_pleroma_fork">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://discuss.haiku-os.org/t/my-haiku-risc-v-port-progress/10663/86">Haiku RISC-V port progress&lt;/a>
+&lt;a href="https://lobste.rs/s/jskggt/haiku_risc_v_port_progress">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://positive.security/blog/send-my">Send My: Arbitrary data transmission via Apple&amp;rsquo;s Find My network&lt;/a>
+&lt;a href="https://lobste.rs/s/1wqimt/send_my_arbitrary_data_transmission_via">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-05-12</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-12/</link><pubDate>Wed, 12 May 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-12/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://ols.wtf/2021/05/10/orgy-personal-tech-stack.html">OrGY: My Personal Technology Stack&lt;/a>
 &lt;a href="https://lobste.rs/s/fo1vwo/orgy_my_personal_technology_stack">(comments)&lt;/a>&lt;/p>
