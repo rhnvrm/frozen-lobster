@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 13 May 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-05-13</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-13/</link><pubDate>Thu, 13 May 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-13/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 14 May 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-05-14</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-14/</link><pubDate>Fri, 14 May 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-14/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.fastly.com/blog/building-an-efficient-and-portable-programming-language-with-zig">Building an efficient and portable programming language with Zig&lt;/a>
+&lt;a href="https://lobste.rs/s/qv9fgc/building_efficient_portable">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What other hobbyist &amp;ldquo;small devices&amp;rdquo; are out there other than the RPi?&lt;/a>
+&lt;a href="https://lobste.rs/s/uhrh3e/what_other_hobbyist_small_devices_are_out">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.hackster.io/news/the-lisperati1000-is-a-cyberdeck-terminal-dedicated-to-lisp-programming-bb564f2ffcff">The Lisperati1000 Is a Cyberdeck Terminal Dedicated to Lisp Programming&lt;/a>
+&lt;a href="https://lobste.rs/s/egjz1c/lisperati1000_is_cyberdeck_terminal">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://klarasystems.com/articles/basics-of-zfs-snapshot-management/">Basics of ZFS Snapshot Management&lt;/a>
+&lt;a href="https://lobste.rs/s/jgixbw/basics_zfs_snapshot_management">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://visualstudiomagazine.com/articles/2021/05/11/vscode-python-may21.aspx?m=1">Pylance Now Default Language Server for Python in Visual Studio Code&lt;/a>
+&lt;a href="https://lobste.rs/s/9zqyoh/pylance_now_default_language_server_for">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">Tag Proposal: Forth&lt;/a>
+&lt;a href="https://lobste.rs/s/ijpdeu/tag_proposal_forth">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://system76.com/accessories/launch">System76 announced an open source mechanical keyboard &amp;ldquo;Launch&amp;rdquo;&lt;/a>
+&lt;a href="https://lobste.rs/s/kvz8ct/system76_announced_open_source">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.python.org/dev/peps/pep-0659/">PEP 659 &amp;ndash; Specializing Adaptive Interpreter&lt;/a>
+&lt;a href="https://lobste.rs/s/r3smbl/pep_659_specializing_adaptive">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://andregarzia.com/2021/05/getting-my-tbr-list-from-the-storygraph-by-leveraging-applescript.html">Getting my TBR list from The StoryGraph by leveraging AppleScript&lt;/a>
+&lt;a href="https://lobste.rs/s/3exenl/getting_my_tbr_list_from_storygraph_by">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/sepandhaghighi/nafas">Nafas: Open-Source Breathing Gymnastics Application For Geeks&lt;/a>
+&lt;a href="https://lobste.rs/s/bz3ju1/nafas_open_source_breathing_gymnastics">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-05-13</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-13/</link><pubDate>Thu, 13 May 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-13/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://schneems.com/2021/05/12/the-room-where-it-happens-how-rails-gets-made/">The room where it happens: How Rails gets made&lt;/a>
 &lt;a href="https://lobste.rs/s/j1gmob/room_where_it_happens_how_rails_gets_made">(comments)&lt;/a>&lt;/p>
