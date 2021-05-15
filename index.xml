@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 14 May 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-05-14</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-14/</link><pubDate>Fri, 14 May 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-14/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 15 May 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-05-15</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-15/</link><pubDate>Sat, 15 May 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-15/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.scala-lang.org/blog/2021/05/14/scala3-is-here.html">Scala 3 is here&lt;/a>
+&lt;a href="https://lobste.rs/s/mp6rge/scala_3_is_here">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://carloscarrasco.com/love-letter-to-s7-scheme/">A love letter to s7 Scheme (2016)&lt;/a>
+&lt;a href="https://lobste.rs/s/c7gqf7/love_letter_s7_scheme_2016">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/kracekumar/python-typing-koans">kracekumar/python-typing-koans&lt;/a>
+&lt;a href="https://lobste.rs/s/pck3i4/kracekumar_python_typing_koans">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://raphlinus.github.io/gpu/2021/05/13/stack-monoid-revisited.html">The stack monoid revisited&lt;/a>
+&lt;a href="https://lobste.rs/s/xivkj6/stack_monoid_revisited">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.logrocket.com/what-you-cant-do-in-rust-and-what-to-do-instead/">Things you can’t do in Rust (and what to do instead)&lt;/a>
+&lt;a href="https://lobste.rs/s/mactpr/things_you_can_t_do_rust_what_do_instead">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://metasyn.github.io/learn-orca/">Learn ORCΛ&lt;/a>
+&lt;a href="https://lobste.rs/s/xu0c0j/learn_orc">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.zulip.com/2021/05/13/zulip-4-0-released">Zulip 4.0: Threaded open source team chat&lt;/a>
+&lt;a href="https://lobste.rs/s/b9ikvl/zulip_4_0_threaded_open_source_team_chat">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://system76.com/accessories/launch">System76 announced an open source mechanical keyboard &amp;ldquo;Launch&amp;rdquo;&lt;/a>
+&lt;a href="https://lobste.rs/s/kvz8ct/system76_announced_open_source">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/rust-lang/rust/blob/master/src/test/ui/weird-exprs.rs">Rust Weird Expressions&lt;/a>
+&lt;a href="https://lobste.rs/s/duyufs/rust_weird_expressions">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.fastly.com/blog/building-an-efficient-and-portable-programming-language-with-zig">Building an efficient and portable programming language with Zig&lt;/a>
+&lt;a href="https://lobste.rs/s/qv9fgc/building_efficient_portable">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-05-14</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-14/</link><pubDate>Fri, 14 May 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-14/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://www.fastly.com/blog/building-an-efficient-and-portable-programming-language-with-zig">Building an efficient and portable programming language with Zig&lt;/a>
 &lt;a href="https://lobste.rs/s/qv9fgc/building_efficient_portable">(comments)&lt;/a>&lt;/p>
