@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 15 May 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-05-15</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-15/</link><pubDate>Sat, 15 May 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-15/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 16 May 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-05-16</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-16/</link><pubDate>Sun, 16 May 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-16/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://utcc.utoronto.ca/~cks/space/blog/programming/BourneBadForLargeScripts">The Bourne shell and Bash aren&amp;rsquo;t the right languages for larger programs&lt;/a>
+&lt;a href="https://lobste.rs/s/d9xics/bourne_shell_bash_aren_t_right_languages">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.logrocket.com/what-you-cant-do-in-rust-and-what-to-do-instead/">Things you can’t do in Rust (and what to do instead)&lt;/a>
+&lt;a href="https://lobste.rs/s/mactpr/things_you_can_t_do_rust_what_do_instead">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.baldurbjarnason.com/2021/the-oss-bubble-and-the-blogging-bubble/">The Open-Source Software bubble that is and the blogging bubble that was&lt;/a>
+&lt;a href="https://lobste.rs/s/2vbast/open_source_software_bubble_is_blogging">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://massimo-nazaria.github.io/blog/2019/03/02/unix-philosophy-with-an-example.html">Unix Philosophy with an Example&lt;/a>
+&lt;a href="https://lobste.rs/s/0zuri5/unix_philosophy_with_example">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.rust-lang.org/2021/05/15/six-years-of-rust.html">Six Years of Rust&lt;/a>
+&lt;a href="https://lobste.rs/s/ipwcjr/six_years_rust">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.dgsiegel.net/articles/in-search-of-a-dynamic-medium">in search of a dynamic medium&lt;/a>
+&lt;a href="https://lobste.rs/s/xjyze3/search_dynamic_medium">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://arnon.dk/5-things-i-learned-developing-billing-system/">5 things I learned while developing a billing system&lt;/a>
+&lt;a href="https://lobste.rs/s/kjdyec/5_things_i_learned_while_developing">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://macwright.com/2019/01/02/paper-notes.html">Paper notes (2019)&lt;/a>
+&lt;a href="https://lobste.rs/s/otfrmf/paper_notes_2019">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.gwern.net/Tanks">The Neural Net Tank Urban Legend&lt;/a>
+&lt;a href="https://lobste.rs/s/wefxxt/neural_net_tank_urban_legend">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://bibliogram.art">Bibliogram is an alternative front-end to Instagram&lt;/a>
+&lt;a href="https://lobste.rs/s/qlyp0l/bibliogram_is_alternative_front_end">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-05-15</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-15/</link><pubDate>Sat, 15 May 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-15/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://www.scala-lang.org/blog/2021/05/14/scala3-is-here.html">Scala 3 is here&lt;/a>
 &lt;a href="https://lobste.rs/s/mp6rge/scala_3_is_here">(comments)&lt;/a>&lt;/p>
