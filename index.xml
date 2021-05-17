@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 16 May 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-05-16</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-16/</link><pubDate>Sun, 16 May 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-16/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 17 May 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-05-17</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-17/</link><pubDate>Mon, 17 May 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-17/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://michael.stapelberg.ch/posts/2021-05-16-home-network-fiber-10-gbits-upgrade/">Home network 10 Gbit/s upgrade&lt;/a>
+&lt;a href="https://lobste.rs/s/lm3ce5/home_network_10_gbit_s_upgrade">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://christine.website/talks/systemd-the-good-parts-2021-05-16">systemd: The Good Parts&lt;/a>
+&lt;a href="https://lobste.rs/s/po98o2/systemd_good_parts">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/audacity/audacity/discussions/889">Actions we propose to take on PR #835 audacity&lt;/a>
+&lt;a href="https://lobste.rs/s/zbdj68/actions_we_propose_take_on_pr_835_audacity">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cyberlaw.stanford.edu/blog/2021/05/i-have-lot-say-about-signal%E2%80%99s-cellebrite-hack">I Have a Lot to Say About Signal’s Cellebrite Hack&lt;/a>
+&lt;a href="https://lobste.rs/s/nr9kzv/i_have_lot_say_about_signal_s_cellebrite">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://fabiensanglard.net/lte/index.html">Observing my cellphone switch towers&lt;/a>
+&lt;a href="https://lobste.rs/s/ym2vzx/observing_my_cellphone_switch_towers">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://maskray.me/blog/2021-05-16-elf-interposition-and-bsymbolic">Default -Bsymbolic-global-functions for shared object performance&lt;/a>
+&lt;a href="https://lobste.rs/s/zv1jaj/default_bsymbolic_global_functions_for">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://danielbmarkham.com/how-to-win-at-tech-publishing/">How to win at tech publishing&lt;/a>
+&lt;a href="https://lobste.rs/s/xufvg4/how_win_at_tech_publishing">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://raymii.org/s/blog/Ive_packaged_up_CKermit_as_a_snap_for_Ubuntu_20.04.html">CKermit as a snap, for Ubuntu 20.04&lt;/a>
+&lt;a href="https://lobste.rs/s/ldnbbr/ckermit_as_snap_for_ubuntu_20_04">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">A new syntax for &lt;!-- raw HTML omitted --> tags&lt;/a>
+&lt;a href="https://lobste.rs/s/sfllwq/new_syntax_for_tags">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://iainbean.com/posts/2021/5-steps-to-faster-web-fonts/">5 steps to faster web fonts&lt;/a>
+&lt;a href="https://lobste.rs/s/lxq9ia/5_steps_faster_web_fonts">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-05-16</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-16/</link><pubDate>Sun, 16 May 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-16/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://utcc.utoronto.ca/~cks/space/blog/programming/BourneBadForLargeScripts">The Bourne shell and Bash aren&amp;rsquo;t the right languages for larger programs&lt;/a>
 &lt;a href="https://lobste.rs/s/d9xics/bourne_shell_bash_aren_t_right_languages">(comments)&lt;/a>&lt;/p>
