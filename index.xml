@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 17 May 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-05-17</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-17/</link><pubDate>Mon, 17 May 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-17/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 18 May 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-05-18</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-18/</link><pubDate>Tue, 18 May 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-18/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://tomgamon.com/posts/clarity/">Clarity is an underrated skill&lt;/a>
+&lt;a href="https://lobste.rs/s/2n94sh/clarity_is_underrated_skill">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ols.wtf/2021/05/17/url-shortener.html">A URL shortener with an interesting storage backend&lt;/a>
+&lt;a href="https://lobste.rs/s/duvle0/url_shortener_with_interesting_storage">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.hillelwayne.com/talks/esolangs/">A Brief Introduction to Esoteric Languages&lt;/a>
+&lt;a href="https://lobste.rs/s/vlsubv/brief_introduction_esoteric_languages">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://eclecticlight.co/2021/05/17/how-m1-macs-feel-faster-than-intel-models-its-about-qos/">How M1 Macs feel faster than Intel models: it’s about QoS&lt;/a>
+&lt;a href="https://lobste.rs/s/ocxgj5/how_m1_macs_feel_faster_than_intel_models">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://syndicate-lang.org/projects/2021/system-layer/">Structuring the System Layer with Dataspaces&lt;/a>
+&lt;a href="https://lobste.rs/s/2nd5ob/structuring_system_layer_with">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://christine.website/talks/systemd-the-good-parts-2021-05-16">systemd: The Good Parts&lt;/a>
+&lt;a href="https://lobste.rs/s/po98o2/systemd_good_parts">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/jart/cosmopolitan/releases/tag/1.0">Cosmopolitan libc v1.0&lt;/a>
+&lt;a href="https://lobste.rs/s/w2e8zi/cosmopolitan_libc_v1_0">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://skarnet.com/projects/service-manager.html">A new service manager for Linux distributions&lt;/a>
+&lt;a href="https://lobste.rs/s/yzo0je/new_service_manager_for_linux">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.netbsd.org/tnf/entry/netbsd_9_2_released">NetBSD 9.2 released&lt;/a>
+&lt;a href="https://lobste.rs/s/ykegnb/netbsd_9_2_released">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://devblogs.microsoft.com/oldnewthing/20210517-00/?p=105217">Why did Windows 95 keep window coordinates at multiples of 8?&lt;/a>
+&lt;a href="https://lobste.rs/s/nd0twj/why_did_windows_95_keep_window">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-05-17</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-17/</link><pubDate>Mon, 17 May 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-17/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://michael.stapelberg.ch/posts/2021-05-16-home-network-fiber-10-gbits-upgrade/">Home network 10 Gbit/s upgrade&lt;/a>
 &lt;a href="https://lobste.rs/s/lm3ce5/home_network_10_gbit_s_upgrade">(comments)&lt;/a>&lt;/p>
