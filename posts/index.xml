@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 21 May 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-05-21</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-21/</link><pubDate>Fri, 21 May 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-21/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 22 May 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-05-22</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-22/</link><pubDate>Sat, 22 May 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-22/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://blog.nelhage.com/post/building-llvm-in-90s/">Building LLVM in 90 seconds using Amazon Lambda&lt;/a>
+&lt;a href="https://lobste.rs/s/pruijn/building_llvm_90_seconds_using_amazon">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.sublimetext.com/blog/articles/sublime-text-4">Sublime Text 4&lt;/a>
+&lt;a href="https://lobste.rs/s/1o4x0n/sublime_text_4">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lord.io/text-editing-hates-you-too/">Text Editing Hates You Too (2019)&lt;/a>
+&lt;a href="https://lobste.rs/s/ntxvvy/text_editing_hates_you_too_2019">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.possiblerust.com/pattern/naming-your-lifetimes">Naming Your Lifetimes&lt;/a>
+&lt;a href="https://lobste.rs/s/ihwnne/naming_your_lifetimes">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://counterexamples.org/">Counterexamples in Type Systems&lt;/a>
+&lt;a href="https://lobste.rs/s/ybrdpp/counterexamples_type_systems">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.innovationaus.com/data61-dumps-world-class-sel4-security-team/">Data61 drops world-class seL4 security team&lt;/a>
+&lt;a href="https://lobste.rs/s/hdbt3j/data61_drops_world_class_sel4_security">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.wired.com/story/the-full-story-of-the-stunning-rsa-hack-can-finally-be-told">The Full Story of the Stunning RSA Hack Can Finally Be Told&lt;/a>
+&lt;a href="https://lobste.rs/s/hkq8ez/full_story_stunning_rsa_hack_can_finally">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://twitter.com/zverok/status/1395444520116969476">Some thoughts on APLs (real or imagined) beauty, and the value of very concise languages&lt;/a>
+&lt;a href="https://lobste.rs/s/dgegjp/some_thoughts_on_apls_real_imagined">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.rentpathcode.com/analyzing-performance-e7aed196df64">Stop building websites for iPhones&lt;/a>
+&lt;a href="https://lobste.rs/s/qgp4mu/stop_building_websites_for_iphones">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this weekend?&lt;/a>
+&lt;a href="https://lobste.rs/s/jljxfb/what_are_you_doing_this_weekend">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-05-21</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-21/</link><pubDate>Fri, 21 May 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-21/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://nyxt.atlas.engineer/article/release-2.0.0.org">Nyxt browser 2.0.0&lt;/a>
 &lt;a href="https://lobste.rs/s/06jxhu/nyxt_browser_2_0_0">(comments)&lt;/a>&lt;/p>
