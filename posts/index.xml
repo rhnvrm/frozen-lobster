@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 22 May 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-05-22</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-22/</link><pubDate>Sat, 22 May 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-22/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 23 May 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-05-23</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-23/</link><pubDate>Sun, 23 May 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-23/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://actually.fyi/posts/zig-makes-rust-cross-compilation-just-work/">Zig Makes Rust Cross-compilation Just Work&lt;/a>
+&lt;a href="https://lobste.rs/s/nkalmb/zig_makes_rust_cross_compilation_just">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://prog21.dadgum.com/74.html">Free Your Technical Aesthetic from the 1970s (2010)&lt;/a>
+&lt;a href="https://lobste.rs/s/btvfef/free_your_technical_aesthetic_from_1970s">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://threadreaderapp.com/thread/1365014133180141578.html">A long rant about Ruby, its value, its innovations, and its (sad) fate&lt;/a>
+&lt;a href="https://lobste.rs/s/75gpxo/long_rant_about_ruby_its_value_its">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://bits.p1x.in/floppinux-an-embedded-linux-on-a-single-floppy/">Floppinux - An Embedded Linux on a Single Floppy&lt;/a>
+&lt;a href="https://lobste.rs/s/0yft4g/floppinux_embedded_linux_on_single">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.nelhage.com/post/building-llvm-in-90s/">Building LLVM in 90 seconds using Amazon Lambda&lt;/a>
+&lt;a href="https://lobste.rs/s/pruijn/building_llvm_90_seconds_using_amazon">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://prog21.dadgum.com/22.html">My Road to Erlang&lt;/a>
+&lt;a href="https://lobste.rs/s/5u1fuu/my_road_erlang">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.cambus.net/playing-with-djgpp-and-gcc-10-on-dos/">Playing with DJGPP and GCC 10 on DOS&lt;/a>
+&lt;a href="https://lobste.rs/s/f1rhjh/playing_with_djgpp_gcc_10_on_dos">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://hplabs.itcs.hp.com/techreports/tandem/TR-85.7.pdf">Why Do Computers Stop and What Can Be Done About It? (1985)&lt;/a>
+&lt;a href="https://lobste.rs/s/8enwwl/why_do_computers_stop_what_can_be_done">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ianthehenry.com/posts/tmux-copy-last-command/">Quickly copy the output of the last shell command you ran&lt;/a>
+&lt;a href="https://lobste.rs/s/fhxelk/quickly_copy_output_last_shell_command">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://nxr.netbsd.org/xref/src/share/misc/style">NetBSD coding style guide&lt;/a>
+&lt;a href="https://lobste.rs/s/8hucos/netbsd_coding_style_guide">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-05-22</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-22/</link><pubDate>Sat, 22 May 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-22/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://blog.nelhage.com/post/building-llvm-in-90s/">Building LLVM in 90 seconds using Amazon Lambda&lt;/a>
 &lt;a href="https://lobste.rs/s/pruijn/building_llvm_90_seconds_using_amazon">(comments)&lt;/a>&lt;/p>
