@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 23 May 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-05-23</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-23/</link><pubDate>Sun, 23 May 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-23/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 24 May 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-05-24</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-24/</link><pubDate>Mon, 24 May 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-24/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://raymii.org/s/snippets/Exclude_lines_in_less_or_journalctl.html">Exclude lines in less (or journalctl)&lt;/a>
+&lt;a href="https://lobste.rs/s/m2qsvz/exclude_lines_less_journalctl">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.antoyo.xyz/rustc_codegen_gcc-run-core-tests">rustc_codegen_gcc can now run libcore’s tests and pass most of them&lt;/a>
+&lt;a href="https://lobste.rs/s/fa0vh0/rustc_codegen_gcc_can_now_run_libcore_s">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://l-o-o-s-e-d.net/vim-clutch">Vim Clutch | A Hardware Pedal for Vim&lt;/a>
+&lt;a href="https://lobste.rs/s/9hukqw/vim_clutch_hardware_pedal_for_vim">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pitr.ca/2021-05-23-personal-spot">Spot instances for personal servers&lt;/a>
+&lt;a href="https://lobste.rs/s/ix7ozd/spot_instances_for_personal_servers">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=HeQX2HjkcNo">You Can&amp;rsquo;t Prove Everything That&amp;rsquo;s True&lt;/a>
+&lt;a href="https://lobste.rs/s/o4ri2w/you_can_t_prove_everything_s_true">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://actually.fyi/posts/zig-makes-rust-cross-compilation-just-work/">Zig Makes Rust Cross-compilation Just Work&lt;/a>
+&lt;a href="https://lobste.rs/s/nkalmb/zig_makes_rust_cross_compilation_just">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=Pym32n6AfSs">Writing a property-based testing library from scratch in Elm&lt;/a>
+&lt;a href="https://lobste.rs/s/wooppa/writing_property_based_testing_library">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://web.cs.wpi.edu/~jshutt/kernel.html">The Kernel Programming Language&lt;/a>
+&lt;a href="https://lobste.rs/s/xcotpc/kernel_programming_language">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://notes.eatonphil.com/writing-a-template-library-in-python.html">Writing a Jinja-inspired template library in Python&lt;/a>
+&lt;a href="https://lobste.rs/s/kuod90/writing_jinja_inspired_template_library">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://dl.acm.org/doi/10.1145/3064176.3064187">The Unwritten Contract of Solid State Drives&lt;/a>
+&lt;a href="https://lobste.rs/s/nu8fw9/unwritten_contract_solid_state_drives">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-05-23</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-23/</link><pubDate>Sun, 23 May 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-23/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://actually.fyi/posts/zig-makes-rust-cross-compilation-just-work/">Zig Makes Rust Cross-compilation Just Work&lt;/a>
 &lt;a href="https://lobste.rs/s/nkalmb/zig_makes_rust_cross_compilation_just">(comments)&lt;/a>&lt;/p>
