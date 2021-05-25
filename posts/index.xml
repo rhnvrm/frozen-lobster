@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 24 May 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-05-24</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-24/</link><pubDate>Mon, 24 May 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-24/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 25 May 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-05-25</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-25/</link><pubDate>Tue, 25 May 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-25/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://kieranpotts.com/rebranding-rest/">Should we rebrand REST?&lt;/a>
+&lt;a href="https://lobste.rs/s/j7qi7v/should_we_rebrand_rest">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://wejn.org/2021/02/urbit-good-bad-insane/">Urbit :: the good, the bad, and the insane&lt;/a>
+&lt;a href="https://lobste.rs/s/prlffn/urbit_good_bad_insane">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://dolphin-emu.org/blog/2021/05/24/temptation-of-the-apple-dolphin-on-macos-m1/">Temptation of the Apple: Dolphin on macOS M1&lt;/a>
+&lt;a href="https://lobste.rs/s/8a1zat/temptation_apple_dolphin_on_macos_m1">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ferd.ca/you-ve-got-to-upgrade-rebar3.html">You&amp;rsquo;ve got to upgrade Rebar3&lt;/a>
+&lt;a href="https://lobste.rs/s/johnw3/you_ve_got_upgrade_rebar3">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.gresearch.co.uk/article/in-praise-of-dry-run/">In praise of &amp;ndash;dry-run&lt;/a>
+&lt;a href="https://lobste.rs/s/cwi2ly/praise_dry_run">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://rawgit.com/darcyparker/1886716/raw/eab57dfe784f016085251771d65a75a471ca22d4/vimModeStateDiagram.svg">Vim Modes Transition Diagram&lt;/a>
+&lt;a href="https://lobste.rs/s/f0vytu/vim_modes_transition_diagram">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lukasz.langa.pl/1d1a43c4-9c8a-4c5f-a366-7f22ce6a49fc/">Why the sad face?&lt;/a>
+&lt;a href="https://lobste.rs/s/e4fxit/why_sad_face">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://web.eecs.utk.edu/~azh/blog/makinguselessstuff.html">Why I prefer making useless stuff&lt;/a>
+&lt;a href="https://lobste.rs/s/fp6iwh/why_i_prefer_making_useless_stuff">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pitr.ca/2021-05-23-personal-spot">Spot instances for personal servers&lt;/a>
+&lt;a href="https://lobste.rs/s/ix7ozd/spot_instances_for_personal_servers">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this week?&lt;/a>
+&lt;a href="https://lobste.rs/s/qafies/what_are_you_doing_this_week">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-05-24</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-24/</link><pubDate>Mon, 24 May 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-24/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://raymii.org/s/snippets/Exclude_lines_in_less_or_journalctl.html">Exclude lines in less (or journalctl)&lt;/a>
 &lt;a href="https://lobste.rs/s/m2qsvz/exclude_lines_less_journalctl">(comments)&lt;/a>&lt;/p>
