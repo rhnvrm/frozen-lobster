@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 25 May 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-05-25</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-25/</link><pubDate>Tue, 25 May 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-25/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 26 May 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-05-26</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-26/</link><pubDate>Wed, 26 May 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-26/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/facundoolano/rpg-cli">rpg-cli - your filesystem as a dungeon&lt;/a>
+&lt;a href="https://lobste.rs/s/khzl1t/rpg_cli_your_filesystem_as_dungeon">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://emacsair.me/2021/05/25/magit-3.0/">Magit 3.0 released&lt;/a>
+&lt;a href="https://lobste.rs/s/bzi87j/magit_3_0_released">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://9to5google.com/2021/05/25/google-releases-fuchsia-os-nest-hub/">Google is releasing Fuchsia OS, starting w/ 1st-gen Nest Hub&lt;/a>
+&lt;a href="https://lobste.rs/s/h6ypip/google_is_releasing_fuchsia_os_starting_w">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://utcc.utoronto.ca/~cks/space/blog/programming/RustInOurFuture">Rust is a wave of the future&lt;/a>
+&lt;a href="https://lobste.rs/s/tl5zpc/rust_is_wave_future">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://bottosson.github.io/posts/colorwrong/">How software gets color wrong&lt;/a>
+&lt;a href="https://lobste.rs/s/1gwfn2/how_software_gets_color_wrong">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://kevq.uk/is-windows-unstable-here-are-my-thoughts/">Is Windows Unstable? Here Are My Thoughts&lt;/a>
+&lt;a href="https://lobste.rs/s/svi8ku/is_windows_unstable_here_are_my_thoughts">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://wejn.org/2021/02/urbit-good-bad-insane/">Urbit :: the good, the bad, and the insane&lt;/a>
+&lt;a href="https://lobste.rs/s/prlffn/urbit_good_bad_insane">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://medium.com/erlang-battleground/ode-to-the-robot-butt-bbd69e69beb2">Ode to the Robot Butt&lt;/a>
+&lt;a href="https://lobste.rs/s/ujighk/ode_robot_butt">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pythonspeed.com/articles/smaller-docker-images/">Shrinking your Python application’s Docker image: an overview&lt;/a>
+&lt;a href="https://lobste.rs/s/2nqp7r/shrinking_your_python_application_s">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.jvt.me/posts/2021/05/25/microformats-resume/">Marking up my Curriculum Vitae with Microformats2&lt;/a>
+&lt;a href="https://lobste.rs/s/ygr5sf/marking_up_my_curriculum_vitae_with">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-05-25</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-25/</link><pubDate>Tue, 25 May 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-25/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://kieranpotts.com/rebranding-rest/">Should we rebrand REST?&lt;/a>
 &lt;a href="https://lobste.rs/s/j7qi7v/should_we_rebrand_rest">(comments)&lt;/a>&lt;/p>
