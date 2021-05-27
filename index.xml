@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 26 May 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-05-26</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-26/</link><pubDate>Wed, 26 May 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-26/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 27 May 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-05-27</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-27/</link><pubDate>Thu, 27 May 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-27/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://oxide.computer">Oxide Computer hardware photos and specs now available&lt;/a>
+&lt;a href="https://lobste.rs/s/j27kjs/oxide_computer_hardware_photos_specs_now">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://battlepenguin.com/tech/moving-my-phone-number-from-google-hangouts-voice-to-an-sip-xmpp-service">Moving my phone numbers from Google Hangouts/Voice to an SIP/XMPP Service&lt;/a>
+&lt;a href="https://lobste.rs/s/ko4l2q/moving_my_phone_numbers_from_google">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://m1racles.com/">M1RACLES: An Apple M1 Vulnerability&lt;/a>
+&lt;a href="https://lobste.rs/s/n2x0ec/m1racles_apple_m1_vulnerability">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://getaether.net/docs/">Aether: a distributed forum that mostly works&lt;/a>
+&lt;a href="https://lobste.rs/s/2vrnmb/aether_distributed_forum_mostly_works">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">Freenode is now nuking channels which mention Libera Chat in their topic&lt;/a>
+&lt;a href="https://lobste.rs/s/vvciyk/freenode_is_now_nuking_channels_which">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://crispgm.com/page/neovim-is-overpowering.html">Neovim (0.5) Is Overpowering&lt;/a>
+&lt;a href="https://lobste.rs/s/8npjng/neovim_0_5_is_overpowering">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://minimalmodeling.substack.com/p/how-to-delete-a-lot-of-data">How to delete a lot of data, pt. I&lt;/a>
+&lt;a href="https://lobste.rs/s/zikdhb/how_delete_lot_data_pt_i">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.finl.xyz/">finl is not LaTeX – Reinventing LaTeX for the twenty-first century&lt;/a>
+&lt;a href="https://lobste.rs/s/udu5oe/finl_is_not_latex_reinventing_latex_for">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.perl.com/article/perl-one-liners-part-1/">Perl / Unix One-liner Cage Match, Part 1&lt;/a>
+&lt;a href="https://lobste.rs/s/zrhdf5/perl_unix_one_liner_cage_match_part_1">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://loige.co/how-to-to-string-in-rust">How to to_string() in Rust&lt;/a>
+&lt;a href="https://lobste.rs/s/7hrgbb/how_string_rust">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-05-26</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-26/</link><pubDate>Wed, 26 May 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-26/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://github.com/facundoolano/rpg-cli">rpg-cli - your filesystem as a dungeon&lt;/a>
 &lt;a href="https://lobste.rs/s/khzl1t/rpg_cli_your_filesystem_as_dungeon">(comments)&lt;/a>&lt;/p>
