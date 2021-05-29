@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 28 May 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-05-28</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-28/</link><pubDate>Fri, 28 May 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-28/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 29 May 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-05-29</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-29/</link><pubDate>Sat, 29 May 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-29/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://awesomekling.github.io/I-quit-my-job-to-focus-on-SerenityOS-full-time/">I quit my job to focus on SerenityOS full time&lt;/a>
+&lt;a href="https://lobste.rs/s/lsumm4/i_quit_my_job_focus_on_serenityos_full_time">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://michael.stapelberg.ch/posts/2021-05-28-configured-and-returned-mikrotik-ccr2004-for-fiber7/">How I configured and then promptly returned a MikroTik CCR2004 router for Fiber7&lt;/a>
+&lt;a href="https://lobste.rs/s/gqgj5n/how_i_configured_then_promptly_returned">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://danmux.com/posts/the_cult_of_go_test/">The Cult of Go Test&lt;/a>
+&lt;a href="https://lobste.rs/s/vzdoor/cult_go_test">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ingrids.space/posts/why-distributed-systems-dont-work/">Why decentralised applications don’t work&lt;/a>
+&lt;a href="https://lobste.rs/s/wulgcr/why_decentralised_applications_don_t">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/TaKO8Ki/awesome-alternatives-in-rust">Rust-based replacements for existing software&lt;/a>
+&lt;a href="https://lobste.rs/s/wwjtw6/rust_based_replacements_for_existing">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.fastly.com/blog/quic-is-now-rfc-9000">QUIC is now RFC 9000&lt;/a>
+&lt;a href="https://lobste.rs/s/sdrunx/quic_is_now_rfc_9000">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://rosie-lang.org/blog/2021/02/18/rosie-purpose-and-future.html">Rosie Pattern Language Purpose and Future&lt;/a>
+&lt;a href="https://lobste.rs/s/osofl8/rosie_pattern_language_purpose_future">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this weekend?&lt;/a>
+&lt;a href="https://lobste.rs/s/xa6bti/what_are_you_doing_this_weekend">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jvns.ca/blog/2021/05/24/blog-about-what-you-ve-struggled-with/">Blog about what you&amp;rsquo;ve struggled with&lt;/a>
+&lt;a href="https://lobste.rs/s/yq9dv1/blog_about_what_you_ve_struggled_with">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.hackingwithswift.com/articles/233/whats-new-in-swift-5-5">What&amp;rsquo;s new in Swift 5.5?&lt;/a>
+&lt;a href="https://lobste.rs/s/qmuhez/what_s_new_swift_5_5">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-05-28</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-28/</link><pubDate>Fri, 28 May 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-28/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://norswap.com/blockchain-how/">Freaking blockchains: How do they work?&lt;/a>
 &lt;a href="https://lobste.rs/s/ks4qql/freaking_blockchains_how_do_they_work">(comments)&lt;/a>&lt;/p>
