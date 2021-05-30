@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 29 May 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-05-29</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-29/</link><pubDate>Sat, 29 May 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-29/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 30 May 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-05-30</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-30/</link><pubDate>Sun, 30 May 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-30/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://pitr.ca/2021-05-29-gemini-ecosystem">Contributing to Gemini ecosystem&lt;/a>
+&lt;a href="https://lobste.rs/s/rweq1d/contributing_gemini_ecosystem">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://christine.website/blog/irc-stuff-nixos-2021-05-29">How to Set Up WeeChat on NixOS&lt;/a>
+&lt;a href="https://lobste.rs/s/rjzukr/how_set_up_weechat_on_nixos">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/extrawurst/gitui/releases/tag/v0.16.0">GitUI v0.16 supports merging&lt;/a>
+&lt;a href="https://lobste.rs/s/l2rb4r/gitui_v0_16_supports_merging">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://awesomekling.github.io/I-quit-my-job-to-focus-on-SerenityOS-full-time/">I quit my job to focus on SerenityOS full time&lt;/a>
+&lt;a href="https://lobste.rs/s/lsumm4/i_quit_my_job_focus_on_serenityos_full_time">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://shalabh.com/programmable-systems/offload-mental-simulation.html">Offload Mental Simulation&lt;/a>
+&lt;a href="https://lobste.rs/s/d3tkuy/offload_mental_simulation">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/audacity/audacity/discussions/932">Audacity: Information About Our New Contributor License Agreement&lt;/a>
+&lt;a href="https://lobste.rs/s/wdm68p/audacity_information_about_our_new">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://hardenedbsd.org/article/shawn-webb/2021-05-29/hardenedbsd-may-2021-status-report">HardenedBSD May 2021 Status Report&lt;/a>
+&lt;a href="https://lobste.rs/s/mnngaj/hardenedbsd_may_2021_status_report">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://orhun.dev/blog/introducing-gpg-tui/">Introducing gpg-tui, a Terminal User Interface for GnuPG&lt;/a>
+&lt;a href="https://lobste.rs/s/uqoslw/introducing_gpg_tui_terminal_user">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://nethack4.org/blog/memory.html">Memory management in C programs (2014)&lt;/a>
+&lt;a href="https://lobste.rs/s/kvsaep/memory_management_c_programs_2014">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://massimo-nazaria.github.io/blog/2019/09/05/software-architecture-design-for-busy-developers.html">Software Architecture Design for Busy Developers&lt;/a>
+&lt;a href="https://lobste.rs/s/skgicb/software_architecture_design_for_busy">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-05-29</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-29/</link><pubDate>Sat, 29 May 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-29/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://awesomekling.github.io/I-quit-my-job-to-focus-on-SerenityOS-full-time/">I quit my job to focus on SerenityOS full time&lt;/a>
 &lt;a href="https://lobste.rs/s/lsumm4/i_quit_my_job_focus_on_serenityos_full_time">(comments)&lt;/a>&lt;/p>
