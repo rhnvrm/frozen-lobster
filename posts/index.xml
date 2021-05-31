@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 30 May 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-05-30</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-30/</link><pubDate>Sun, 30 May 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-30/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 31 May 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-05-31</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-31/</link><pubDate>Mon, 31 May 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-31/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.reddit.com/r/ExperiencedDevs/comments/nmodyl/drunk_post_things_ive_learned_as_a_sr_engineer/">Drunk Post: Things I&amp;rsquo;ve learned as a Sr Engineer&lt;/a>
+&lt;a href="https://lobste.rs/s/kkvgjx/drunk_post_things_i_ve_learned_as_sr">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://admin.phacility.com/phame/post/view/11/phacility_is_winding_down_operations/">Phacility, maintainer of Phabricator, is Winding Down Operations&lt;/a>
+&lt;a href="https://lobste.rs/s/4agbb0/phacility_maintainer_phabricator_is">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://benjamincongdon.me/blog/2021/05/16/Building-a-Raft/">Building a Raft&lt;/a>
+&lt;a href="https://lobste.rs/s/wwd6na/building_raft">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sites.google.com/view/elizagen-org/the-original-eliza">ELIZAGEN: The Original ELIZA source code found&lt;/a>
+&lt;a href="https://lobste.rs/s/rjdjyb/elizagen_original_eliza_source_code">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://shalabh.com/programmable-systems/offload-mental-simulation.html">Offload Mental Simulation&lt;/a>
+&lt;a href="https://lobste.rs/s/d3tkuy/offload_mental_simulation">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.frankel.ch/start-rust/1/">My first cup of Rust&lt;/a>
+&lt;a href="https://lobste.rs/s/cye5pa/my_first_cup_rust">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://devblogs.microsoft.com/commandline/?p=6715">Windows Package Manager 1.0&lt;/a>
+&lt;a href="https://lobste.rs/s/bmjcru/windows_package_manager_1_0">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sporks.space/2021/05/31/thoughts-on-convergence-in-platforms/">Thoughts on &amp;ldquo;convergence&amp;rdquo; in platforms&lt;/a>
+&lt;a href="https://lobste.rs/s/ei8o5z/thoughts_on_convergence_platforms">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://xenodium.com/emacs-link-scraping-2021-edition/">Emacs link scraping (2021 edition)&lt;/a>
+&lt;a href="https://lobste.rs/s/3263n7/emacs_link_scraping_2021_edition">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pitr.ca/2021-05-29-gemini-ecosystem">Contributing to Gemini ecosystem&lt;/a>
+&lt;a href="https://lobste.rs/s/rweq1d/contributing_gemini_ecosystem">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-05-30</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-30/</link><pubDate>Sun, 30 May 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-30/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://pitr.ca/2021-05-29-gemini-ecosystem">Contributing to Gemini ecosystem&lt;/a>
 &lt;a href="https://lobste.rs/s/rweq1d/contributing_gemini_ecosystem">(comments)&lt;/a>&lt;/p>
