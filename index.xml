@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 31 May 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-05-31</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-31/</link><pubDate>Mon, 31 May 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-31/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-06-01</title><link>https://frozen-lobster.rohanverma.net/posts/2021-06-01/</link><pubDate>Tue, 01 Jun 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-06-01/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://onezero.medium.com/the-document-metaphor-desktop-gui-doesnt-work-anymore-d276271bfa40">Why We Need to Rethink the Computer ‘Desktop’ as a Concept&lt;/a>
+&lt;a href="https://lobste.rs/s/sqrrfc/why_we_need_rethink_computer_desktop_as">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.reddit.com/r/ExperiencedDevs/comments/nmodyl/drunk_post_things_ive_learned_as_a_sr_engineer/">Drunk Post: Things I&amp;rsquo;ve learned as a Sr Engineer&lt;/a>
+&lt;a href="https://lobste.rs/s/kkvgjx/drunk_post_things_i_ve_learned_as_sr">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://healeycodes.com/listening-to-satellites-with-my-raspberry-pi/">Listening to Satellites with my Raspberry Pi&lt;/a>
+&lt;a href="https://lobste.rs/s/ckkxtd/listening_satellites_with_my_raspberry">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://zverok.github.io/blog/2021-05-31-rottentomatoes_wikipedia.html">Using Wikipedia as an Impromptu RottenTomatoes API&lt;/a>
+&lt;a href="https://lobste.rs/s/rd3g4k/using_wikipedia_as_impromptu">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/naver/lispe/wiki/6.13-Infix-Notation">Infix Notation for Lisp&lt;/a>
+&lt;a href="https://lobste.rs/s/9q151m/infix_notation_for_lisp">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://inkscape.org/release/inkscape-1.1/">Inkscape 1.1 released&lt;/a>
+&lt;a href="https://lobste.rs/s/tgswvh/inkscape_1_1_released">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://surjan.substack.com/p/the-most-expensive-number-in-engineering">The Most Expensive Number in Engineering&lt;/a>
+&lt;a href="https://lobste.rs/s/soncjx/most_expensive_number_engineering">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this week?&lt;/a>
+&lt;a href="https://lobste.rs/s/io17kr/what_are_you_doing_this_week">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://daniel.haxx.se/blog/2021/05/31/curl-localhost-as-a-local-host/">curl localhost as a local host&lt;/a>
+&lt;a href="https://lobste.rs/s/yrrmfc/curl_localhost_as_local_host">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://matklad.github.io//2021/05/31/how-to-test.html">How to Test&lt;/a>
+&lt;a href="https://lobste.rs/s/blaxjz/how_test">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-05-31</title><link>https://frozen-lobster.rohanverma.net/posts/2021-05-31/</link><pubDate>Mon, 31 May 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-05-31/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://www.reddit.com/r/ExperiencedDevs/comments/nmodyl/drunk_post_things_ive_learned_as_a_sr_engineer/">Drunk Post: Things I&amp;rsquo;ve learned as a Sr Engineer&lt;/a>
 &lt;a href="https://lobste.rs/s/kkvgjx/drunk_post_things_i_ve_learned_as_sr">(comments)&lt;/a>&lt;/p>
