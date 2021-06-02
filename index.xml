@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-06-01</title><link>https://frozen-lobster.rohanverma.net/posts/2021-06-01/</link><pubDate>Tue, 01 Jun 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-06-01/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 02 Jun 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-06-02</title><link>https://frozen-lobster.rohanverma.net/posts/2021-06-02/</link><pubDate>Wed, 02 Jun 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-06-02/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://blog.mozilla.org/en/mozilla/news/modern-clean-new-firefox-clears-the-way-to-all-you-need-online/">Modern, clean new Firefox clears the way to all you need online&lt;/a>
+&lt;a href="https://lobste.rs/s/wwglpq/modern_clean_new_firefox_clears_way_all">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://twitter.com/burntsushi5/status/1399543042261061633">Lobster burntsushi has left the site, algorithm detecting standing might be off&lt;/a>
+&lt;a href="https://lobste.rs/s/zp4ofg/lobster_burntsushi_has_left_site">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.dgsiegel.net/articles/pencil-and-paper-thinking">pencil and paper thinking&lt;/a>
+&lt;a href="https://lobste.rs/s/su4dme/pencil_paper_thinking">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://dlang.org/blog/2021/06/01/driving-with-d/">Driving with D&lt;/a>
+&lt;a href="https://lobste.rs/s/rwvlpy/driving_with_d">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://www.jeffgeerling.com/blog/2021/apple-m1-compiles-linux-30-faster-my-intel-i9">The Apple M1 compiles Linux 30% faster than my Intel i9&lt;/a>
+&lt;a href="https://lobste.rs/s/lfhmyh/apple_m1_compiles_linux_30_faster_than_my">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pentacent.com/blog/failing-big-elixir-liveview/">Failing Big with Elixir and LiveView&lt;/a>
+&lt;a href="https://lobste.rs/s/c9rj2f/failing_big_with_elixir_liveview">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ksylor.github.io/2020/08/26/bullet-journaling.html">Bullet journalling for software engineers&lt;/a>
+&lt;a href="https://lobste.rs/s/gvf9oj/bullet_journalling_for_software">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://imadr.github.io/rotations-with-quaternions/">Rotations with quaternions&lt;/a>
+&lt;a href="https://lobste.rs/s/6cluvs/rotations_with_quaternions">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://learnbyexample.github.io/gnu-bre-ere-cheatsheet/">GNU BRE/ERE cheatsheet and differences between grep, sed and awk&lt;/a>
+&lt;a href="https://lobste.rs/s/3kwzpi/gnu_bre_ere_cheatsheet_differences">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gcc.gnu.org/pipermail/gcc/2021-June/236182.html">Update to GCC copyright assignment policy&lt;/a>
+&lt;a href="https://lobste.rs/s/6fffia/update_gcc_copyright_assignment_policy">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-06-01</title><link>https://frozen-lobster.rohanverma.net/posts/2021-06-01/</link><pubDate>Tue, 01 Jun 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-06-01/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://onezero.medium.com/the-document-metaphor-desktop-gui-doesnt-work-anymore-d276271bfa40">Why We Need to Rethink the Computer ‘Desktop’ as a Concept&lt;/a>
 &lt;a href="https://lobste.rs/s/sqrrfc/why_we_need_rethink_computer_desktop_as">(comments)&lt;/a>&lt;/p>
