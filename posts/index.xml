@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 02 Jun 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-06-02</title><link>https://frozen-lobster.rohanverma.net/posts/2021-06-02/</link><pubDate>Wed, 02 Jun 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-06-02/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 03 Jun 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-06-03</title><link>https://frozen-lobster.rohanverma.net/posts/2021-06-03/</link><pubDate>Thu, 03 Jun 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-06-03/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s06-greenberg.pdf">Unix Shell Programming: The Next 50 Years&lt;/a>
+&lt;a href="https://lobste.rs/s/mtatsi/unix_shell_programming_next_50_years">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://nixos.org/blog/announcements.html#21.05">NixOS 21.05 released&lt;/a>
+&lt;a href="https://lobste.rs/s/iaxedy/nixos_21_05_released">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">Request: please don&amp;rsquo;t delete comments that get people banned&lt;/a>
+&lt;a href="https://lobste.rs/s/umkkvs/request_please_don_t_delete_comments_get">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sin-ack.github.io/posts/jpg-loader-bork/">How malloc broke Serenity&amp;rsquo;s JPGLoader, or: how to win the lottery&lt;/a>
+&lt;a href="https://lobste.rs/s/lwed0x/how_malloc_broke_serenity_s_jpgloader_how">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/naver/lispe/wiki/6.12-Inspiration-from-APL">Taking inspiration From APL in LispE&lt;/a>
+&lt;a href="https://lobste.rs/s/8erpug/taking_inspiration_from_apl_lispe">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ieftimov.com/post/conditional-http-get-fastest-requests-need-no-response-body/">Conditional HTTP GET: The fastest requests need no response body&lt;/a>
+&lt;a href="https://lobste.rs/s/6thtjy/conditional_http_get_fastest_requests">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://andydote.co.uk/2021/06/02/os-cpus-and-kubernetes/">The Problem with CPUs and Kubernetes&lt;/a>
+&lt;a href="https://lobste.rs/s/jeykuh/problem_with_cpus_kubernetes">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://rachelbythebay.com/w/2021/06/01/count/">Please don&amp;rsquo;t count outages (or SEVs, or whatever)&lt;/a>
+&lt;a href="https://lobste.rs/s/qtyiks/please_don_t_count_outages_sevs_whatever">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://danschmid.de/en/blog/poudriere-guide">Poudriere Guide&lt;/a>
+&lt;a href="https://lobste.rs/s/0yhljv/poudriere_guide">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://nadim.computer/posts/2021-06-02-traceability.html">On the Feasibility of Secure Traceability in End-to-End Encrypted Messaging&lt;/a>
+&lt;a href="https://lobste.rs/s/k89jaz/on_feasibility_secure_traceability_end">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-06-02</title><link>https://frozen-lobster.rohanverma.net/posts/2021-06-02/</link><pubDate>Wed, 02 Jun 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-06-02/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://blog.mozilla.org/en/mozilla/news/modern-clean-new-firefox-clears-the-way-to-all-you-need-online/">Modern, clean new Firefox clears the way to all you need online&lt;/a>
 &lt;a href="https://lobste.rs/s/wwglpq/modern_clean_new_firefox_clears_way_all">(comments)&lt;/a>&lt;/p>
