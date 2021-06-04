@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 03 Jun 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-06-03</title><link>https://frozen-lobster.rohanverma.net/posts/2021-06-03/</link><pubDate>Thu, 03 Jun 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-06-03/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 04 Jun 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-06-04</title><link>https://frozen-lobster.rohanverma.net/posts/2021-06-04/</link><pubDate>Fri, 04 Jun 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-06-04/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.feoh.org/2021-the-year-windows-became-a-first-class-python-development-environment.html">2021 - The Year Windows Became a First Class Python Development Environment&lt;/a>
+&lt;a href="https://lobste.rs/s/irtg5u/2021_year_windows_became_first_class">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.cambus.net/netbsd-on-the-vortex86dx-cpu/">NetBSD on the Vortex86DX CPU&lt;/a>
+&lt;a href="https://lobste.rs/s/ncngjc/netbsd_on_vortex86dx_cpu">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sin-ack.github.io/posts/jpg-loader-bork/">How malloc broke Serenity&amp;rsquo;s JPGLoader, or: how to win the lottery&lt;/a>
+&lt;a href="https://lobste.rs/s/lwed0x/how_malloc_broke_serenity_s_jpgloader_how">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://medium.com/@mtc.dev/my-first-android-app-story-331c98270ec4?source=friends_link">GF likes texts. I&amp;rsquo;m not a good texter. &amp;ldquo;App for that?&amp;rdquo; Nope. My first app story&lt;/a>
+&lt;a href="https://lobste.rs/s/3gjejf/gf_likes_texts_i_m_not_good_texter_app_for">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://xenodium.com/emacs-dwim-do-what-i-mean">Emacs DWIM: do what &lt;em>I&lt;/em> mean&lt;/a>
+&lt;a href="https://lobste.rs/s/l0uodf/emacs_dwim_do_what_i_mean">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.adacore.com/going-beyond-ada-2022">Going beyond Ada 2022&lt;/a>
+&lt;a href="https://lobste.rs/s/412pb3/going_beyond_ada_2022">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.npopov.com/2021/06/02/Design-issues-in-LLVM-IR.html">Design issues in LLVM IR&lt;/a>
+&lt;a href="https://lobste.rs/s/wzo7fm/design_issues_llvm_ir">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://if50.substack.com/p/1990-lambdamoo">1990: LambdaMOO&lt;/a>
+&lt;a href="https://lobste.rs/s/lu5sej/1990_lambdamoo">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://corecursive.com/065-competitive-coding-with-conor-hoekstra/">From Competitive Programming to APL&lt;/a>
+&lt;a href="https://lobste.rs/s/qds4yc/from_competitive_programming_apl">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://rickcarlino.com/2021/06/01/til-how-retroforth-implements-deferred-behavior-html.html">TIL How RetroForth Implements Deferred Behavior&lt;/a>
+&lt;a href="https://lobste.rs/s/lehn22/til_how_retroforth_implements_deferred">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-06-03</title><link>https://frozen-lobster.rohanverma.net/posts/2021-06-03/</link><pubDate>Thu, 03 Jun 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-06-03/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s06-greenberg.pdf">Unix Shell Programming: The Next 50 Years&lt;/a>
 &lt;a href="https://lobste.rs/s/mtatsi/unix_shell_programming_next_50_years">(comments)&lt;/a>&lt;/p>
