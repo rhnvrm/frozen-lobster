@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 04 Jun 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-06-04</title><link>https://frozen-lobster.rohanverma.net/posts/2021-06-04/</link><pubDate>Fri, 04 Jun 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-06-04/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 05 Jun 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-06-05</title><link>https://frozen-lobster.rohanverma.net/posts/2021-06-05/</link><pubDate>Sat, 05 Jun 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-06-05/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://brendangregg.com/blog/2021-06-04/an-unbelievable-demo.html">An Unbelievable Demo&lt;/a>
+&lt;a href="https://lobste.rs/s/ajup1x/unbelievable_demo">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://dpc.pw/the-faster-you-unlearn-oop-the-better-for-you-and-your-software">The faster you unlearn OOP, the better for you and your software (2018)&lt;/a>
+&lt;a href="https://lobste.rs/s/fuqmad/faster_you_unlearn_oop_better_for_you_your">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://www.brendangregg.com/blog/2017-11-13/brilliant-jerks.html">Brilliant Jerks in Engineering&lt;/a>
+&lt;a href="https://lobste.rs/s/kkzhw2/brilliant_jerks_engineering">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://christine.website/blog/cloud-init-2021-06-04">My Magical Adventure With cloud-init&lt;/a>
+&lt;a href="https://lobste.rs/s/njdetj/my_magical_adventure_with_cloud_init">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pijul.org/posts/2021-06-03-on-fires/">On fires&lt;/a>
+&lt;a href="https://lobste.rs/s/hfmxjh/on_fires">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=VAhHkJQ3KgY">Dwarf Fortress Creator Explains its Complexity &amp;amp; Origins&lt;/a>
+&lt;a href="https://lobste.rs/s/gypmga/dwarf_fortress_creator_explains_its">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ziglang.org/download/0.8.0/release-notes.html">Zig 0.8.0 Release Notes&lt;/a>
+&lt;a href="https://lobste.rs/s/qj806e/zig_0_8_0_release_notes">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this weekend?&lt;/a>
+&lt;a href="https://lobste.rs/s/cplmdc/what_are_you_doing_this_weekend">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://heipei.github.io/2015/02/26/SSH-Agent-Forwarding-considered-harmful/">SSH Agent Forwarding considered harmful (2015)&lt;/a>
+&lt;a href="https://lobste.rs/s/w5ssrg/ssh_agent_forwarding_considered_harmful">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://len.falken.ink/misc/epub.txt">Using a text editor to handcraft an ebook&lt;/a>
+&lt;a href="https://lobste.rs/s/kmjpe2/using_text_editor_handcraft_ebook">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-06-04</title><link>https://frozen-lobster.rohanverma.net/posts/2021-06-04/</link><pubDate>Fri, 04 Jun 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-06-04/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://www.feoh.org/2021-the-year-windows-became-a-first-class-python-development-environment.html">2021 - The Year Windows Became a First Class Python Development Environment&lt;/a>
 &lt;a href="https://lobste.rs/s/irtg5u/2021_year_windows_became_first_class">(comments)&lt;/a>&lt;/p>
