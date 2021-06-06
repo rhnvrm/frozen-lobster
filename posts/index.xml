@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 05 Jun 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-06-05</title><link>https://frozen-lobster.rohanverma.net/posts/2021-06-05/</link><pubDate>Sat, 05 Jun 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-06-05/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 06 Jun 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-06-06</title><link>https://frozen-lobster.rohanverma.net/posts/2021-06-06/</link><pubDate>Sun, 06 Jun 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-06-06/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://michael.stapelberg.ch/posts/2021-06-05-laptop-review-lenovo-thinkpad-x1-extreme-gen2/">Laptop review: ThinkPad X1 Extreme (Gen 2)&lt;/a>
+&lt;a href="https://lobste.rs/s/ft7tkk/laptop_review_thinkpad_x1_extreme_gen_2">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://alex.dzyoba.com/blog/nginx-features-for-developers/">Nice nginx features for developers&lt;/a>
+&lt;a href="https://lobste.rs/s/kewdvx/nice_nginx_features_for_developers">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/snej/tails">Tails, A Fast C++ Forth Core&lt;/a>
+&lt;a href="https://lobste.rs/s/a9eqa3/tails_fast_c_forth_core">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lock.cmpxchg8b.com/passmgrs.html">Password Managers&lt;/a>
+&lt;a href="https://lobste.rs/s/getukd/password_managers">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.eff.org/deeplinks/2021/06/if-not-overturned-bad-copyright-decision-will-lead-many-americans-lose-internet">If Not Overturned, a Bad Copyright Decision Will Lead Many Americans to Lose Internet Access&lt;/a>
+&lt;a href="https://lobste.rs/s/kjgx3d/if_not_overturned_bad_copyright_decision">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pikchr.org/home/doc/trunk/homepage.md">Pikchr: PIC-like markup language for diagrams, integrated into Fossil Wiki&lt;/a>
+&lt;a href="https://lobste.rs/s/djuleh/pikchr_pic_like_markup_language_for">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ziglang.org/download/0.8.0/release-notes.html">Zig 0.8.0 Release Notes&lt;/a>
+&lt;a href="https://lobste.rs/s/qj806e/zig_0_8_0_release_notes">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=UDqx1afGtQc">Programming Obesity: A Code Health Epidemic&lt;/a>
+&lt;a href="https://lobste.rs/s/d0v4xv/programming_obesity_code_health">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://len.falken.ink/misc/epub.txt">Using a text editor to handcraft an ebook&lt;/a>
+&lt;a href="https://lobste.rs/s/kmjpe2/using_text_editor_handcraft_ebook">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.brycekerley.net/2021/06/05/updated-an-elixir-app.html">Da Search Zone: Updating an Old Elixir Phoenix App&lt;/a>
+&lt;a href="https://lobste.rs/s/ygzltk/da_search_zone_updating_old_elixir">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-06-05</title><link>https://frozen-lobster.rohanverma.net/posts/2021-06-05/</link><pubDate>Sat, 05 Jun 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-06-05/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://brendangregg.com/blog/2021-06-04/an-unbelievable-demo.html">An Unbelievable Demo&lt;/a>
 &lt;a href="https://lobste.rs/s/ajup1x/unbelievable_demo">(comments)&lt;/a>&lt;/p>
