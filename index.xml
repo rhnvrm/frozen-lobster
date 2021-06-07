@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 06 Jun 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-06-06</title><link>https://frozen-lobster.rohanverma.net/posts/2021-06-06/</link><pubDate>Sun, 06 Jun 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-06-06/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 07 Jun 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-06-07</title><link>https://frozen-lobster.rohanverma.net/posts/2021-06-07/</link><pubDate>Mon, 07 Jun 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-06-07/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://ariadne.space/2021/06/06/actually-bsd-kqueue-is-a-mountain-of-technical-debt/">actually, BSD kqueue is a mountain of technical debt&lt;/a>
+&lt;a href="https://lobste.rs/s/4qi5hg/actually_bsd_kqueue_is_mountain">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://washbear.neocities.org/freebsd-netbsd-user.html">FreeBSD from a NetBSD user’s perspective&lt;/a>
+&lt;a href="https://lobste.rs/s/apuomg/freebsd_from_netbsd_user_s_perspective">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://matt-rickard.com/docker-is-a-compiler/">Docker is a compiler&lt;/a>
+&lt;a href="https://lobste.rs/s/tkfrqc/docker_is_compiler">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://major.io/2021/06/06/a-new-future-for-icanhazip/">A new future for icanhazip&lt;/a>
+&lt;a href="https://lobste.rs/s/0kqjna/new_future_for_icanhazip">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://loup-vaillant.fr/articles/deaths-of-oop">The repeated deaths of OOP&lt;/a>
+&lt;a href="https://lobste.rs/s/9emqww/repeated_deaths_oop">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lock.cmpxchg8b.com/passmgrs.html">Password Managers&lt;/a>
+&lt;a href="https://lobste.rs/s/getukd/password_managers">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/snej/tails">Tails, A Fast C++ Forth Core&lt;/a>
+&lt;a href="https://lobste.rs/s/a9eqa3/tails_fast_c_forth_core">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://michael.stapelberg.ch/posts/2021-06-05-laptop-review-lenovo-thinkpad-x1-extreme-gen2/">Laptop review: ThinkPad X1 Extreme (Gen 2)&lt;/a>
+&lt;a href="https://lobste.rs/s/ft7tkk/laptop_review_thinkpad_x1_extreme_gen_2">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://matejknopp.com/post/introducing-nativeshell/">Introducing NativeShell for Flutter (Simple Rust FFI &amp;amp; platform native UI)&lt;/a>
+&lt;a href="https://lobste.rs/s/8ff9wh/introducing_nativeshell_for_flutter">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.extremetech.com/computing/323245-risc-vs-cisc-why-its-the-wrong-lens-to-compare-modern-x86-arm-cpus">RISC vs. CISC Is the Wrong Lens for Comparing Modern x86, ARM CPUs&lt;/a>
+&lt;a href="https://lobste.rs/s/xmwyfb/risc_vs_cisc_is_wrong_lens_for_comparing">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-06-06</title><link>https://frozen-lobster.rohanverma.net/posts/2021-06-06/</link><pubDate>Sun, 06 Jun 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-06-06/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://michael.stapelberg.ch/posts/2021-06-05-laptop-review-lenovo-thinkpad-x1-extreme-gen2/">Laptop review: ThinkPad X1 Extreme (Gen 2)&lt;/a>
 &lt;a href="https://lobste.rs/s/ft7tkk/laptop_review_thinkpad_x1_extreme_gen_2">(comments)&lt;/a>&lt;/p>
