@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 09 Jun 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-06-09</title><link>https://frozen-lobster.rohanverma.net/posts/2021-06-09/</link><pubDate>Wed, 09 Jun 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-06-09/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 10 Jun 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-06-10</title><link>https://frozen-lobster.rohanverma.net/posts/2021-06-10/</link><pubDate>Thu, 10 Jun 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-06-10/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://write.as/bpsylevc6lliaspe">Your &lt;code>~/.bashrc&lt;/code> doesn&amp;rsquo;t have to be a mess&lt;/a>
+&lt;a href="https://lobste.rs/s/r1tpld/your_bashrc_doesn_t_have_be_mess">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jmmv.dev/2021/04/always-be-quitting.html">Always be quitting&lt;/a>
+&lt;a href="https://lobste.rs/s/seaoxg/always_be_quitting">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.metaobject.com/2021/06/glue-dark-matter-of-software.html">Glue: the Dark Matter of Software&lt;/a>
+&lt;a href="https://lobste.rs/s/euswuc/glue_dark_matter_software">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.unisonweb.org/2021/06/03/m2-release/">M2 release of Unison - FP language with content-addressable code&lt;/a>
+&lt;a href="https://lobste.rs/s/n2b97t/m2_release_unison_fp_language_with">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://leaddev.com/self-care-burnout/dont-stall-your-burnout-recovery">Don’t stall your burnout recovery&lt;/a>
+&lt;a href="https://lobste.rs/s/asat0b/don_t_stall_your_burnout_recovery">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://alpaca-attack.com">ALPACA Attack&lt;/a>
+&lt;a href="https://lobste.rs/s/tm5hdd/alpaca_attack">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://rocket.rs/v0.5-rc/news/2021-06-09-version-0.5-rc.1/">Rocket Web Framework v0.5 Release Candidate&lt;/a>
+&lt;a href="https://lobste.rs/s/lukbix/rocket_web_framework_v0_5_release">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">All &amp;ldquo;Tag Suggestions&amp;rdquo; with more than 20 votes&lt;/a>
+&lt;a href="https://lobste.rs/s/uc5t4w/all_tag_suggestions_with_more_than_20">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://briancallahan.net/blog/20210609.html">I wrote a linker everyone can understand&lt;/a>
+&lt;a href="https://lobste.rs/s/pxdnh2/i_wrote_linker_everyone_can_understand">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://www.oilshell.org/blog/2021/06/hotos-shell-panel.html">Notes on the HotOS Unix Shell Panel&lt;/a>
+&lt;a href="https://lobste.rs/s/sxvnf1/notes_on_hotos_unix_shell_panel">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-06-09</title><link>https://frozen-lobster.rohanverma.net/posts/2021-06-09/</link><pubDate>Wed, 09 Jun 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-06-09/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://christine.website/blog/my-homelab-2021-06-08">My Homelab Build&lt;/a>
 &lt;a href="https://lobste.rs/s/aovn2k/my_homelab_build">(comments)&lt;/a>&lt;/p>
