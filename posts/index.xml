@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 10 Jun 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-06-10</title><link>https://frozen-lobster.rohanverma.net/posts/2021-06-10/</link><pubDate>Thu, 10 Jun 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-06-10/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 11 Jun 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-06-11</title><link>https://frozen-lobster.rohanverma.net/posts/2021-06-11/</link><pubDate>Fri, 11 Jun 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-06-11/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://float.exposed/">Float Exposed&lt;/a>
+&lt;a href="https://lobste.rs/s/fiacuh/float_exposed">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://blog.pkh.me/p/29-the-most-useful-math-formulas.html">The most useful math formulas&lt;/a>
+&lt;a href="https://lobste.rs/s/gybecd/most_useful_math_formulas">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://keathley.io/blog/good-and-bad-elixir.html">Good and Bad Elixir&lt;/a>
+&lt;a href="https://lobste.rs/s/7jh94t/good_bad_elixir">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.blog/2021-06-10-privilege-escalation-polkit-root-on-linux-with-bug/">Privilege escalation with polkit: How to get root on Linux with a seven-year-old bug&lt;/a>
+&lt;a href="https://lobste.rs/s/piwc7o/privilege_escalation_with_polkit_how_get">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://write.as/bpsylevc6lliaspe">Your &lt;code>~/.bashrc&lt;/code> doesn&amp;rsquo;t have to be a mess&lt;/a>
+&lt;a href="https://lobste.rs/s/r1tpld/your_bashrc_doesn_t_have_be_mess">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ekaitz.elenq.tech/hex0.html">RISC-V Adventures II: hex0&lt;/a>
+&lt;a href="https://lobste.rs/s/vi0isz/risc_v_adventures_ii_hex0">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://blog.cleancoder.com/uncle-bob/2018/04/13/FPvsOO.html">FP vs. OO&lt;/a>
+&lt;a href="https://lobste.rs/s/opu414/fp_vs_oo">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://www.breatharian.eu/hw/picovga/index_en.html">PicoVGA - VGA/TV display on Raspberry Pico&lt;/a>
+&lt;a href="https://lobste.rs/s/obgr2a/picovga_vga_tv_display_on_raspberry_pico">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://blog.netbsd.org/tnf/entry/support_for_chdir_2_in">NetBSD Support for chdir(2) in posix_spawn(3)&lt;/a>
+&lt;a href="https://lobste.rs/s/dsuvxx/netbsd_support_for_chdir_2_posix_spawn_3">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.mozilla.org/en/mozilla/privacy-analysis-of-floc/">Privacy analysis of FLoC&lt;/a>
+&lt;a href="https://lobste.rs/s/7srvof/privacy_analysis_floc">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-06-10</title><link>https://frozen-lobster.rohanverma.net/posts/2021-06-10/</link><pubDate>Thu, 10 Jun 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-06-10/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://write.as/bpsylevc6lliaspe">Your &lt;code>~/.bashrc&lt;/code> doesn&amp;rsquo;t have to be a mess&lt;/a>
 &lt;a href="https://lobste.rs/s/r1tpld/your_bashrc_doesn_t_have_be_mess">(comments)&lt;/a>&lt;/p>
