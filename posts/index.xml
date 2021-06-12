@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 11 Jun 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-06-11</title><link>https://frozen-lobster.rohanverma.net/posts/2021-06-11/</link><pubDate>Fri, 11 Jun 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-06-11/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 12 Jun 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-06-12</title><link>https://frozen-lobster.rohanverma.net/posts/2021-06-12/</link><pubDate>Sat, 12 Jun 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-06-12/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://earthly.dev/blog/thought-leaders/">Don’t Feed the Thought Leaders&lt;/a>
+&lt;a href="https://lobste.rs/s/tcmn0u/don_t_feed_thought_leaders">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://app.datastation.multiprocess.io/">In-browser, open source data IDE for developers&lt;/a>
+&lt;a href="https://lobste.rs/s/mecdh3/browser_open_source_data_ide_for">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://choly.ca/post/debugging-go-with-rr/">Debugging a flaky Go test with Mozilla rr&lt;/a>
+&lt;a href="https://lobste.rs/s/no2z84/debugging_flaky_go_test_with_mozilla_rr">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://mbuki-mvuki.org/posts/2021-05-30-memoize-commands-or-bash-functions-with-coprocs/">Memoize Commands or Bash Functions with Coprocs&lt;/a>
+&lt;a href="https://lobste.rs/s/yxzzov/memoize_commands_bash_functions_with">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.joelonsoftware.com/2004/06/13/how-microsoft-lost-the-api-war/">How Microsoft Lost the API War (2004)&lt;/a>
+&lt;a href="https://lobste.rs/s/sbzf0k/how_microsoft_lost_api_war_2004">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gerikson.com/blog/comm/Why-u-no-gemini.html">Why Gemini is not my favorite internet protocol&lt;/a>
+&lt;a href="https://lobste.rs/s/vhlagb/why_gemini_is_not_my_favorite_internet">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://niedzejkob.p4.team/bootstrap/miniforth/">Fitting a FORTH in 512 bytes&lt;/a>
+&lt;a href="https://lobste.rs/s/vlx8qb/fitting_forth_512_bytes">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://if50.substack.com/p/1993-curses">50 Years of Text Games: Curses&lt;/a>
+&lt;a href="https://lobste.rs/s/fwpt9x/50_years_text_games_curses">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this weekend?&lt;/a>
+&lt;a href="https://lobste.rs/s/dw0ist/what_are_you_doing_this_weekend">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://discuss.ocaml.org/t/multicore-ocaml-may-2021/7990">Multicore OCaml: May 2021&lt;/a>
+&lt;a href="https://lobste.rs/s/gonksn/multicore_ocaml_may_2021">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-06-11</title><link>https://frozen-lobster.rohanverma.net/posts/2021-06-11/</link><pubDate>Fri, 11 Jun 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-06-11/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://float.exposed/">Float Exposed&lt;/a>
 &lt;a href="https://lobste.rs/s/fiacuh/float_exposed">(comments)&lt;/a>&lt;/p>
