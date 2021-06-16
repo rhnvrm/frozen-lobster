@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 15 Jun 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-06-15</title><link>https://frozen-lobster.rohanverma.net/posts/2021-06-15/</link><pubDate>Tue, 15 Jun 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-06-15/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 16 Jun 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-06-16</title><link>https://frozen-lobster.rohanverma.net/posts/2021-06-16/</link><pubDate>Wed, 16 Jun 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-06-16/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://buttondown.email/hillelwayne/archive/comment-the-why-and-the-what/">Comment the Why &lt;em>and&lt;/em> the What&lt;/a>
+&lt;a href="https://lobste.rs/s/k8e5ak/comment_why_what">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.jonlu.ca/posts/async-python-http">Writing fast async HTTP requests in Python&lt;/a>
+&lt;a href="https://lobste.rs/s/fxpne4/writing_fast_async_http_requests_python">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://liam-on-linux.livejournal.com/80768.html">Did you know that you can 100% legally get &amp;amp; run WordPerfect for free?&lt;/a>
+&lt;a href="https://lobste.rs/s/48sybe/did_you_know_you_can_100_legally_get_run">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/jamii/dida">dida - differential dataflow for mere mortals&lt;/a>
+&lt;a href="https://lobste.rs/s/dexo6f/dida_differential_dataflow_for_mere">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://andysalerno.com/posts/weird-emojis/">Bear plus snowflake equals polar bear&lt;/a>
+&lt;a href="https://lobste.rs/s/kqwnzf/bear_plus_snowflake_equals_polar_bear">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.sunfishcode.online/introducing-cap-std/">Introducing cap-std, a capability-based version of the Rust standard library&lt;/a>
+&lt;a href="https://lobste.rs/s/rlwby3/introducing_cap_std_capability_based">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/BurntSushi/ripgrep/releases/tag/13.0.0">Ripgrep 13.0.0 released&lt;/a>
+&lt;a href="https://lobste.rs/s/hxucv3/ripgrep_13_0_0_released">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://spin.atomicobject.com/2021/02/04/redis-postgresql/">Do You Really Need Redis? How to Get Away with Just PostgreSQL&lt;/a>
+&lt;a href="https://lobste.rs/s/9caiva/do_you_really_need_redis_how_get_away_with">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://queue.acm.org/detail.cfm?id=3469844">A New Era for Mechanical CAD&lt;/a>
+&lt;a href="https://lobste.rs/s/vdhak2/new_era_for_mechanical_cad">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jrsinclair.com/articles/2020/sick-of-the-jokes-write-your-own-arbitrary-precision-javascript-math-library/">Sick of the stupid jokes? Write your own arbitrary-precision JavaScript math library&lt;/a>
+&lt;a href="https://lobste.rs/s/an6m2l/sick_stupid_jokes_write_your_own">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-06-15</title><link>https://frozen-lobster.rohanverma.net/posts/2021-06-15/</link><pubDate>Tue, 15 Jun 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-06-15/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://rudism.com/pinebook-pro-arch-linux-alternative/">Pinebook Pro Arch Linux Alternative&lt;/a>
 &lt;a href="https://lobste.rs/s/lnc6gq/pinebook_pro_arch_linux_alternative">(comments)&lt;/a>&lt;/p>
