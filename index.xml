@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 17 Jun 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-06-17</title><link>https://frozen-lobster.rohanverma.net/posts/2021-06-17/</link><pubDate>Thu, 17 Jun 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-06-17/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 18 Jun 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-06-18</title><link>https://frozen-lobster.rohanverma.net/posts/2021-06-18/</link><pubDate>Fri, 18 Jun 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-06-18/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/tomnomnom/gron">tomnomnom/gron - Make JSON greppable&lt;/a>
+&lt;a href="https://lobste.rs/s/xdvu8i/tomnomnom_gron_make_json_greppable">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gleam.run/news/v0.16-gleam-compiles-to-javascript/">v0.16 - Gleam compiles to JavaScript&lt;/a>
+&lt;a href="https://lobste.rs/s/1pzehf/v0_16_gleam_compiles_javascript">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.jae.fi/apple-m1-three-months-later/">Apple M1, three months later&lt;/a>
+&lt;a href="https://lobste.rs/s/vqny0j/apple_m1_three_months_later">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/ibraheemdev/modern-unix">Modern Unix tools&lt;/a>
+&lt;a href="https://lobste.rs/s/yell0u/modern_unix_tools">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://francoisbest.com/posts/2021/hashvatars">Representing SHA-256 Hashes As Avatars&lt;/a>
+&lt;a href="https://lobste.rs/s/nz1idf/representing_sha_256_hashes_as_avatars">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/cariboulabs/cariboulite">cariboulabs/cariboulite - turn any 40-pin Raspberry-Pi into a Tx/Rx 6GHz SDR&lt;/a>
+&lt;a href="https://lobste.rs/s/gpjwtq/cariboulabs_cariboulite_turn_any_40_pin">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.rust-lang.org/2021/06/17/Rust-1.53.0.html">Announcing Rust 1.53.0&lt;/a>
+&lt;a href="https://lobste.rs/s/rguk3y/announcing_rust_1_53_0">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://mobile.twitter.com/pathofshrines/status/1405233150444326913">Summary of the proposed provenance-aware memory object model for C&lt;/a>
+&lt;a href="https://lobste.rs/s/giacu8/summary_proposed_provenance_aware">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.devever.net/~hl/irclines">How the K-line got its name: history of IRC daemon configuration&lt;/a>
+&lt;a href="https://lobste.rs/s/dihtct/how_k_line_got_its_name_history_irc_daemon">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://beautifulracket.com/appendix/why-i-no-longer-contribute-to-racket.html">Why I no longer contribute to Racket&lt;/a>
+&lt;a href="https://lobste.rs/s/6rnyn9/why_i_no_longer_contribute_racket">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-06-17</title><link>https://frozen-lobster.rohanverma.net/posts/2021-06-17/</link><pubDate>Thu, 17 Jun 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-06-17/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://beautifulracket.com/appendix/why-i-no-longer-contribute-to-racket.html">Why I no longer contribute to Racket&lt;/a>
 &lt;a href="https://lobste.rs/s/6rnyn9/why_i_no_longer_contribute_racket">(comments)&lt;/a>&lt;/p>
