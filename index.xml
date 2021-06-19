@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 18 Jun 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-06-18</title><link>https://frozen-lobster.rohanverma.net/posts/2021-06-18/</link><pubDate>Fri, 18 Jun 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-06-18/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 19 Jun 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-06-19</title><link>https://frozen-lobster.rohanverma.net/posts/2021-06-19/</link><pubDate>Sat, 19 Jun 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-06-19/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://devblog.blackberry.com/en/2021/05/learning-to-love-a-rigid-and-inflexible-language">Learning to Love a Rigid and Inflexible Language&lt;/a>
+&lt;a href="https://lobste.rs/s/0twona/learning_love_rigid_inflexible_language">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://glyph.twistedmatrix.com/2021/06/trash-panda-devops.html">A Tired Raccoon’s Containerization Manifesto: Just Do the Containering&lt;/a>
+&lt;a href="https://lobste.rs/s/nnrysa/tired_raccoon_s_containerization">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.arp242.net/500k-commits.html">How to end up with 500,000 commits in your log&lt;/a>
+&lt;a href="https://lobste.rs/s/2wspuq/how_end_up_with_500_000_commits_your_log">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://factorio.com/blog/post/fff-366">The only way to go fast, is to go well&lt;/a>
+&lt;a href="https://lobste.rs/s/9tqozd/only_way_go_fast_is_go_well">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://andregarzia.com/2021/05/video-creating-a-macos-droplet-with-applescript.html">Video: Creating a macOS Droplet with AppleScript&lt;/a>
+&lt;a href="https://lobste.rs/s/zjqyyr/video_creating_macos_droplet_with">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://mikkel.ca/blog/three-ways-to-bulk-rename/">Three ways to bulk rename files&lt;/a>
+&lt;a href="https://lobste.rs/s/6ovume/three_ways_bulk_rename_files">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this weekend?&lt;/a>
+&lt;a href="https://lobste.rs/s/p6h8k2/what_are_you_doing_this_weekend">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://despairlabs.com/posts/2021-06-16-io-uring-is-not-an-event-system/">io_uring is not an event system&lt;/a>
+&lt;a href="https://lobste.rs/s/cfm6g1/io_uring_is_not_event_system">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.cargocultcode.com/what-does-first-normal-form-mean/">What does First Normal Form actually mean?&lt;/a>
+&lt;a href="https://lobste.rs/s/pp8mdq/what_does_first_normal_form_actually_mean">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/tomnomnom/gron">tomnomnom/gron - Make JSON greppable&lt;/a>
+&lt;a href="https://lobste.rs/s/xdvu8i/tomnomnom_gron_make_json_greppable">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-06-18</title><link>https://frozen-lobster.rohanverma.net/posts/2021-06-18/</link><pubDate>Fri, 18 Jun 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-06-18/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://github.com/tomnomnom/gron">tomnomnom/gron - Make JSON greppable&lt;/a>
 &lt;a href="https://lobste.rs/s/xdvu8i/tomnomnom_gron_make_json_greppable">(comments)&lt;/a>&lt;/p>
