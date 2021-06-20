@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 19 Jun 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-06-19</title><link>https://frozen-lobster.rohanverma.net/posts/2021-06-19/</link><pubDate>Sat, 19 Jun 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-06-19/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 20 Jun 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-06-20</title><link>https://frozen-lobster.rohanverma.net/posts/2021-06-20/</link><pubDate>Sun, 20 Jun 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-06-20/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://xenodium.com/yasnippet-in-emacs-eshell">Blurring the lines between shell and editor&lt;/a>
+&lt;a href="https://lobste.rs/s/gbjp09/blurring_lines_between_shell_editor">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://figbert.com/posts/wrong-way-to-switch-server-os/">The Wrong Way to Switch Operating Systems on Your Server&lt;/a>
+&lt;a href="https://lobste.rs/s/ofcfbq/wrong_way_switch_operating_systems_on">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.darkcoding.net/software/a-day-in-the-life-of-a-professional-software-engineer/">A day in the life of a professional software engineer&lt;/a>
+&lt;a href="https://lobste.rs/s/ezjgxt/day_life_professional_software_engineer">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://hohlerde.org/rauch/en/elektronik/projekte/tpkbd-fix/">Reverse engineering and fixing a bug in the firmware of a &amp;ldquo;ThinkPad Compact USB Keyboard with TrackPoint&amp;rdquo;&lt;/a>
+&lt;a href="https://lobste.rs/s/jft8ry/reverse_engineering_fixing_bug_firmware">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/dertuxmalwieder/yaydl">youtube-dl alternative in Rust&lt;/a>
+&lt;a href="https://lobste.rs/s/tisktj/youtube_dl_alternative_rust">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://maddy.email">Maddy: Composable all-in-one mail server&lt;/a>
+&lt;a href="https://lobste.rs/s/fulaq1/maddy_composable_all_one_mail_server">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ntdotdev.wordpress.com/2021/02/06/state-of-the-windows-how-many-layers-of-ui-inconsistencies-are-in-windows-10/">State of the Windows: How many layers of UI inconsistencies are in Windows 10?&lt;/a>
+&lt;a href="https://lobste.rs/s/fg6256/state_windows_how_many_layers_ui">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gemini.spam.works/~/emery/sigil-report.gmi">Sigil OS post-mortem report&lt;/a>
+&lt;a href="https://lobste.rs/s/7cne2p/sigil_os_post_mortem_report">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://michaelweinberg.org/blog/2021/06/17/licenses-and-social-norms/">Licenses Alone Do Not Govern Behavior in Open Source&lt;/a>
+&lt;a href="https://lobste.rs/s/n5c132/licenses_alone_do_not_govern_behavior">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://devblog.blackberry.com/en/2021/05/learning-to-love-a-rigid-and-inflexible-language">Learning to Love a Rigid and Inflexible Language&lt;/a>
+&lt;a href="https://lobste.rs/s/0twona/learning_love_rigid_inflexible_language">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-06-19</title><link>https://frozen-lobster.rohanverma.net/posts/2021-06-19/</link><pubDate>Sat, 19 Jun 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-06-19/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://devblog.blackberry.com/en/2021/05/learning-to-love-a-rigid-and-inflexible-language">Learning to Love a Rigid and Inflexible Language&lt;/a>
 &lt;a href="https://lobste.rs/s/0twona/learning_love_rigid_inflexible_language">(comments)&lt;/a>&lt;/p>
