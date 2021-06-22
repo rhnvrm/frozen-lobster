@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 21 Jun 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-06-21</title><link>https://frozen-lobster.rohanverma.net/posts/2021-06-21/</link><pubDate>Mon, 21 Jun 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-06-21/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 22 Jun 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-06-22</title><link>https://frozen-lobster.rohanverma.net/posts/2021-06-22/</link><pubDate>Tue, 22 Jun 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-06-22/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="">What&amp;rsquo;s your preferred tool for load testing?&lt;/a>
+&lt;a href="https://lobste.rs/s/mqxwuc/what_s_your_preferred_tool_for_load">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lwn.net/Articles/857599/">Rewriting the GNU Coreutils in Rust&lt;/a>
+&lt;a href="https://lobste.rs/s/m0npll/rewriting_gnu_coreutils_rust">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://xenodium.com/previewing-swiftui-layouts-in-emacs-revisited">Previewing SwiftUI layouts in Emacs (revisited)&lt;/a>
+&lt;a href="https://lobste.rs/s/y6kjnd/previewing_swiftui_layouts_emacs">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://dbohdan.com/wiki/jpeg-xl?">JPEG XL would be Turing-complete&lt;/a>
+&lt;a href="https://lobste.rs/s/80eg7v/jpeg_xl_would_be_turing_complete">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this week?&lt;/a>
+&lt;a href="https://lobste.rs/s/jxylf8/what_are_you_doing_this_week">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://openjdk.java.net/jeps/411">JEP 411: Deprecate the Security Manager for Removal&lt;/a>
+&lt;a href="https://lobste.rs/s/jcnzn7/jep_411_deprecate_security_manager_for">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://discourse.nixos.org/t/nixos-unstable-s-iso-minimal-x86-64-linux-is-100-reproducible/13723">Nixos-unstable’s iso_minimal.x86_64-linux is 100% reproducible&lt;/a>
+&lt;a href="https://lobste.rs/s/aflz6w/nixos_unstable_s_iso_minimal_x86_64_linux">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.jak-linux.org/2021/06/20/migrating-away-apt-key/">Migrating away from apt-key&lt;/a>
+&lt;a href="https://lobste.rs/s/seyy8l/migrating_away_from_apt_key">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.hillelwayne.com/post/crossover-project/are-we-really-engineers/">Are We Really Engineers?&lt;/a>
+&lt;a href="https://lobste.rs/s/lmvroa/are_we_really_engineers">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.dave.tf/post/finding-bottom-turtle/">Finding the Bottom Turtle&lt;/a>
+&lt;a href="https://lobste.rs/s/tjjm5n/finding_bottom_turtle">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-06-21</title><link>https://frozen-lobster.rohanverma.net/posts/2021-06-21/</link><pubDate>Mon, 21 Jun 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-06-21/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://blog.chichou.me/2021/06/20/quick-analysis-wifid/">Quick Analysis for the SSID Format String Bug&lt;/a>
 &lt;a href="https://lobste.rs/s/yklnww/quick_analysis_for_ssid_format_string_bug">(comments)&lt;/a>&lt;/p>
