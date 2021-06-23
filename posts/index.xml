@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 22 Jun 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-06-22</title><link>https://frozen-lobster.rohanverma.net/posts/2021-06-22/</link><pubDate>Tue, 22 Jun 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-06-22/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 23 Jun 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-06-23</title><link>https://frozen-lobster.rohanverma.net/posts/2021-06-23/</link><pubDate>Wed, 23 Jun 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-06-23/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://adam.nels.onl/blog/parentheses-are-just-typechecking/">Parentheses Are Just Typechecking&lt;/a>
+&lt;a href="https://lobste.rs/s/sgug9k/parentheses_are_just_typechecking">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://wiki.debian.org/Teams/Apt/Spec/AptSign">Ditching OpenPGP, a new approach to signing APT repositories&lt;/a>
+&lt;a href="https://lobste.rs/s/sraszh/ditching_openpgp_new_approach_signing">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lwn.net/Articles/857599/">Rewriting the GNU Coreutils in Rust&lt;/a>
+&lt;a href="https://lobste.rs/s/m0npll/rewriting_gnu_coreutils_rust">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://travisdowns.github.io/blog/2021/06/17/rip-zero-opt.html">Your CPU May Have Slowed Down on Wednesday&lt;/a>
+&lt;a href="https://lobste.rs/s/svtzet/your_cpu_may_have_slowed_down_on_wednesday">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://nyxt.atlas.engineer/article/release-2.1.0.org">Nyxt 2.1.0&lt;/a>
+&lt;a href="https://lobste.rs/s/m529xf/nyxt_2_1_0">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://downtimeproject.com/podcast/7-lessons-from-10-outages/">Seven lessons from Ten Outages&lt;/a>
+&lt;a href="https://lobste.rs/s/rxd8mo/seven_lessons_from_ten_outages">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://medium.com/erlang-battleground/spot-the-difference-733a5c2fce77">Spot the Difference&lt;/a>
+&lt;a href="https://lobste.rs/s/zodobv/spot_difference">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://instadeq.com/blog/posts/past-futures-of-programming-general-magic-telescript/">Past Futures of Programming: General Magic&amp;rsquo;s Telescript&lt;/a>
+&lt;a href="https://lobste.rs/s/sbfpkg/past_futures_programming_general_magic_s">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thakeenathees.github.io/pocketlang/">PocketLang - a small, fast and friendly language for scripting and embedding&lt;/a>
+&lt;a href="https://lobste.rs/s/g8ossq/pocketlang_small_fast_friendly_language">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pypi.org/project/docker-harbormaster/">I wanted an easy way to automatically deploy Docker Compose apps so I made one: Harbormaster&lt;/a>
+&lt;a href="https://lobste.rs/s/y50e5c/i_wanted_easy_way_automatically_deploy">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-06-22</title><link>https://frozen-lobster.rohanverma.net/posts/2021-06-22/</link><pubDate>Tue, 22 Jun 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-06-22/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="">What&amp;rsquo;s your preferred tool for load testing?&lt;/a>
 &lt;a href="https://lobste.rs/s/mqxwuc/what_s_your_preferred_tool_for_load">(comments)&lt;/a>&lt;/p>
