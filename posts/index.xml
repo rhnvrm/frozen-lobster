@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 23 Jun 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-06-23</title><link>https://frozen-lobster.rohanverma.net/posts/2021-06-23/</link><pubDate>Wed, 23 Jun 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-06-23/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 24 Jun 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-06-24</title><link>https://frozen-lobster.rohanverma.net/posts/2021-06-24/</link><pubDate>Thu, 24 Jun 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-06-24/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://bert.org/2021/06/23/vaccination-paywalls/">Vaccination Paywalls&lt;/a>
+&lt;a href="https://lobste.rs/s/lch2ly/vaccination_paywalls">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What email client do you use?&lt;/a>
+&lt;a href="https://lobste.rs/s/0c0tvx/what_email_client_do_you_use">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://venam.nixers.net/blog/unix/2021/06/23/pipewire-under-the-hood.html">PipeWire Under The Hood&lt;/a>
+&lt;a href="https://lobste.rs/s/dpqho7/pipewire_under_hood">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.idris-lang.org/idris-2-version-040-released.html">Idris 2 version 0.4.0 released&lt;/a>
+&lt;a href="https://lobste.rs/s/y8e8e7/idris_2_version_0_4_0_released">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pragmaticpineapple.com/four-useful-fzf-tricks-for-your-terminal/">4 Useful fzf Tricks for Your Terminal&lt;/a>
+&lt;a href="https://lobste.rs/s/3zdrfd/4_useful_fzf_tricks_for_your_terminal">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://elisabethirgens.github.io/notes/2021/06/code-reviews/">Why I Won’t Approve Your PR&lt;/a>
+&lt;a href="https://lobste.rs/s/56boie/why_i_won_t_approve_your_pr">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://stitcher.io/blog/opinion-driven-design">Opinion-driven design&lt;/a>
+&lt;a href="https://lobste.rs/s/kx1hes/opinion_driven_design">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://neotron-compute.github.io/Neotron-Book/index.html">Neotron - The Embedded Rust Home Computer Platform&lt;/a>
+&lt;a href="https://lobste.rs/s/onp8qi/neotron_embedded_rust_home_computer">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://arstechnica.com/gadgets/2021/06/counterfeit-pypi-packages-with-5000-downloads-installed-cryptominers/">Cryptocurrency Miners are Typosquatting in PyPI to Distrubute Malware&lt;/a>
+&lt;a href="https://lobste.rs/s/o7yofg/cryptocurrency_miners_are">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://freshman.tech/philosophy-of-software-design-summary/">Book summary: A Philosophy of Software Design&lt;/a>
+&lt;a href="https://lobste.rs/s/wkjpoq/book_summary_philosophy_software_design">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-06-23</title><link>https://frozen-lobster.rohanverma.net/posts/2021-06-23/</link><pubDate>Wed, 23 Jun 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-06-23/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://adam.nels.onl/blog/parentheses-are-just-typechecking/">Parentheses Are Just Typechecking&lt;/a>
 &lt;a href="https://lobste.rs/s/sgug9k/parentheses_are_just_typechecking">(comments)&lt;/a>&lt;/p>
