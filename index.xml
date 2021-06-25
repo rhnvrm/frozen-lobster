@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 24 Jun 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-06-24</title><link>https://frozen-lobster.rohanverma.net/posts/2021-06-24/</link><pubDate>Thu, 24 Jun 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-06-24/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 25 Jun 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-06-25</title><link>https://frozen-lobster.rohanverma.net/posts/2021-06-25/</link><pubDate>Fri, 25 Jun 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-06-25/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/Tyruiop/syncretism">Syncretism, an option search engine in Clojure&lt;/a>
+&lt;a href="https://lobste.rs/s/q1ox1y/syncretism_option_search_engine_clojure">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://martinfowler.com/articles/patterns-of-distributed-systems/lamport-clock.html">Lamport Clock&lt;/a>
+&lt;a href="https://lobste.rs/s/kilnds/lamport_clock">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://www.oftenpaper.net/sierpinski.htm">Constructing the Sierpinski triangle&lt;/a>
+&lt;a href="https://lobste.rs/s/pjetp7/constructing_sierpinski_triangle">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.cs.cornell.edu/~asampson/media/papers/reticle-pldi2021.pdf">Reticle: A Virtual Machine for Programming Modern FPGAs&lt;/a>
+&lt;a href="https://lobste.rs/s/rojw7d/reticle_virtual_machine_for_programming">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://kn100.me/turning-upnp-off/">Ok, Ok, I&amp;rsquo;m Turning uPnP off&lt;/a>
+&lt;a href="https://lobste.rs/s/rjvahu/ok_ok_i_m_turning_upnp_off">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What email client do you use?&lt;/a>
+&lt;a href="https://lobste.rs/s/0c0tvx/what_email_client_do_you_use">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://boyter.org/posts/useful-bootstrap-for-go-projects/">Useful bootstrap checklist for Go Projects&lt;/a>
+&lt;a href="https://lobste.rs/s/fnjpkg/useful_bootstrap_checklist_for_go">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.system76.com/post/654884924769370112/developing-games-on-linux-an-interview-with">Developing Games on Linux: An Interview with Little Red Dog Games&lt;/a>
+&lt;a href="https://lobste.rs/s/wybayk/developing_games_on_linux_interview_with">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://bert.org/2021/06/23/vaccination-paywalls/">Vaccination Paywalls&lt;/a>
+&lt;a href="https://lobste.rs/s/lch2ly/vaccination_paywalls">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lwn.net/SubscriberLink/860607/6ee772207c6ce7c3/">Pulling GitHub into the kernel process&lt;/a>
+&lt;a href="https://lobste.rs/s/pudrfl/pulling_github_into_kernel_process">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-06-24</title><link>https://frozen-lobster.rohanverma.net/posts/2021-06-24/</link><pubDate>Thu, 24 Jun 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-06-24/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://bert.org/2021/06/23/vaccination-paywalls/">Vaccination Paywalls&lt;/a>
 &lt;a href="https://lobste.rs/s/lch2ly/vaccination_paywalls">(comments)&lt;/a>&lt;/p>
