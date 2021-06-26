@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 25 Jun 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-06-25</title><link>https://frozen-lobster.rohanverma.net/posts/2021-06-25/</link><pubDate>Fri, 25 Jun 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-06-25/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 26 Jun 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-06-26</title><link>https://frozen-lobster.rohanverma.net/posts/2021-06-26/</link><pubDate>Sat, 26 Jun 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-06-26/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://utcc.utoronto.ca/~cks/space/blog/programming/GoAndDeprecatingGoGet">Go 1.17 is deprecating the traditional use of &amp;lsquo;go get&amp;rsquo;&lt;/a>
+&lt;a href="https://lobste.rs/s/jb9mho/go_1_17_is_deprecating_traditional_use_go">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/MichalStrehovsky/bflat">C# as you know it but with Go-inspired tooling that produces small, selfcontained, and native exes&lt;/a>
+&lt;a href="https://lobste.rs/s/opremg/c_as_you_know_it_with_go_inspired_tooling">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">sks-keyservers pool DNS records to be disabled effective immediately&lt;/a>
+&lt;a href="https://lobste.rs/s/jupgda/sks_keyservers_pool_dns_records_be">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ianopolous.peergos.me/maths/surreal">Surreal numbers&lt;/a>
+&lt;a href="https://lobste.rs/s/krpkaq/surreal_numbers">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gir.st/blog/greenpass.html">What&amp;rsquo;s Inside the EU Green Pass QR Code?&lt;/a>
+&lt;a href="https://lobste.rs/s/mgeay3/what_s_inside_eu_green_pass_qr_code">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/abbbi/nullfsvfs">a virtual file system that behaves like /dev/null&lt;/a>
+&lt;a href="https://lobste.rs/s/v8fhsj/virtual_file_system_behaves_like_dev_null">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this weekend?&lt;/a>
+&lt;a href="https://lobste.rs/s/gkdlz0/what_are_you_doing_this_weekend">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gtk-rs.org/blog/2021/06/22/new-release.html">Here comes the 4 – gtk-rs&lt;/a>
+&lt;a href="https://lobste.rs/s/gtkn5t/here_comes_4_gtk_rs">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://www.cmyr.net/blog/keypaths.html">Type-checked keypaths in Rust&lt;/a>
+&lt;a href="https://lobste.rs/s/z7nqc2/type_checked_keypaths_rust">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://utcc.utoronto.ca/~cks/space/blog/programming/ProgramBehaviorAndBugs">What is and isn&amp;rsquo;t a bug in software (2015)&lt;/a>
+&lt;a href="https://lobste.rs/s/eir3yl/what_is_isn_t_bug_software_2015">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-06-25</title><link>https://frozen-lobster.rohanverma.net/posts/2021-06-25/</link><pubDate>Fri, 25 Jun 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-06-25/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://github.com/Tyruiop/syncretism">Syncretism, an option search engine in Clojure&lt;/a>
 &lt;a href="https://lobste.rs/s/q1ox1y/syncretism_option_search_engine_clojure">(comments)&lt;/a>&lt;/p>
