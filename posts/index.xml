@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 26 Jun 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-06-26</title><link>https://frozen-lobster.rohanverma.net/posts/2021-06-26/</link><pubDate>Sat, 26 Jun 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-06-26/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 27 Jun 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-06-27</title><link>https://frozen-lobster.rohanverma.net/posts/2021-06-27/</link><pubDate>Sun, 27 Jun 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-06-27/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.anthropicstudios.com/2021/06/25/when-to-rewrite/">When To Rewrite&lt;/a>
+&lt;a href="https://lobste.rs/s/63eb9g/when_rewrite">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ols.wtf/2021/05/28/dev-greet-invading-kernel-space.html">/dev/greet: Invading Kernel Space&lt;/a>
+&lt;a href="https://lobste.rs/s/g3t8ky/dev_greet_invading_kernel_space">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://blog.cleancoder.com/uncle-bob/2021/06/25/OnTypes.html">On Types&lt;/a>
+&lt;a href="https://lobste.rs/s/9rrxbh/on_types">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ariadne.space/2021/06/25/understanding-thread-stack-sizes-and-how-alpine-is-different/">understanding thread stack sizes and how alpine is different&lt;/a>
+&lt;a href="https://lobste.rs/s/ms3nsg/understanding_thread_stack_sizes_how">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.nelhage.com/post/reflections-on-performance/">Reflections on software performance&lt;/a>
+&lt;a href="https://lobste.rs/s/rxvz2a/reflections_on_software_performance">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://stats.stackexchange.com/questions/445578/how-do-dags-help-to-reduce-bias-in-causal-inference">How do DAGs help to reduce bias in causal inference?&lt;/a>
+&lt;a href="https://lobste.rs/s/oihbyd/how_do_dags_help_reduce_bias_causal">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://engineering.fb.com/2021/05/13/data-center-engineering/bgp/">Running BGP in large-scale data centers&lt;/a>
+&lt;a href="https://lobste.rs/s/yrwfmt/running_bgp_large_scale_data_centers">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.dedoimedo.com/computers/interview-kde-team-ng.html">Dedoimedo interviews: KDE&amp;rsquo;s pointiest stick, Nate Graham&lt;/a>
+&lt;a href="https://lobste.rs/s/o1drq1/dedoimedo_interviews_kde_s_pointiest">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://utcc.utoronto.ca/~cks/space/blog/programming/GoAndDeprecatingGoGet">Go 1.17 is deprecating the traditional use of &amp;lsquo;go get&amp;rsquo;&lt;/a>
+&lt;a href="https://lobste.rs/s/jb9mho/go_1_17_is_deprecating_traditional_use_go">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/claffin/cloudproxy">cloudproxy - hide your scrapers IP behind the cloud&lt;/a>
+&lt;a href="https://lobste.rs/s/wr7l7h/cloudproxy_hide_your_scrapers_ip_behind">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-06-26</title><link>https://frozen-lobster.rohanverma.net/posts/2021-06-26/</link><pubDate>Sat, 26 Jun 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-06-26/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://utcc.utoronto.ca/~cks/space/blog/programming/GoAndDeprecatingGoGet">Go 1.17 is deprecating the traditional use of &amp;lsquo;go get&amp;rsquo;&lt;/a>
 &lt;a href="https://lobste.rs/s/jb9mho/go_1_17_is_deprecating_traditional_use_go">(comments)&lt;/a>&lt;/p>
