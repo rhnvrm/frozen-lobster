@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 27 Jun 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-06-27</title><link>https://frozen-lobster.rohanverma.net/posts/2021-06-27/</link><pubDate>Sun, 27 Jun 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-06-27/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 28 Jun 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-06-28</title><link>https://frozen-lobster.rohanverma.net/posts/2021-06-28/</link><pubDate>Mon, 28 Jun 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-06-28/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://raymii.org/s/blog/Firefox-89-proton-ui-tab-styling.html">Firefox 89 Proton UI Tab Styling&lt;/a>
+&lt;a href="https://lobste.rs/s/vawi9i/firefox_89_proton_ui_tab_styling">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://mgdm.net/weblog/systemd/">Avoiding complexity with systemd&lt;/a>
+&lt;a href="https://lobste.rs/s/xxyjxl/avoiding_complexity_with_systemd">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://xenodium.com/emacs-smarter-search-and-replace">Emacs: smarter search and replace&lt;/a>
+&lt;a href="https://lobste.rs/s/lrpbmh/emacs_smarter_search_replace">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://dodisturb.me/posts/2021-06-27-Typed-Programs-Dont-Leak-Data.html">Typed Programs Don&amp;rsquo;t Leak Data&lt;/a>
+&lt;a href="https://lobste.rs/s/3vyuwa/typed_programs_don_t_leak_data">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://spritesmods.com/?art=dmgplus">DMGPlus&lt;/a>
+&lt;a href="https://lobste.rs/s/vaklv4/dmgplus">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://v.trp.gr/posts/c-to-wasm-for-lazy-people/">C to Wasm for Lazy People&lt;/a>
+&lt;a href="https://lobste.rs/s/7cvqza/c_wasm_for_lazy_people">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://oldvcr.blogspot.com/2021/06/the-parallel-universe-of-firewire-hubs.html">The parallel universe of FireWire hubs&lt;/a>
+&lt;a href="https://lobste.rs/s/vheyvm/parallel_universe_firewire_hubs">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thevaluable.dev/vim-veteran/">A Vim Guide For Veteran Users&lt;/a>
+&lt;a href="https://lobste.rs/s/wvm6vx/vim_guide_for_veteran_users">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://multilogin.com/why-mimicking-a-device-is-almost-impossible/">Why mimicking a device is becoming almost impossible&lt;/a>
+&lt;a href="https://lobste.rs/s/vd19ta/why_mimicking_device_is_becoming_almost">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sabotage-linux.neocities.org/blog/11/">10 years Sabotage Linux - The history of the first musl-based distro&lt;/a>
+&lt;a href="https://lobste.rs/s/jlon3q/10_years_sabotage_linux_history_first">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-06-27</title><link>https://frozen-lobster.rohanverma.net/posts/2021-06-27/</link><pubDate>Sun, 27 Jun 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-06-27/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://www.anthropicstudios.com/2021/06/25/when-to-rewrite/">When To Rewrite&lt;/a>
 &lt;a href="https://lobste.rs/s/63eb9g/when_rewrite">(comments)&lt;/a>&lt;/p>
