@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 28 Jun 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-06-28</title><link>https://frozen-lobster.rohanverma.net/posts/2021-06-28/</link><pubDate>Mon, 28 Jun 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-06-28/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 29 Jun 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-06-29</title><link>https://frozen-lobster.rohanverma.net/posts/2021-06-29/</link><pubDate>Tue, 29 Jun 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-06-29/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.usenix.org/system/files/conference/hotos15/hotos15-paper-mcsherry.pdf">Scalability! But at what COST? (2015)&lt;/a>
+&lt;a href="https://lobste.rs/s/z5fcjz/scalability_at_what_cost_2015">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/">Parse, don’t validate (2019)&lt;/a>
+&lt;a href="https://lobste.rs/s/ot2mea/parse_don_t_validate_2019">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">For those familiar with Go and (cargo | npm | etc) how is &amp;ldquo;minimal version selection&amp;rdquo; working out?&lt;/a>
+&lt;a href="https://lobste.rs/s/8bczn4/for_those_familiar_with_go_cargo_npm_etc">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jsisweird.com/">JS is weird&lt;/a>
+&lt;a href="https://lobste.rs/s/5r0aix/js_is_weird">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://alex.dzyoba.com/blog/nginx-features-for-operators/">Nice nginx features for operators&lt;/a>
+&lt;a href="https://lobste.rs/s/hmu4ot/nice_nginx_features_for_operators">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sequoia-pgp.org/blog/2021/06/28/202106-hey-signal-great-encryption-needs-great-authentication/">Hey Signal! Great Encryption Needs Great Authentication&lt;/a>
+&lt;a href="https://lobste.rs/s/wtshp3/hey_signal_great_encryption_needs_great">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://raymii.org/s/blog/Firefox-89-proton-ui-tab-styling.html">Firefox 89 Proton UI Tab Styling&lt;/a>
+&lt;a href="https://lobste.rs/s/vawi9i/firefox_89_proton_ui_tab_styling">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pijul.org/posts/2021-06-28-two-changes/">Two changes to changes&lt;/a>
+&lt;a href="https://lobste.rs/s/f60xc2/two_changes_changes">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this week?&lt;/a>
+&lt;a href="https://lobste.rs/s/8ouedq/what_are_you_doing_this_week">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://2ality.com/2021/06/temporal-api.html">Temporal: getting started with JavaScript’s new date time API&lt;/a>
+&lt;a href="https://lobste.rs/s/d5aird/temporal_getting_started_with">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-06-28</title><link>https://frozen-lobster.rohanverma.net/posts/2021-06-28/</link><pubDate>Mon, 28 Jun 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-06-28/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://raymii.org/s/blog/Firefox-89-proton-ui-tab-styling.html">Firefox 89 Proton UI Tab Styling&lt;/a>
 &lt;a href="https://lobste.rs/s/vawi9i/firefox_89_proton_ui_tab_styling">(comments)&lt;/a>&lt;/p>
