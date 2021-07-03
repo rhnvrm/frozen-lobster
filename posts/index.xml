@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 02 Jul 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-07-02</title><link>https://frozen-lobster.rohanverma.net/posts/2021-07-02/</link><pubDate>Fri, 02 Jul 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-07-02/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 03 Jul 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-07-03</title><link>https://frozen-lobster.rohanverma.net/posts/2021-07-03/</link><pubDate>Sat, 03 Jul 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-07-03/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://sheep.horse/2021/6/botnets%2C_or_this_is_why_we_cannot_have_nice_things.html">Botnets, or This is Why We Cannot Have Nice Things&lt;/a>
+&lt;a href="https://lobste.rs/s/hjaget/botnets_this_is_why_we_cannot_have_nice">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sporks.space/2021/07/02/there-is-no-64-bit-type-in-c89/">There is no 64-bit type in C89&lt;/a>
+&lt;a href="https://lobste.rs/s/z6ma3o/there_is_no_64_bit_type_c89">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/neovim/neovim/releases/tag/v0.5.0">Neovim v0.5&lt;/a>
+&lt;a href="https://lobste.rs/s/ka1iby/neovim_v0_5">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://corecursive.com/066-sqlite-with-richard-hipp/">The Untold Story of SQLite&lt;/a>
+&lt;a href="https://lobste.rs/s/u2xz1j/untold_story_sqlite">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.openbsdjumpstart.org">Full OpenBSD Startup described on slide 48&lt;/a>
+&lt;a href="https://lobste.rs/s/fwb9lu/full_openbsd_startup_described_on_slide">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ml.berkeley.edu/blog/posts/clip-art/">Alien Dreams: An Emerging Art Scene&lt;/a>
+&lt;a href="https://lobste.rs/s/ulwd1k/alien_dreams_emerging_art_scene">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://stratus3d.com/blog/2021/06/28/erlang-records-vs-elixir-structs">Erlang Records vs. Elixir Structs&lt;/a>
+&lt;a href="https://lobste.rs/s/hwtog8/erlang_records_vs_elixir_structs">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://simonwillison.net/2021/Jul/1/pagnis/">PAGNIs: Probably Are Gonna Need Its&lt;/a>
+&lt;a href="https://lobste.rs/s/nokjr0/pagnis_probably_are_gonna_need_its">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this weekend?&lt;/a>
+&lt;a href="https://lobste.rs/s/i0gowb/what_are_you_doing_this_weekend">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://www.cs.utah.edu/~mflatt/past-courses/cs6510/public_html/lispm.pdf">Architecture of LISP Machines&lt;/a>
+&lt;a href="https://lobste.rs/s/awz1t5/architecture_lisp_machines">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-07-02</title><link>https://frozen-lobster.rohanverma.net/posts/2021-07-02/</link><pubDate>Fri, 02 Jul 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-07-02/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://darker.ink/writings/Towards-richer-colors-on-the-Web">Towards richer colors on the Web&lt;/a>
 &lt;a href="https://lobste.rs/s/go9whp/towards_richer_colors_on_web">(comments)&lt;/a>&lt;/p>
