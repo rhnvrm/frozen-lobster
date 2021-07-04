@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 03 Jul 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-07-03</title><link>https://frozen-lobster.rohanverma.net/posts/2021-07-03/</link><pubDate>Sat, 03 Jul 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-07-03/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 04 Jul 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-07-04</title><link>https://frozen-lobster.rohanverma.net/posts/2021-07-04/</link><pubDate>Sun, 04 Jul 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-07-04/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="">Lobsters is Nine Today&lt;/a>
+&lt;a href="https://lobste.rs/s/idj3tm/lobsters_is_nine_today">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://blog.danieljanus.pl/2021/07/01/commit-groups/">Things I wish Git had: Commit groups&lt;/a>
+&lt;a href="https://lobste.rs/s/r8wvoj/things_i_wish_git_had_commit_groups">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://chimera-linux.org/">Chimera Linux: a Linux distribution based on FreeBSD userland and LLVM&lt;/a>
+&lt;a href="https://lobste.rs/s/wz8jog/chimera_linux_linux_distribution_based">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://christine.website/blog/android-thoughts-2021-07-03">Thoughts About Using Android Again as an iPhone User&lt;/a>
+&lt;a href="https://lobste.rs/s/10btuv/thoughts_about_using_android_again_as">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ntietz.com/tech-blog/future-of-software-engineering-is-formal-methods/">Where are we going from here? Software engineering needs formal methods&lt;/a>
+&lt;a href="https://lobste.rs/s/znuk5o/where_are_we_going_from_here_software">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://devblogs.microsoft.com/typescript/?p=2999">Announcing TypeScript 4.4 Beta&lt;/a>
+&lt;a href="https://lobste.rs/s/a0djz0/announcing_typescript_4_4_beta">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sheep.horse/2021/6/botnets%2C_or_this_is_why_we_cannot_have_nice_things.html">Botnets, or This is Why We Cannot Have Nice Things&lt;/a>
+&lt;a href="https://lobste.rs/s/hjaget/botnets_this_is_why_we_cannot_have_nice">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://retro.cloud/simply-integrating-svelte-in-rails/">Simply integrating Svelte into Rails&lt;/a>
+&lt;a href="https://lobste.rs/s/6z6ei6/simply_integrating_svelte_into_rails">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/automerge/automerge">A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged&lt;/a>
+&lt;a href="https://lobste.rs/s/urvu1p/json_like_data_structure_crdt_can_be">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ristovski.github.io/posts/moto-sensorhub/">Reverse engineering the Motorola Sensorhub: Part 1&lt;/a>
+&lt;a href="https://lobste.rs/s/2fmejr/reverse_engineering_motorola_sensorhub">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-07-03</title><link>https://frozen-lobster.rohanverma.net/posts/2021-07-03/</link><pubDate>Sat, 03 Jul 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-07-03/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://sheep.horse/2021/6/botnets%2C_or_this_is_why_we_cannot_have_nice_things.html">Botnets, or This is Why We Cannot Have Nice Things&lt;/a>
 &lt;a href="https://lobste.rs/s/hjaget/botnets_this_is_why_we_cannot_have_nice">(comments)&lt;/a>&lt;/p>
