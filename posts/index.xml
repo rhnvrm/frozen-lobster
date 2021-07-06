@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 05 Jul 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-07-05</title><link>https://frozen-lobster.rohanverma.net/posts/2021-07-05/</link><pubDate>Mon, 05 Jul 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-07-05/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 06 Jul 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-07-06</title><link>https://frozen-lobster.rohanverma.net/posts/2021-07-06/</link><pubDate>Tue, 06 Jul 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-07-06/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://juliareda.eu/2021/07/github-copilot-is-not-infringing-your-copyright/">GitHub Copilot is not infringing your copyright&lt;/a>
+&lt;a href="https://lobste.rs/s/bmdesp/github_copilot_is_not_infringing_your">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">Lobsters is Nine Today&lt;/a>
+&lt;a href="https://lobste.rs/s/idj3tm/lobsters_is_nine_today">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">Who&amp;rsquo;s hiring? Q3Y2021&lt;/a>
+&lt;a href="https://lobste.rs/s/mnmwb5/who_s_hiring_q3y2021">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/zverok/wikipedia_ql">WikipediaQL: Query language for efficient data extraction from Wikipedia (early prototype)&lt;/a>
+&lt;a href="https://lobste.rs/s/kyjdwg/wikipediaql_query_language_for">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/">Notes on structured concurrency, or: Go statement considered harmful [2018]&lt;/a>
+&lt;a href="https://lobste.rs/s/8msejg/notes_on_structured_concurrency_go">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/etherealmachine/entish">Entish: a datalog-like language for playing with implementing table-top RPG rules in formal logic&lt;/a>
+&lt;a href="https://lobste.rs/s/tfckub/entish_datalog_like_language_for_playing">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.joren.ga/programming/vla-bad">VLA&amp;rsquo;s are… problematic&lt;/a>
+&lt;a href="https://lobste.rs/s/acee5i/vla_s_are_problematic">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://rtpg.co/2021/07/05/comments-ast.html">How Black Handles Comments When Python&amp;rsquo;s Grammar Ignores Them&lt;/a>
+&lt;a href="https://lobste.rs/s/5tn4pd/how_black_handles_comments_when_python_s">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gist.github.com/Phate6660/0e42fc2a5d23090276ede2af4ae50b3d">A dark userstyle for https://lobste.rs that aims to be simple and robust&lt;/a>
+&lt;a href="https://lobste.rs/s/aaxpjx/dark_userstyle_for_https_lobste_rs_aims_be">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://www.quiss.org/freespin/">Freespin - Commodore 1541 floppy drive demo&lt;/a>
+&lt;a href="https://lobste.rs/s/whvlln/freespin_commodore_1541_floppy_drive">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-07-05</title><link>https://frozen-lobster.rohanverma.net/posts/2021-07-05/</link><pubDate>Mon, 05 Jul 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-07-05/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="">Lobsters is Nine Today&lt;/a>
 &lt;a href="https://lobste.rs/s/idj3tm/lobsters_is_nine_today">(comments)&lt;/a>&lt;/p>
