@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 06 Jul 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-07-06</title><link>https://frozen-lobster.rohanverma.net/posts/2021-07-06/</link><pubDate>Tue, 06 Jul 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-07-06/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 07 Jul 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-07-07</title><link>https://frozen-lobster.rohanverma.net/posts/2021-07-07/</link><pubDate>Wed, 07 Jul 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-07-07/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/temporary-audacity/audacity">Audacity-fork without telemetry/CLA is gaining traction&lt;/a>
+&lt;a href="https://lobste.rs/s/n3ne8j/audacity_fork_without_telemetry_cla_is">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://no-color.org/">NO_COLOR: disabling ANSI color output in various Unix commands&lt;/a>
+&lt;a href="https://lobste.rs/s/mevzfb/no_color_disabling_ansi_color_output">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lore.kernel.org/lkml/20210704202756.29107-1-ojeda@kernel.org/">Rust support for Linux kernel&lt;/a>
+&lt;a href="https://lobste.rs/s/f41jg3/rust_support_for_linux_kernel">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.possiblerust.com/guide/what-can-coerce-and-where-in-rust">What Can Coerce, and Where, in Rust&lt;/a>
+&lt;a href="https://lobste.rs/s/slkax5/what_can_coerce_where_rust">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://consoledonottrack.com/">Console Do Not Track&lt;/a>
+&lt;a href="https://lobste.rs/s/5dnfb9/console_do_not_track">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/rustviz/rustviz">RustViz: Generates Visualizations of Rust Lifetime and Borrowing Mechanism&lt;/a>
+&lt;a href="https://lobste.rs/s/fr9ywf/rustviz_generates_visualizations_rust">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://mattferraro.dev/posts/poissons-equation">Poisson&amp;rsquo;s Equation is the Most Powerful Tool not yet in your Toolbox&lt;/a>
+&lt;a href="https://lobste.rs/s/t9y7gq/poisson_s_equation_is_most_powerful_tool">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://stealthoptional.com/news/chinas-zuchongzhi-quantum-computer-is-the-most-powerful-in-the-world/">China&amp;rsquo;s Zuchongzhi Quantum Computer is the most powerful in the world&lt;/a>
+&lt;a href="https://lobste.rs/s/thqeqo/china_s_zuchongzhi_quantum_computer_is">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://drossbucket.com/2021/06/30/hacker-news-folk-wisdom-on-visual-programming/">Hacker News folk wisdom on visual programming&lt;/a>
+&lt;a href="https://lobste.rs/s/wiav9a/hacker_news_folk_wisdom_on_visual">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://felipec.wordpress.com/2021/07/05/git-update/">git update: the odyssey for a sensible git pull&lt;/a>
+&lt;a href="https://lobste.rs/s/zqotif/git_update_odyssey_for_sensible_git_pull">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-07-06</title><link>https://frozen-lobster.rohanverma.net/posts/2021-07-06/</link><pubDate>Tue, 06 Jul 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-07-06/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://juliareda.eu/2021/07/github-copilot-is-not-infringing-your-copyright/">GitHub Copilot is not infringing your copyright&lt;/a>
 &lt;a href="https://lobste.rs/s/bmdesp/github_copilot_is_not_infringing_your">(comments)&lt;/a>&lt;/p>
