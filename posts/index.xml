@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 08 Jul 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-07-08</title><link>https://frozen-lobster.rohanverma.net/posts/2021-07-08/</link><pubDate>Thu, 08 Jul 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-07-08/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 09 Jul 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-07-09</title><link>https://frozen-lobster.rohanverma.net/posts/2021-07-09/</link><pubDate>Fri, 09 Jul 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-07-09/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://hg.sr.ht/~icefox/mongoose/">Mongoose: A small toy OS with no memory protection&lt;/a>
+&lt;a href="https://lobste.rs/s/4kv3qc/mongoose_small_toy_os_with_no_memory">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://niedzejkob.p4.team/rust-np/">Compiling Rust is NP-hard&lt;/a>
+&lt;a href="https://lobste.rs/s/ekasr1/compiling_rust_is_np_hard">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://liam-on-linux.livejournal.com/81341.html">The historical significance of DEC and the PDP-7, -8, -11 &amp;amp; VAX&lt;/a>
+&lt;a href="https://lobste.rs/s/kmpnqd/historical_significance_dec_pdp_7_8_11_vax">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://datastation.multiprocess.io/blog/2021-07-08-react-without-webpack.html">React without webpack: fast path to a working app from scratch&lt;/a>
+&lt;a href="https://lobste.rs/s/tdnvjq/react_without_webpack_fast_path_working">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://en.wikipedia.org/wiki/Leaning_toothpick_syndrome">Leaning toothpick syndrome&lt;/a>
+&lt;a href="https://lobste.rs/s/xkkfiv/leaning_toothpick_syndrome">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/TimUntersberger/neogit">neogit: work-in-progress Magit clone for Neovim&lt;/a>
+&lt;a href="https://lobste.rs/s/wcc6jn/neogit_work_progress_magit_clone_for">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.pldi21.org/prerecorded_hopl.11.html">A History of Clojure&lt;/a>
+&lt;a href="https://lobste.rs/s/kknunh/history_clojure">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://andregarzia.com/2021/07/launching-the-mvp-for-little-webby-press.html">Launching the MVP for Little Webby Press&lt;/a>
+&lt;a href="https://lobste.rs/s/za0osu/launching_mvp_for_little_webby_press">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ctrl.blog/entry/chrome-google-dse-preconnect.html">Google’s unfair performance advantage in Chrome&lt;/a>
+&lt;a href="https://lobste.rs/s/aj3yxt/google_s_unfair_performance_advantage">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.craigstuntz.com/posts/2021-07-08-how-i-made-a-giant-mistake-with-terraform.html">How I Made a Giant Mistake with Terraform (and How Azure Made It Worse)&lt;/a>
+&lt;a href="https://lobste.rs/s/7wmbqc/how_i_made_giant_mistake_with_terraform">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-07-08</title><link>https://frozen-lobster.rohanverma.net/posts/2021-07-08/</link><pubDate>Thu, 08 Jul 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-07-08/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://www.ctrl.blog/entry/chrome-google-dse-preconnect.html">Google’s unfair performance advantage in Chrome&lt;/a>
 &lt;a href="https://lobste.rs/s/aj3yxt/google_s_unfair_performance_advantage">(comments)&lt;/a>&lt;/p>
