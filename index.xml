@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 10 Jul 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-07-10</title><link>https://frozen-lobster.rohanverma.net/posts/2021-07-10/</link><pubDate>Sat, 10 Jul 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-07-10/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 11 Jul 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-07-11</title><link>https://frozen-lobster.rohanverma.net/posts/2021-07-11/</link><pubDate>Sun, 11 Jul 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-07-11/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://scattered-thoughts.net/writing/against-sql/">Against SQL&lt;/a>
+&lt;a href="https://lobste.rs/s/jxeg1b/against_sql">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://fairuseify.ml">Tool to convert copyrighted music into fair use&lt;/a>
+&lt;a href="https://lobste.rs/s/knmuql/tool_convert_copyrighted_music_into_fair">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://michael.stapelberg.ch/posts/2021-07-10-linux-25gbit-internet-router-pc-build/">25 Gigabit Linux internet router PC build&lt;/a>
+&lt;a href="https://lobste.rs/s/l3yaaw/25_gigabit_linux_internet_router_pc_build">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://raymii.org/s/blog/Using_IceWM_and_sharing_my_config_and_tips_tricks.html">Using IceWM and a Raspberry Pi as my main PC, sharing my theme, config and some tips and tricks&lt;/a>
+&lt;a href="https://lobste.rs/s/iy1rbz/using_icewm_raspberry_pi_as_my_main_pc">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://matklad.github.io//2021/07/09/inline-in-rust.html">Inline In Rust&lt;/a>
+&lt;a href="https://lobste.rs/s/bd6rcd/inline_rust">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.torproject.org/announcing-arti">Announcing Arti, a pure-Rust Tor implementation | Tor Blog&lt;/a>
+&lt;a href="https://lobste.rs/s/xyxubf/announcing_arti_pure_rust_tor">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://software.rajivprab.com/2019/04/28/rethinking-software-testing-perspectives-from-the-world-of-hardware/">Rethinking Software Testing: Perspectives from the world of Hardware&lt;/a>
+&lt;a href="https://lobste.rs/s/ogt990/rethinking_software_testing">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.pentlander.com/building-blocks-sasquach-type-system/">Building Blocks of the Sasquach Type System&lt;/a>
+&lt;a href="https://lobste.rs/s/oj8lul/building_blocks_sasquach_type_system">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://kylemcdonald.net/psac/">People Staring At Computers&lt;/a>
+&lt;a href="https://lobste.rs/s/kto6kn/people_staring_at_computers">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://www.pacifict.com/Story/">Graphing Calculator Story (2004)&lt;/a>
+&lt;a href="https://lobste.rs/s/tetofo/graphing_calculator_story_2004">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-07-10</title><link>https://frozen-lobster.rohanverma.net/posts/2021-07-10/</link><pubDate>Sat, 10 Jul 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-07-10/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="http://catern.com/caternetes.html">No more DSLs: Implement and deploy a distributed system with a single program&lt;/a>
 &lt;a href="https://lobste.rs/s/yf2k8f/no_more_dsls_implement_deploy">(comments)&lt;/a>&lt;/p>
