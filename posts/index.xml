@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 11 Jul 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-07-11</title><link>https://frozen-lobster.rohanverma.net/posts/2021-07-11/</link><pubDate>Sun, 11 Jul 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-07-11/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 12 Jul 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-07-12</title><link>https://frozen-lobster.rohanverma.net/posts/2021-07-12/</link><pubDate>Mon, 12 Jul 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-07-12/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.folklore.org/StoryView.py?story=Negative_2000_Lines_Of_Code.txt">-2000 Lines Of Code&lt;/a>
+&lt;a href="https://lobste.rs/s/9r1aee/2000_lines_code">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://fairuseify.ml">Tool to convert copyrighted music into fair use&lt;/a>
+&lt;a href="https://lobste.rs/s/knmuql/tool_convert_copyrighted_music_into_fair">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://raymii.org/s/blog/Using_IceWM_and_sharing_my_config_and_tips_tricks.html">Using IceWM and a Raspberry Pi as my main PC, sharing my theme, config and some tips and tricks&lt;/a>
+&lt;a href="https://lobste.rs/s/iy1rbz/using_icewm_raspberry_pi_as_my_main_pc">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://scattered-thoughts.net/writing/against-sql/">Against SQL&lt;/a>
+&lt;a href="https://lobste.rs/s/jxeg1b/against_sql">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pijul.org/posts/2021-07-11-binary-diffs/">Changes on binary files&lt;/a>
+&lt;a href="https://lobste.rs/s/ixq6r8/changes_on_binary_files">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://xenodium.com/show-in-finder--show-in-emacs">macOS: Show in Finder / Show in Emacs&lt;/a>
+&lt;a href="https://lobste.rs/s/nig2ck/macos_show_finder_show_emacs">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://kylemcdonald.net/psac/">People Staring At Computers&lt;/a>
+&lt;a href="https://lobste.rs/s/kto6kn/people_staring_at_computers">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://eerielinux.wordpress.com/2018/01/25/permissive-licensing-is-wrong-no-its-not-2-2/">“Permissive licensing is wrong?” – No it’s not! (2018)&lt;/a>
+&lt;a href="https://lobste.rs/s/i4cnlx/permissive_licensing_is_wrong_no_it_s_not">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://brendangregg.com/blog/2021-07-03/how-to-add-bpf-observability.html">How To Add eBPF Observability To Your Product&lt;/a>
+&lt;a href="https://lobste.rs/s/dpp9iu/how_add_ebpf_observability_your_product">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/Myself086/Project-Nested">Project-Nested: An NES Emulator Running on the SNES&lt;/a>
+&lt;a href="https://lobste.rs/s/2gw3ho/project_nested_nes_emulator_running_on">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-07-11</title><link>https://frozen-lobster.rohanverma.net/posts/2021-07-11/</link><pubDate>Sun, 11 Jul 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-07-11/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://scattered-thoughts.net/writing/against-sql/">Against SQL&lt;/a>
 &lt;a href="https://lobste.rs/s/jxeg1b/against_sql">(comments)&lt;/a>&lt;/p>
