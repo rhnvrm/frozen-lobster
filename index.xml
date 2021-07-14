@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 13 Jul 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-07-13</title><link>https://frozen-lobster.rohanverma.net/posts/2021-07-13/</link><pubDate>Tue, 13 Jul 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-07-13/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 14 Jul 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-07-14</title><link>https://frozen-lobster.rohanverma.net/posts/2021-07-14/</link><pubDate>Wed, 14 Jul 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-07-14/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://blog.syncinc.so/events-not-webhooks">Give me /events, not webhooks&lt;/a>
+&lt;a href="https://lobste.rs/s/3xrosf/give_me_events_not_webhooks">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://zach.bloomqu.ist/blog/2021/07/reliable-self-hosted-email.html">Reliable, Deliverable, Self-Hosted Email&lt;/a>
+&lt;a href="https://lobste.rs/s/5xqbyf/reliable_deliverable_self_hosted_email">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://earthly.dev/blog/python-timsort-merge/">Beating TimSort at Merging&lt;/a>
+&lt;a href="https://lobste.rs/s/1a0gmn/beating_timsort_at_merging">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/prathyvsh/pl-catalog">Programming Languages for Enthusiasts&lt;/a>
+&lt;a href="https://lobste.rs/s/opo8ov/programming_languages_for_enthusiasts">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://en.wikipedia.org/wiki/Ncdu">ncdu: NCurses-based disk usage tool&lt;/a>
+&lt;a href="https://lobste.rs/s/rje7wt/ncdu_ncurses_based_disk_usage_tool">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://opensearch.org/blog/updates/2021/07/opensearch-general-availability-announcement/">OpenSearch 1.0 is released&lt;/a>
+&lt;a href="https://lobste.rs/s/zwqe9f/opensearch_1_0_is_released">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.jeremymorgan.com/tutorials/go/how-to-iot-data-go-sqlite/">How Hot Does it Get Inside a Car During a Heat Wave?&lt;/a>
+&lt;a href="https://lobste.rs/s/nydkgn/how_hot_does_it_get_inside_car_during_heat">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=BH2jvJ74npM">TigerBeetle - A Million Financial Transactions per Second in Zig&lt;/a>
+&lt;a href="https://lobste.rs/s/fzo6uu/tigerbeetle_million_financial">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://mbuki-mvuki.org/posts/2021-07-12-writing-a-bash-builtin-in-c-to-parse-ini-configs/">Writing a Bash Builtin in C to Parse INI Configs&lt;/a>
+&lt;a href="https://lobste.rs/s/6wjuk4/writing_bash_builtin_c_parse_ini_configs">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://boats.gitlab.io/blog/post/the-problem-of-effects/">The problem of effects in Rust (2020)&lt;/a>
+&lt;a href="https://lobste.rs/s/otrxxf/problem_effects_rust_2020">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-07-13</title><link>https://frozen-lobster.rohanverma.net/posts/2021-07-13/</link><pubDate>Tue, 13 Jul 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-07-13/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://mbuki-mvuki.org/posts/2021-07-12-writing-a-bash-builtin-in-c-to-parse-ini-configs/">Writing a Bash Builtin in C to Parse INI Configs&lt;/a>
 &lt;a href="https://lobste.rs/s/6wjuk4/writing_bash_builtin_c_parse_ini_configs">(comments)&lt;/a>&lt;/p>
