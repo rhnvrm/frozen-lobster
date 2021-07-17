@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 16 Jul 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-07-16</title><link>https://frozen-lobster.rohanverma.net/posts/2021-07-16/</link><pubDate>Fri, 16 Jul 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-07-16/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 17 Jul 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-07-17</title><link>https://frozen-lobster.rohanverma.net/posts/2021-07-17/</link><pubDate>Sat, 17 Jul 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-07-17/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="">What interesting command line tools do you use?&lt;/a>
+&lt;a href="https://lobste.rs/s/yfgwjr/what_interesting_command_line_tools_do">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://codefaster.substack.com/p/xargs-considered-harmful">xargs considered harmful&lt;/a>
+&lt;a href="https://lobste.rs/s/wlqveb/xargs_considered_harmful">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.warp.dev/how-warp-works/">How Warp Works&lt;/a>
+&lt;a href="https://lobste.rs/s/16pj8p/how_warp_works">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this weekend?&lt;/a>
+&lt;a href="https://lobste.rs/s/dvaenm/what_are_you_doing_this_weekend">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.ryotak.me/post/cdnjs-remote-code-execution-en/">Remote code execution in cdnjs of Cloudflare&lt;/a>
+&lt;a href="https://lobste.rs/s/rdcdhs/remote_code_execution_cdnjs_cloudflare">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/halturin/ergo">halturin/ergo &amp;ndash; Erlang-flavored Go&lt;/a>
+&lt;a href="https://lobste.rs/s/rqycvz/halturin_ergo_erlang_flavored_go">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://fxip.as203478.net/">This page is hosted on a Casio fx-9750GII graphical calculator&lt;/a>
+&lt;a href="https://lobste.rs/s/6in4zg/this_page_is_hosted_on_casio_fx_9750gii">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://esbuild.github.io/faq/">esbuild - FAQ&lt;/a>
+&lt;a href="https://lobste.rs/s/0h838k/esbuild_faq">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://oberon-lang.github.io/">The Oberon+ Programming Language&lt;/a>
+&lt;a href="https://lobste.rs/s/evhq3r/oberon_programming_language">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.jetbrains.com/lp/devecosystem-2021/">The State of Developer Ecosystem in 2021 Infographic&lt;/a>
+&lt;a href="https://lobste.rs/s/rpfujv/state_developer_ecosystem_2021">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-07-16</title><link>https://frozen-lobster.rohanverma.net/posts/2021-07-16/</link><pubDate>Fri, 16 Jul 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-07-16/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="">Why are graph databases not more popular?&lt;/a>
 &lt;a href="https://lobste.rs/s/pp5blh/why_are_graph_databases_not_more_popular">(comments)&lt;/a>&lt;/p>
