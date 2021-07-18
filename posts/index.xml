@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 17 Jul 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-07-17</title><link>https://frozen-lobster.rohanverma.net/posts/2021-07-17/</link><pubDate>Sat, 17 Jul 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-07-17/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 18 Jul 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-07-18</title><link>https://frozen-lobster.rohanverma.net/posts/2021-07-18/</link><pubDate>Sun, 18 Jul 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-07-18/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.sqlite.org/atomiccommit.html">Atomic Commit In SQLite&lt;/a>
+&lt;a href="https://lobste.rs/s/ysri9z/atomic_commit_sqlite">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lists.debian.org/debian-devel-announce/2021/07/msg00002.html">Debian bullseye fully frozen&lt;/a>
+&lt;a href="https://lobste.rs/s/4gqs93/debian_bullseye_fully_frozen">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/sweeneyde/multimerge">A faster multi-way merge algorithm interchangeable with heapq.merge&lt;/a>
+&lt;a href="https://lobste.rs/s/sdistq/faster_multi_way_merge_algorithm">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://freebsdfoundation.org/blog/a-look-at-profiling-freebsd-sort/">A Look at Profiling: FreeBSD Sort&lt;/a>
+&lt;a href="https://lobste.rs/s/efnbcl/look_at_profiling_freebsd_sort">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://utcc.utoronto.ca/~cks/space/blog/sysadmin/WireGuardProvisioningChallenge">The WireGuard VPN challenge of provisioning clients&lt;/a>
+&lt;a href="https://lobste.rs/s/fynvif/wireguard_vpn_challenge_provisioning">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.haiku-os.org/blog/pulkomandy/2021-07-10-haiku_activity_report_june_2021/">Haiku activity report - June 2021&lt;/a>
+&lt;a href="https://lobste.rs/s/swwwso/haiku_activity_report_june_2021">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What interesting command line tools do you use?&lt;/a>
+&lt;a href="https://lobste.rs/s/yfgwjr/what_interesting_command_line_tools_do">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.moddb.com/mods/tie-fighter-total-conversion-tftc/news/tftc-v10-is-out-now">TIE Fighter: Total Conversion mod v1.0&lt;/a>
+&lt;a href="https://lobste.rs/s/ntnbe6/tie_fighter_total_conversion_mod_v1_0">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://fly.io/blog/last-mile-redis/">Last Mile Redis&lt;/a>
+&lt;a href="https://lobste.rs/s/2rvwk8/last_mile_redis">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/TeamPiped/Piped">Piped: An alternative privacy-friendly YouTube frontend which is efficient by design&lt;/a>
+&lt;a href="https://lobste.rs/s/bp8qnx/piped_alternative_privacy_friendly">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-07-17</title><link>https://frozen-lobster.rohanverma.net/posts/2021-07-17/</link><pubDate>Sat, 17 Jul 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-07-17/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="">What interesting command line tools do you use?&lt;/a>
 &lt;a href="https://lobste.rs/s/yfgwjr/what_interesting_command_line_tools_do">(comments)&lt;/a>&lt;/p>
