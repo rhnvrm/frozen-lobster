@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 18 Jul 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-07-18</title><link>https://frozen-lobster.rohanverma.net/posts/2021-07-18/</link><pubDate>Sun, 18 Jul 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-07-18/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 19 Jul 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-07-19</title><link>https://frozen-lobster.rohanverma.net/posts/2021-07-19/</link><pubDate>Mon, 19 Jul 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-07-19/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://avi.im/blag/2021/fast-sqlite-inserts/">Inserting One Billion Rows in SQLite Under A Minute&lt;/a>
+&lt;a href="https://lobste.rs/s/z4gahf/inserting_one_billion_rows_sqlite_under">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/afnanenayet/diffsitter">diffsitter: A tree-sitter based AST difftool to get meaningful semantic diffs&lt;/a>
+&lt;a href="https://lobste.rs/s/ogy8tx/diffsitter_tree_sitter_based_ast">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://wimvanderbauwhede.github.io/articles/frugal-computing/">Frugal computing: On the need for low-carbon and sustainable computing and the path towards&lt;/a>
+&lt;a href="https://lobste.rs/s/kvqjiz/frugal_computing_on_need_for_low_carbon">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://swizec.com/blog/what-i-learned-from-software-engineering-at-google/">What I learned from Software Engineering at Google&lt;/a>
+&lt;a href="https://lobste.rs/s/9n7aic/what_i_learned_from_software_engineering">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.jethro.dev/posts/org_roam_v2/">Releasing Org-roam v2&lt;/a>
+&lt;a href="https://lobste.rs/s/vb2c5h/releasing_org_roam_v2">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sic.nessuent.xyz/s/18/detecting-cycles-in-tag-parent-child-relationship-in-sqlite3/">Preventing cycles in parent-child relationship graph in sqlite3&lt;/a>
+&lt;a href="https://lobste.rs/s/kiwly6/preventing_cycles_parent_child">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://www.oilshell.org/release/latest/doc/oil-language-tour.html">A Tour of the Oil Language&lt;/a>
+&lt;a href="https://lobste.rs/s/9dcsmn/tour_oil_language">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.dedoimedo.com/computers/wayland-2021.html">Let&amp;rsquo;s talk about Wayland&lt;/a>
+&lt;a href="https://lobste.rs/s/gfasat/let_s_talk_about_wayland">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://shapeshed.com/vim-netrw/">Vim: you don&amp;rsquo;t need NERDtree or (maybe) netrw (2019)&lt;/a>
+&lt;a href="https://lobste.rs/s/kqjemi/vim_you_don_t_need_nerdtree_maybe_netrw">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://colinpaice.blog/2020/06/29/getting-z-os-installed-on-my-ubuntu-laptop/">Getting z/OS installed on my Ubuntu laptop&lt;/a>
+&lt;a href="https://lobste.rs/s/ykrax3/getting_z_os_installed_on_my_ubuntu_laptop">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-07-18</title><link>https://frozen-lobster.rohanverma.net/posts/2021-07-18/</link><pubDate>Sun, 18 Jul 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-07-18/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://www.sqlite.org/atomiccommit.html">Atomic Commit In SQLite&lt;/a>
 &lt;a href="https://lobste.rs/s/ysri9z/atomic_commit_sqlite">(comments)&lt;/a>&lt;/p>
