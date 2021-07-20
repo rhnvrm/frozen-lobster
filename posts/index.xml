@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 19 Jul 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-07-19</title><link>https://frozen-lobster.rohanverma.net/posts/2021-07-19/</link><pubDate>Mon, 19 Jul 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-07-19/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 20 Jul 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-07-20</title><link>https://frozen-lobster.rohanverma.net/posts/2021-07-20/</link><pubDate>Tue, 20 Jul 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-07-20/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://lab6.com/0">Deurbanising the Web&lt;/a>
+&lt;a href="https://lobste.rs/s/wn4vkf/deurbanising_web">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://httptoolkit.tech/blog/public-cdn-risks/">Public CDNs Are Useless and Dangerous&lt;/a>
+&lt;a href="https://lobste.rs/s/epqbuw/public_cdns_are_useless_dangerous">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://christine.website/blog/paranoid-nixos-2021-07-18">Paranoid NixOS Setup&lt;/a>
+&lt;a href="https://lobste.rs/s/dn4jss/paranoid_nixos_setup">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://mgdm.net/weblog/systemd-socket-activation/">systemd socket activation&lt;/a>
+&lt;a href="https://lobste.rs/s/jmv1ql/systemd_socket_activation">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lukeplant.me.uk/blog/posts/life-on-the-diagonal-adventures-in-2d-time/">Life on the diagonal — adventures in 2-D time&lt;/a>
+&lt;a href="https://lobste.rs/s/5fdlik/life_on_diagonal_adventures_2_d_time">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.yossarian.net/2021/07/19/LLVM-internals-part-1-bitcode-format">LLVM internals, part 1: the bitcode format&lt;/a>
+&lt;a href="https://lobste.rs/s/dcebi7/llvm_internals_part_1_bitcode_format">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.bit-101.com/blog/2021/07/perlin-vs-simplex/">Perlin vs. Simplex&lt;/a>
+&lt;a href="https://lobste.rs/s/as4d6p/perlin_vs_simplex">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/dmbaturin/soupault/releases/tag/3.0.0">Soupault release 3.0.0&lt;/a>
+&lt;a href="https://lobste.rs/s/xm84zw/soupault_release_3_0_0">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.paulox.net/2021/07/19/maps-with-django-part-2-geodjango-postgis-and-leaflet/">Maps with Django (part 2): GeoDjango, PostGIS and Leaflet&lt;/a>
+&lt;a href="https://lobste.rs/s/vrlxfg/maps_with_django_part_2_geodjango_postgis">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this week?&lt;/a>
+&lt;a href="https://lobste.rs/s/52k7h8/what_are_you_doing_this_week">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-07-19</title><link>https://frozen-lobster.rohanverma.net/posts/2021-07-19/</link><pubDate>Mon, 19 Jul 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-07-19/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://avi.im/blag/2021/fast-sqlite-inserts/">Inserting One Billion Rows in SQLite Under A Minute&lt;/a>
 &lt;a href="https://lobste.rs/s/z4gahf/inserting_one_billion_rows_sqlite_under">(comments)&lt;/a>&lt;/p>
