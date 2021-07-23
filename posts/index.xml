@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 22 Jul 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-07-22</title><link>https://frozen-lobster.rohanverma.net/posts/2021-07-22/</link><pubDate>Thu, 22 Jul 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-07-22/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 23 Jul 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-07-23</title><link>https://frozen-lobster.rohanverma.net/posts/2021-07-23/</link><pubDate>Fri, 23 Jul 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-07-23/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://blog.noredink.com/post/657392972659310592/pufferfish-please-scale-the-site">Pufferfish, please scale the site&lt;/a>
+&lt;a href="https://lobste.rs/s/sfeg6p/pufferfish_please_scale_site">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cgit.freebsd.org/src/commit/?id=a40cf4175c90142442d0c6515f6c83956336699b">FreeBSD implements unprivileged chroot&lt;/a>
+&lt;a href="https://lobste.rs/s/ln2ue7/freebsd_implements_unprivileged_chroot">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/oxfeeefeee/goscript">oxfeeefeee/goscript: Go specs implemented as a scripting language in Rust&lt;/a>
+&lt;a href="https://lobste.rs/s/wjodpw/oxfeeefeee_goscript_go_specs">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://moultano.wordpress.com/2021/07/20/tour-of-the-sacred-library/">Tour of the Sacred Library — Walk with me through latent space&lt;/a>
+&lt;a href="https://lobste.rs/s/99heih/tour_sacred_library_walk_with_me_through">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.anandtech.com/show/16837/plasticarm-get-your-next-cpu-without-silicon">PlasticArm: Get Your Next CPU, Made Without Silicon&lt;/a>
+&lt;a href="https://lobste.rs/s/ljgsb5/plasticarm_get_your_next_cpu_made_without">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://wiki.alopex.li/TheStateOfGGEZ2021">The State Of GGEZ 2021&lt;/a>
+&lt;a href="https://lobste.rs/s/twmpmb/state_ggez_2021">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://nyxt.atlas.engineer/article/macro-edit.org">Macro editing to democratize automation&lt;/a>
+&lt;a href="https://lobste.rs/s/2zpg0z/macro_editing_democratize_automation">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://computer.rip/2021-07-21-the-desqtop.html">The DesQtop&lt;/a>
+&lt;a href="https://lobste.rs/s/jppfuv/desqtop">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tpaschalis.github.io/mental-poker/">How to play poker by mail without trusting your opponent&lt;/a>
+&lt;a href="https://lobste.rs/s/ousoal/how_play_poker_by_mail_without_trusting">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ipng.ch/s/articles/2021/07/19/pcengines-apu6.html">PCEngines with SFP&lt;/a>
+&lt;a href="https://lobste.rs/s/hgshye/pcengines_with_sfp">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-07-22</title><link>https://frozen-lobster.rohanverma.net/posts/2021-07-22/</link><pubDate>Thu, 22 Jul 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-07-22/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://lyonwj.com/blog/no-cost-data-scraping-github-actions-neo4j-aura">No Cost Data Scraping With GitHub Actions And Neo4j Aura&lt;/a>
 &lt;a href="https://lobste.rs/s/jvxel0/no_cost_data_scraping_with_github_actions">(comments)&lt;/a>&lt;/p>
