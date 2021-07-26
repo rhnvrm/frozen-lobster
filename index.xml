@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 25 Jul 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-07-25</title><link>https://frozen-lobster.rohanverma.net/posts/2021-07-25/</link><pubDate>Sun, 25 Jul 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-07-25/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 26 Jul 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-07-26</title><link>https://frozen-lobster.rohanverma.net/posts/2021-07-26/</link><pubDate>Mon, 26 Jul 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-07-26/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://dev.yorhel.nl/doc/ncdu2">Ncdu 2: Less hungry and more Ziggy&lt;/a>
+&lt;a href="https://lobste.rs/s/639gon/ncdu_2_less_hungry_more_ziggy">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.silvestar.codes/articles/you-don-t-need-react-for-building-websites/">You don’t need React for building websites&lt;/a>
+&lt;a href="https://lobste.rs/s/oowhu2/you_don_t_need_react_for_building_websites">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://www.maizure.org/projects/decoded-openttd/index.html">Decoded: OpenTTD&lt;/a>
+&lt;a href="https://lobste.rs/s/zoo99c/decoded_openttd">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/epilys/sic">epilys/sic: link aggregator community organised by tags&lt;/a>
+&lt;a href="https://lobste.rs/s/he5yqt/epilys_sic_link_aggregator_community">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://holub.com/heuristics-for-effective-software-development-a-continuously-evolving-list/">Heuristics for Effective Software Development: A continuously evolving list&lt;/a>
+&lt;a href="https://lobste.rs/s/cmevok/heuristics_for_effective_software">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://k9mail.app/2021/07/24/K-9-Mail-is-back.html">K-9 Mail is back&lt;/a>
+&lt;a href="https://lobste.rs/s/lrdfje/k_9_mail_is_back">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://3fx.ch/blog/2021/07/25/css-avoid-horizontal-scrolling/">CSS: Avoid horizontal scrolling&lt;/a>
+&lt;a href="https://lobste.rs/s/rsj8wg/css_avoid_horizontal_scrolling">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.wired.com/story/ftc-votes-to-enforce-right-to-repair/">The FTC Votes Unanimously to Enforce Right to Repair&lt;/a>
+&lt;a href="https://lobste.rs/s/c21o1q/ftc_votes_unanimously_enforce_right">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.metaobject.com/2021/07/inserting-130m-sqlite-rows-per.html">Inserting 130M SQLite Rows per Minute&amp;hellip;from a Scripting Language&lt;/a>
+&lt;a href="https://lobste.rs/s/zoa9ju/inserting_130m_sqlite_rows_per_minute">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://arxiv.org/abs/2012.02113">Entropy and Diversity: The Axiomatic Approach&lt;/a>
+&lt;a href="https://lobste.rs/s/ephsre/entropy_diversity_axiomatic_approach">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-07-25</title><link>https://frozen-lobster.rohanverma.net/posts/2021-07-25/</link><pubDate>Sun, 25 Jul 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-07-25/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://k9mail.app/2021/07/24/K-9-Mail-is-back.html">K-9 Mail is back&lt;/a>
 &lt;a href="https://lobste.rs/s/lrdfje/k_9_mail_is_back">(comments)&lt;/a>&lt;/p>
