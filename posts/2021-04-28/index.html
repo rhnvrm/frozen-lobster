@@ -1,39 +1,158 @@
-<!doctype html><html><head><meta charset=utf-8><title>Daily lobste.rs News for 2021-04-28 - Frozen Lobster</title><meta property="og:title" content="Daily lobste.rs News for 2021-04-28"><meta property="og:description" content="Introducing DRPC: Our Replacement for gRPC (comments)
+<!doctype html><html>
+<head>
+<meta charset=utf-8><title>Daily lobste.rs News for 2021-04-28 - Frozen Lobster</title>
+<meta property="og:title" content="Daily lobste.rs News for 2021-04-28">
+<meta property="og:description" content="Introducing DRPC: Our Replacement for gRPC (comments)
   What are the best computer science papers? (comments)
   Print Debugging Should Go Away (comments)
   If you could re-design Rust from scratch today, what would you change? (comments)
   Yayagram - physical Telegram messaging (comments)
   VERTICAL JOIN, pt. I (comments)
   Running Lisp in Production (comments)
-  Strand Programming Language (comments)"><meta property="og:type" content="article"><meta property="og:url" content="https://frozen-lobster.rohanverma.net/posts/2021-04-28/"><meta property="article:section" content="posts"><meta property="article:published_time" content="2021-04-28T00:05:01+00:00"><meta property="article:modified_time" content="2021-04-28T00:05:01+00:00"><meta name=twitter:card content="summary"><meta name=twitter:title content="Daily lobste.rs News for 2021-04-28"><meta name=twitter:description content="Introducing DRPC: Our Replacement for gRPC (comments)
+  Strand Programming Language (comments)">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://frozen-lobster.rohanverma.net/posts/2021-04-28/"><meta property="article:section" content="posts">
+<meta property="article:published_time" content="2021-04-28T00:05:01+00:00">
+<meta property="article:modified_time" content="2021-04-28T00:05:01+00:00">
+<meta name=twitter:card content="summary">
+<meta name=twitter:title content="Daily lobste.rs News for 2021-04-28">
+<meta name=twitter:description content="Introducing DRPC: Our Replacement for gRPC (comments)
   What are the best computer science papers? (comments)
   Print Debugging Should Go Away (comments)
   If you could re-design Rust from scratch today, what would you change? (comments)
   Yayagram - physical Telegram messaging (comments)
   VERTICAL JOIN, pt. I (comments)
   Running Lisp in Production (comments)
-  Strand Programming Language (comments)"><meta itemprop=name content="Daily lobste.rs News for 2021-04-28"><meta itemprop=description content="Introducing DRPC: Our Replacement for gRPC (comments)
+  Strand Programming Language (comments)">
+<meta itemprop=name content="Daily lobste.rs News for 2021-04-28">
+<meta itemprop=description content="Introducing DRPC: Our Replacement for gRPC (comments)
   What are the best computer science papers? (comments)
   Print Debugging Should Go Away (comments)
   If you could re-design Rust from scratch today, what would you change? (comments)
   Yayagram - physical Telegram messaging (comments)
   VERTICAL JOIN, pt. I (comments)
   Running Lisp in Production (comments)
-  Strand Programming Language (comments)"><meta itemprop=datePublished content="2021-04-28T00:05:01+00:00"><meta itemprop=dateModified content="2021-04-28T00:05:01+00:00"><meta itemprop=wordCount content="68"><meta itemprop=keywords content><meta name=viewport content="width=device-width,initial-scale=1"><link rel=stylesheet href=/css/normalize.min.css><link rel=stylesheet type=text/css href=/css/style.css><link href="https://fonts.googleapis.com/css?family=Inter|Source+Serif+Pro" rel=stylesheet type=text/css><script src=https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js></script><link rel=icon sizes=any href=data:image/x-icon;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAQAAADZc7J/AAACnUlEQVRIx6XVzWtcVRjH8c/cebkJOq1gNDi1WJLWpC9YmqAUpVDRRQUXUruy1FURRP+AlLbYQB18W7vwD1BcqLjoQrSYbSHWRhiJxJQgdNTErDSTXNOZ62JeMve20zLxWVwuz/Oc7znneX7nHP6nZRAYkt/G2E1/aeQw5KzfEqHQkyoaXZ7AQfM2E1l7fGIZdjmTYu/wupzAiFNetUcg54wHUms/axe5e2zuJe8aR8WUmTvicXtpvWzYBYeFQhMueqRXWm/AqP2d/0NG+gds+LfzH1nvH/CLq60+NHzj115pvYv4j4v+9rzYdz60dm9AwY6Et2hQ0bILhvGHqOXJJrIKW4AxryRCgyZEKSFNikWJrL1bgIpPUyuIfKbe5cmKfaWmaExowYrYwBag4XYCUNdQT/ka6kZddlxexaV2iYM+Ds+g804astOzynbfr413WsmxTv4hT/UPiNv63zoJ/QGqZjqd+cmN+wnpbuIuC72gYM60W92AIAXKClKiycnKWvKWfQoWrQqaq28OPOi1RPqASVJCOirXOV6jYNyVNmDeF3hQSaRqU1HsS3WDSmJVG7JyvlZTUJJXtUbzhsq1rseaZ5wzYd0VH6iJ1Iw675jYjLIlkZqdppwQmlV2vXlDtvf+mI88J4MRt72PostOCvCEgrdRMOVNOez2kNPJNj5tUqZVrpcNY8zxVjTwon0oOdGaMOOoI0nAQFfVQ/nOt31wC8gLu/oUJgFzljoau+ZPLKh00ucsomq2o8DFdrQNWDBtXmTNt95Tw4pLZm1Yd820Vawp+15N5GfvuJlUYsPnfnDAuh8tKyJ21SmHxW641ZroutOOCFXcbKskg0e94ffUZbXXfEpI4xZST9vjPrbSfFwf3ubjupqYZHv2HylrtUljNvuGAAAAAElFTkSuQmCC></head><body><div id=header><div class=avatar><a href=https://frozen-lobster.rohanverma.net><img src=/images/lobster.jpg alt="Frozen Lobster"></a></div><a id=headerLink href=https://frozen-lobster.rohanverma.net>Frozen Lobster</a><span class=hidden> -</span>
-<span id=headerSubtitle>Preserved goodness</span></div><div id=menu><a href=https://rohanverma.net>rohanverma.net</a>
+  Strand Programming Language (comments)"><meta itemprop=datePublished content="2021-04-28T00:05:01+00:00">
+<meta itemprop=dateModified content="2021-04-28T00:05:01+00:00">
+<meta itemprop=wordCount content="68">
+<meta itemprop=keywords content><meta name=viewport content="width=device-width,initial-scale=1">
+<link rel=stylesheet href=/css/normalize.min.css>
+<link rel=stylesheet type=text/css href=/css/style.css>
+<link href="https://fonts.googleapis.com/css?family=Inter|Source+Serif+Pro" rel=stylesheet type=text/css>
+<script src=https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js></script>
+<link rel=icon sizes=any href=data:image/x-icon;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAQAAADZc7J/AAACnUlEQVRIx6XVzWtcVRjH8c/cebkJOq1gNDi1WJLWpC9YmqAUpVDRRQUXUruy1FURRP+AlLbYQB18W7vwD1BcqLjoQrSYbSHWRhiJxJQgdNTErDSTXNOZ62JeMve20zLxWVwuz/Oc7znneX7nHP6nZRAYkt/G2E1/aeQw5KzfEqHQkyoaXZ7AQfM2E1l7fGIZdjmTYu/wupzAiFNetUcg54wHUms/axe5e2zuJe8aR8WUmTvicXtpvWzYBYeFQhMueqRXWm/AqP2d/0NG+gds+LfzH1nvH/CLq60+NHzj115pvYv4j4v+9rzYdz60dm9AwY6Et2hQ0bILhvGHqOXJJrIKW4AxryRCgyZEKSFNikWJrL1bgIpPUyuIfKbe5cmKfaWmaExowYrYwBag4XYCUNdQT/ka6kZddlxexaV2iYM+Ds+g804astOzynbfr413WsmxTv4hT/UPiNv63zoJ/QGqZjqd+cmN+wnpbuIuC72gYM60W92AIAXKClKiycnKWvKWfQoWrQqaq28OPOi1RPqASVJCOirXOV6jYNyVNmDeF3hQSaRqU1HsS3WDSmJVG7JyvlZTUJJXtUbzhsq1rseaZ5wzYd0VH6iJ1Iw675jYjLIlkZqdppwQmlV2vXlDtvf+mI88J4MRt72PostOCvCEgrdRMOVNOez2kNPJNj5tUqZVrpcNY8zxVjTwon0oOdGaMOOoI0nAQFfVQ/nOt31wC8gLu/oUJgFzljoau+ZPLKh00ucsomq2o8DFdrQNWDBtXmTNt95Tw4pLZm1Yd820Vawp+15N5GfvuJlUYsPnfnDAuh8tKyJ21SmHxW641ZroutOOCFXcbKskg0e94ffUZbXXfEpI4xZST9vjPrbSfFwf3ubjupqYZHv2HylrtUljNvuGAAAAAElFTkSuQmCC>
+</head>
+<body>
+<div id=header>
+<div class=avatar>
+<a href=https://frozen-lobster.rohanverma.net>
+<img src=/images/lobster.jpg alt="Frozen Lobster">
+</a>
+</div>
+<a id=headerLink href=https://frozen-lobster.rohanverma.net>Frozen Lobster</a><span class=hidden> - </span>
+<span id=headerSubtitle>Preserved goodness</span></div>
+<div id=menu>
+<a href=https://rohanverma.net>rohanverma.net</a>
 <a href=https://lobste.rs>lobste.rs</a>
-<span class=right><a href=/index.xml title="RSS Feed"><i data-feather=rss></i>
-</a><a onclick="toggleTheme('dark')"><i data-feather=moon></i></a>
-<a onclick="toggleTheme('light')"><i data-feather=sun></i></a>
-<a href=/search>search<svg aria-hidden="true" class="i-search" viewBox="0 0 32 32" width="10" height="10" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"><circle cx="14" cy="14" r="12"/><path d="M23 23l7 7"/></svg></a></span></div><div id=content><div id=nav><ul><li><a href=/archive><span>archives</span></a></li></ul><ul><li><a href=/posts><span>posts</span></a></li></ul></div><div id=main><article><h1>Daily lobste.rs News for 2021-04-28</h1><div class="small right"><a style=margin-right:2px class="u-url no-underline" href="https://www.addtoany.com/share#url=https%3a%2f%2ffrozen-lobster.rohanverma.net%2fposts%2f2021-04-28%2f&title=Daily%20lobste.rs%20News%20for%202021-04-28"><svg style="margin-bottom:-3px" class="i-external" viewBox="0 0 32 32" width="16" height="16" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M14 9H3V29H23V18M18 4H28V14M28 4 14 18"/></svg>Share</a></div><div class=light><span>28 Apr 2021</span> -
-<span>1 minute read</span></div><div class="small light"></div><hr><div><ul><li><p><a href=https://www.storj.io/blog/introducing-drpc-our-replacement-for-grpc>Introducing DRPC: Our Replacement for gRPC</a>
-<a href=https://lobste.rs/s/qo2qqk/introducing_drpc_our_replacement_for>(comments)</a></p></li><li><p><a href>What are the best computer science papers?</a>
-<a href=https://lobste.rs/s/l8eiy6/what_are_best_computer_science_papers>(comments)</a></p></li><li><p><a href=https://robert.ocallahan.org/2021/04/print-debugging-should-go-away.html>Print Debugging Should Go Away</a>
-<a href=https://lobste.rs/s/zimwzw/print_debugging_should_go_away>(comments)</a></p></li><li><p><a href=https://www.reddit.com/r/rust/comments/my3ipa/if_you_could_redesign_rust_from_scratch_today/>If you could re-design Rust from scratch today, what would you change?</a>
-<a href=https://lobste.rs/s/j7zv69/if_you_could_re_design_rust_from_scratch>(comments)</a></p></li><li><p><a href=https://mobile.twitter.com/mrcatacroquer/status/1386318806411325440>Yayagram - physical Telegram messaging</a>
-<a href=https://lobste.rs/s/0ciyk8/yayagram_physical_telegram_messaging>(comments)</a></p></li><li><p><a href=https://minimalmodeling.substack.com/p/vertical-join-pt-i>VERTICAL JOIN, pt. I</a>
-<a href=https://lobste.rs/s/zbjynm/vertical_join_pt_i>(comments)</a></p></li><li><p><a href=https://www.grammarly.com/blog/engineering/running-lisp-in-production/>Running Lisp in Production</a>
-<a href=https://lobste.rs/s/whsc7o/running_lisp_production>(comments)</a></p></li><li><p><a href=http://www.call-with-current-continuation.org/strand/strand.html>Strand Programming Language</a>
-<a href=https://lobste.rs/s/ldpuhk/strand_programming_language>(comments)</a></p></li><li><p><a href=https://blog.drewolson.org/declarative-validation>Declarative Validation</a>
-<a href=https://lobste.rs/s/a9boim/declarative_validation>(comments)</a></p></li><li><p><a href="https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=0c855563182001c829065faa17f8e29e9ceffe13">Initial M1 platform support committed to the Linux kernel tree</a>
-<a href=https://lobste.rs/s/jo61su/initial_m1_platform_support_committed>(comments)</a></p></li></ul></div></article><div id=footer class="light small">© 2021 - Rohan Verma.<br>Daily top stories from lobste.rs<br>This page was generated using the <a href=https://github.com/rhnvrm/bodhi>Bodhi</a> theme for Hugo.</div></div><script>(function(e,b,f,c,a,d){b[c]=b[c]||function(){(b[c].q=b[c].q||[]).push(arguments)},a=e.createElement('script'),d=e.getElementsByTagName('script')[0],a.async=1,a.src=f,a.id='fathom-script',d.parentNode.insertBefore(a,d)})(document,window,'//fathom.rohanverma.net/tracker.js','fathom'),fathom('set','siteId','IUAMK'),fathom('trackPageview')</script></div><script>feather.replace({width:"1em",height:"1em"})</script><script src=/js/main.js></script></body></html>
+<span class=right>
+<a href=/index.xml title="RSS Feed">
+<i data-feather=rss></i>
+</a><a onclick="toggleTheme('dark')">
+<i data-feather=moon></i>
+</a>
+<a onclick="toggleTheme('light')">
+<i data-feather=sun></i>
+</a>
+<a href=/search>search<svg aria-hidden="true" class="i-search" viewBox="0 0 32 32" width="10" height="10" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"><circle cx="14" cy="14" r="12"/><path d="M23 23l7 7"/></svg></a>
+</span>
+</div>
+<div id=content>
+<div id=nav>
+<ul>
+<li>
+<a href=/archive>
+<span>archives </span>
+</a>
+</li>
+</ul>
+<ul>
+<li>
+<a href=/posts>
+<span>posts </span>
+</a>
+</li>
+</ul>
+</div>
+<div id=main>
+<article>
+<h1>Daily lobste.rs News for 2021-04-28</h1>
+<div class="small right">
+<a style=margin-right:2px class="u-url no-underline" href="https://www.addtoany.com/share#url=https%3a%2f%2ffrozen-lobster.rohanverma.net%2fposts%2f2021-04-28%2f&title=Daily%20lobste.rs%20News%20for%202021-04-28"><svg style="margin-bottom:-3px" class="i-external" viewBox="0 0 32 32" width="16" height="16" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M14 9H3V29H23V18M18 4H28V14M28 4 14 18"/></svg>
+Share
+</a>
+</div>
+<div class=light>
+<span>28 Apr 2021</span> -
+<span>1 minute read</span>
+</div>
+<div class="small light">
+</div>
+<hr>
+<div>
+<ul>
+<li>
+<p><a href=https://www.storj.io/blog/introducing-drpc-our-replacement-for-grpc>Introducing DRPC: Our Replacement for gRPC</a>
+<a href=https://lobste.rs/s/qo2qqk/introducing_drpc_our_replacement_for>(comments)</a></p>
+</li>
+<li>
+<p><a href>What are the best computer science papers?</a>
+<a href=https://lobste.rs/s/l8eiy6/what_are_best_computer_science_papers>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://robert.ocallahan.org/2021/04/print-debugging-should-go-away.html>Print Debugging Should Go Away</a>
+<a href=https://lobste.rs/s/zimwzw/print_debugging_should_go_away>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://www.reddit.com/r/rust/comments/my3ipa/if_you_could_redesign_rust_from_scratch_today/>If you could re-design Rust from scratch today, what would you change?</a>
+<a href=https://lobste.rs/s/j7zv69/if_you_could_re_design_rust_from_scratch>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://mobile.twitter.com/mrcatacroquer/status/1386318806411325440>Yayagram - physical Telegram messaging</a>
+<a href=https://lobste.rs/s/0ciyk8/yayagram_physical_telegram_messaging>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://minimalmodeling.substack.com/p/vertical-join-pt-i>VERTICAL JOIN, pt. I</a>
+<a href=https://lobste.rs/s/zbjynm/vertical_join_pt_i>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://www.grammarly.com/blog/engineering/running-lisp-in-production/>Running Lisp in Production</a>
+<a href=https://lobste.rs/s/whsc7o/running_lisp_production>(comments)</a></p>
+</li>
+<li>
+<p><a href=http://www.call-with-current-continuation.org/strand/strand.html>Strand Programming Language</a>
+<a href=https://lobste.rs/s/ldpuhk/strand_programming_language>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://blog.drewolson.org/declarative-validation>Declarative Validation</a>
+<a href=https://lobste.rs/s/a9boim/declarative_validation>(comments)</a></p>
+</li>
+<li>
+<p><a href="https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=0c855563182001c829065faa17f8e29e9ceffe13">Initial M1 platform support committed to the Linux kernel tree</a>
+<a href=https://lobste.rs/s/jo61su/initial_m1_platform_support_committed>(comments)</a></p>
+</li>
+</ul>
+</div>
+</article>
+<div id=footer class="light small">
+© 2021 - Rohan Verma.
+<br>
+Daily top stories from lobste.rs
+<br>
+This page was generated using the <a href=https://github.com/rhnvrm/bodhi>Bodhi</a> theme for Hugo.
+</div>
+</div>
+<script>(function(e,b,f,c,a,d){b[c]=b[c]||function(){(b[c].q=b[c].q||[]).push(arguments)},a=e.createElement('script'),d=e.getElementsByTagName('script')[0],a.async=1,a.src=f,a.id='fathom-script',d.parentNode.insertBefore(a,d)})(document,window,'//fathom.rohanverma.net/tracker.js','fathom'),fathom('set','siteId','IUAMK'),fathom('trackPageview')</script>
+</div><script>feather.replace({width:"1em",height:"1em"})</script>
+<script src=/js/main.js></script>
+</body>
+</html>

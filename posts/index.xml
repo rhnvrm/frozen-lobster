@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 29 Jul 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-07-29</title><link>https://frozen-lobster.rohanverma.net/posts/2021-07-29/</link><pubDate>Thu, 29 Jul 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-07-29/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 30 Jul 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-07-30</title><link>https://frozen-lobster.rohanverma.net/posts/2021-07-30/</link><pubDate>Fri, 30 Jul 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-07-30/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://grahamc.com/blog/nixos-on-framework">NixOS on the Framework&lt;/a>
+&lt;a href="https://lobste.rs/s/jdbdyi/nixos_on_framework">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://games.greggman.com/game/zip-rant/">Zip - How not to design a file format&lt;/a>
+&lt;a href="https://lobste.rs/s/agrmsw/zip_how_not_design_file_format">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://chrisman.github.io/9.html">m4 - the one true templating language&lt;/a>
+&lt;a href="https://lobste.rs/s/t0lilm/m4_one_true_templating_language">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://danso.ca/blog/frommaybe-is-just-a-fold/">fromMaybe is Just a fold&lt;/a>
+&lt;a href="https://lobste.rs/s/ygkrvq/frommaybe_is_just_fold">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://httptoolkit.tech/blog/safari-is-killing-the-web/">Safari isn’t protecting the web, it’s killing it&lt;/a>
+&lt;a href="https://lobste.rs/s/fwqmpw/safari_isn_t_protecting_web_it_s_killing_it">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://catern.com/constructive.html">Give constructive proofs of your ideas&lt;/a>
+&lt;a href="https://lobste.rs/s/6c9sez/give_constructive_proofs_your_ideas">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.rust-lang.org/2021/07/29/Rust-1.54.0.html">Announcing Rust 1.54.0&lt;/a>
+&lt;a href="https://lobste.rs/s/wa1ux4/announcing_rust_1_54_0">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://towardsdatascience.com/connectorx-the-fastest-way-to-load-data-from-databases-a65d4d4062d5">ConnectorX: accelerate data loading from databases to dataframes&lt;/a>
+&lt;a href="https://lobste.rs/s/uwfozb/connectorx_accelerate_data_loading_from">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.cri.epita.fr/post/2021-07-29-hunting-a-bug-in-the-i40e-intel-driver/">Hunting a bug in the i40e Intel driver&lt;/a>
+&lt;a href="https://lobste.rs/s/wd9ccd/hunting_bug_i40e_intel_driver">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/vrtbl/passerine">passerine: A small extensible programming language designed for concise expression with little code&lt;/a>
+&lt;a href="https://lobste.rs/s/tdhfed/passerine_small_extensible_programming">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-07-29</title><link>https://frozen-lobster.rohanverma.net/posts/2021-07-29/</link><pubDate>Thu, 29 Jul 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-07-29/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://github.com/vrtbl/passerine">passerine: A small extensible programming language designed for concise expression with little code&lt;/a>
 &lt;a href="https://lobste.rs/s/tdhfed/passerine_small_extensible_programming">(comments)&lt;/a>&lt;/p>

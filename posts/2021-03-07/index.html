@@ -1,39 +1,158 @@
-<!doctype html><html><head><meta charset=utf-8><title>Daily lobste.rs News for 2021-03-07 - Frozen Lobster</title><meta property="og:title" content="Daily lobste.rs News for 2021-03-07"><meta property="og:description" content="JEP 398: Deprecate the Applet API for Removal (comments)
+<!doctype html><html>
+<head>
+<meta charset=utf-8><title>Daily lobste.rs News for 2021-03-07 - Frozen Lobster</title>
+<meta property="og:title" content="Daily lobste.rs News for 2021-03-07">
+<meta property="og:description" content="JEP 398: Deprecate the Applet API for Removal (comments)
   RectCut for dead simple UI layouts (comments)
   Look & Feel Changes Coming to elementary OS 6 (comments)
   Clojure from a Schemer&rsquo;s perspective (comments)
   U.S. Organizations Hacked Via Microsoft Exchange (comments)
   Functional Parsing (2020) (comments)
   Banned C functions in git source code (comments)
-  Resilience in Ruby: Shell Commands (comments)"><meta property="og:type" content="article"><meta property="og:url" content="https://frozen-lobster.rohanverma.net/posts/2021-03-07/"><meta property="article:section" content="posts"><meta property="article:published_time" content="2021-03-07T00:05:01+00:00"><meta property="article:modified_time" content="2021-03-07T00:05:01+00:00"><meta name=twitter:card content="summary"><meta name=twitter:title content="Daily lobste.rs News for 2021-03-07"><meta name=twitter:description content="JEP 398: Deprecate the Applet API for Removal (comments)
+  Resilience in Ruby: Shell Commands (comments)">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://frozen-lobster.rohanverma.net/posts/2021-03-07/"><meta property="article:section" content="posts">
+<meta property="article:published_time" content="2021-03-07T00:05:01+00:00">
+<meta property="article:modified_time" content="2021-03-07T00:05:01+00:00">
+<meta name=twitter:card content="summary">
+<meta name=twitter:title content="Daily lobste.rs News for 2021-03-07">
+<meta name=twitter:description content="JEP 398: Deprecate the Applet API for Removal (comments)
   RectCut for dead simple UI layouts (comments)
   Look & Feel Changes Coming to elementary OS 6 (comments)
   Clojure from a Schemer&rsquo;s perspective (comments)
   U.S. Organizations Hacked Via Microsoft Exchange (comments)
   Functional Parsing (2020) (comments)
   Banned C functions in git source code (comments)
-  Resilience in Ruby: Shell Commands (comments)"><meta itemprop=name content="Daily lobste.rs News for 2021-03-07"><meta itemprop=description content="JEP 398: Deprecate the Applet API for Removal (comments)
+  Resilience in Ruby: Shell Commands (comments)">
+<meta itemprop=name content="Daily lobste.rs News for 2021-03-07">
+<meta itemprop=description content="JEP 398: Deprecate the Applet API for Removal (comments)
   RectCut for dead simple UI layouts (comments)
   Look & Feel Changes Coming to elementary OS 6 (comments)
   Clojure from a Schemer&rsquo;s perspective (comments)
   U.S. Organizations Hacked Via Microsoft Exchange (comments)
   Functional Parsing (2020) (comments)
   Banned C functions in git source code (comments)
-  Resilience in Ruby: Shell Commands (comments)"><meta itemprop=datePublished content="2021-03-07T00:05:01+00:00"><meta itemprop=dateModified content="2021-03-07T00:05:01+00:00"><meta itemprop=wordCount content="73"><meta itemprop=keywords content><meta name=viewport content="width=device-width,initial-scale=1"><link rel=stylesheet href=/css/normalize.min.css><link rel=stylesheet type=text/css href=/css/style.css><link href="https://fonts.googleapis.com/css?family=Inter|Source+Serif+Pro" rel=stylesheet type=text/css><script src=https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js></script><link rel=icon sizes=any href=data:image/x-icon;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAQAAADZc7J/AAACnUlEQVRIx6XVzWtcVRjH8c/cebkJOq1gNDi1WJLWpC9YmqAUpVDRRQUXUruy1FURRP+AlLbYQB18W7vwD1BcqLjoQrSYbSHWRhiJxJQgdNTErDSTXNOZ62JeMve20zLxWVwuz/Oc7znneX7nHP6nZRAYkt/G2E1/aeQw5KzfEqHQkyoaXZ7AQfM2E1l7fGIZdjmTYu/wupzAiFNetUcg54wHUms/axe5e2zuJe8aR8WUmTvicXtpvWzYBYeFQhMueqRXWm/AqP2d/0NG+gds+LfzH1nvH/CLq60+NHzj115pvYv4j4v+9rzYdz60dm9AwY6Et2hQ0bILhvGHqOXJJrIKW4AxryRCgyZEKSFNikWJrL1bgIpPUyuIfKbe5cmKfaWmaExowYrYwBag4XYCUNdQT/ka6kZddlxexaV2iYM+Ds+g804astOzynbfr413WsmxTv4hT/UPiNv63zoJ/QGqZjqd+cmN+wnpbuIuC72gYM60W92AIAXKClKiycnKWvKWfQoWrQqaq28OPOi1RPqASVJCOirXOV6jYNyVNmDeF3hQSaRqU1HsS3WDSmJVG7JyvlZTUJJXtUbzhsq1rseaZ5wzYd0VH6iJ1Iw675jYjLIlkZqdppwQmlV2vXlDtvf+mI88J4MRt72PostOCvCEgrdRMOVNOez2kNPJNj5tUqZVrpcNY8zxVjTwon0oOdGaMOOoI0nAQFfVQ/nOt31wC8gLu/oUJgFzljoau+ZPLKh00ucsomq2o8DFdrQNWDBtXmTNt95Tw4pLZm1Yd820Vawp+15N5GfvuJlUYsPnfnDAuh8tKyJ21SmHxW641ZroutOOCFXcbKskg0e94ffUZbXXfEpI4xZST9vjPrbSfFwf3ubjupqYZHv2HylrtUljNvuGAAAAAElFTkSuQmCC></head><body><div id=header><div class=avatar><a href=https://frozen-lobster.rohanverma.net><img src=/images/lobster.jpg alt="Frozen Lobster"></a></div><a id=headerLink href=https://frozen-lobster.rohanverma.net>Frozen Lobster</a><span class=hidden> -</span>
-<span id=headerSubtitle>Preserved goodness</span></div><div id=menu><a href=https://rohanverma.net>rohanverma.net</a>
+  Resilience in Ruby: Shell Commands (comments)"><meta itemprop=datePublished content="2021-03-07T00:05:01+00:00">
+<meta itemprop=dateModified content="2021-03-07T00:05:01+00:00">
+<meta itemprop=wordCount content="73">
+<meta itemprop=keywords content><meta name=viewport content="width=device-width,initial-scale=1">
+<link rel=stylesheet href=/css/normalize.min.css>
+<link rel=stylesheet type=text/css href=/css/style.css>
+<link href="https://fonts.googleapis.com/css?family=Inter|Source+Serif+Pro" rel=stylesheet type=text/css>
+<script src=https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js></script>
+<link rel=icon sizes=any href=data:image/x-icon;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAQAAADZc7J/AAACnUlEQVRIx6XVzWtcVRjH8c/cebkJOq1gNDi1WJLWpC9YmqAUpVDRRQUXUruy1FURRP+AlLbYQB18W7vwD1BcqLjoQrSYbSHWRhiJxJQgdNTErDSTXNOZ62JeMve20zLxWVwuz/Oc7znneX7nHP6nZRAYkt/G2E1/aeQw5KzfEqHQkyoaXZ7AQfM2E1l7fGIZdjmTYu/wupzAiFNetUcg54wHUms/axe5e2zuJe8aR8WUmTvicXtpvWzYBYeFQhMueqRXWm/AqP2d/0NG+gds+LfzH1nvH/CLq60+NHzj115pvYv4j4v+9rzYdz60dm9AwY6Et2hQ0bILhvGHqOXJJrIKW4AxryRCgyZEKSFNikWJrL1bgIpPUyuIfKbe5cmKfaWmaExowYrYwBag4XYCUNdQT/ka6kZddlxexaV2iYM+Ds+g804astOzynbfr413WsmxTv4hT/UPiNv63zoJ/QGqZjqd+cmN+wnpbuIuC72gYM60W92AIAXKClKiycnKWvKWfQoWrQqaq28OPOi1RPqASVJCOirXOV6jYNyVNmDeF3hQSaRqU1HsS3WDSmJVG7JyvlZTUJJXtUbzhsq1rseaZ5wzYd0VH6iJ1Iw675jYjLIlkZqdppwQmlV2vXlDtvf+mI88J4MRt72PostOCvCEgrdRMOVNOez2kNPJNj5tUqZVrpcNY8zxVjTwon0oOdGaMOOoI0nAQFfVQ/nOt31wC8gLu/oUJgFzljoau+ZPLKh00ucsomq2o8DFdrQNWDBtXmTNt95Tw4pLZm1Yd820Vawp+15N5GfvuJlUYsPnfnDAuh8tKyJ21SmHxW641ZroutOOCFXcbKskg0e94ffUZbXXfEpI4xZST9vjPrbSfFwf3ubjupqYZHv2HylrtUljNvuGAAAAAElFTkSuQmCC>
+</head>
+<body>
+<div id=header>
+<div class=avatar>
+<a href=https://frozen-lobster.rohanverma.net>
+<img src=/images/lobster.jpg alt="Frozen Lobster">
+</a>
+</div>
+<a id=headerLink href=https://frozen-lobster.rohanverma.net>Frozen Lobster</a><span class=hidden> - </span>
+<span id=headerSubtitle>Preserved goodness</span></div>
+<div id=menu>
+<a href=https://rohanverma.net>rohanverma.net</a>
 <a href=https://lobste.rs>lobste.rs</a>
-<span class=right><a href=/index.xml title="RSS Feed"><i data-feather=rss></i>
-</a><a onclick="toggleTheme('dark')"><i data-feather=moon></i></a>
-<a onclick="toggleTheme('light')"><i data-feather=sun></i></a>
-<a href=/search>search<svg aria-hidden="true" class="i-search" viewBox="0 0 32 32" width="10" height="10" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"><circle cx="14" cy="14" r="12"/><path d="M23 23l7 7"/></svg></a></span></div><div id=content><div id=nav><ul><li><a href=/archive><span>archives</span></a></li></ul><ul><li><a href=/posts><span>posts</span></a></li></ul></div><div id=main><article><h1>Daily lobste.rs News for 2021-03-07</h1><div class="small right"><a style=margin-right:2px class="u-url no-underline" href="https://www.addtoany.com/share#url=https%3a%2f%2ffrozen-lobster.rohanverma.net%2fposts%2f2021-03-07%2f&title=Daily%20lobste.rs%20News%20for%202021-03-07"><svg style="margin-bottom:-3px" class="i-external" viewBox="0 0 32 32" width="16" height="16" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M14 9H3V29H23V18M18 4H28V14M28 4 14 18"/></svg>Share</a></div><div class=light><span>07 Mar 2021</span> -
-<span>1 minute read</span></div><div class="small light"></div><hr><div><ul><li><p><a href=https://openjdk.java.net/jeps/398>JEP 398: Deprecate the Applet API for Removal</a>
-<a href=https://lobste.rs/s/6eiwer/jep_398_deprecate_applet_api_for_removal>(comments)</a></p></li><li><p><a href=https://halt.software/dead-simple-layouts/>RectCut for dead simple UI layouts</a>
-<a href=https://lobste.rs/s/mijmpa/rectcut_for_dead_simple_ui_layouts>(comments)</a></p></li><li><p><a href=https://blog.elementary.io/look-and-feel-changes-elementary-os-6/>Look & Feel Changes Coming to elementary OS 6</a>
-<a href=https://lobste.rs/s/m1nkw3/look_feel_changes_coming_elementary_os_6>(comments)</a></p></li><li><p><a href=https://www.more-magic.net/posts/thoughts-on-clojure.html>Clojure from a Schemer&rsquo;s perspective</a>
-<a href=https://lobste.rs/s/uzq4af/clojure_from_schemer_s_perspective>(comments)</a></p></li><li><p><a href=https://krebsonsecurity.com/2021/03/at-least-30000-u-s-organizations-newly-hacked-via-holes-in-microsofts-email-software/>U.S. Organizations Hacked Via Microsoft Exchange</a>
-<a href=https://lobste.rs/s/xhbsdl/u_s_organizations_hacked_via_microsoft>(comments)</a></p></li><li><p><a href="https://www.youtube.com/watch?v=dDtZLm7HIJs">Functional Parsing (2020)</a>
-<a href=https://lobste.rs/s/8rt5ls/functional_parsing_2020>(comments)</a></p></li><li><p><a href=https://github.com/git/git/blob/master/banned.h>Banned C functions in git source code</a>
-<a href=https://lobste.rs/s/lw5lb8/banned_c_functions_git_source_code>(comments)</a></p></li><li><p><a href=https://www.johnnunemaker.com/resilience-in-ruby-shell-commands/>Resilience in Ruby: Shell Commands</a>
-<a href=https://lobste.rs/s/xmwwep/resilience_ruby_shell_commands>(comments)</a></p></li><li><p><a href=https://discourse.haskell.org/t/towards-a-prevalent-alternative-prelude/1986>Towards a prevalent alternative prelude?</a>
-<a href=https://lobste.rs/s/obtefh/towards_prevalent_alternative_prelude>(comments)</a></p></li><li><p><a href=https://www.techspot.com/article/1821-how-cpus-are-designed-and-built/>How CPUs are Designed and Built: Computer Architecture (1/4)</a>
-<a href=https://lobste.rs/s/7uyto8/how_cpus_are_designed_built_computer>(comments)</a></p></li></ul></div></article><div id=footer class="light small">© 2021 - Rohan Verma.<br>Daily top stories from lobste.rs<br>This page was generated using the <a href=https://github.com/rhnvrm/bodhi>Bodhi</a> theme for Hugo.</div></div><script>(function(e,b,f,c,a,d){b[c]=b[c]||function(){(b[c].q=b[c].q||[]).push(arguments)},a=e.createElement('script'),d=e.getElementsByTagName('script')[0],a.async=1,a.src=f,a.id='fathom-script',d.parentNode.insertBefore(a,d)})(document,window,'//fathom.rohanverma.net/tracker.js','fathom'),fathom('set','siteId','IUAMK'),fathom('trackPageview')</script></div><script>feather.replace({width:"1em",height:"1em"})</script><script src=/js/main.js></script></body></html>
+<span class=right>
+<a href=/index.xml title="RSS Feed">
+<i data-feather=rss></i>
+</a><a onclick="toggleTheme('dark')">
+<i data-feather=moon></i>
+</a>
+<a onclick="toggleTheme('light')">
+<i data-feather=sun></i>
+</a>
+<a href=/search>search<svg aria-hidden="true" class="i-search" viewBox="0 0 32 32" width="10" height="10" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"><circle cx="14" cy="14" r="12"/><path d="M23 23l7 7"/></svg></a>
+</span>
+</div>
+<div id=content>
+<div id=nav>
+<ul>
+<li>
+<a href=/archive>
+<span>archives </span>
+</a>
+</li>
+</ul>
+<ul>
+<li>
+<a href=/posts>
+<span>posts </span>
+</a>
+</li>
+</ul>
+</div>
+<div id=main>
+<article>
+<h1>Daily lobste.rs News for 2021-03-07</h1>
+<div class="small right">
+<a style=margin-right:2px class="u-url no-underline" href="https://www.addtoany.com/share#url=https%3a%2f%2ffrozen-lobster.rohanverma.net%2fposts%2f2021-03-07%2f&title=Daily%20lobste.rs%20News%20for%202021-03-07"><svg style="margin-bottom:-3px" class="i-external" viewBox="0 0 32 32" width="16" height="16" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M14 9H3V29H23V18M18 4H28V14M28 4 14 18"/></svg>
+Share
+</a>
+</div>
+<div class=light>
+<span>07 Mar 2021</span> -
+<span>1 minute read</span>
+</div>
+<div class="small light">
+</div>
+<hr>
+<div>
+<ul>
+<li>
+<p><a href=https://openjdk.java.net/jeps/398>JEP 398: Deprecate the Applet API for Removal</a>
+<a href=https://lobste.rs/s/6eiwer/jep_398_deprecate_applet_api_for_removal>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://halt.software/dead-simple-layouts/>RectCut for dead simple UI layouts</a>
+<a href=https://lobste.rs/s/mijmpa/rectcut_for_dead_simple_ui_layouts>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://blog.elementary.io/look-and-feel-changes-elementary-os-6/>Look & Feel Changes Coming to elementary OS 6</a>
+<a href=https://lobste.rs/s/m1nkw3/look_feel_changes_coming_elementary_os_6>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://www.more-magic.net/posts/thoughts-on-clojure.html>Clojure from a Schemer&rsquo;s perspective</a>
+<a href=https://lobste.rs/s/uzq4af/clojure_from_schemer_s_perspective>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://krebsonsecurity.com/2021/03/at-least-30000-u-s-organizations-newly-hacked-via-holes-in-microsofts-email-software/>U.S. Organizations Hacked Via Microsoft Exchange</a>
+<a href=https://lobste.rs/s/xhbsdl/u_s_organizations_hacked_via_microsoft>(comments)</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=dDtZLm7HIJs">Functional Parsing (2020)</a>
+<a href=https://lobste.rs/s/8rt5ls/functional_parsing_2020>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://github.com/git/git/blob/master/banned.h>Banned C functions in git source code</a>
+<a href=https://lobste.rs/s/lw5lb8/banned_c_functions_git_source_code>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://www.johnnunemaker.com/resilience-in-ruby-shell-commands/>Resilience in Ruby: Shell Commands</a>
+<a href=https://lobste.rs/s/xmwwep/resilience_ruby_shell_commands>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://discourse.haskell.org/t/towards-a-prevalent-alternative-prelude/1986>Towards a prevalent alternative prelude?</a>
+<a href=https://lobste.rs/s/obtefh/towards_prevalent_alternative_prelude>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://www.techspot.com/article/1821-how-cpus-are-designed-and-built/>How CPUs are Designed and Built: Computer Architecture (1/4)</a>
+<a href=https://lobste.rs/s/7uyto8/how_cpus_are_designed_built_computer>(comments)</a></p>
+</li>
+</ul>
+</div>
+</article>
+<div id=footer class="light small">
+© 2021 - Rohan Verma.
+<br>
+Daily top stories from lobste.rs
+<br>
+This page was generated using the <a href=https://github.com/rhnvrm/bodhi>Bodhi</a> theme for Hugo.
+</div>
+</div>
+<script>(function(e,b,f,c,a,d){b[c]=b[c]||function(){(b[c].q=b[c].q||[]).push(arguments)},a=e.createElement('script'),d=e.getElementsByTagName('script')[0],a.async=1,a.src=f,a.id='fathom-script',d.parentNode.insertBefore(a,d)})(document,window,'//fathom.rohanverma.net/tracker.js','fathom'),fathom('set','siteId','IUAMK'),fathom('trackPageview')</script>
+</div><script>feather.replace({width:"1em",height:"1em"})</script>
+<script src=/js/main.js></script>
+</body>
+</html>

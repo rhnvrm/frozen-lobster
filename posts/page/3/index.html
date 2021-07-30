@@ -1,119 +1,624 @@
-<!doctype html><html><head><meta charset=utf-8><title>Posts - Frozen Lobster</title><link rel=alternate type=application/rss+xml href=https://frozen-lobster.rohanverma.net/posts/index.xml title="Frozen Lobster"><meta property="og:title" content="Posts"><meta property="og:description" content><meta property="og:type" content="website"><meta property="og:url" content="https://frozen-lobster.rohanverma.net/posts/"><meta name=twitter:card content="summary"><meta name=twitter:title content="Posts"><meta name=twitter:description content><meta itemprop=name content="Posts"><meta itemprop=description content><meta name=viewport content="width=device-width,initial-scale=1"><link rel=stylesheet href=/css/normalize.min.css><link rel=stylesheet type=text/css href=/css/style.css><link href="https://fonts.googleapis.com/css?family=Inter|Source+Serif+Pro" rel=stylesheet type=text/css><script src=https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js></script><link rel=icon sizes=any href=data:image/x-icon;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAQAAADZc7J/AAACnUlEQVRIx6XVzWtcVRjH8c/cebkJOq1gNDi1WJLWpC9YmqAUpVDRRQUXUruy1FURRP+AlLbYQB18W7vwD1BcqLjoQrSYbSHWRhiJxJQgdNTErDSTXNOZ62JeMve20zLxWVwuz/Oc7znneX7nHP6nZRAYkt/G2E1/aeQw5KzfEqHQkyoaXZ7AQfM2E1l7fGIZdjmTYu/wupzAiFNetUcg54wHUms/axe5e2zuJe8aR8WUmTvicXtpvWzYBYeFQhMueqRXWm/AqP2d/0NG+gds+LfzH1nvH/CLq60+NHzj115pvYv4j4v+9rzYdz60dm9AwY6Et2hQ0bILhvGHqOXJJrIKW4AxryRCgyZEKSFNikWJrL1bgIpPUyuIfKbe5cmKfaWmaExowYrYwBag4XYCUNdQT/ka6kZddlxexaV2iYM+Ds+g804astOzynbfr413WsmxTv4hT/UPiNv63zoJ/QGqZjqd+cmN+wnpbuIuC72gYM60W92AIAXKClKiycnKWvKWfQoWrQqaq28OPOi1RPqASVJCOirXOV6jYNyVNmDeF3hQSaRqU1HsS3WDSmJVG7JyvlZTUJJXtUbzhsq1rseaZ5wzYd0VH6iJ1Iw675jYjLIlkZqdppwQmlV2vXlDtvf+mI88J4MRt72PostOCvCEgrdRMOVNOez2kNPJNj5tUqZVrpcNY8zxVjTwon0oOdGaMOOoI0nAQFfVQ/nOt31wC8gLu/oUJgFzljoau+ZPLKh00ucsomq2o8DFdrQNWDBtXmTNt95Tw4pLZm1Yd820Vawp+15N5GfvuJlUYsPnfnDAuh8tKyJ21SmHxW641ZroutOOCFXcbKskg0e94ffUZbXXfEpI4xZST9vjPrbSfFwf3ubjupqYZHv2HylrtUljNvuGAAAAAElFTkSuQmCC></head><body><div id=header><div class=avatar><a href=https://frozen-lobster.rohanverma.net><img src=/images/lobster.jpg alt="Frozen Lobster"></a></div><a id=headerLink href=https://frozen-lobster.rohanverma.net>Frozen Lobster</a><span class=hidden> -</span>
-<span id=headerSubtitle>Preserved goodness</span></div><div id=menu><a href=https://rohanverma.net>rohanverma.net</a>
+<!doctype html><html>
+<head>
+<meta charset=utf-8><title>Posts - Frozen Lobster</title>
+<link rel=alternate type=application/rss+xml href=https://frozen-lobster.rohanverma.net/posts/index.xml title="Frozen Lobster">
+<meta property="og:title" content="Posts">
+<meta property="og:description" content>
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://frozen-lobster.rohanverma.net/posts/">
+<meta name=twitter:card content="summary">
+<meta name=twitter:title content="Posts">
+<meta name=twitter:description content>
+<meta itemprop=name content="Posts">
+<meta itemprop=description content><meta name=viewport content="width=device-width,initial-scale=1">
+<link rel=stylesheet href=/css/normalize.min.css>
+<link rel=stylesheet type=text/css href=/css/style.css>
+<link href="https://fonts.googleapis.com/css?family=Inter|Source+Serif+Pro" rel=stylesheet type=text/css>
+<script src=https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js></script>
+<link rel=icon sizes=any href=data:image/x-icon;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAQAAADZc7J/AAACnUlEQVRIx6XVzWtcVRjH8c/cebkJOq1gNDi1WJLWpC9YmqAUpVDRRQUXUruy1FURRP+AlLbYQB18W7vwD1BcqLjoQrSYbSHWRhiJxJQgdNTErDSTXNOZ62JeMve20zLxWVwuz/Oc7znneX7nHP6nZRAYkt/G2E1/aeQw5KzfEqHQkyoaXZ7AQfM2E1l7fGIZdjmTYu/wupzAiFNetUcg54wHUms/axe5e2zuJe8aR8WUmTvicXtpvWzYBYeFQhMueqRXWm/AqP2d/0NG+gds+LfzH1nvH/CLq60+NHzj115pvYv4j4v+9rzYdz60dm9AwY6Et2hQ0bILhvGHqOXJJrIKW4AxryRCgyZEKSFNikWJrL1bgIpPUyuIfKbe5cmKfaWmaExowYrYwBag4XYCUNdQT/ka6kZddlxexaV2iYM+Ds+g804astOzynbfr413WsmxTv4hT/UPiNv63zoJ/QGqZjqd+cmN+wnpbuIuC72gYM60W92AIAXKClKiycnKWvKWfQoWrQqaq28OPOi1RPqASVJCOirXOV6jYNyVNmDeF3hQSaRqU1HsS3WDSmJVG7JyvlZTUJJXtUbzhsq1rseaZ5wzYd0VH6iJ1Iw675jYjLIlkZqdppwQmlV2vXlDtvf+mI88J4MRt72PostOCvCEgrdRMOVNOez2kNPJNj5tUqZVrpcNY8zxVjTwon0oOdGaMOOoI0nAQFfVQ/nOt31wC8gLu/oUJgFzljoau+ZPLKh00ucsomq2o8DFdrQNWDBtXmTNt95Tw4pLZm1Yd820Vawp+15N5GfvuJlUYsPnfnDAuh8tKyJ21SmHxW641ZroutOOCFXcbKskg0e94ffUZbXXfEpI4xZST9vjPrbSfFwf3ubjupqYZHv2HylrtUljNvuGAAAAAElFTkSuQmCC>
+</head>
+<body>
+<div id=header>
+<div class=avatar>
+<a href=https://frozen-lobster.rohanverma.net>
+<img src=/images/lobster.jpg alt="Frozen Lobster">
+</a>
+</div>
+<a id=headerLink href=https://frozen-lobster.rohanverma.net>Frozen Lobster</a><span class=hidden> - </span>
+<span id=headerSubtitle>Preserved goodness</span></div>
+<div id=menu>
+<a href=https://rohanverma.net>rohanverma.net</a>
 <a href=https://lobste.rs>lobste.rs</a>
-<span class=right><a href=/index.xml title="RSS Feed"><i data-feather=rss></i>
-</a><a onclick="toggleTheme('dark')"><i data-feather=moon></i></a>
-<a onclick="toggleTheme('light')"><i data-feather=sun></i></a>
-<a href=/search>search<svg aria-hidden="true" class="i-search" viewBox="0 0 32 32" width="10" height="10" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"><circle cx="14" cy="14" r="12"/><path d="M23 23l7 7"/></svg></a></span></div><div id=content><div id=nav><ul><li><a href=/archive><span>archives</span></a></li></ul><ul><li><b><a href=/posts><span>posts</span></a></b></li></ul></div><div id=main><div><h1>Posts</h1></div><h2><a href=/posts/2021-07-09/>Daily lobste.rs News for 2021-07-09</a></h2><div class=light><span>09 Jul 2021</span> -
-<span>1 minute read</span></div><div class="small light"></div><div><p><ul><li><p><a href=https://hg.sr.ht/~icefox/mongoose/>Mongoose: A small toy OS with no memory protection</a>
-<a href=https://lobste.rs/s/4kv3qc/mongoose_small_toy_os_with_no_memory>(comments)</a></p></li><li><p><a href=https://niedzejkob.p4.team/rust-np/>Compiling Rust is NP-hard</a>
-<a href=https://lobste.rs/s/ekasr1/compiling_rust_is_np_hard>(comments)</a></p></li><li><p><a href=https://liam-on-linux.livejournal.com/81341.html>The historical significance of DEC and the PDP-7, -8, -11 & VAX</a>
-<a href=https://lobste.rs/s/kmpnqd/historical_significance_dec_pdp_7_8_11_vax>(comments)</a></p></li><li><p><a href=https://datastation.multiprocess.io/blog/2021-07-08-react-without-webpack.html>React without webpack: fast path to a working app from scratch</a>
-<a href=https://lobste.rs/s/tdnvjq/react_without_webpack_fast_path_working>(comments)</a></p></li><li><p><a href=https://en.wikipedia.org/wiki/Leaning_toothpick_syndrome>Leaning toothpick syndrome</a>
-<a href=https://lobste.rs/s/xkkfiv/leaning_toothpick_syndrome>(comments)</a></p></li><li><p><a href=https://github.com/TimUntersberger/neogit>neogit: work-in-progress Magit clone for Neovim</a>
-<a href=https://lobste.rs/s/wcc6jn/neogit_work_progress_magit_clone_for>(comments)</a></p></li><li><p><a href=https://www.pldi21.org/prerecorded_hopl.11.html>A History of Clojure</a>
-<a href=https://lobste.rs/s/kknunh/history_clojure>(comments)</a></p></li><li><p><a href=https://andregarzia.com/2021/07/launching-the-mvp-for-little-webby-press.html>Launching the MVP for Little Webby Press</a>
-<a href=https://lobste.rs/s/za0osu/launching_mvp_for_little_webby_press>(comments)</a></p></li><li><p><a href=https://www.ctrl.blog/entry/chrome-google-dse-preconnect.html>Google’s unfair performance advantage in Chrome</a>
-<a href=https://lobste.rs/s/aj3yxt/google_s_unfair_performance_advantage>(comments)</a></p></li><li><p><a href=https://www.craigstuntz.com/posts/2021-07-08-how-i-made-a-giant-mistake-with-terraform.html>How I Made a Giant Mistake with Terraform (and How Azure Made It Worse)</a>
-<a href=https://lobste.rs/s/7wmbqc/how_i_made_giant_mistake_with_terraform>(comments)</a></p></li></ul></p></div><h2><a href=/posts/2021-07-08/>Daily lobste.rs News for 2021-07-08</a></h2><div class=light><span>08 Jul 2021</span> -
-<span>1 minute read</span></div><div class="small light"></div><div><p><ul><li><p><a href=https://www.ctrl.blog/entry/chrome-google-dse-preconnect.html>Google’s unfair performance advantage in Chrome</a>
-<a href=https://lobste.rs/s/aj3yxt/google_s_unfair_performance_advantage>(comments)</a></p></li><li><p><a href=https://venthur.de/2021-06-26-python-packaging.html>The State of Python Packaging in 2021</a>
-<a href=https://lobste.rs/s/tufsem/state_python_packaging_2021>(comments)</a></p></li><li><p><a href=https://blog.lojic.com/2020/12/26/comprehensions-in-julia.html>Comparison of Haskell & Julia List Comprehensions</a>
-<a href=https://lobste.rs/s/6ezfpk/comparison_haskell_julia_list>(comments)</a></p></li><li><p><a href=https://hakibenita.com/django-nested-transaction>One Database Transaction Too Many</a>
-<a href=https://lobste.rs/s/up2qzu/one_database_transaction_too_many>(comments)</a></p></li><li><p><a href=https://programmingisterrible.com/post/139222674273/how-to-write-disposable-code-in-large-systems>Write code that is easy to delete, not easy to extend. (2016)</a>
-<a href=https://lobste.rs/s/rwotmb/write_code_is_easy_delete_not_easy_extend>(comments)</a></p></li><li><p><a href=http://mail-index.netbsd.org/port-vax/2021/07/03/msg003899.html>First new vax in &mldr;30 years? :-)</a>
-<a href=https://lobste.rs/s/uf7nym/first_new_vax_30_years>(comments)</a></p></li><li><p><a href=https://gopiandcode.uk/logs/log-certified-synthesis.html>Goodbye C developers: The future of programming with certified program synthesis</a>
-<a href=https://lobste.rs/s/yl1klr/goodbye_c_developers_future_programming>(comments)</a></p></li><li><p><a href=http://www.oilshell.org/blog/2021/07/release-0.8.12.html>Release of Oil 0.8.12</a>
-<a href=https://lobste.rs/s/2xhvad/release_oil_0_8_12>(comments)</a></p></li><li><p><a href=https://overreacted.io/npm-audit-broken-by-design/>npm audit: Broken by Design</a>
-<a href=https://lobste.rs/s/ds9uss/npm_audit_broken_by_design>(comments)</a></p></li><li><p><a href=https://github.com/alekcz/pcp>A Clojure processor that&rsquo;s almost a drop-in replacement for php-fpm behind Nginx</a>
-<a href=https://lobste.rs/s/mwdo3n/clojure_processor_s_almost_drop>(comments)</a></p></li></ul></p></div><h2><a href=/posts/2021-07-07/>Daily lobste.rs News for 2021-07-07</a></h2><div class=light><span>07 Jul 2021</span> -
-<span>1 minute read</span></div><div class="small light"></div><div><p><ul><li><p><a href=https://github.com/temporary-audacity/audacity>Audacity-fork without telemetry/CLA is gaining traction</a>
-<a href=https://lobste.rs/s/n3ne8j/audacity_fork_without_telemetry_cla_is>(comments)</a></p></li><li><p><a href=https://no-color.org/>NO_COLOR: disabling ANSI color output in various Unix commands</a>
-<a href=https://lobste.rs/s/mevzfb/no_color_disabling_ansi_color_output>(comments)</a></p></li><li><p><a href=https://lore.kernel.org/lkml/20210704202756.29107-1-ojeda@kernel.org/>Rust support for Linux kernel</a>
-<a href=https://lobste.rs/s/f41jg3/rust_support_for_linux_kernel>(comments)</a></p></li><li><p><a href=https://www.possiblerust.com/guide/what-can-coerce-and-where-in-rust>What Can Coerce, and Where, in Rust</a>
-<a href=https://lobste.rs/s/slkax5/what_can_coerce_where_rust>(comments)</a></p></li><li><p><a href=https://consoledonottrack.com/>Console Do Not Track</a>
-<a href=https://lobste.rs/s/5dnfb9/console_do_not_track>(comments)</a></p></li><li><p><a href=https://github.com/rustviz/rustviz>RustViz: Generates Visualizations of Rust Lifetime and Borrowing Mechanism</a>
-<a href=https://lobste.rs/s/fr9ywf/rustviz_generates_visualizations_rust>(comments)</a></p></li><li><p><a href=https://mattferraro.dev/posts/poissons-equation>Poisson&rsquo;s Equation is the Most Powerful Tool not yet in your Toolbox</a>
-<a href=https://lobste.rs/s/t9y7gq/poisson_s_equation_is_most_powerful_tool>(comments)</a></p></li><li><p><a href=https://stealthoptional.com/news/chinas-zuchongzhi-quantum-computer-is-the-most-powerful-in-the-world/>China&rsquo;s Zuchongzhi Quantum Computer is the most powerful in the world</a>
-<a href=https://lobste.rs/s/thqeqo/china_s_zuchongzhi_quantum_computer_is>(comments)</a></p></li><li><p><a href=https://drossbucket.com/2021/06/30/hacker-news-folk-wisdom-on-visual-programming/>Hacker News folk wisdom on visual programming</a>
-<a href=https://lobste.rs/s/wiav9a/hacker_news_folk_wisdom_on_visual>(comments)</a></p></li><li><p><a href=https://felipec.wordpress.com/2021/07/05/git-update/>git update: the odyssey for a sensible git pull</a>
-<a href=https://lobste.rs/s/zqotif/git_update_odyssey_for_sensible_git_pull>(comments)</a></p></li></ul></p></div><h2><a href=/posts/2021-07-06/>Daily lobste.rs News for 2021-07-06</a></h2><div class=light><span>06 Jul 2021</span> -
-<span>1 minute read</span></div><div class="small light"></div><div><p><ul><li><p><a href=https://juliareda.eu/2021/07/github-copilot-is-not-infringing-your-copyright/>GitHub Copilot is not infringing your copyright</a>
-<a href=https://lobste.rs/s/bmdesp/github_copilot_is_not_infringing_your>(comments)</a></p></li><li><p><a href>Lobsters is Nine Today</a>
-<a href=https://lobste.rs/s/idj3tm/lobsters_is_nine_today>(comments)</a></p></li><li><p><a href>Who&rsquo;s hiring? Q3Y2021</a>
-<a href=https://lobste.rs/s/mnmwb5/who_s_hiring_q3y2021>(comments)</a></p></li><li><p><a href=https://github.com/zverok/wikipedia_ql>WikipediaQL: Query language for efficient data extraction from Wikipedia (early prototype)</a>
-<a href=https://lobste.rs/s/kyjdwg/wikipediaql_query_language_for>(comments)</a></p></li><li><p><a href=https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/>Notes on structured concurrency, or: Go statement considered harmful [2018]</a>
-<a href=https://lobste.rs/s/8msejg/notes_on_structured_concurrency_go>(comments)</a></p></li><li><p><a href=https://github.com/etherealmachine/entish>Entish: a datalog-like language for playing with implementing table-top RPG rules in formal logic</a>
-<a href=https://lobste.rs/s/tfckub/entish_datalog_like_language_for_playing>(comments)</a></p></li><li><p><a href=https://blog.joren.ga/programming/vla-bad>VLA&rsquo;s are… problematic</a>
-<a href=https://lobste.rs/s/acee5i/vla_s_are_problematic>(comments)</a></p></li><li><p><a href=https://rtpg.co/2021/07/05/comments-ast.html>How Black Handles Comments When Python&rsquo;s Grammar Ignores Them</a>
-<a href=https://lobste.rs/s/5tn4pd/how_black_handles_comments_when_python_s>(comments)</a></p></li><li><p><a href=https://gist.github.com/Phate6660/0e42fc2a5d23090276ede2af4ae50b3d>A dark userstyle for https://lobste.rs that aims to be simple and robust</a>
-<a href=https://lobste.rs/s/aaxpjx/dark_userstyle_for_https_lobste_rs_aims_be>(comments)</a></p></li><li><p><a href=http://www.quiss.org/freespin/>Freespin - Commodore 1541 floppy drive demo</a>
-<a href=https://lobste.rs/s/whvlln/freespin_commodore_1541_floppy_drive>(comments)</a></p></li></ul></p></div><h2><a href=/posts/2021-07-05/>Daily lobste.rs News for 2021-07-05</a></h2><div class=light><span>05 Jul 2021</span> -
-<span>1 minute read</span></div><div class="small light"></div><div><p><ul><li><p><a href>Lobsters is Nine Today</a>
-<a href=https://lobste.rs/s/idj3tm/lobsters_is_nine_today>(comments)</a></p></li><li><p><a href=https://gist.github.com/Phate6660/0e42fc2a5d23090276ede2af4ae50b3d>A dark userstyle for https://lobste.rs that aims to be simple and robust</a>
-<a href=https://lobste.rs/s/aaxpjx/dark_userstyle_for_https_lobste_rs_aims_be>(comments)</a></p></li><li><p><a href=https://github.com/Nudin/iptable_vis>visualise your iptables chains</a>
-<a href=https://lobste.rs/s/wsgqa4/visualise_your_iptables_chains>(comments)</a></p></li><li><p><a href=https://nakabonne.dev/posts/write-tsdb-from-scratch/>Write a time-series database engine from scratch</a>
-<a href=https://lobste.rs/s/8qvatg/write_time_series_database_engine_from>(comments)</a></p></li><li><p><a href="https://www.youtube.com/watch?v=hxM8QmyZXtg">How fast should an unoptimized terminal run?</a>
-<a href=https://lobste.rs/s/k2mjsk/how_fast_should_unoptimized_terminal_run>(comments)</a></p></li><li><p><a href=https://mgaudet.github.io/CompilerJobs/>CompilerJobs</a>
-<a href=https://lobste.rs/s/ly5e9j/compilerjobs>(comments)</a></p></li><li><p><a href=http://blog.danieljanus.pl/2021/07/01/commit-groups/>Things I wish Git had: Commit groups</a>
-<a href=https://lobste.rs/s/r8wvoj/things_i_wish_git_had_commit_groups>(comments)</a></p></li><li><p><a href=https://sethrobertson.github.io/GitBestPractices/>Commit Often, Perfect Later, Publish Once—Git Best Practices</a>
-<a href=https://lobste.rs/s/zysbh9/commit_often_perfect_later_publish_once>(comments)</a></p></li><li><p><a href=https://pietromaggi.com/2021/07/04/android-screen-capture-for-dual-screen-devices/>Android Screen Capture for dual screen devices</a>
-<a href=https://lobste.rs/s/owfwhw/android_screen_capture_for_dual_screen>(comments)</a></p></li><li><p><a href=https://blog.davetcode.co.uk/post/21st-century-emulator/>Bringing emulation into the 21st century</a>
-<a href=https://lobste.rs/s/ey3yjo/bringing_emulation_into_21st_century>(comments)</a></p></li></ul></p></div><h2><a href=/posts/2021-07-04/>Daily lobste.rs News for 2021-07-04</a></h2><div class=light><span>04 Jul 2021</span> -
-<span>1 minute read</span></div><div class="small light"></div><div><p><ul><li><p><a href>Lobsters is Nine Today</a>
-<a href=https://lobste.rs/s/idj3tm/lobsters_is_nine_today>(comments)</a></p></li><li><p><a href=http://blog.danieljanus.pl/2021/07/01/commit-groups/>Things I wish Git had: Commit groups</a>
-<a href=https://lobste.rs/s/r8wvoj/things_i_wish_git_had_commit_groups>(comments)</a></p></li><li><p><a href=https://chimera-linux.org/>Chimera Linux: a Linux distribution based on FreeBSD userland and LLVM</a>
-<a href=https://lobste.rs/s/wz8jog/chimera_linux_linux_distribution_based>(comments)</a></p></li><li><p><a href=https://christine.website/blog/android-thoughts-2021-07-03>Thoughts About Using Android Again as an iPhone User</a>
-<a href=https://lobste.rs/s/10btuv/thoughts_about_using_android_again_as>(comments)</a></p></li><li><p><a href=https://ntietz.com/tech-blog/future-of-software-engineering-is-formal-methods/>Where are we going from here? Software engineering needs formal methods</a>
-<a href=https://lobste.rs/s/znuk5o/where_are_we_going_from_here_software>(comments)</a></p></li><li><p><a href="https://devblogs.microsoft.com/typescript/?p=2999">Announcing TypeScript 4.4 Beta</a>
-<a href=https://lobste.rs/s/a0djz0/announcing_typescript_4_4_beta>(comments)</a></p></li><li><p><a href=https://sheep.horse/2021/6/botnets%2C_or_this_is_why_we_cannot_have_nice_things.html>Botnets, or This is Why We Cannot Have Nice Things</a>
-<a href=https://lobste.rs/s/hjaget/botnets_this_is_why_we_cannot_have_nice>(comments)</a></p></li><li><p><a href=https://retro.cloud/simply-integrating-svelte-in-rails/>Simply integrating Svelte into Rails</a>
-<a href=https://lobste.rs/s/6z6ei6/simply_integrating_svelte_into_rails>(comments)</a></p></li><li><p><a href=https://github.com/automerge/automerge>A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged</a>
-<a href=https://lobste.rs/s/urvu1p/json_like_data_structure_crdt_can_be>(comments)</a></p></li><li><p><a href=https://ristovski.github.io/posts/moto-sensorhub/>Reverse engineering the Motorola Sensorhub: Part 1</a>
-<a href=https://lobste.rs/s/2fmejr/reverse_engineering_motorola_sensorhub>(comments)</a></p></li></ul></p></div><h2><a href=/posts/2021-07-03/>Daily lobste.rs News for 2021-07-03</a></h2><div class=light><span>03 Jul 2021</span> -
-<span>1 minute read</span></div><div class="small light"></div><div><p><ul><li><p><a href=https://sheep.horse/2021/6/botnets%2C_or_this_is_why_we_cannot_have_nice_things.html>Botnets, or This is Why We Cannot Have Nice Things</a>
-<a href=https://lobste.rs/s/hjaget/botnets_this_is_why_we_cannot_have_nice>(comments)</a></p></li><li><p><a href=https://sporks.space/2021/07/02/there-is-no-64-bit-type-in-c89/>There is no 64-bit type in C89</a>
-<a href=https://lobste.rs/s/z6ma3o/there_is_no_64_bit_type_c89>(comments)</a></p></li><li><p><a href=https://github.com/neovim/neovim/releases/tag/v0.5.0>Neovim v0.5</a>
-<a href=https://lobste.rs/s/ka1iby/neovim_v0_5>(comments)</a></p></li><li><p><a href=https://corecursive.com/066-sqlite-with-richard-hipp/>The Untold Story of SQLite</a>
-<a href=https://lobste.rs/s/u2xz1j/untold_story_sqlite>(comments)</a></p></li><li><p><a href=https://www.openbsdjumpstart.org>Full OpenBSD Startup described on slide 48</a>
-<a href=https://lobste.rs/s/fwb9lu/full_openbsd_startup_described_on_slide>(comments)</a></p></li><li><p><a href=https://ml.berkeley.edu/blog/posts/clip-art/>Alien Dreams: An Emerging Art Scene</a>
-<a href=https://lobste.rs/s/ulwd1k/alien_dreams_emerging_art_scene>(comments)</a></p></li><li><p><a href=https://stratus3d.com/blog/2021/06/28/erlang-records-vs-elixir-structs>Erlang Records vs. Elixir Structs</a>
-<a href=https://lobste.rs/s/hwtog8/erlang_records_vs_elixir_structs>(comments)</a></p></li><li><p><a href=https://simonwillison.net/2021/Jul/1/pagnis/>PAGNIs: Probably Are Gonna Need Its</a>
-<a href=https://lobste.rs/s/nokjr0/pagnis_probably_are_gonna_need_its>(comments)</a></p></li><li><p><a href>What are you doing this weekend?</a>
-<a href=https://lobste.rs/s/i0gowb/what_are_you_doing_this_weekend>(comments)</a></p></li><li><p><a href=http://www.cs.utah.edu/~mflatt/past-courses/cs6510/public_html/lispm.pdf>Architecture of LISP Machines</a>
-<a href=https://lobste.rs/s/awz1t5/architecture_lisp_machines>(comments)</a></p></li></ul></p></div><h2><a href=/posts/2021-07-02/>Daily lobste.rs News for 2021-07-02</a></h2><div class=light><span>02 Jul 2021</span> -
-<span>1 minute read</span></div><div class="small light"></div><div><p><ul><li><p><a href=https://darker.ink/writings/Towards-richer-colors-on-the-Web>Towards richer colors on the Web</a>
-<a href=https://lobste.rs/s/go9whp/towards_richer_colors_on_web>(comments)</a></p></li><li><p><a href=https://devlog.hexops.com/2021/cla-not-for-open-source-use-a-developer-certificate-of-origin>CLAs are not for open source, use a Developer Certificate of Origin</a>
-<a href=https://lobste.rs/s/lvmb5i/clas_are_not_for_open_source_use_developer>(comments)</a></p></li><li><p><a href=https://github.com/TwoFX/sudoku>A sudoku game where you have to prove that your deductions are valid</a>
-<a href=https://lobste.rs/s/ky8mcs/sudoku_game_where_you_have_prove_your>(comments)</a></p></li><li><p><a href=https://github.com/xmake-io/xmake/wiki/xmake-v2.5.5-released,-Support-to-download-and-install-precompiled-packages>xmake v2.5.5 released, Support to download and install precompiled packages</a>
-<a href=https://lobste.rs/s/1knkwi/xmake_v2_5_5_released_support_download>(comments)</a></p></li><li><p><a href=https://epilys.github.io/bibliothecula/notekeeping.html>Using sqlite3 as a notekeeping document graph with automatic reference indexing</a>
-<a href=https://lobste.rs/s/yev7oa/using_sqlite3_as_notekeeping_document>(comments)</a></p></li><li><p><a href=https://christianheilmann.com/2021/06/30/the-unseen-benefits-of-accessibility/>The unseen benefits of accessibility</a>
-<a href=https://lobste.rs/s/zrgzuq/unseen_benefits_accessibility>(comments)</a></p></li><li><p><a href=https://github.com/ligurio/unreliablefs>FUSE-based file system to inject faults</a>
-<a href=https://lobste.rs/s/gxbvkj/fuse_based_file_system_inject_faults>(comments)</a></p></li><li><p><a href=https://belaycpp.com/2021/06/30/should-every-variable-be-const-by-default/>Should every variable be const by default?</a>
-<a href=https://lobste.rs/s/arxnqo/should_every_variable_be_const_by_default>(comments)</a></p></li><li><p><a href=https://blog.inkdrop.info/how-to-set-up-neovim-0-5-modern-plugins-lsp-treesitter-etc-542c3d9c9887>How to set up Neovim 0.5 + Modern plugins (LSP, Treesitter, Fuzzy finder, etc)</a>
-<a href=https://lobste.rs/s/jmyagl/how_set_up_neovim_0_5_modern_plugins_lsp>(comments)</a></p></li><li><p><a href=https://www.sparkfun.com/news/3917>SparkFun Hooks a Patent Troll</a>
-<a href=https://lobste.rs/s/zkgzns/sparkfun_hooks_patent_troll>(comments)</a></p></li></ul></p></div><h2><a href=/posts/2021-07-01/>Daily lobste.rs News for 2021-07-01</a></h2><div class=light><span>01 Jul 2021</span> -
-<span>1 minute read</span></div><div class="small light"></div><div><p><ul><li><p><a href=https://epilys.github.io/bibliothecula/notekeeping.html>Using sqlite3 as a notekeeping document graph with automatic reference indexing</a>
-<a href=https://lobste.rs/s/yev7oa/using_sqlite3_as_notekeeping_document>(comments)</a></p></li><li><p><a href=https://mempko.wordpress.com/2021/06/30/bugs-faster-than-the-speed-of-thought/>Bugs Faster than the Speed of Thought</a>
-<a href=https://lobste.rs/s/bnspit/bugs_faster_than_speed_thought>(comments)</a></p></li><li><p><a href=https://johnmathews.eu/building-my-own-site-analytics.html>Building my own web analytics tool</a>
-<a href=https://lobste.rs/s/n65let/building_my_own_web_analytics_tool>(comments)</a></p></li><li><p><a href="http://frogfind.com/read.php?a=https%3A%2F%2Fforums.macrumors.com%2Fthreads%2Fweb%2D1%2D1%2Dbuilding%2Dthe%2Dnew%2Dold%2Dweb.2290616%2F">Web 1.1: Building The New Old Web</a>
-<a href=https://lobste.rs/s/tb9ouq/web_1_1_building_new_old_web>(comments)</a></p></li><li><p><a href=https://vmssoftware.com/about/openvmsv9-1/>OpenVMS 9.1 x86 field test starts</a>
-<a href=https://lobste.rs/s/nrpiea/openvms_9_1_x86_field_test_starts>(comments)</a></p></li><li><p><a href=https://sobolevn.me/2021/06/typeclasses-in-python>Typeclasses in Python</a>
-<a href=https://lobste.rs/s/3eorxj/typeclasses_python>(comments)</a></p></li><li><p><a href=https://copilot.github.com/>GitHub Copilot · Your AI pair programmer</a>
-<a href=https://lobste.rs/s/rxml1k/github_copilot_your_ai_pair_programmer>(comments)</a></p></li><li><p><a href=https://github.com/ECSIM/opem>OPEM - Open Source PEM Fuel Cell Simulation Tool</a>
-<a href=https://lobste.rs/s/ljzhy0/opem_open_source_pem_fuel_cell_simulation>(comments)</a></p></li><li><p><a href=https://blog.pentlander.com/why-build-sasquach-lang/>Why build Sasquach lang</a>
-<a href=https://lobste.rs/s/uslklq/why_build_sasquach_lang>(comments)</a></p></li><li><p><a href=https://www.lawfareblog.com/dangers-posed-evidentiary-softwareand-what-do-about-it>Dangers Posed by Evidentiary Software—and What to Do About It</a>
-<a href=https://lobste.rs/s/gpppzk/dangers_posed_by_evidentiary_software>(comments)</a></p></li></ul></p></div><h2><a href=/posts/2021-06-30/>Daily lobste.rs News for 2021-06-30</a></h2><div class=light><span>30 Jun 2021</span> -
-<span>1 minute read</span></div><div class="small light"></div><div><p><ul><li><p><a href=https://copilot.github.com/>GitHub Copilot · Your AI pair programmer</a>
-<a href=https://lobste.rs/s/rxml1k/github_copilot_your_ai_pair_programmer>(comments)</a></p></li><li><p><a href=https://blog.pentlander.com/why-build-sasquach-lang/>Why build Sasquach lang</a>
-<a href=https://lobste.rs/s/uslklq/why_build_sasquach_lang>(comments)</a></p></li><li><p><a href=https://blog.newsblur.com/2021/06/28/story-of-a-hacking/>How a Docker footgun led to a vandal deleting NewsBlur’s MongoDB database</a>
-<a href=https://lobste.rs/s/if526o/how_docker_footgun_led_vandal_deleting>(comments)</a></p></li><li><p><a href=https://blog.dijit.sh/devops-confusion-and-frustration>DevOps; a decade of confusion and frustration</a>
-<a href=https://lobste.rs/s/tudiy3/devops_decade_confusion_frustration>(comments)</a></p></li><li><p><a href=https://sequoia-pgp.org/blog/2021/06/29/202106-yes-we-want-cryptographic-protection-for-email/>Yes, We Want Cryptographic Protection for Email</a>
-<a href=https://lobste.rs/s/projzj/yes_we_want_cryptographic_protection_for>(comments)</a></p></li><li><p><a href>For those familiar with Go and (cargo | npm | etc) how is &ldquo;minimal version selection&rdquo; working out?</a>
-<a href=https://lobste.rs/s/8bczn4/for_those_familiar_with_go_cargo_npm_etc>(comments)</a></p></li><li><p><a href=https://soatok.blog/2021/06/02/why-furries-make-excellent-hackers/>Why Furries Make Excellent Hackers</a>
-<a href=https://lobste.rs/s/apl5u6/why_furries_make_excellent_hackers>(comments)</a></p></li><li><p><a href=https://nullprogram.com/blog/2017/10/06/>A Branchless UTF-8 Decoder (2017)</a>
-<a href=https://lobste.rs/s/camw2j/branchless_utf_8_decoder_2017>(comments)</a></p></li><li><p><a href=https://github.com/irsl/gcp-dhcp-takeover-code-exec>Remote Root to GCP</a>
-<a href=https://lobste.rs/s/uypjbg/remote_root_gcp>(comments)</a></p></li><li><p><a href=https://sequentialread.com/building-a-spatial-index-supporting-range-query-using-space-filling-hilbert-curve/>Building a Spatial Index Supporting Rectangular Range Query using Hilbert Curve</a>
-<a href=https://lobste.rs/s/h9pvmp/building_spatial_index_supporting>(comments)</a></p></li></ul></p></div><div id=pagination><a href=/posts/page/2/>&lt;</a>
+<span class=right>
+<a href=/index.xml title="RSS Feed">
+<i data-feather=rss></i>
+</a><a onclick="toggleTheme('dark')">
+<i data-feather=moon></i>
+</a>
+<a onclick="toggleTheme('light')">
+<i data-feather=sun></i>
+</a>
+<a href=/search>search<svg aria-hidden="true" class="i-search" viewBox="0 0 32 32" width="10" height="10" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"><circle cx="14" cy="14" r="12"/><path d="M23 23l7 7"/></svg></a>
+</span>
+</div>
+<div id=content>
+<div id=nav>
+<ul>
+<li>
+<a href=/archive>
+<span>archives </span>
+</a>
+</li>
+</ul>
+<ul>
+<li>
+<b>
+<a href=/posts>
+<span>posts </span>
+</a>
+</b>
+</li>
+</ul>
+</div>
+<div id=main>
+<div>
+<h1>Posts</h1>
+</div>
+<h2>
+<a href=/posts/2021-07-10/>Daily lobste.rs News for 2021-07-10</a>
+</h2>
+<div class=light>
+<span>10 Jul 2021</span> -
+<span>1 minute read</span>
+</div>
+<div class="small light">
+</div>
+<div>
+<p><ul>
+<li>
+<p><a href=http://catern.com/caternetes.html>No more DSLs: Implement and deploy a distributed system with a single program</a>
+<a href=https://lobste.rs/s/yf2k8f/no_more_dsls_implement_deploy>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://danielbmarkham.com/fsharp-is-the-best-programming-language-today/>F# Is The Best Programming Language Today</a>
+<a href=https://lobste.rs/s/kc54qh/f_is_best_programming_language_today>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://github.com/not-an-aardvark/every-git-commit-shorthash>A Git repository with 2^28 commits—one for every 7-character shorthash</a>
+<a href=https://lobste.rs/s/j8daok/git_repository_with_2_28_commits_one_for>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://blog.teddykatz.com/2019/11/12/github-actions-dos.html>How I accidentally took down GitHub Actions</a>
+<a href=https://lobste.rs/s/88ft98/how_i_accidentally_took_down_github>(comments)</a></p>
+</li>
+<li>
+<p><a href=http://jackkelly.name/blog/archives/2021/07/09/free_softwares_relevance_in_2021/index.html>Free Software&rsquo;s Relevance in 2021</a>
+<a href=https://lobste.rs/s/dxtsxz/free_software_s_relevance_2021>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://deno.com/blog/deploy-beta1>Deno Deploy Beta 1</a>
+<a href=https://lobste.rs/s/awhi4s/deno_deploy_beta_1>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://icfpcontest2021.github.io/>ICFP Programming Contest 2021 is running this weekend</a>
+<a href=https://lobste.rs/s/s8d2ke/icfp_programming_contest_2021_is_running>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://www.openbsdjumpstart.org/feedback>Help me to improve OpenBSD Jumpstart</a>
+<a href=https://lobste.rs/s/zwjiwt/help_me_improve_openbsd_jumpstart>(comments)</a></p>
+</li>
+<li>
+<p><a href>What are you doing this weekend?</a>
+<a href=https://lobste.rs/s/sj59a1/what_are_you_doing_this_weekend>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://zmedley.com/tcp-proxy.html>A TCP Proxy in 30 lines of Rust</a>
+<a href=https://lobste.rs/s/swud1f/tcp_proxy_30_lines_rust>(comments)</a></p>
+</li>
+</ul>
+</p>
+</div>
+<h2>
+<a href=/posts/2021-07-09/>Daily lobste.rs News for 2021-07-09</a>
+</h2>
+<div class=light>
+<span>09 Jul 2021</span> -
+<span>1 minute read</span>
+</div>
+<div class="small light">
+</div>
+<div>
+<p><ul>
+<li>
+<p><a href=https://hg.sr.ht/~icefox/mongoose/>Mongoose: A small toy OS with no memory protection</a>
+<a href=https://lobste.rs/s/4kv3qc/mongoose_small_toy_os_with_no_memory>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://niedzejkob.p4.team/rust-np/>Compiling Rust is NP-hard</a>
+<a href=https://lobste.rs/s/ekasr1/compiling_rust_is_np_hard>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://liam-on-linux.livejournal.com/81341.html>The historical significance of DEC and the PDP-7, -8, -11 & VAX</a>
+<a href=https://lobste.rs/s/kmpnqd/historical_significance_dec_pdp_7_8_11_vax>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://datastation.multiprocess.io/blog/2021-07-08-react-without-webpack.html>React without webpack: fast path to a working app from scratch</a>
+<a href=https://lobste.rs/s/tdnvjq/react_without_webpack_fast_path_working>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://en.wikipedia.org/wiki/Leaning_toothpick_syndrome>Leaning toothpick syndrome</a>
+<a href=https://lobste.rs/s/xkkfiv/leaning_toothpick_syndrome>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://github.com/TimUntersberger/neogit>neogit: work-in-progress Magit clone for Neovim</a>
+<a href=https://lobste.rs/s/wcc6jn/neogit_work_progress_magit_clone_for>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://www.pldi21.org/prerecorded_hopl.11.html>A History of Clojure</a>
+<a href=https://lobste.rs/s/kknunh/history_clojure>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://andregarzia.com/2021/07/launching-the-mvp-for-little-webby-press.html>Launching the MVP for Little Webby Press</a>
+<a href=https://lobste.rs/s/za0osu/launching_mvp_for_little_webby_press>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://www.ctrl.blog/entry/chrome-google-dse-preconnect.html>Google’s unfair performance advantage in Chrome</a>
+<a href=https://lobste.rs/s/aj3yxt/google_s_unfair_performance_advantage>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://www.craigstuntz.com/posts/2021-07-08-how-i-made-a-giant-mistake-with-terraform.html>How I Made a Giant Mistake with Terraform (and How Azure Made It Worse)</a>
+<a href=https://lobste.rs/s/7wmbqc/how_i_made_giant_mistake_with_terraform>(comments)</a></p>
+</li>
+</ul>
+</p>
+</div>
+<h2>
+<a href=/posts/2021-07-08/>Daily lobste.rs News for 2021-07-08</a>
+</h2>
+<div class=light>
+<span>08 Jul 2021</span> -
+<span>1 minute read</span>
+</div>
+<div class="small light">
+</div>
+<div>
+<p><ul>
+<li>
+<p><a href=https://www.ctrl.blog/entry/chrome-google-dse-preconnect.html>Google’s unfair performance advantage in Chrome</a>
+<a href=https://lobste.rs/s/aj3yxt/google_s_unfair_performance_advantage>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://venthur.de/2021-06-26-python-packaging.html>The State of Python Packaging in 2021</a>
+<a href=https://lobste.rs/s/tufsem/state_python_packaging_2021>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://blog.lojic.com/2020/12/26/comprehensions-in-julia.html>Comparison of Haskell & Julia List Comprehensions</a>
+<a href=https://lobste.rs/s/6ezfpk/comparison_haskell_julia_list>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://hakibenita.com/django-nested-transaction>One Database Transaction Too Many</a>
+<a href=https://lobste.rs/s/up2qzu/one_database_transaction_too_many>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://programmingisterrible.com/post/139222674273/how-to-write-disposable-code-in-large-systems>Write code that is easy to delete, not easy to extend. (2016)</a>
+<a href=https://lobste.rs/s/rwotmb/write_code_is_easy_delete_not_easy_extend>(comments)</a></p>
+</li>
+<li>
+<p><a href=http://mail-index.netbsd.org/port-vax/2021/07/03/msg003899.html>First new vax in &mldr;30 years? :-)</a>
+<a href=https://lobste.rs/s/uf7nym/first_new_vax_30_years>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://gopiandcode.uk/logs/log-certified-synthesis.html>Goodbye C developers: The future of programming with certified program synthesis</a>
+<a href=https://lobste.rs/s/yl1klr/goodbye_c_developers_future_programming>(comments)</a></p>
+</li>
+<li>
+<p><a href=http://www.oilshell.org/blog/2021/07/release-0.8.12.html>Release of Oil 0.8.12</a>
+<a href=https://lobste.rs/s/2xhvad/release_oil_0_8_12>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://overreacted.io/npm-audit-broken-by-design/>npm audit: Broken by Design</a>
+<a href=https://lobste.rs/s/ds9uss/npm_audit_broken_by_design>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://github.com/alekcz/pcp>A Clojure processor that&rsquo;s almost a drop-in replacement for php-fpm behind Nginx</a>
+<a href=https://lobste.rs/s/mwdo3n/clojure_processor_s_almost_drop>(comments)</a></p>
+</li>
+</ul>
+</p>
+</div>
+<h2>
+<a href=/posts/2021-07-07/>Daily lobste.rs News for 2021-07-07</a>
+</h2>
+<div class=light>
+<span>07 Jul 2021</span> -
+<span>1 minute read</span>
+</div>
+<div class="small light">
+</div>
+<div>
+<p><ul>
+<li>
+<p><a href=https://github.com/temporary-audacity/audacity>Audacity-fork without telemetry/CLA is gaining traction</a>
+<a href=https://lobste.rs/s/n3ne8j/audacity_fork_without_telemetry_cla_is>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://no-color.org/>NO_COLOR: disabling ANSI color output in various Unix commands</a>
+<a href=https://lobste.rs/s/mevzfb/no_color_disabling_ansi_color_output>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://lore.kernel.org/lkml/20210704202756.29107-1-ojeda@kernel.org/>Rust support for Linux kernel</a>
+<a href=https://lobste.rs/s/f41jg3/rust_support_for_linux_kernel>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://www.possiblerust.com/guide/what-can-coerce-and-where-in-rust>What Can Coerce, and Where, in Rust</a>
+<a href=https://lobste.rs/s/slkax5/what_can_coerce_where_rust>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://consoledonottrack.com/>Console Do Not Track</a>
+<a href=https://lobste.rs/s/5dnfb9/console_do_not_track>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://github.com/rustviz/rustviz>RustViz: Generates Visualizations of Rust Lifetime and Borrowing Mechanism</a>
+<a href=https://lobste.rs/s/fr9ywf/rustviz_generates_visualizations_rust>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://mattferraro.dev/posts/poissons-equation>Poisson&rsquo;s Equation is the Most Powerful Tool not yet in your Toolbox</a>
+<a href=https://lobste.rs/s/t9y7gq/poisson_s_equation_is_most_powerful_tool>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://stealthoptional.com/news/chinas-zuchongzhi-quantum-computer-is-the-most-powerful-in-the-world/>China&rsquo;s Zuchongzhi Quantum Computer is the most powerful in the world</a>
+<a href=https://lobste.rs/s/thqeqo/china_s_zuchongzhi_quantum_computer_is>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://drossbucket.com/2021/06/30/hacker-news-folk-wisdom-on-visual-programming/>Hacker News folk wisdom on visual programming</a>
+<a href=https://lobste.rs/s/wiav9a/hacker_news_folk_wisdom_on_visual>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://felipec.wordpress.com/2021/07/05/git-update/>git update: the odyssey for a sensible git pull</a>
+<a href=https://lobste.rs/s/zqotif/git_update_odyssey_for_sensible_git_pull>(comments)</a></p>
+</li>
+</ul>
+</p>
+</div>
+<h2>
+<a href=/posts/2021-07-06/>Daily lobste.rs News for 2021-07-06</a>
+</h2>
+<div class=light>
+<span>06 Jul 2021</span> -
+<span>1 minute read</span>
+</div>
+<div class="small light">
+</div>
+<div>
+<p><ul>
+<li>
+<p><a href=https://juliareda.eu/2021/07/github-copilot-is-not-infringing-your-copyright/>GitHub Copilot is not infringing your copyright</a>
+<a href=https://lobste.rs/s/bmdesp/github_copilot_is_not_infringing_your>(comments)</a></p>
+</li>
+<li>
+<p><a href>Lobsters is Nine Today</a>
+<a href=https://lobste.rs/s/idj3tm/lobsters_is_nine_today>(comments)</a></p>
+</li>
+<li>
+<p><a href>Who&rsquo;s hiring? Q3Y2021</a>
+<a href=https://lobste.rs/s/mnmwb5/who_s_hiring_q3y2021>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://github.com/zverok/wikipedia_ql>WikipediaQL: Query language for efficient data extraction from Wikipedia (early prototype)</a>
+<a href=https://lobste.rs/s/kyjdwg/wikipediaql_query_language_for>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/>Notes on structured concurrency, or: Go statement considered harmful [2018]</a>
+<a href=https://lobste.rs/s/8msejg/notes_on_structured_concurrency_go>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://github.com/etherealmachine/entish>Entish: a datalog-like language for playing with implementing table-top RPG rules in formal logic</a>
+<a href=https://lobste.rs/s/tfckub/entish_datalog_like_language_for_playing>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://blog.joren.ga/programming/vla-bad>VLA&rsquo;s are… problematic</a>
+<a href=https://lobste.rs/s/acee5i/vla_s_are_problematic>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://rtpg.co/2021/07/05/comments-ast.html>How Black Handles Comments When Python&rsquo;s Grammar Ignores Them</a>
+<a href=https://lobste.rs/s/5tn4pd/how_black_handles_comments_when_python_s>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://gist.github.com/Phate6660/0e42fc2a5d23090276ede2af4ae50b3d>A dark userstyle for https://lobste.rs that aims to be simple and robust</a>
+<a href=https://lobste.rs/s/aaxpjx/dark_userstyle_for_https_lobste_rs_aims_be>(comments)</a></p>
+</li>
+<li>
+<p><a href=http://www.quiss.org/freespin/>Freespin - Commodore 1541 floppy drive demo</a>
+<a href=https://lobste.rs/s/whvlln/freespin_commodore_1541_floppy_drive>(comments)</a></p>
+</li>
+</ul>
+</p>
+</div>
+<h2>
+<a href=/posts/2021-07-05/>Daily lobste.rs News for 2021-07-05</a>
+</h2>
+<div class=light>
+<span>05 Jul 2021</span> -
+<span>1 minute read</span>
+</div>
+<div class="small light">
+</div>
+<div>
+<p><ul>
+<li>
+<p><a href>Lobsters is Nine Today</a>
+<a href=https://lobste.rs/s/idj3tm/lobsters_is_nine_today>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://gist.github.com/Phate6660/0e42fc2a5d23090276ede2af4ae50b3d>A dark userstyle for https://lobste.rs that aims to be simple and robust</a>
+<a href=https://lobste.rs/s/aaxpjx/dark_userstyle_for_https_lobste_rs_aims_be>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://github.com/Nudin/iptable_vis>visualise your iptables chains</a>
+<a href=https://lobste.rs/s/wsgqa4/visualise_your_iptables_chains>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://nakabonne.dev/posts/write-tsdb-from-scratch/>Write a time-series database engine from scratch</a>
+<a href=https://lobste.rs/s/8qvatg/write_time_series_database_engine_from>(comments)</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=hxM8QmyZXtg">How fast should an unoptimized terminal run?</a>
+<a href=https://lobste.rs/s/k2mjsk/how_fast_should_unoptimized_terminal_run>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://mgaudet.github.io/CompilerJobs/>CompilerJobs</a>
+<a href=https://lobste.rs/s/ly5e9j/compilerjobs>(comments)</a></p>
+</li>
+<li>
+<p><a href=http://blog.danieljanus.pl/2021/07/01/commit-groups/>Things I wish Git had: Commit groups</a>
+<a href=https://lobste.rs/s/r8wvoj/things_i_wish_git_had_commit_groups>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://sethrobertson.github.io/GitBestPractices/>Commit Often, Perfect Later, Publish Once—Git Best Practices</a>
+<a href=https://lobste.rs/s/zysbh9/commit_often_perfect_later_publish_once>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://pietromaggi.com/2021/07/04/android-screen-capture-for-dual-screen-devices/>Android Screen Capture for dual screen devices</a>
+<a href=https://lobste.rs/s/owfwhw/android_screen_capture_for_dual_screen>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://blog.davetcode.co.uk/post/21st-century-emulator/>Bringing emulation into the 21st century</a>
+<a href=https://lobste.rs/s/ey3yjo/bringing_emulation_into_21st_century>(comments)</a></p>
+</li>
+</ul>
+</p>
+</div>
+<h2>
+<a href=/posts/2021-07-04/>Daily lobste.rs News for 2021-07-04</a>
+</h2>
+<div class=light>
+<span>04 Jul 2021</span> -
+<span>1 minute read</span>
+</div>
+<div class="small light">
+</div>
+<div>
+<p><ul>
+<li>
+<p><a href>Lobsters is Nine Today</a>
+<a href=https://lobste.rs/s/idj3tm/lobsters_is_nine_today>(comments)</a></p>
+</li>
+<li>
+<p><a href=http://blog.danieljanus.pl/2021/07/01/commit-groups/>Things I wish Git had: Commit groups</a>
+<a href=https://lobste.rs/s/r8wvoj/things_i_wish_git_had_commit_groups>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://chimera-linux.org/>Chimera Linux: a Linux distribution based on FreeBSD userland and LLVM</a>
+<a href=https://lobste.rs/s/wz8jog/chimera_linux_linux_distribution_based>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://christine.website/blog/android-thoughts-2021-07-03>Thoughts About Using Android Again as an iPhone User</a>
+<a href=https://lobste.rs/s/10btuv/thoughts_about_using_android_again_as>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://ntietz.com/tech-blog/future-of-software-engineering-is-formal-methods/>Where are we going from here? Software engineering needs formal methods</a>
+<a href=https://lobste.rs/s/znuk5o/where_are_we_going_from_here_software>(comments)</a></p>
+</li>
+<li>
+<p><a href="https://devblogs.microsoft.com/typescript/?p=2999">Announcing TypeScript 4.4 Beta</a>
+<a href=https://lobste.rs/s/a0djz0/announcing_typescript_4_4_beta>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://sheep.horse/2021/6/botnets%2C_or_this_is_why_we_cannot_have_nice_things.html>Botnets, or This is Why We Cannot Have Nice Things</a>
+<a href=https://lobste.rs/s/hjaget/botnets_this_is_why_we_cannot_have_nice>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://retro.cloud/simply-integrating-svelte-in-rails/>Simply integrating Svelte into Rails</a>
+<a href=https://lobste.rs/s/6z6ei6/simply_integrating_svelte_into_rails>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://github.com/automerge/automerge>A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged</a>
+<a href=https://lobste.rs/s/urvu1p/json_like_data_structure_crdt_can_be>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://ristovski.github.io/posts/moto-sensorhub/>Reverse engineering the Motorola Sensorhub: Part 1</a>
+<a href=https://lobste.rs/s/2fmejr/reverse_engineering_motorola_sensorhub>(comments)</a></p>
+</li>
+</ul>
+</p>
+</div>
+<h2>
+<a href=/posts/2021-07-03/>Daily lobste.rs News for 2021-07-03</a>
+</h2>
+<div class=light>
+<span>03 Jul 2021</span> -
+<span>1 minute read</span>
+</div>
+<div class="small light">
+</div>
+<div>
+<p><ul>
+<li>
+<p><a href=https://sheep.horse/2021/6/botnets%2C_or_this_is_why_we_cannot_have_nice_things.html>Botnets, or This is Why We Cannot Have Nice Things</a>
+<a href=https://lobste.rs/s/hjaget/botnets_this_is_why_we_cannot_have_nice>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://sporks.space/2021/07/02/there-is-no-64-bit-type-in-c89/>There is no 64-bit type in C89</a>
+<a href=https://lobste.rs/s/z6ma3o/there_is_no_64_bit_type_c89>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://github.com/neovim/neovim/releases/tag/v0.5.0>Neovim v0.5</a>
+<a href=https://lobste.rs/s/ka1iby/neovim_v0_5>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://corecursive.com/066-sqlite-with-richard-hipp/>The Untold Story of SQLite</a>
+<a href=https://lobste.rs/s/u2xz1j/untold_story_sqlite>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://www.openbsdjumpstart.org>Full OpenBSD Startup described on slide 48</a>
+<a href=https://lobste.rs/s/fwb9lu/full_openbsd_startup_described_on_slide>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://ml.berkeley.edu/blog/posts/clip-art/>Alien Dreams: An Emerging Art Scene</a>
+<a href=https://lobste.rs/s/ulwd1k/alien_dreams_emerging_art_scene>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://stratus3d.com/blog/2021/06/28/erlang-records-vs-elixir-structs>Erlang Records vs. Elixir Structs</a>
+<a href=https://lobste.rs/s/hwtog8/erlang_records_vs_elixir_structs>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://simonwillison.net/2021/Jul/1/pagnis/>PAGNIs: Probably Are Gonna Need Its</a>
+<a href=https://lobste.rs/s/nokjr0/pagnis_probably_are_gonna_need_its>(comments)</a></p>
+</li>
+<li>
+<p><a href>What are you doing this weekend?</a>
+<a href=https://lobste.rs/s/i0gowb/what_are_you_doing_this_weekend>(comments)</a></p>
+</li>
+<li>
+<p><a href=http://www.cs.utah.edu/~mflatt/past-courses/cs6510/public_html/lispm.pdf>Architecture of LISP Machines</a>
+<a href=https://lobste.rs/s/awz1t5/architecture_lisp_machines>(comments)</a></p>
+</li>
+</ul>
+</p>
+</div>
+<h2>
+<a href=/posts/2021-07-02/>Daily lobste.rs News for 2021-07-02</a>
+</h2>
+<div class=light>
+<span>02 Jul 2021</span> -
+<span>1 minute read</span>
+</div>
+<div class="small light">
+</div>
+<div>
+<p><ul>
+<li>
+<p><a href=https://darker.ink/writings/Towards-richer-colors-on-the-Web>Towards richer colors on the Web</a>
+<a href=https://lobste.rs/s/go9whp/towards_richer_colors_on_web>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://devlog.hexops.com/2021/cla-not-for-open-source-use-a-developer-certificate-of-origin>CLAs are not for open source, use a Developer Certificate of Origin</a>
+<a href=https://lobste.rs/s/lvmb5i/clas_are_not_for_open_source_use_developer>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://github.com/TwoFX/sudoku>A sudoku game where you have to prove that your deductions are valid</a>
+<a href=https://lobste.rs/s/ky8mcs/sudoku_game_where_you_have_prove_your>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://github.com/xmake-io/xmake/wiki/xmake-v2.5.5-released,-Support-to-download-and-install-precompiled-packages>xmake v2.5.5 released, Support to download and install precompiled packages</a>
+<a href=https://lobste.rs/s/1knkwi/xmake_v2_5_5_released_support_download>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://epilys.github.io/bibliothecula/notekeeping.html>Using sqlite3 as a notekeeping document graph with automatic reference indexing</a>
+<a href=https://lobste.rs/s/yev7oa/using_sqlite3_as_notekeeping_document>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://christianheilmann.com/2021/06/30/the-unseen-benefits-of-accessibility/>The unseen benefits of accessibility</a>
+<a href=https://lobste.rs/s/zrgzuq/unseen_benefits_accessibility>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://github.com/ligurio/unreliablefs>FUSE-based file system to inject faults</a>
+<a href=https://lobste.rs/s/gxbvkj/fuse_based_file_system_inject_faults>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://belaycpp.com/2021/06/30/should-every-variable-be-const-by-default/>Should every variable be const by default?</a>
+<a href=https://lobste.rs/s/arxnqo/should_every_variable_be_const_by_default>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://blog.inkdrop.info/how-to-set-up-neovim-0-5-modern-plugins-lsp-treesitter-etc-542c3d9c9887>How to set up Neovim 0.5 + Modern plugins (LSP, Treesitter, Fuzzy finder, etc)</a>
+<a href=https://lobste.rs/s/jmyagl/how_set_up_neovim_0_5_modern_plugins_lsp>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://www.sparkfun.com/news/3917>SparkFun Hooks a Patent Troll</a>
+<a href=https://lobste.rs/s/zkgzns/sparkfun_hooks_patent_troll>(comments)</a></p>
+</li>
+</ul>
+</p>
+</div>
+<h2>
+<a href=/posts/2021-07-01/>Daily lobste.rs News for 2021-07-01</a>
+</h2>
+<div class=light>
+<span>01 Jul 2021</span> -
+<span>1 minute read</span>
+</div>
+<div class="small light">
+</div>
+<div>
+<p><ul>
+<li>
+<p><a href=https://epilys.github.io/bibliothecula/notekeeping.html>Using sqlite3 as a notekeeping document graph with automatic reference indexing</a>
+<a href=https://lobste.rs/s/yev7oa/using_sqlite3_as_notekeeping_document>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://mempko.wordpress.com/2021/06/30/bugs-faster-than-the-speed-of-thought/>Bugs Faster than the Speed of Thought</a>
+<a href=https://lobste.rs/s/bnspit/bugs_faster_than_speed_thought>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://johnmathews.eu/building-my-own-site-analytics.html>Building my own web analytics tool</a>
+<a href=https://lobste.rs/s/n65let/building_my_own_web_analytics_tool>(comments)</a></p>
+</li>
+<li>
+<p><a href="http://frogfind.com/read.php?a=https%3A%2F%2Fforums.macrumors.com%2Fthreads%2Fweb%2D1%2D1%2Dbuilding%2Dthe%2Dnew%2Dold%2Dweb.2290616%2F">Web 1.1: Building The New Old Web</a>
+<a href=https://lobste.rs/s/tb9ouq/web_1_1_building_new_old_web>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://vmssoftware.com/about/openvmsv9-1/>OpenVMS 9.1 x86 field test starts</a>
+<a href=https://lobste.rs/s/nrpiea/openvms_9_1_x86_field_test_starts>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://sobolevn.me/2021/06/typeclasses-in-python>Typeclasses in Python</a>
+<a href=https://lobste.rs/s/3eorxj/typeclasses_python>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://copilot.github.com/>GitHub Copilot · Your AI pair programmer</a>
+<a href=https://lobste.rs/s/rxml1k/github_copilot_your_ai_pair_programmer>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://github.com/ECSIM/opem>OPEM - Open Source PEM Fuel Cell Simulation Tool</a>
+<a href=https://lobste.rs/s/ljzhy0/opem_open_source_pem_fuel_cell_simulation>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://blog.pentlander.com/why-build-sasquach-lang/>Why build Sasquach lang</a>
+<a href=https://lobste.rs/s/uslklq/why_build_sasquach_lang>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://www.lawfareblog.com/dangers-posed-evidentiary-softwareand-what-do-about-it>Dangers Posed by Evidentiary Software—and What to Do About It</a>
+<a href=https://lobste.rs/s/gpppzk/dangers_posed_by_evidentiary_software>(comments)</a></p>
+</li>
+</ul>
+</p>
+</div>
+<div id=pagination>
+<a href=/posts/page/2/>&lt;</a>
 3 of 23
-<a href=/posts/page/4/>></a></div><div id=footer class="light small">© 2021 - Rohan Verma.<br>Daily top stories from lobste.rs<br>This page was generated using the <a href=https://github.com/rhnvrm/bodhi>Bodhi</a> theme for Hugo.</div></div><script>(function(e,b,f,c,a,d){b[c]=b[c]||function(){(b[c].q=b[c].q||[]).push(arguments)},a=e.createElement('script'),d=e.getElementsByTagName('script')[0],a.async=1,a.src=f,a.id='fathom-script',d.parentNode.insertBefore(a,d)})(document,window,'//fathom.rohanverma.net/tracker.js','fathom'),fathom('set','siteId','IUAMK'),fathom('trackPageview')</script></div><script>feather.replace({width:"1em",height:"1em"})</script><script src=/js/main.js></script></body></html>
+<a href=/posts/page/4/>></a>
+</div>
+<div id=footer class="light small">
+© 2021 - Rohan Verma.
+<br>
+Daily top stories from lobste.rs
+<br>
+This page was generated using the <a href=https://github.com/rhnvrm/bodhi>Bodhi</a> theme for Hugo.
+</div>
+</div>
+<script>(function(e,b,f,c,a,d){b[c]=b[c]||function(){(b[c].q=b[c].q||[]).push(arguments)},a=e.createElement('script'),d=e.getElementsByTagName('script')[0],a.async=1,a.src=f,a.id='fathom-script',d.parentNode.insertBefore(a,d)})(document,window,'//fathom.rohanverma.net/tracker.js','fathom'),fathom('set','siteId','IUAMK'),fathom('trackPageview')</script>
+</div><script>feather.replace({width:"1em",height:"1em"})</script>
+<script src=/js/main.js></script>
+</body>
+</html>

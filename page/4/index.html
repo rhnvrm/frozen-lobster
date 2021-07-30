@@ -1,119 +1,620 @@
-<!doctype html><html><head><meta name=generator content="Hugo 0.83.1"><meta charset=utf-8><title>Frozen Lobster - Preserved goodness</title><link rel=alternate type=application/rss+xml href=https://frozen-lobster.rohanverma.net/index.xml title="Frozen Lobster"><meta property="og:title" content="Frozen Lobster"><meta property="og:description" content><meta property="og:type" content="website"><meta property="og:url" content="https://frozen-lobster.rohanverma.net/"><meta name=twitter:card content="summary"><meta name=twitter:title content="Frozen Lobster"><meta name=twitter:description content><meta itemprop=name content="Frozen Lobster"><meta itemprop=description content><meta name=viewport content="width=device-width,initial-scale=1"><link rel=stylesheet href=/css/normalize.min.css><link rel=stylesheet type=text/css href=/css/style.css><link href="https://fonts.googleapis.com/css?family=Inter|Source+Serif+Pro" rel=stylesheet type=text/css><script src=https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js></script><link rel=icon sizes=any href=data:image/x-icon;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAQAAADZc7J/AAACnUlEQVRIx6XVzWtcVRjH8c/cebkJOq1gNDi1WJLWpC9YmqAUpVDRRQUXUruy1FURRP+AlLbYQB18W7vwD1BcqLjoQrSYbSHWRhiJxJQgdNTErDSTXNOZ62JeMve20zLxWVwuz/Oc7znneX7nHP6nZRAYkt/G2E1/aeQw5KzfEqHQkyoaXZ7AQfM2E1l7fGIZdjmTYu/wupzAiFNetUcg54wHUms/axe5e2zuJe8aR8WUmTvicXtpvWzYBYeFQhMueqRXWm/AqP2d/0NG+gds+LfzH1nvH/CLq60+NHzj115pvYv4j4v+9rzYdz60dm9AwY6Et2hQ0bILhvGHqOXJJrIKW4AxryRCgyZEKSFNikWJrL1bgIpPUyuIfKbe5cmKfaWmaExowYrYwBag4XYCUNdQT/ka6kZddlxexaV2iYM+Ds+g804astOzynbfr413WsmxTv4hT/UPiNv63zoJ/QGqZjqd+cmN+wnpbuIuC72gYM60W92AIAXKClKiycnKWvKWfQoWrQqaq28OPOi1RPqASVJCOirXOV6jYNyVNmDeF3hQSaRqU1HsS3WDSmJVG7JyvlZTUJJXtUbzhsq1rseaZ5wzYd0VH6iJ1Iw675jYjLIlkZqdppwQmlV2vXlDtvf+mI88J4MRt72PostOCvCEgrdRMOVNOez2kNPJNj5tUqZVrpcNY8zxVjTwon0oOdGaMOOoI0nAQFfVQ/nOt31wC8gLu/oUJgFzljoau+ZPLKh00ucsomq2o8DFdrQNWDBtXmTNt95Tw4pLZm1Yd820Vawp+15N5GfvuJlUYsPnfnDAuh8tKyJ21SmHxW641ZroutOOCFXcbKskg0e94ffUZbXXfEpI4xZST9vjPrbSfFwf3ubjupqYZHv2HylrtUljNvuGAAAAAElFTkSuQmCC></head><body><div id=header><div class=avatar><a href=https://frozen-lobster.rohanverma.net><img src=/images/lobster.jpg alt="Frozen Lobster"></a></div><a id=headerLink href=https://frozen-lobster.rohanverma.net>Frozen Lobster</a><span class=hidden> -</span>
-<span id=headerSubtitle>Preserved goodness</span></div><div id=menu><a href=https://rohanverma.net>rohanverma.net</a>
+<!doctype html><html>
+<head>
+<meta name=generator content="Hugo 0.86.0">
+<meta charset=utf-8><title>Frozen Lobster - Preserved goodness </title>
+<link rel=alternate type=application/rss+xml href=https://frozen-lobster.rohanverma.net/index.xml title="Frozen Lobster">
+<meta property="og:title" content="Frozen Lobster">
+<meta property="og:description" content>
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://frozen-lobster.rohanverma.net/">
+<meta name=twitter:card content="summary">
+<meta name=twitter:title content="Frozen Lobster">
+<meta name=twitter:description content>
+<meta itemprop=name content="Frozen Lobster">
+<meta itemprop=description content><meta name=viewport content="width=device-width,initial-scale=1">
+<link rel=stylesheet href=/css/normalize.min.css>
+<link rel=stylesheet type=text/css href=/css/style.css>
+<link href="https://fonts.googleapis.com/css?family=Inter|Source+Serif+Pro" rel=stylesheet type=text/css>
+<script src=https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js></script>
+<link rel=icon sizes=any href=data:image/x-icon;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAQAAADZc7J/AAACnUlEQVRIx6XVzWtcVRjH8c/cebkJOq1gNDi1WJLWpC9YmqAUpVDRRQUXUruy1FURRP+AlLbYQB18W7vwD1BcqLjoQrSYbSHWRhiJxJQgdNTErDSTXNOZ62JeMve20zLxWVwuz/Oc7znneX7nHP6nZRAYkt/G2E1/aeQw5KzfEqHQkyoaXZ7AQfM2E1l7fGIZdjmTYu/wupzAiFNetUcg54wHUms/axe5e2zuJe8aR8WUmTvicXtpvWzYBYeFQhMueqRXWm/AqP2d/0NG+gds+LfzH1nvH/CLq60+NHzj115pvYv4j4v+9rzYdz60dm9AwY6Et2hQ0bILhvGHqOXJJrIKW4AxryRCgyZEKSFNikWJrL1bgIpPUyuIfKbe5cmKfaWmaExowYrYwBag4XYCUNdQT/ka6kZddlxexaV2iYM+Ds+g804astOzynbfr413WsmxTv4hT/UPiNv63zoJ/QGqZjqd+cmN+wnpbuIuC72gYM60W92AIAXKClKiycnKWvKWfQoWrQqaq28OPOi1RPqASVJCOirXOV6jYNyVNmDeF3hQSaRqU1HsS3WDSmJVG7JyvlZTUJJXtUbzhsq1rseaZ5wzYd0VH6iJ1Iw675jYjLIlkZqdppwQmlV2vXlDtvf+mI88J4MRt72PostOCvCEgrdRMOVNOez2kNPJNj5tUqZVrpcNY8zxVjTwon0oOdGaMOOoI0nAQFfVQ/nOt31wC8gLu/oUJgFzljoau+ZPLKh00ucsomq2o8DFdrQNWDBtXmTNt95Tw4pLZm1Yd820Vawp+15N5GfvuJlUYsPnfnDAuh8tKyJ21SmHxW641ZroutOOCFXcbKskg0e94ffUZbXXfEpI4xZST9vjPrbSfFwf3ubjupqYZHv2HylrtUljNvuGAAAAAElFTkSuQmCC>
+</head>
+<body>
+<div id=header>
+<div class=avatar>
+<a href=https://frozen-lobster.rohanverma.net>
+<img src=/images/lobster.jpg alt="Frozen Lobster">
+</a>
+</div>
+<a id=headerLink href=https://frozen-lobster.rohanverma.net>Frozen Lobster</a><span class=hidden> - </span>
+<span id=headerSubtitle>Preserved goodness</span></div>
+<div id=menu>
+<a href=https://rohanverma.net>rohanverma.net</a>
 <a href=https://lobste.rs>lobste.rs</a>
-<span class=right><a href=/index.xml title="RSS Feed"><i data-feather=rss></i>
-</a><a onclick="toggleTheme('dark')"><i data-feather=moon></i></a>
-<a onclick="toggleTheme('light')"><i data-feather=sun></i></a>
-<a href=/search>search<svg aria-hidden="true" class="i-search" viewBox="0 0 32 32" width="10" height="10" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"><circle cx="14" cy="14" r="12"/><path d="M23 23l7 7"/></svg></a></span></div><div id=content><div id=nav><ul><li><a href=/archive><span>archives</span></a></li></ul><ul><li><a href=/posts><span>posts</span></a></li></ul></div><div id=main><h2><a href=/posts/2021-06-29/>Daily lobste.rs News for 2021-06-29</a></h2><div class=light><span>29 Jun 2021</span> -
-<span>1 minute read</span></div><div class="small light"></div><div><p><ul><li><p><a href=https://www.usenix.org/system/files/conference/hotos15/hotos15-paper-mcsherry.pdf>Scalability! But at what COST? (2015)</a>
-<a href=https://lobste.rs/s/z5fcjz/scalability_at_what_cost_2015>(comments)</a></p></li><li><p><a href=http://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/>Parse, don’t validate (2019)</a>
-<a href=https://lobste.rs/s/ot2mea/parse_don_t_validate_2019>(comments)</a></p></li><li><p><a href>For those familiar with Go and (cargo | npm | etc) how is &ldquo;minimal version selection&rdquo; working out?</a>
-<a href=https://lobste.rs/s/8bczn4/for_those_familiar_with_go_cargo_npm_etc>(comments)</a></p></li><li><p><a href=https://jsisweird.com/>JS is weird</a>
-<a href=https://lobste.rs/s/5r0aix/js_is_weird>(comments)</a></p></li><li><p><a href=https://alex.dzyoba.com/blog/nginx-features-for-operators/>Nice nginx features for operators</a>
-<a href=https://lobste.rs/s/hmu4ot/nice_nginx_features_for_operators>(comments)</a></p></li><li><p><a href=https://sequoia-pgp.org/blog/2021/06/28/202106-hey-signal-great-encryption-needs-great-authentication/>Hey Signal! Great Encryption Needs Great Authentication</a>
-<a href=https://lobste.rs/s/wtshp3/hey_signal_great_encryption_needs_great>(comments)</a></p></li><li><p><a href=https://raymii.org/s/blog/Firefox-89-proton-ui-tab-styling.html>Firefox 89 Proton UI Tab Styling</a>
-<a href=https://lobste.rs/s/vawi9i/firefox_89_proton_ui_tab_styling>(comments)</a></p></li><li><p><a href=https://pijul.org/posts/2021-06-28-two-changes/>Two changes to changes</a>
-<a href=https://lobste.rs/s/f60xc2/two_changes_changes>(comments)</a></p></li><li><p><a href>What are you doing this week?</a>
-<a href=https://lobste.rs/s/8ouedq/what_are_you_doing_this_week>(comments)</a></p></li><li><p><a href=https://2ality.com/2021/06/temporal-api.html>Temporal: getting started with JavaScript’s new date time API</a>
-<a href=https://lobste.rs/s/d5aird/temporal_getting_started_with>(comments)</a></p></li></ul></p></div><h2><a href=/posts/2021-06-28/>Daily lobste.rs News for 2021-06-28</a></h2><div class=light><span>28 Jun 2021</span> -
-<span>1 minute read</span></div><div class="small light"></div><div><p><ul><li><p><a href=https://raymii.org/s/blog/Firefox-89-proton-ui-tab-styling.html>Firefox 89 Proton UI Tab Styling</a>
-<a href=https://lobste.rs/s/vawi9i/firefox_89_proton_ui_tab_styling>(comments)</a></p></li><li><p><a href=https://mgdm.net/weblog/systemd/>Avoiding complexity with systemd</a>
-<a href=https://lobste.rs/s/xxyjxl/avoiding_complexity_with_systemd>(comments)</a></p></li><li><p><a href=https://xenodium.com/emacs-smarter-search-and-replace>Emacs: smarter search and replace</a>
-<a href=https://lobste.rs/s/lrpbmh/emacs_smarter_search_replace>(comments)</a></p></li><li><p><a href=https://dodisturb.me/posts/2021-06-27-Typed-Programs-Dont-Leak-Data.html>Typed Programs Don&rsquo;t Leak Data</a>
-<a href=https://lobste.rs/s/3vyuwa/typed_programs_don_t_leak_data>(comments)</a></p></li><li><p><a href="https://spritesmods.com/?art=dmgplus">DMGPlus</a>
-<a href=https://lobste.rs/s/vaklv4/dmgplus>(comments)</a></p></li><li><p><a href=https://v.trp.gr/posts/c-to-wasm-for-lazy-people/>C to Wasm for Lazy People</a>
-<a href=https://lobste.rs/s/7cvqza/c_wasm_for_lazy_people>(comments)</a></p></li><li><p><a href=http://oldvcr.blogspot.com/2021/06/the-parallel-universe-of-firewire-hubs.html>The parallel universe of FireWire hubs</a>
-<a href=https://lobste.rs/s/vheyvm/parallel_universe_firewire_hubs>(comments)</a></p></li><li><p><a href=https://thevaluable.dev/vim-veteran/>A Vim Guide For Veteran Users</a>
-<a href=https://lobste.rs/s/wvm6vx/vim_guide_for_veteran_users>(comments)</a></p></li><li><p><a href=https://multilogin.com/why-mimicking-a-device-is-almost-impossible/>Why mimicking a device is becoming almost impossible</a>
-<a href=https://lobste.rs/s/vd19ta/why_mimicking_device_is_becoming_almost>(comments)</a></p></li><li><p><a href=https://sabotage-linux.neocities.org/blog/11/>10 years Sabotage Linux - The history of the first musl-based distro</a>
-<a href=https://lobste.rs/s/jlon3q/10_years_sabotage_linux_history_first>(comments)</a></p></li></ul></p></div><h2><a href=/posts/2021-06-27/>Daily lobste.rs News for 2021-06-27</a></h2><div class=light><span>27 Jun 2021</span> -
-<span>1 minute read</span></div><div class="small light"></div><div><p><ul><li><p><a href=https://www.anthropicstudios.com/2021/06/25/when-to-rewrite/>When To Rewrite</a>
-<a href=https://lobste.rs/s/63eb9g/when_rewrite>(comments)</a></p></li><li><p><a href=https://ols.wtf/2021/05/28/dev-greet-invading-kernel-space.html>/dev/greet: Invading Kernel Space</a>
-<a href=https://lobste.rs/s/g3t8ky/dev_greet_invading_kernel_space>(comments)</a></p></li><li><p><a href=http://blog.cleancoder.com/uncle-bob/2021/06/25/OnTypes.html>On Types</a>
-<a href=https://lobste.rs/s/9rrxbh/on_types>(comments)</a></p></li><li><p><a href=https://ariadne.space/2021/06/25/understanding-thread-stack-sizes-and-how-alpine-is-different/>understanding thread stack sizes and how alpine is different</a>
-<a href=https://lobste.rs/s/ms3nsg/understanding_thread_stack_sizes_how>(comments)</a></p></li><li><p><a href=https://blog.nelhage.com/post/reflections-on-performance/>Reflections on software performance</a>
-<a href=https://lobste.rs/s/rxvz2a/reflections_on_software_performance>(comments)</a></p></li><li><p><a href=https://stats.stackexchange.com/questions/445578/how-do-dags-help-to-reduce-bias-in-causal-inference>How do DAGs help to reduce bias in causal inference?</a>
-<a href=https://lobste.rs/s/oihbyd/how_do_dags_help_reduce_bias_causal>(comments)</a></p></li><li><p><a href=https://engineering.fb.com/2021/05/13/data-center-engineering/bgp/>Running BGP in large-scale data centers</a>
-<a href=https://lobste.rs/s/yrwfmt/running_bgp_large_scale_data_centers>(comments)</a></p></li><li><p><a href=https://www.dedoimedo.com/computers/interview-kde-team-ng.html>Dedoimedo interviews: KDE&rsquo;s pointiest stick, Nate Graham</a>
-<a href=https://lobste.rs/s/o1drq1/dedoimedo_interviews_kde_s_pointiest>(comments)</a></p></li><li><p><a href=https://utcc.utoronto.ca/~cks/space/blog/programming/GoAndDeprecatingGoGet>Go 1.17 is deprecating the traditional use of &lsquo;go get&rsquo;</a>
-<a href=https://lobste.rs/s/jb9mho/go_1_17_is_deprecating_traditional_use_go>(comments)</a></p></li><li><p><a href=https://github.com/claffin/cloudproxy>cloudproxy - hide your scrapers IP behind the cloud</a>
-<a href=https://lobste.rs/s/wr7l7h/cloudproxy_hide_your_scrapers_ip_behind>(comments)</a></p></li></ul></p></div><h2><a href=/posts/2021-06-26/>Daily lobste.rs News for 2021-06-26</a></h2><div class=light><span>26 Jun 2021</span> -
-<span>1 minute read</span></div><div class="small light"></div><div><p><ul><li><p><a href=https://utcc.utoronto.ca/~cks/space/blog/programming/GoAndDeprecatingGoGet>Go 1.17 is deprecating the traditional use of &lsquo;go get&rsquo;</a>
-<a href=https://lobste.rs/s/jb9mho/go_1_17_is_deprecating_traditional_use_go>(comments)</a></p></li><li><p><a href=https://github.com/MichalStrehovsky/bflat>C# as you know it but with Go-inspired tooling that produces small, selfcontained, and native exes</a>
-<a href=https://lobste.rs/s/opremg/c_as_you_know_it_with_go_inspired_tooling>(comments)</a></p></li><li><p><a href>sks-keyservers pool DNS records to be disabled effective immediately</a>
-<a href=https://lobste.rs/s/jupgda/sks_keyservers_pool_dns_records_be>(comments)</a></p></li><li><p><a href=https://ianopolous.peergos.me/maths/surreal>Surreal numbers</a>
-<a href=https://lobste.rs/s/krpkaq/surreal_numbers>(comments)</a></p></li><li><p><a href=https://gir.st/blog/greenpass.html>What&rsquo;s Inside the EU Green Pass QR Code?</a>
-<a href=https://lobste.rs/s/mgeay3/what_s_inside_eu_green_pass_qr_code>(comments)</a></p></li><li><p><a href=https://github.com/abbbi/nullfsvfs>a virtual file system that behaves like /dev/null</a>
-<a href=https://lobste.rs/s/v8fhsj/virtual_file_system_behaves_like_dev_null>(comments)</a></p></li><li><p><a href>What are you doing this weekend?</a>
-<a href=https://lobste.rs/s/gkdlz0/what_are_you_doing_this_weekend>(comments)</a></p></li><li><p><a href=https://gtk-rs.org/blog/2021/06/22/new-release.html>Here comes the 4 – gtk-rs</a>
-<a href=https://lobste.rs/s/gtkn5t/here_comes_4_gtk_rs>(comments)</a></p></li><li><p><a href=http://www.cmyr.net/blog/keypaths.html>Type-checked keypaths in Rust</a>
-<a href=https://lobste.rs/s/z7nqc2/type_checked_keypaths_rust>(comments)</a></p></li><li><p><a href=https://utcc.utoronto.ca/~cks/space/blog/programming/ProgramBehaviorAndBugs>What is and isn&rsquo;t a bug in software (2015)</a>
-<a href=https://lobste.rs/s/eir3yl/what_is_isn_t_bug_software_2015>(comments)</a></p></li></ul></p></div><h2><a href=/posts/2021-06-25/>Daily lobste.rs News for 2021-06-25</a></h2><div class=light><span>25 Jun 2021</span> -
-<span>1 minute read</span></div><div class="small light"></div><div><p><ul><li><p><a href=https://github.com/Tyruiop/syncretism>Syncretism, an option search engine in Clojure</a>
-<a href=https://lobste.rs/s/q1ox1y/syncretism_option_search_engine_clojure>(comments)</a></p></li><li><p><a href=https://martinfowler.com/articles/patterns-of-distributed-systems/lamport-clock.html>Lamport Clock</a>
-<a href=https://lobste.rs/s/kilnds/lamport_clock>(comments)</a></p></li><li><p><a href=http://www.oftenpaper.net/sierpinski.htm>Constructing the Sierpinski triangle</a>
-<a href=https://lobste.rs/s/pjetp7/constructing_sierpinski_triangle>(comments)</a></p></li><li><p><a href=https://www.cs.cornell.edu/~asampson/media/papers/reticle-pldi2021.pdf>Reticle: A Virtual Machine for Programming Modern FPGAs</a>
-<a href=https://lobste.rs/s/rojw7d/reticle_virtual_machine_for_programming>(comments)</a></p></li><li><p><a href=https://kn100.me/turning-upnp-off/>Ok, Ok, I&rsquo;m Turning uPnP off</a>
-<a href=https://lobste.rs/s/rjvahu/ok_ok_i_m_turning_upnp_off>(comments)</a></p></li><li><p><a href>What email client do you use?</a>
-<a href=https://lobste.rs/s/0c0tvx/what_email_client_do_you_use>(comments)</a></p></li><li><p><a href=https://boyter.org/posts/useful-bootstrap-for-go-projects/>Useful bootstrap checklist for Go Projects</a>
-<a href=https://lobste.rs/s/fnjpkg/useful_bootstrap_checklist_for_go>(comments)</a></p></li><li><p><a href=https://blog.system76.com/post/654884924769370112/developing-games-on-linux-an-interview-with>Developing Games on Linux: An Interview with Little Red Dog Games</a>
-<a href=https://lobste.rs/s/wybayk/developing_games_on_linux_interview_with>(comments)</a></p></li><li><p><a href=https://bert.org/2021/06/23/vaccination-paywalls/>Vaccination Paywalls</a>
-<a href=https://lobste.rs/s/lch2ly/vaccination_paywalls>(comments)</a></p></li><li><p><a href=https://lwn.net/SubscriberLink/860607/6ee772207c6ce7c3/>Pulling GitHub into the kernel process</a>
-<a href=https://lobste.rs/s/pudrfl/pulling_github_into_kernel_process>(comments)</a></p></li></ul></p></div><h2><a href=/posts/2021-06-24/>Daily lobste.rs News for 2021-06-24</a></h2><div class=light><span>24 Jun 2021</span> -
-<span>1 minute read</span></div><div class="small light"></div><div><p><ul><li><p><a href=https://bert.org/2021/06/23/vaccination-paywalls/>Vaccination Paywalls</a>
-<a href=https://lobste.rs/s/lch2ly/vaccination_paywalls>(comments)</a></p></li><li><p><a href>What email client do you use?</a>
-<a href=https://lobste.rs/s/0c0tvx/what_email_client_do_you_use>(comments)</a></p></li><li><p><a href=https://venam.nixers.net/blog/unix/2021/06/23/pipewire-under-the-hood.html>PipeWire Under The Hood</a>
-<a href=https://lobste.rs/s/dpqho7/pipewire_under_hood>(comments)</a></p></li><li><p><a href=https://www.idris-lang.org/idris-2-version-040-released.html>Idris 2 version 0.4.0 released</a>
-<a href=https://lobste.rs/s/y8e8e7/idris_2_version_0_4_0_released>(comments)</a></p></li><li><p><a href=https://pragmaticpineapple.com/four-useful-fzf-tricks-for-your-terminal/>4 Useful fzf Tricks for Your Terminal</a>
-<a href=https://lobste.rs/s/3zdrfd/4_useful_fzf_tricks_for_your_terminal>(comments)</a></p></li><li><p><a href=https://elisabethirgens.github.io/notes/2021/06/code-reviews/>Why I Won’t Approve Your PR</a>
-<a href=https://lobste.rs/s/56boie/why_i_won_t_approve_your_pr>(comments)</a></p></li><li><p><a href=https://stitcher.io/blog/opinion-driven-design>Opinion-driven design</a>
-<a href=https://lobste.rs/s/kx1hes/opinion_driven_design>(comments)</a></p></li><li><p><a href=https://neotron-compute.github.io/Neotron-Book/index.html>Neotron - The Embedded Rust Home Computer Platform</a>
-<a href=https://lobste.rs/s/onp8qi/neotron_embedded_rust_home_computer>(comments)</a></p></li><li><p><a href=https://arstechnica.com/gadgets/2021/06/counterfeit-pypi-packages-with-5000-downloads-installed-cryptominers/>Cryptocurrency Miners are Typosquatting in PyPI to Distrubute Malware</a>
-<a href=https://lobste.rs/s/o7yofg/cryptocurrency_miners_are>(comments)</a></p></li><li><p><a href=https://freshman.tech/philosophy-of-software-design-summary/>Book summary: A Philosophy of Software Design</a>
-<a href=https://lobste.rs/s/wkjpoq/book_summary_philosophy_software_design>(comments)</a></p></li></ul></p></div><h2><a href=/posts/2021-06-23/>Daily lobste.rs News for 2021-06-23</a></h2><div class=light><span>23 Jun 2021</span> -
-<span>1 minute read</span></div><div class="small light"></div><div><p><ul><li><p><a href=https://adam.nels.onl/blog/parentheses-are-just-typechecking/>Parentheses Are Just Typechecking</a>
-<a href=https://lobste.rs/s/sgug9k/parentheses_are_just_typechecking>(comments)</a></p></li><li><p><a href=https://wiki.debian.org/Teams/Apt/Spec/AptSign>Ditching OpenPGP, a new approach to signing APT repositories</a>
-<a href=https://lobste.rs/s/sraszh/ditching_openpgp_new_approach_signing>(comments)</a></p></li><li><p><a href=https://lwn.net/Articles/857599/>Rewriting the GNU Coreutils in Rust</a>
-<a href=https://lobste.rs/s/m0npll/rewriting_gnu_coreutils_rust>(comments)</a></p></li><li><p><a href=https://travisdowns.github.io/blog/2021/06/17/rip-zero-opt.html>Your CPU May Have Slowed Down on Wednesday</a>
-<a href=https://lobste.rs/s/svtzet/your_cpu_may_have_slowed_down_on_wednesday>(comments)</a></p></li><li><p><a href=https://nyxt.atlas.engineer/article/release-2.1.0.org>Nyxt 2.1.0</a>
-<a href=https://lobste.rs/s/m529xf/nyxt_2_1_0>(comments)</a></p></li><li><p><a href=https://downtimeproject.com/podcast/7-lessons-from-10-outages/>Seven lessons from Ten Outages</a>
-<a href=https://lobste.rs/s/rxd8mo/seven_lessons_from_ten_outages>(comments)</a></p></li><li><p><a href=https://medium.com/erlang-battleground/spot-the-difference-733a5c2fce77>Spot the Difference</a>
-<a href=https://lobste.rs/s/zodobv/spot_difference>(comments)</a></p></li><li><p><a href=https://instadeq.com/blog/posts/past-futures-of-programming-general-magic-telescript/>Past Futures of Programming: General Magic&rsquo;s Telescript</a>
-<a href=https://lobste.rs/s/sbfpkg/past_futures_programming_general_magic_s>(comments)</a></p></li><li><p><a href=https://thakeenathees.github.io/pocketlang/>PocketLang - a small, fast and friendly language for scripting and embedding</a>
-<a href=https://lobste.rs/s/g8ossq/pocketlang_small_fast_friendly_language>(comments)</a></p></li><li><p><a href=https://pypi.org/project/docker-harbormaster/>I wanted an easy way to automatically deploy Docker Compose apps so I made one: Harbormaster</a>
-<a href=https://lobste.rs/s/y50e5c/i_wanted_easy_way_automatically_deploy>(comments)</a></p></li></ul></p></div><h2><a href=/posts/2021-06-22/>Daily lobste.rs News for 2021-06-22</a></h2><div class=light><span>22 Jun 2021</span> -
-<span>1 minute read</span></div><div class="small light"></div><div><p><ul><li><p><a href>What&rsquo;s your preferred tool for load testing?</a>
-<a href=https://lobste.rs/s/mqxwuc/what_s_your_preferred_tool_for_load>(comments)</a></p></li><li><p><a href=https://lwn.net/Articles/857599/>Rewriting the GNU Coreutils in Rust</a>
-<a href=https://lobste.rs/s/m0npll/rewriting_gnu_coreutils_rust>(comments)</a></p></li><li><p><a href=https://xenodium.com/previewing-swiftui-layouts-in-emacs-revisited>Previewing SwiftUI layouts in Emacs (revisited)</a>
-<a href=https://lobste.rs/s/y6kjnd/previewing_swiftui_layouts_emacs>(comments)</a></p></li><li><p><a href=https://dbohdan.com/wiki/jpeg-xl?>JPEG XL would be Turing-complete</a>
-<a href=https://lobste.rs/s/80eg7v/jpeg_xl_would_be_turing_complete>(comments)</a></p></li><li><p><a href>What are you doing this week?</a>
-<a href=https://lobste.rs/s/jxylf8/what_are_you_doing_this_week>(comments)</a></p></li><li><p><a href=https://openjdk.java.net/jeps/411>JEP 411: Deprecate the Security Manager for Removal</a>
-<a href=https://lobste.rs/s/jcnzn7/jep_411_deprecate_security_manager_for>(comments)</a></p></li><li><p><a href=https://discourse.nixos.org/t/nixos-unstable-s-iso-minimal-x86-64-linux-is-100-reproducible/13723>Nixos-unstable’s iso_minimal.x86_64-linux is 100% reproducible</a>
-<a href=https://lobste.rs/s/aflz6w/nixos_unstable_s_iso_minimal_x86_64_linux>(comments)</a></p></li><li><p><a href=https://blog.jak-linux.org/2021/06/20/migrating-away-apt-key/>Migrating away from apt-key</a>
-<a href=https://lobste.rs/s/seyy8l/migrating_away_from_apt_key>(comments)</a></p></li><li><p><a href=https://www.hillelwayne.com/post/crossover-project/are-we-really-engineers/>Are We Really Engineers?</a>
-<a href=https://lobste.rs/s/lmvroa/are_we_really_engineers>(comments)</a></p></li><li><p><a href=https://blog.dave.tf/post/finding-bottom-turtle/>Finding the Bottom Turtle</a>
-<a href=https://lobste.rs/s/tjjm5n/finding_bottom_turtle>(comments)</a></p></li></ul></p></div><h2><a href=/posts/2021-06-21/>Daily lobste.rs News for 2021-06-21</a></h2><div class=light><span>21 Jun 2021</span> -
-<span>1 minute read</span></div><div class="small light"></div><div><p><ul><li><p><a href=https://blog.chichou.me/2021/06/20/quick-analysis-wifid/>Quick Analysis for the SSID Format String Bug</a>
-<a href=https://lobste.rs/s/yklnww/quick_analysis_for_ssid_format_string_bug>(comments)</a></p></li><li><p><a href=https://9to5mac.com/2021/06/19/a-specific-network-name-can-completely-disable-wi-fi-on-your-iphone/>“%p%s%s%s%s%n” breaks Wi-Fi on iPhones</a>
-<a href=https://lobste.rs/s/pxbgpu/p_s_s_s_s_n_breaks_wi_fi_on_iphones>(comments)</a></p></li><li><p><a href=https://adol.pw/2021/06/20/ethics-using-analytics/>On ethics using analytics</a>
-<a href=https://lobste.rs/s/u5uvkw/on_ethics_using_analytics>(comments)</a></p></li><li><p><a href=https://discourse.nixos.org/t/nixos-unstable-s-iso-minimal-x86-64-linux-is-100-reproducible/13723>Nixos-unstable’s iso_minimal.x86_64-linux is 100% reproducible</a>
-<a href=https://lobste.rs/s/aflz6w/nixos_unstable_s_iso_minimal_x86_64_linux>(comments)</a></p></li><li><p><a href=https://www.michaelnygard.com/blog/2021/06/counterfactuals-are-not-causality/>Counterfactuals are not Causality</a>
-<a href=https://lobste.rs/s/pxacn0/counterfactuals_are_not_causality>(comments)</a></p></li><li><p><a href=https://eta.st/2021/06/20/showtime.html>Sending audio to LKV373 HDMI extenders</a>
-<a href=https://lobste.rs/s/mntdzw/sending_audio_lkv373_hdmi_extenders>(comments)</a></p></li><li><p><a href=https://en.jeffprod.com/blog/2021/how-to-clone-a-pc-and-boot-it-into-a-virtual-machine/>How to clone a PC and boot it into a virtual machine</a>
-<a href=https://lobste.rs/s/mw38ei/how_clone_pc_boot_it_into_virtual_machine>(comments)</a></p></li><li><p><a href=https://nadim.computer/posts/2021-06-20-piccolo.html>Adventures in Writing Othello Software for iOS and macOS</a>
-<a href=https://lobste.rs/s/whej7h/adventures_writing_othello_software_for>(comments)</a></p></li><li><p><a href>Have you ever had/given a really good interview?</a>
-<a href=https://lobste.rs/s/1bwpi8/have_you_ever_had_given_really_good>(comments)</a></p></li><li><p><a href=https://xenodium.com/yasnippet-in-emacs-eshell>Blurring the lines between shell and editor</a>
-<a href=https://lobste.rs/s/gbjp09/blurring_lines_between_shell_editor>(comments)</a></p></li></ul></p></div><h2><a href=/posts/2021-06-20/>Daily lobste.rs News for 2021-06-20</a></h2><div class=light><span>20 Jun 2021</span> -
-<span>1 minute read</span></div><div class="small light"></div><div><p><ul><li><p><a href=https://xenodium.com/yasnippet-in-emacs-eshell>Blurring the lines between shell and editor</a>
-<a href=https://lobste.rs/s/gbjp09/blurring_lines_between_shell_editor>(comments)</a></p></li><li><p><a href=https://figbert.com/posts/wrong-way-to-switch-server-os/>The Wrong Way to Switch Operating Systems on Your Server</a>
-<a href=https://lobste.rs/s/ofcfbq/wrong_way_switch_operating_systems_on>(comments)</a></p></li><li><p><a href=https://www.darkcoding.net/software/a-day-in-the-life-of-a-professional-software-engineer/>A day in the life of a professional software engineer</a>
-<a href=https://lobste.rs/s/ezjgxt/day_life_professional_software_engineer>(comments)</a></p></li><li><p><a href=https://hohlerde.org/rauch/en/elektronik/projekte/tpkbd-fix/>Reverse engineering and fixing a bug in the firmware of a &ldquo;ThinkPad Compact USB Keyboard with TrackPoint&rdquo;</a>
-<a href=https://lobste.rs/s/jft8ry/reverse_engineering_fixing_bug_firmware>(comments)</a></p></li><li><p><a href=https://github.com/dertuxmalwieder/yaydl>youtube-dl alternative in Rust</a>
-<a href=https://lobste.rs/s/tisktj/youtube_dl_alternative_rust>(comments)</a></p></li><li><p><a href=https://maddy.email>Maddy: Composable all-in-one mail server</a>
-<a href=https://lobste.rs/s/fulaq1/maddy_composable_all_one_mail_server>(comments)</a></p></li><li><p><a href=https://ntdotdev.wordpress.com/2021/02/06/state-of-the-windows-how-many-layers-of-ui-inconsistencies-are-in-windows-10/>State of the Windows: How many layers of UI inconsistencies are in Windows 10?</a>
-<a href=https://lobste.rs/s/fg6256/state_windows_how_many_layers_ui>(comments)</a></p></li><li><p><a href=https://gemini.spam.works/~/emery/sigil-report.gmi>Sigil OS post-mortem report</a>
-<a href=https://lobste.rs/s/7cne2p/sigil_os_post_mortem_report>(comments)</a></p></li><li><p><a href=https://michaelweinberg.org/blog/2021/06/17/licenses-and-social-norms/>Licenses Alone Do Not Govern Behavior in Open Source</a>
-<a href=https://lobste.rs/s/n5c132/licenses_alone_do_not_govern_behavior>(comments)</a></p></li><li><p><a href=https://devblog.blackberry.com/en/2021/05/learning-to-love-a-rigid-and-inflexible-language>Learning to Love a Rigid and Inflexible Language</a>
-<a href=https://lobste.rs/s/0twona/learning_love_rigid_inflexible_language>(comments)</a></p></li></ul></p></div><div id=pagination><a href=/page/3/>&lt;</a>
+<span class=right>
+<a href=/index.xml title="RSS Feed">
+<i data-feather=rss></i>
+</a><a onclick="toggleTheme('dark')">
+<i data-feather=moon></i>
+</a>
+<a onclick="toggleTheme('light')">
+<i data-feather=sun></i>
+</a>
+<a href=/search>search<svg aria-hidden="true" class="i-search" viewBox="0 0 32 32" width="10" height="10" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"><circle cx="14" cy="14" r="12"/><path d="M23 23l7 7"/></svg></a>
+</span>
+</div>
+<div id=content>
+<div id=nav>
+<ul>
+<li>
+<a href=/archive>
+<span>archives </span>
+</a>
+</li>
+</ul>
+<ul>
+<li>
+<a href=/posts>
+<span>posts </span>
+</a>
+</li>
+</ul>
+</div>
+<div id=main>
+<h2>
+<a href=/posts/2021-06-30/>Daily lobste.rs News for 2021-06-30</a>
+</h2>
+<div class=light>
+<span>30 Jun 2021</span> -
+<span>1 minute read</span>
+</div>
+<div class="small light">
+</div>
+<div>
+<p><ul>
+<li>
+<p><a href=https://copilot.github.com/>GitHub Copilot · Your AI pair programmer</a>
+<a href=https://lobste.rs/s/rxml1k/github_copilot_your_ai_pair_programmer>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://blog.pentlander.com/why-build-sasquach-lang/>Why build Sasquach lang</a>
+<a href=https://lobste.rs/s/uslklq/why_build_sasquach_lang>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://blog.newsblur.com/2021/06/28/story-of-a-hacking/>How a Docker footgun led to a vandal deleting NewsBlur’s MongoDB database</a>
+<a href=https://lobste.rs/s/if526o/how_docker_footgun_led_vandal_deleting>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://blog.dijit.sh/devops-confusion-and-frustration>DevOps; a decade of confusion and frustration</a>
+<a href=https://lobste.rs/s/tudiy3/devops_decade_confusion_frustration>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://sequoia-pgp.org/blog/2021/06/29/202106-yes-we-want-cryptographic-protection-for-email/>Yes, We Want Cryptographic Protection for Email</a>
+<a href=https://lobste.rs/s/projzj/yes_we_want_cryptographic_protection_for>(comments)</a></p>
+</li>
+<li>
+<p><a href>For those familiar with Go and (cargo | npm | etc) how is &ldquo;minimal version selection&rdquo; working out?</a>
+<a href=https://lobste.rs/s/8bczn4/for_those_familiar_with_go_cargo_npm_etc>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://soatok.blog/2021/06/02/why-furries-make-excellent-hackers/>Why Furries Make Excellent Hackers</a>
+<a href=https://lobste.rs/s/apl5u6/why_furries_make_excellent_hackers>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://nullprogram.com/blog/2017/10/06/>A Branchless UTF-8 Decoder (2017)</a>
+<a href=https://lobste.rs/s/camw2j/branchless_utf_8_decoder_2017>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://github.com/irsl/gcp-dhcp-takeover-code-exec>Remote Root to GCP</a>
+<a href=https://lobste.rs/s/uypjbg/remote_root_gcp>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://sequentialread.com/building-a-spatial-index-supporting-range-query-using-space-filling-hilbert-curve/>Building a Spatial Index Supporting Rectangular Range Query using Hilbert Curve</a>
+<a href=https://lobste.rs/s/h9pvmp/building_spatial_index_supporting>(comments)</a></p>
+</li>
+</ul>
+</p>
+</div>
+<h2>
+<a href=/posts/2021-06-29/>Daily lobste.rs News for 2021-06-29</a>
+</h2>
+<div class=light>
+<span>29 Jun 2021</span> -
+<span>1 minute read</span>
+</div>
+<div class="small light">
+</div>
+<div>
+<p><ul>
+<li>
+<p><a href=https://www.usenix.org/system/files/conference/hotos15/hotos15-paper-mcsherry.pdf>Scalability! But at what COST? (2015)</a>
+<a href=https://lobste.rs/s/z5fcjz/scalability_at_what_cost_2015>(comments)</a></p>
+</li>
+<li>
+<p><a href=http://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/>Parse, don’t validate (2019)</a>
+<a href=https://lobste.rs/s/ot2mea/parse_don_t_validate_2019>(comments)</a></p>
+</li>
+<li>
+<p><a href>For those familiar with Go and (cargo | npm | etc) how is &ldquo;minimal version selection&rdquo; working out?</a>
+<a href=https://lobste.rs/s/8bczn4/for_those_familiar_with_go_cargo_npm_etc>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://jsisweird.com/>JS is weird</a>
+<a href=https://lobste.rs/s/5r0aix/js_is_weird>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://alex.dzyoba.com/blog/nginx-features-for-operators/>Nice nginx features for operators</a>
+<a href=https://lobste.rs/s/hmu4ot/nice_nginx_features_for_operators>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://sequoia-pgp.org/blog/2021/06/28/202106-hey-signal-great-encryption-needs-great-authentication/>Hey Signal! Great Encryption Needs Great Authentication</a>
+<a href=https://lobste.rs/s/wtshp3/hey_signal_great_encryption_needs_great>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://raymii.org/s/blog/Firefox-89-proton-ui-tab-styling.html>Firefox 89 Proton UI Tab Styling</a>
+<a href=https://lobste.rs/s/vawi9i/firefox_89_proton_ui_tab_styling>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://pijul.org/posts/2021-06-28-two-changes/>Two changes to changes</a>
+<a href=https://lobste.rs/s/f60xc2/two_changes_changes>(comments)</a></p>
+</li>
+<li>
+<p><a href>What are you doing this week?</a>
+<a href=https://lobste.rs/s/8ouedq/what_are_you_doing_this_week>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://2ality.com/2021/06/temporal-api.html>Temporal: getting started with JavaScript’s new date time API</a>
+<a href=https://lobste.rs/s/d5aird/temporal_getting_started_with>(comments)</a></p>
+</li>
+</ul>
+</p>
+</div>
+<h2>
+<a href=/posts/2021-06-28/>Daily lobste.rs News for 2021-06-28</a>
+</h2>
+<div class=light>
+<span>28 Jun 2021</span> -
+<span>1 minute read</span>
+</div>
+<div class="small light">
+</div>
+<div>
+<p><ul>
+<li>
+<p><a href=https://raymii.org/s/blog/Firefox-89-proton-ui-tab-styling.html>Firefox 89 Proton UI Tab Styling</a>
+<a href=https://lobste.rs/s/vawi9i/firefox_89_proton_ui_tab_styling>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://mgdm.net/weblog/systemd/>Avoiding complexity with systemd</a>
+<a href=https://lobste.rs/s/xxyjxl/avoiding_complexity_with_systemd>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://xenodium.com/emacs-smarter-search-and-replace>Emacs: smarter search and replace</a>
+<a href=https://lobste.rs/s/lrpbmh/emacs_smarter_search_replace>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://dodisturb.me/posts/2021-06-27-Typed-Programs-Dont-Leak-Data.html>Typed Programs Don&rsquo;t Leak Data</a>
+<a href=https://lobste.rs/s/3vyuwa/typed_programs_don_t_leak_data>(comments)</a></p>
+</li>
+<li>
+<p><a href="https://spritesmods.com/?art=dmgplus">DMGPlus</a>
+<a href=https://lobste.rs/s/vaklv4/dmgplus>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://v.trp.gr/posts/c-to-wasm-for-lazy-people/>C to Wasm for Lazy People</a>
+<a href=https://lobste.rs/s/7cvqza/c_wasm_for_lazy_people>(comments)</a></p>
+</li>
+<li>
+<p><a href=http://oldvcr.blogspot.com/2021/06/the-parallel-universe-of-firewire-hubs.html>The parallel universe of FireWire hubs</a>
+<a href=https://lobste.rs/s/vheyvm/parallel_universe_firewire_hubs>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://thevaluable.dev/vim-veteran/>A Vim Guide For Veteran Users</a>
+<a href=https://lobste.rs/s/wvm6vx/vim_guide_for_veteran_users>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://multilogin.com/why-mimicking-a-device-is-almost-impossible/>Why mimicking a device is becoming almost impossible</a>
+<a href=https://lobste.rs/s/vd19ta/why_mimicking_device_is_becoming_almost>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://sabotage-linux.neocities.org/blog/11/>10 years Sabotage Linux - The history of the first musl-based distro</a>
+<a href=https://lobste.rs/s/jlon3q/10_years_sabotage_linux_history_first>(comments)</a></p>
+</li>
+</ul>
+</p>
+</div>
+<h2>
+<a href=/posts/2021-06-27/>Daily lobste.rs News for 2021-06-27</a>
+</h2>
+<div class=light>
+<span>27 Jun 2021</span> -
+<span>1 minute read</span>
+</div>
+<div class="small light">
+</div>
+<div>
+<p><ul>
+<li>
+<p><a href=https://www.anthropicstudios.com/2021/06/25/when-to-rewrite/>When To Rewrite</a>
+<a href=https://lobste.rs/s/63eb9g/when_rewrite>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://ols.wtf/2021/05/28/dev-greet-invading-kernel-space.html>/dev/greet: Invading Kernel Space</a>
+<a href=https://lobste.rs/s/g3t8ky/dev_greet_invading_kernel_space>(comments)</a></p>
+</li>
+<li>
+<p><a href=http://blog.cleancoder.com/uncle-bob/2021/06/25/OnTypes.html>On Types</a>
+<a href=https://lobste.rs/s/9rrxbh/on_types>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://ariadne.space/2021/06/25/understanding-thread-stack-sizes-and-how-alpine-is-different/>understanding thread stack sizes and how alpine is different</a>
+<a href=https://lobste.rs/s/ms3nsg/understanding_thread_stack_sizes_how>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://blog.nelhage.com/post/reflections-on-performance/>Reflections on software performance</a>
+<a href=https://lobste.rs/s/rxvz2a/reflections_on_software_performance>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://stats.stackexchange.com/questions/445578/how-do-dags-help-to-reduce-bias-in-causal-inference>How do DAGs help to reduce bias in causal inference?</a>
+<a href=https://lobste.rs/s/oihbyd/how_do_dags_help_reduce_bias_causal>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://engineering.fb.com/2021/05/13/data-center-engineering/bgp/>Running BGP in large-scale data centers</a>
+<a href=https://lobste.rs/s/yrwfmt/running_bgp_large_scale_data_centers>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://www.dedoimedo.com/computers/interview-kde-team-ng.html>Dedoimedo interviews: KDE&rsquo;s pointiest stick, Nate Graham</a>
+<a href=https://lobste.rs/s/o1drq1/dedoimedo_interviews_kde_s_pointiest>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://utcc.utoronto.ca/~cks/space/blog/programming/GoAndDeprecatingGoGet>Go 1.17 is deprecating the traditional use of &lsquo;go get&rsquo;</a>
+<a href=https://lobste.rs/s/jb9mho/go_1_17_is_deprecating_traditional_use_go>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://github.com/claffin/cloudproxy>cloudproxy - hide your scrapers IP behind the cloud</a>
+<a href=https://lobste.rs/s/wr7l7h/cloudproxy_hide_your_scrapers_ip_behind>(comments)</a></p>
+</li>
+</ul>
+</p>
+</div>
+<h2>
+<a href=/posts/2021-06-26/>Daily lobste.rs News for 2021-06-26</a>
+</h2>
+<div class=light>
+<span>26 Jun 2021</span> -
+<span>1 minute read</span>
+</div>
+<div class="small light">
+</div>
+<div>
+<p><ul>
+<li>
+<p><a href=https://utcc.utoronto.ca/~cks/space/blog/programming/GoAndDeprecatingGoGet>Go 1.17 is deprecating the traditional use of &lsquo;go get&rsquo;</a>
+<a href=https://lobste.rs/s/jb9mho/go_1_17_is_deprecating_traditional_use_go>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://github.com/MichalStrehovsky/bflat>C# as you know it but with Go-inspired tooling that produces small, selfcontained, and native exes</a>
+<a href=https://lobste.rs/s/opremg/c_as_you_know_it_with_go_inspired_tooling>(comments)</a></p>
+</li>
+<li>
+<p><a href>sks-keyservers pool DNS records to be disabled effective immediately</a>
+<a href=https://lobste.rs/s/jupgda/sks_keyservers_pool_dns_records_be>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://ianopolous.peergos.me/maths/surreal>Surreal numbers</a>
+<a href=https://lobste.rs/s/krpkaq/surreal_numbers>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://gir.st/blog/greenpass.html>What&rsquo;s Inside the EU Green Pass QR Code?</a>
+<a href=https://lobste.rs/s/mgeay3/what_s_inside_eu_green_pass_qr_code>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://github.com/abbbi/nullfsvfs>a virtual file system that behaves like /dev/null</a>
+<a href=https://lobste.rs/s/v8fhsj/virtual_file_system_behaves_like_dev_null>(comments)</a></p>
+</li>
+<li>
+<p><a href>What are you doing this weekend?</a>
+<a href=https://lobste.rs/s/gkdlz0/what_are_you_doing_this_weekend>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://gtk-rs.org/blog/2021/06/22/new-release.html>Here comes the 4 – gtk-rs</a>
+<a href=https://lobste.rs/s/gtkn5t/here_comes_4_gtk_rs>(comments)</a></p>
+</li>
+<li>
+<p><a href=http://www.cmyr.net/blog/keypaths.html>Type-checked keypaths in Rust</a>
+<a href=https://lobste.rs/s/z7nqc2/type_checked_keypaths_rust>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://utcc.utoronto.ca/~cks/space/blog/programming/ProgramBehaviorAndBugs>What is and isn&rsquo;t a bug in software (2015)</a>
+<a href=https://lobste.rs/s/eir3yl/what_is_isn_t_bug_software_2015>(comments)</a></p>
+</li>
+</ul>
+</p>
+</div>
+<h2>
+<a href=/posts/2021-06-25/>Daily lobste.rs News for 2021-06-25</a>
+</h2>
+<div class=light>
+<span>25 Jun 2021</span> -
+<span>1 minute read</span>
+</div>
+<div class="small light">
+</div>
+<div>
+<p><ul>
+<li>
+<p><a href=https://github.com/Tyruiop/syncretism>Syncretism, an option search engine in Clojure</a>
+<a href=https://lobste.rs/s/q1ox1y/syncretism_option_search_engine_clojure>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://martinfowler.com/articles/patterns-of-distributed-systems/lamport-clock.html>Lamport Clock</a>
+<a href=https://lobste.rs/s/kilnds/lamport_clock>(comments)</a></p>
+</li>
+<li>
+<p><a href=http://www.oftenpaper.net/sierpinski.htm>Constructing the Sierpinski triangle</a>
+<a href=https://lobste.rs/s/pjetp7/constructing_sierpinski_triangle>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://www.cs.cornell.edu/~asampson/media/papers/reticle-pldi2021.pdf>Reticle: A Virtual Machine for Programming Modern FPGAs</a>
+<a href=https://lobste.rs/s/rojw7d/reticle_virtual_machine_for_programming>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://kn100.me/turning-upnp-off/>Ok, Ok, I&rsquo;m Turning uPnP off</a>
+<a href=https://lobste.rs/s/rjvahu/ok_ok_i_m_turning_upnp_off>(comments)</a></p>
+</li>
+<li>
+<p><a href>What email client do you use?</a>
+<a href=https://lobste.rs/s/0c0tvx/what_email_client_do_you_use>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://boyter.org/posts/useful-bootstrap-for-go-projects/>Useful bootstrap checklist for Go Projects</a>
+<a href=https://lobste.rs/s/fnjpkg/useful_bootstrap_checklist_for_go>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://blog.system76.com/post/654884924769370112/developing-games-on-linux-an-interview-with>Developing Games on Linux: An Interview with Little Red Dog Games</a>
+<a href=https://lobste.rs/s/wybayk/developing_games_on_linux_interview_with>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://bert.org/2021/06/23/vaccination-paywalls/>Vaccination Paywalls</a>
+<a href=https://lobste.rs/s/lch2ly/vaccination_paywalls>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://lwn.net/SubscriberLink/860607/6ee772207c6ce7c3/>Pulling GitHub into the kernel process</a>
+<a href=https://lobste.rs/s/pudrfl/pulling_github_into_kernel_process>(comments)</a></p>
+</li>
+</ul>
+</p>
+</div>
+<h2>
+<a href=/posts/2021-06-24/>Daily lobste.rs News for 2021-06-24</a>
+</h2>
+<div class=light>
+<span>24 Jun 2021</span> -
+<span>1 minute read</span>
+</div>
+<div class="small light">
+</div>
+<div>
+<p><ul>
+<li>
+<p><a href=https://bert.org/2021/06/23/vaccination-paywalls/>Vaccination Paywalls</a>
+<a href=https://lobste.rs/s/lch2ly/vaccination_paywalls>(comments)</a></p>
+</li>
+<li>
+<p><a href>What email client do you use?</a>
+<a href=https://lobste.rs/s/0c0tvx/what_email_client_do_you_use>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://venam.nixers.net/blog/unix/2021/06/23/pipewire-under-the-hood.html>PipeWire Under The Hood</a>
+<a href=https://lobste.rs/s/dpqho7/pipewire_under_hood>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://www.idris-lang.org/idris-2-version-040-released.html>Idris 2 version 0.4.0 released</a>
+<a href=https://lobste.rs/s/y8e8e7/idris_2_version_0_4_0_released>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://pragmaticpineapple.com/four-useful-fzf-tricks-for-your-terminal/>4 Useful fzf Tricks for Your Terminal</a>
+<a href=https://lobste.rs/s/3zdrfd/4_useful_fzf_tricks_for_your_terminal>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://elisabethirgens.github.io/notes/2021/06/code-reviews/>Why I Won’t Approve Your PR</a>
+<a href=https://lobste.rs/s/56boie/why_i_won_t_approve_your_pr>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://stitcher.io/blog/opinion-driven-design>Opinion-driven design</a>
+<a href=https://lobste.rs/s/kx1hes/opinion_driven_design>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://neotron-compute.github.io/Neotron-Book/index.html>Neotron - The Embedded Rust Home Computer Platform</a>
+<a href=https://lobste.rs/s/onp8qi/neotron_embedded_rust_home_computer>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://arstechnica.com/gadgets/2021/06/counterfeit-pypi-packages-with-5000-downloads-installed-cryptominers/>Cryptocurrency Miners are Typosquatting in PyPI to Distrubute Malware</a>
+<a href=https://lobste.rs/s/o7yofg/cryptocurrency_miners_are>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://freshman.tech/philosophy-of-software-design-summary/>Book summary: A Philosophy of Software Design</a>
+<a href=https://lobste.rs/s/wkjpoq/book_summary_philosophy_software_design>(comments)</a></p>
+</li>
+</ul>
+</p>
+</div>
+<h2>
+<a href=/posts/2021-06-23/>Daily lobste.rs News for 2021-06-23</a>
+</h2>
+<div class=light>
+<span>23 Jun 2021</span> -
+<span>1 minute read</span>
+</div>
+<div class="small light">
+</div>
+<div>
+<p><ul>
+<li>
+<p><a href=https://adam.nels.onl/blog/parentheses-are-just-typechecking/>Parentheses Are Just Typechecking</a>
+<a href=https://lobste.rs/s/sgug9k/parentheses_are_just_typechecking>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://wiki.debian.org/Teams/Apt/Spec/AptSign>Ditching OpenPGP, a new approach to signing APT repositories</a>
+<a href=https://lobste.rs/s/sraszh/ditching_openpgp_new_approach_signing>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://lwn.net/Articles/857599/>Rewriting the GNU Coreutils in Rust</a>
+<a href=https://lobste.rs/s/m0npll/rewriting_gnu_coreutils_rust>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://travisdowns.github.io/blog/2021/06/17/rip-zero-opt.html>Your CPU May Have Slowed Down on Wednesday</a>
+<a href=https://lobste.rs/s/svtzet/your_cpu_may_have_slowed_down_on_wednesday>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://nyxt.atlas.engineer/article/release-2.1.0.org>Nyxt 2.1.0</a>
+<a href=https://lobste.rs/s/m529xf/nyxt_2_1_0>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://downtimeproject.com/podcast/7-lessons-from-10-outages/>Seven lessons from Ten Outages</a>
+<a href=https://lobste.rs/s/rxd8mo/seven_lessons_from_ten_outages>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://medium.com/erlang-battleground/spot-the-difference-733a5c2fce77>Spot the Difference</a>
+<a href=https://lobste.rs/s/zodobv/spot_difference>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://instadeq.com/blog/posts/past-futures-of-programming-general-magic-telescript/>Past Futures of Programming: General Magic&rsquo;s Telescript</a>
+<a href=https://lobste.rs/s/sbfpkg/past_futures_programming_general_magic_s>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://thakeenathees.github.io/pocketlang/>PocketLang - a small, fast and friendly language for scripting and embedding</a>
+<a href=https://lobste.rs/s/g8ossq/pocketlang_small_fast_friendly_language>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://pypi.org/project/docker-harbormaster/>I wanted an easy way to automatically deploy Docker Compose apps so I made one: Harbormaster</a>
+<a href=https://lobste.rs/s/y50e5c/i_wanted_easy_way_automatically_deploy>(comments)</a></p>
+</li>
+</ul>
+</p>
+</div>
+<h2>
+<a href=/posts/2021-06-22/>Daily lobste.rs News for 2021-06-22</a>
+</h2>
+<div class=light>
+<span>22 Jun 2021</span> -
+<span>1 minute read</span>
+</div>
+<div class="small light">
+</div>
+<div>
+<p><ul>
+<li>
+<p><a href>What&rsquo;s your preferred tool for load testing?</a>
+<a href=https://lobste.rs/s/mqxwuc/what_s_your_preferred_tool_for_load>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://lwn.net/Articles/857599/>Rewriting the GNU Coreutils in Rust</a>
+<a href=https://lobste.rs/s/m0npll/rewriting_gnu_coreutils_rust>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://xenodium.com/previewing-swiftui-layouts-in-emacs-revisited>Previewing SwiftUI layouts in Emacs (revisited)</a>
+<a href=https://lobste.rs/s/y6kjnd/previewing_swiftui_layouts_emacs>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://dbohdan.com/wiki/jpeg-xl?>JPEG XL would be Turing-complete</a>
+<a href=https://lobste.rs/s/80eg7v/jpeg_xl_would_be_turing_complete>(comments)</a></p>
+</li>
+<li>
+<p><a href>What are you doing this week?</a>
+<a href=https://lobste.rs/s/jxylf8/what_are_you_doing_this_week>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://openjdk.java.net/jeps/411>JEP 411: Deprecate the Security Manager for Removal</a>
+<a href=https://lobste.rs/s/jcnzn7/jep_411_deprecate_security_manager_for>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://discourse.nixos.org/t/nixos-unstable-s-iso-minimal-x86-64-linux-is-100-reproducible/13723>Nixos-unstable’s iso_minimal.x86_64-linux is 100% reproducible</a>
+<a href=https://lobste.rs/s/aflz6w/nixos_unstable_s_iso_minimal_x86_64_linux>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://blog.jak-linux.org/2021/06/20/migrating-away-apt-key/>Migrating away from apt-key</a>
+<a href=https://lobste.rs/s/seyy8l/migrating_away_from_apt_key>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://www.hillelwayne.com/post/crossover-project/are-we-really-engineers/>Are We Really Engineers?</a>
+<a href=https://lobste.rs/s/lmvroa/are_we_really_engineers>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://blog.dave.tf/post/finding-bottom-turtle/>Finding the Bottom Turtle</a>
+<a href=https://lobste.rs/s/tjjm5n/finding_bottom_turtle>(comments)</a></p>
+</li>
+</ul>
+</p>
+</div>
+<h2>
+<a href=/posts/2021-06-21/>Daily lobste.rs News for 2021-06-21</a>
+</h2>
+<div class=light>
+<span>21 Jun 2021</span> -
+<span>1 minute read</span>
+</div>
+<div class="small light">
+</div>
+<div>
+<p><ul>
+<li>
+<p><a href=https://blog.chichou.me/2021/06/20/quick-analysis-wifid/>Quick Analysis for the SSID Format String Bug</a>
+<a href=https://lobste.rs/s/yklnww/quick_analysis_for_ssid_format_string_bug>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://9to5mac.com/2021/06/19/a-specific-network-name-can-completely-disable-wi-fi-on-your-iphone/>“%p%s%s%s%s%n” breaks Wi-Fi on iPhones</a>
+<a href=https://lobste.rs/s/pxbgpu/p_s_s_s_s_n_breaks_wi_fi_on_iphones>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://adol.pw/2021/06/20/ethics-using-analytics/>On ethics using analytics</a>
+<a href=https://lobste.rs/s/u5uvkw/on_ethics_using_analytics>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://discourse.nixos.org/t/nixos-unstable-s-iso-minimal-x86-64-linux-is-100-reproducible/13723>Nixos-unstable’s iso_minimal.x86_64-linux is 100% reproducible</a>
+<a href=https://lobste.rs/s/aflz6w/nixos_unstable_s_iso_minimal_x86_64_linux>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://www.michaelnygard.com/blog/2021/06/counterfactuals-are-not-causality/>Counterfactuals are not Causality</a>
+<a href=https://lobste.rs/s/pxacn0/counterfactuals_are_not_causality>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://eta.st/2021/06/20/showtime.html>Sending audio to LKV373 HDMI extenders</a>
+<a href=https://lobste.rs/s/mntdzw/sending_audio_lkv373_hdmi_extenders>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://en.jeffprod.com/blog/2021/how-to-clone-a-pc-and-boot-it-into-a-virtual-machine/>How to clone a PC and boot it into a virtual machine</a>
+<a href=https://lobste.rs/s/mw38ei/how_clone_pc_boot_it_into_virtual_machine>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://nadim.computer/posts/2021-06-20-piccolo.html>Adventures in Writing Othello Software for iOS and macOS</a>
+<a href=https://lobste.rs/s/whej7h/adventures_writing_othello_software_for>(comments)</a></p>
+</li>
+<li>
+<p><a href>Have you ever had/given a really good interview?</a>
+<a href=https://lobste.rs/s/1bwpi8/have_you_ever_had_given_really_good>(comments)</a></p>
+</li>
+<li>
+<p><a href=https://xenodium.com/yasnippet-in-emacs-eshell>Blurring the lines between shell and editor</a>
+<a href=https://lobste.rs/s/gbjp09/blurring_lines_between_shell_editor>(comments)</a></p>
+</li>
+</ul>
+</p>
+</div>
+<div id=pagination>
+<a href=/page/3/>&lt;</a>
 4 of 23
-<a href=/page/5/>></a></div><div id=footer class="light small">© 2021 - Rohan Verma.<br>Daily top stories from lobste.rs<br>This page was generated using the <a href=https://github.com/rhnvrm/bodhi>Bodhi</a> theme for Hugo.</div></div><script>(function(e,b,f,c,a,d){b[c]=b[c]||function(){(b[c].q=b[c].q||[]).push(arguments)},a=e.createElement('script'),d=e.getElementsByTagName('script')[0],a.async=1,a.src=f,a.id='fathom-script',d.parentNode.insertBefore(a,d)})(document,window,'//fathom.rohanverma.net/tracker.js','fathom'),fathom('set','siteId','IUAMK'),fathom('trackPageview')</script></div><script>feather.replace({width:"1em",height:"1em"})</script><script src=/js/main.js></script></body></html>
+<a href=/page/5/>></a>
+</div>
+<div id=footer class="light small">
+© 2021 - Rohan Verma.
+<br>
+Daily top stories from lobste.rs
+<br>
+This page was generated using the <a href=https://github.com/rhnvrm/bodhi>Bodhi</a> theme for Hugo.
+</div>
+</div>
+<script>(function(e,b,f,c,a,d){b[c]=b[c]||function(){(b[c].q=b[c].q||[]).push(arguments)},a=e.createElement('script'),d=e.getElementsByTagName('script')[0],a.async=1,a.src=f,a.id='fathom-script',d.parentNode.insertBefore(a,d)})(document,window,'//fathom.rohanverma.net/tracker.js','fathom'),fathom('set','siteId','IUAMK'),fathom('trackPageview')</script>
+</div><script>feather.replace({width:"1em",height:"1em"})</script>
+<script src=/js/main.js></script>
+</body>
+</html>
