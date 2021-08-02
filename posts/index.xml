@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 01 Aug 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-08-01</title><link>https://frozen-lobster.rohanverma.net/posts/2021-08-01/</link><pubDate>Sun, 01 Aug 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-08-01/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 02 Aug 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-08-02</title><link>https://frozen-lobster.rohanverma.net/posts/2021-08-02/</link><pubDate>Mon, 02 Aug 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-08-02/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.techspot.com/news/90613-amazon-hit-record-885-million-fine-violating-eu.html">Amazon hit with record $885 million fine for violating EU privacy rules&lt;/a>
+&lt;a href="https://lobste.rs/s/yq8om9/amazon_hit_with_record_885_million_fine">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.banterly.net/2021/07/31/new-in-git-switch-and-restore/">New in Git: switch and restore&lt;/a>
+&lt;a href="https://lobste.rs/s/aph2fn/new_git_switch_restore">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://nolanlawson.com/2021/08/01/why-its-okay-for-web-components-to-use-frameworks/">Why it’s okay for web components to use frameworks&lt;/a>
+&lt;a href="https://lobste.rs/s/dxbwyb/why_it_s_okay_for_web_components_use">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=AXJ9tTVGDwU">Declarative GUIs in Racket&lt;/a>
+&lt;a href="https://lobste.rs/s/vaouwt/declarative_guis_racket">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tokio.rs/blog/2021-07-announcing-axum">Announcing Axum&lt;/a>
+&lt;a href="https://lobste.rs/s/rfh70t/announcing_axum">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://renato.athaydes.com/posts/how-to-write-slow-rust-code.html">How to write really slow Rust code&lt;/a>
+&lt;a href="https://lobste.rs/s/lyndsl/how_write_really_slow_rust_code">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://dpc.pw/focus-assign-multiple-engineers-to-the-same-task">Focus: assign multiple engineers to the same task&lt;/a>
+&lt;a href="https://lobste.rs/s/kjv6op/focus_assign_multiple_engineers_same">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/langjam/langjam">Lang Jam&lt;/a>
+&lt;a href="https://lobste.rs/s/cqot7w/lang_jam">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://josephg.com/blog/crdts-go-brrr/">5000x faster CRDTs: An Adventure in Optimization&lt;/a>
+&lt;a href="https://lobste.rs/s/dny0dv/5000x_faster_crdts_adventure">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://labs.sentinelone.com/meteorexpress-mysterious-wiper-paralyzes-iranian-trains-with-epic-troll/">Mysterious Wiper Paralyzes Iranian Trains with Epic Troll&lt;/a>
+&lt;a href="https://lobste.rs/s/qflsso/mysterious_wiper_paralyzes_iranian">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-08-01</title><link>https://frozen-lobster.rohanverma.net/posts/2021-08-01/</link><pubDate>Sun, 01 Aug 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-08-01/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://josephg.com/blog/crdts-go-brrr/">5000x faster CRDTs: An Adventure in Optimization&lt;/a>
 &lt;a href="https://lobste.rs/s/dny0dv/5000x_faster_crdts_adventure">(comments)&lt;/a>&lt;/p>
