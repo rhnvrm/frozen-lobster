@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 04 Aug 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-08-04</title><link>https://frozen-lobster.rohanverma.net/posts/2021-08-04/</link><pubDate>Wed, 04 Aug 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-08-04/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 05 Aug 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-08-05</title><link>https://frozen-lobster.rohanverma.net/posts/2021-08-05/</link><pubDate>Thu, 05 Aug 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-08-05/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="http://catern.com/freedist.html">We need an open source license for distributed systems&lt;/a>
+&lt;a href="https://lobste.rs/s/pxelf1/we_need_open_source_license_for">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pragprog.com/titles/dswdcloj3/web-development-with-clojure-third-edition/">3rd edition of Web Development with Clojure is out&lt;/a>
+&lt;a href="https://lobste.rs/s/bgb9qc/3rd_edition_web_development_with_clojure">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://mariusschulz.com/blog/optional-chaining-the-operator-in-typescript">Optional Chaining: The ?. Operator in TypeScript&lt;/a>
+&lt;a href="https://lobste.rs/s/hftt3k/optional_chaining_operator_typescript">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://yaqwsx.github.io/Pinion/">Pinion — Nice-looking interactive diagrams for KiCAD PCBs&lt;/a>
+&lt;a href="https://lobste.rs/s/flmbmu/pinion_nice_looking_interactive">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://microsoftedge.github.io/edgevr/posts/Super-Duper-Secure-Mode/">Microsoft Edge experimenting with a Super Duper Secure Mode&lt;/a>
+&lt;a href="https://lobste.rs/s/lztelo/microsoft_edge_experimenting_with_super">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/microsoft/MSRC-Security-Research/blob/master/presentations/2021_08_BlackHatUSA/BHUSA21_Security_Analysis_of_CHERI_ISA.pdf">Security Analysis of CHERI ISA&lt;/a>
+&lt;a href="https://lobste.rs/s/qg9lsw/security_analysis_cheri_isa">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://arxiv.org/abs/2108.00484">Elements of Differential Geometry in Lean: A Report for Mathematicians&lt;/a>
+&lt;a href="https://lobste.rs/s/4opgyl/elements_differential_geometry_lean">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.deref.io/unix-and-microservice-platforms/">Unix and Microservice Platforms&lt;/a>
+&lt;a href="https://lobste.rs/s/mjo19d/unix_microservice_platforms">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://shkspr.mobi/blog/2021/08/run-internet-explorer-5-in-your-browser/">Run Internet Explorer 5 in your browser&lt;/a>
+&lt;a href="https://lobste.rs/s/9uibjo/run_internet_explorer_5_your_browser">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://simonwillison.net/2021/Aug/3/samesite/">Exploring the SameSite cookie attribute for preventing CSRF&lt;/a>
+&lt;a href="https://lobste.rs/s/bslpwj/exploring_samesite_cookie_attribute_for">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-08-04</title><link>https://frozen-lobster.rohanverma.net/posts/2021-08-04/</link><pubDate>Wed, 04 Aug 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-08-04/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://imgur.com/a/nqg9Go9">InitWare (a systemd fork) runs on OpenBSD for the first time&lt;/a>
 &lt;a href="https://lobste.rs/s/jx3cr6/initware_systemd_fork_runs_on_openbsd_for">(comments)&lt;/a>&lt;/p>
