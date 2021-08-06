@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 05 Aug 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-08-05</title><link>https://frozen-lobster.rohanverma.net/posts/2021-08-05/</link><pubDate>Thu, 05 Aug 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-08-05/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 06 Aug 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-08-06</title><link>https://frozen-lobster.rohanverma.net/posts/2021-08-06/</link><pubDate>Fri, 06 Aug 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-08-06/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://maxdeviant.com/shards/2021/another-nix-success-story/">Another Nix Success Story&lt;/a>
+&lt;a href="https://lobste.rs/s/sfacek/another_nix_success_story">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://p.janouch.name/text/on-unix-composability.html">On Unix composability&lt;/a>
+&lt;a href="https://lobste.rs/s/wprseq/on_unix_composability">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://journal.stuffwithstuff.com/2021/07/29/640-pages-in-15-months/">640 Pages in 15 Months&lt;/a>
+&lt;a href="https://lobste.rs/s/18uvjm/640_pages_15_months">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://octo.github.com/projects/repo-visualization">Visualizing a Codebase&lt;/a>
+&lt;a href="https://lobste.rs/s/ipghop/visualizing_codebase">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://emacsconf.org/2021/cfp/">EmacsConf 2021 Call for Proposals&lt;/a>
+&lt;a href="https://lobste.rs/s/zfnakk/emacsconf_2021_call_for_proposals">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://notes.eatonphil.com/practical-common-lisp-on-the-jvm.html">Practical? Common Lisp on the JVM: A quick intro to ABCL for modern web apps&lt;/a>
+&lt;a href="https://lobste.rs/s/xp9ewg/practical_common_lisp_on_jvm_quick_intro">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://microsoftedge.github.io/edgevr/posts/Super-Duper-Secure-Mode/">Microsoft Edge experimenting with a Super Duper Secure Mode&lt;/a>
+&lt;a href="https://lobste.rs/s/lztelo/microsoft_edge_experimenting_with_super">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://daemonforums.org/showthread.php?t=5371&amp;amp;highlight=greek">Using UTF‐8 [in OpenBSD] (2010)&lt;/a>
+&lt;a href="https://lobste.rs/s/4l82yh/using_utf_8_openbsd_2010">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cs.brown.edu/~tab/papers/QUIC_WWW21.pdf">Dissecting the performance of production QUIC&lt;/a>
+&lt;a href="https://lobste.rs/s/ujbiom/dissecting_performance_production_quic">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://i.blackhat.com/USA21/Wednesday-Handouts/us-21-Reverse-Engineering-The-M1.pdf">Reverse Engineering the M1&lt;/a>
+&lt;a href="https://lobste.rs/s/gbsewl/reverse_engineering_m1">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-08-05</title><link>https://frozen-lobster.rohanverma.net/posts/2021-08-05/</link><pubDate>Thu, 05 Aug 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-08-05/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="http://catern.com/freedist.html">We need an open source license for distributed systems&lt;/a>
 &lt;a href="https://lobste.rs/s/pxelf1/we_need_open_source_license_for">(comments)&lt;/a>&lt;/p>
