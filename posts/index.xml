@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 07 Aug 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-08-07</title><link>https://frozen-lobster.rohanverma.net/posts/2021-08-07/</link><pubDate>Sat, 07 Aug 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-08-07/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 08 Aug 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-08-08</title><link>https://frozen-lobster.rohanverma.net/posts/2021-08-08/</link><pubDate>Sun, 08 Aug 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-08-08/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thenewstack.io/this-week-in-programming-the-elasticsearch-saga-continues/">The ElasticSearch Saga Continues&lt;/a>
+&lt;a href="https://lobste.rs/s/af9lyg/elasticsearch_saga_continues">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jcs.org/2021/08/06/framework">OpenBSD on the Framework Laptop&lt;/a>
+&lt;a href="https://lobste.rs/s/7zpung/openbsd_on_framework_laptop">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ayende.com/blog/194404-A/looking-into-zig">Looking into Zig&lt;/a>
+&lt;a href="https://lobste.rs/s/6clihp/looking_into_zig">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://relational-pipes.globalcode.info/v_0/classic-example.xhtml">Classic unix pipeline example&lt;/a>
+&lt;a href="https://lobste.rs/s/tq7mkd/classic_unix_pipeline_example">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://writing.kemitchell.com/2021/06/21/License-Round-Up.html">License Round Up&lt;/a>
+&lt;a href="https://lobste.rs/s/s0xch6/license_round_up">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.openwall.com/lists/oss-security/2021/08/07/1">Lynx leaks password in clear text via SNI (under some circumstances)&lt;/a>
+&lt;a href="https://lobste.rs/s/dkrxsw/lynx_leaks_password_clear_text_via_sni">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://jollo.org/LNT/home/fanfare/ae/textures">css wallpaper generator&lt;/a>
+&lt;a href="https://lobste.rs/s/um9cok/css_wallpaper_generator">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.wired.com/story/guide-to-rcs-why-it-makes-texting-better/">A Guide to RCS, and Why It Makes Texting So Much Better&lt;/a>
+&lt;a href="https://lobste.rs/s/qiudsa/guide_rcs_why_it_makes_texting_so_much">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://simonwillison.net/2021/Aug/6/sqlite-utils-convert/">Apply conversion functions to data in SQLite columns with the sqlite-utils CLI tool&lt;/a>
+&lt;a href="https://lobste.rs/s/xgb0vy/apply_conversion_functions_data_sqlite">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://matduggan.com/how-does-facetime-work/">How does FaceTime Work?&lt;/a>
+&lt;a href="https://lobste.rs/s/enei2r/how_does_facetime_work">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-08-07</title><link>https://frozen-lobster.rohanverma.net/posts/2021-08-07/</link><pubDate>Sat, 07 Aug 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-08-07/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://matduggan.com/how-does-facetime-work/">How does FaceTime Work?&lt;/a>
 &lt;a href="https://lobste.rs/s/enei2r/how_does_facetime_work">(comments)&lt;/a>&lt;/p>
