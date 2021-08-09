@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 08 Aug 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-08-08</title><link>https://frozen-lobster.rohanverma.net/posts/2021-08-08/</link><pubDate>Sun, 08 Aug 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-08-08/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 09 Aug 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-08-09</title><link>https://frozen-lobster.rohanverma.net/posts/2021-08-09/</link><pubDate>Mon, 09 Aug 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-08-09/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://matt-rickard.com/service-reliability-math-that-every-engineer-should-know/">Service Reliability Math&lt;/a>
+&lt;a href="https://lobste.rs/s/2fs0t3/service_reliability_math">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://benjamincongdon.me/blog/2021/08/08/DIY-Air-Quality-Sensor/">DIY Air Quality Sensor&lt;/a>
+&lt;a href="https://lobste.rs/s/2f4l7j/diy_air_quality_sensor">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://dpc.pw/growing-object-oriented-software-vs-what-i-would-do">Growing Object-Oriented Software vs what I would do&lt;/a>
+&lt;a href="https://lobste.rs/s/iizjtx/growing_object_oriented_software_vs_what">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://nolanlawson.com/2021/08/08/improving-responsiveness-in-text-inputs/">Improving responsiveness in text inputs&lt;/a>
+&lt;a href="https://lobste.rs/s/rjamdz/improving_responsiveness_text_inputs">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://renato.athaydes.com/posts/how-to-write-slow-rust-code-part-2.html">How to write really slow Rust code - Part 2&lt;/a>
+&lt;a href="https://lobste.rs/s/ex9pdv/how_write_really_slow_rust_code_part_2">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://microkerneldude.wordpress.com/2021/08/04/sel4-integrity-enforcement-proved-for-risc-v/">seL4 Integrity Enforcement Proved for RISC-V&lt;/a>
+&lt;a href="https://lobste.rs/s/va8pf0/sel4_integrity_enforcement_proved_for">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://engineering.fb.com/2021/08/06/core-data/zippydb/">How we built a general purpose key value store for Facebook with ZippyDB&lt;/a>
+&lt;a href="https://lobste.rs/s/qdyifa/how_we_built_general_purpose_key_value">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://wf.lavatech.top/lun-4/bringing-netbsd-to-zigs-continuous-integration">Bringing NetBSD to Zig&amp;rsquo;s Continuous Integration&lt;/a>
+&lt;a href="https://lobste.rs/s/irat6l/bringing_netbsd_zig_s_continuous">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://httpd.apache.org/docs/trunk/mod/mod_md.html">mod_md&lt;/a>
+&lt;a href="https://lobste.rs/s/clxd1d/mod_md">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ncsc.gov.uk/blog-post/the-logic-behind-three-random-words">The logic behind three random words&lt;/a>
+&lt;a href="https://lobste.rs/s/eptntv/logic_behind_three_random_words">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-08-08</title><link>https://frozen-lobster.rohanverma.net/posts/2021-08-08/</link><pubDate>Sun, 08 Aug 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-08-08/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://thenewstack.io/this-week-in-programming-the-elasticsearch-saga-continues/">The ElasticSearch Saga Continues&lt;/a>
 &lt;a href="https://lobste.rs/s/af9lyg/elasticsearch_saga_continues">(comments)&lt;/a>&lt;/p>
