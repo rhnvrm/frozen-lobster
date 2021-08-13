@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 12 Aug 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-08-12</title><link>https://frozen-lobster.rohanverma.net/posts/2021-08-12/</link><pubDate>Thu, 12 Aug 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-08-12/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 13 Aug 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-08-13</title><link>https://frozen-lobster.rohanverma.net/posts/2021-08-13/</link><pubDate>Fri, 13 Aug 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-08-13/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.quirksmode.org/blog/archives/2021/08/breaking_the_we.html">Breaking the web forward&lt;/a>
+&lt;a href="https://lobste.rs/s/sznhu7/breaking_web_forward">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sentido-labs.com/en/library/cedro/202106171400/">C programming language extension: Cedro pre-processor&lt;/a>
+&lt;a href="https://lobste.rs/s/18axic/c_programming_language_extension_cedro">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lwn.net/Articles/864712/">New features in Neovim 0.5&lt;/a>
+&lt;a href="https://lobste.rs/s/1tzsni/new_features_neovim_0_5">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jlongster.com/future-sql-web">A future for SQL on the web&lt;/a>
+&lt;a href="https://lobste.rs/s/1ylnel/future_for_sql_on_web">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://qmacro.org/autodidactics/2021/08/12/session-switching-with-the-tmux-menu/">Session switching with the tmux menu&lt;/a>
+&lt;a href="https://lobste.rs/s/51bskv/session_switching_with_tmux_menu">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://hackaday.com/2021/08/10/freebsd-experiment-rethinks-the-os-install/">FreeBSD Experiment Rethinks The OS Install&lt;/a>
+&lt;a href="https://lobste.rs/s/mlhfbx/freebsd_experiment_rethinks_os_install">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://opguides.info/posts/lowbandwidthimages/">Low Bandwidth Images&lt;/a>
+&lt;a href="https://lobste.rs/s/oexwrw/low_bandwidth_images">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://breckyunits.com/user-methods.html">User Methods&lt;/a>
+&lt;a href="https://lobste.rs/s/rpq6yo/user_methods">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://essence.handmade.network/">Essence&lt;/a>
+&lt;a href="https://lobste.rs/s/wntgwy/essence">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://fishdraw.glitch.me/">Procedurally generated fish drawings in javascript&lt;/a>
+&lt;a href="https://lobste.rs/s/tiymit/procedurally_generated_fish_drawings">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-08-12</title><link>https://frozen-lobster.rohanverma.net/posts/2021-08-12/</link><pubDate>Thu, 12 Aug 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-08-12/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://felipec.wordpress.com/2021/08/10/git-staging-area-rename/">The git staging area, the term literally everyone agrees with&lt;/a>
 &lt;a href="https://lobste.rs/s/z0y533/git_staging_area_term_literally_everyone">(comments)&lt;/a>&lt;/p>
