@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 13 Aug 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-08-13</title><link>https://frozen-lobster.rohanverma.net/posts/2021-08-13/</link><pubDate>Fri, 13 Aug 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-08-13/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 14 Aug 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-08-14</title><link>https://frozen-lobster.rohanverma.net/posts/2021-08-14/</link><pubDate>Sat, 14 Aug 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-08-14/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://packaging-con.org/">PackagingCon 2021 - a conference for package manager developers and packagers&lt;/a>
+&lt;a href="https://lobste.rs/s/hwhyzd/packagingcon_2021_conference_for">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.thunderbird.net/2021/08/thunderbird-91-available-now/">Thunderbird 91 Available Now&lt;/a>
+&lt;a href="https://lobste.rs/s/eh8cyk/thunderbird_91_available_now">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://beyondloom.com/blog/thinkc.html">Your First THINK C Program (2020)&lt;/a>
+&lt;a href="https://lobste.rs/s/whfvne/your_first_think_c_program_2020">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://futhark-lang.org/blog/2021-08-05-half-precision-floats.html">Supporting half-precision floats is really annoying&lt;/a>
+&lt;a href="https://lobste.rs/s/x1prym/supporting_half_precision_floats_is">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this weekend?&lt;/a>
+&lt;a href="https://lobste.rs/s/rdxtru/what_are_you_doing_this_weekend">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.cofree.coffee/2021-08-13-that-one-cool-reader-trick/">That One Cool Reader Trick&lt;/a>
+&lt;a href="https://lobste.rs/s/djkdet/one_cool_reader_trick">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://beyondloom.com/blog/dither.html">Atkinson Dithering (2020)&lt;/a>
+&lt;a href="https://lobste.rs/s/qw0yja/atkinson_dithering_2020">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://nyxt.atlas.engineer/article/qr-url.org">Transfer URLs from Nyxt to your smartphone via QR Codes&lt;/a>
+&lt;a href="https://lobste.rs/s/clbskr/transfer_urls_from_nyxt_your_smartphone">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.quirksmode.org/blog/archives/2021/08/breaking_the_we.html">Breaking the web forward&lt;/a>
+&lt;a href="https://lobste.rs/s/sznhu7/breaking_web_forward">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ariadne.space/2021/08/13/gnu-nano-is-my-editor-of-choice/">GNU nano is my editor of choice&lt;/a>
+&lt;a href="https://lobste.rs/s/mtcnxi/gnu_nano_is_my_editor_choice">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-08-13</title><link>https://frozen-lobster.rohanverma.net/posts/2021-08-13/</link><pubDate>Fri, 13 Aug 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-08-13/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://www.quirksmode.org/blog/archives/2021/08/breaking_the_we.html">Breaking the web forward&lt;/a>
 &lt;a href="https://lobste.rs/s/sznhu7/breaking_web_forward">(comments)&lt;/a>&lt;/p>
