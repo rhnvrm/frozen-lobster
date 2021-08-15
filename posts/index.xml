@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 14 Aug 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-08-14</title><link>https://frozen-lobster.rohanverma.net/posts/2021-08-14/</link><pubDate>Sat, 14 Aug 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-08-14/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 15 Aug 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-08-15</title><link>https://frozen-lobster.rohanverma.net/posts/2021-08-15/</link><pubDate>Sun, 15 Aug 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-08-15/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://tech.marksblogg.com/meilisearch-full-text-search.html">MeiliSearch: A Minimalist Full-Text Search Engine&lt;/a>
+&lt;a href="https://lobste.rs/s/zwu72v/meilisearch_minimalist_full_text_search">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://twitter.com/debian/status/1426446755109900293">Debian 11 is being released&lt;/a>
+&lt;a href="https://lobste.rs/s/nd8wir/debian_11_is_being_released">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://matduggan.com/devops-engineer-crash-course/">DevOps Engineer Crash Course - Section 1&lt;/a>
+&lt;a href="https://lobste.rs/s/qx4wgz/devops_engineer_crash_course_section_1">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://asahilinux.org/2021/08/progress-report-august-2021/">Progress Report: August 2021 - Asahi Linux&lt;/a>
+&lt;a href="https://lobste.rs/s/y1vrkc/progress_report_august_2021_asahi_linux">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://advances.realtimerendering.com/s2021/Karis_Nanite_SIGGRAPH_Advances_2021_final.pdf">A Deep Dive into Nanite Virtualized Geometry&lt;/a>
+&lt;a href="https://lobste.rs/s/i2vpnd/deep_dive_into_nanite_virtualized">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://zirblazer.github.io/htmlfiles/pc_evolution.html?ver=123">History of the evolution of the x86 platform, from the IBM PC to the modern era&lt;/a>
+&lt;a href="https://lobste.rs/s/carr7b/history_evolution_x86_platform_from_ibm">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.thunderbird.net/2021/08/thunderbird-91-available-now/">Thunderbird 91 Available Now&lt;/a>
+&lt;a href="https://lobste.rs/s/eh8cyk/thunderbird_91_available_now">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ariadne.space/2021/08/13/gnu-nano-is-my-editor-of-choice/">GNU nano is my editor of choice&lt;/a>
+&lt;a href="https://lobste.rs/s/mtcnxi/gnu_nano_is_my_editor_choice">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.matthieud.me/2020/exploring-clang-llvm-optimization-on-programming-horror/">Exploring Clang/LLVM optimization on programming horror&lt;/a>
+&lt;a href="https://lobste.rs/s/g60cjj/exploring_clang_llvm_optimization_on">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://beyondloom.com/blog/thinkc.html">Your First THINK C Program (2020)&lt;/a>
+&lt;a href="https://lobste.rs/s/whfvne/your_first_think_c_program_2020">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-08-14</title><link>https://frozen-lobster.rohanverma.net/posts/2021-08-14/</link><pubDate>Sat, 14 Aug 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-08-14/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://packaging-con.org/">PackagingCon 2021 - a conference for package manager developers and packagers&lt;/a>
 &lt;a href="https://lobste.rs/s/hwhyzd/packagingcon_2021_conference_for">(comments)&lt;/a>&lt;/p>
