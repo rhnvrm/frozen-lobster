@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 15 Aug 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-08-15</title><link>https://frozen-lobster.rohanverma.net/posts/2021-08-15/</link><pubDate>Sun, 15 Aug 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-08-15/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 16 Aug 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-08-16</title><link>https://frozen-lobster.rohanverma.net/posts/2021-08-16/</link><pubDate>Mon, 16 Aug 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-08-16/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://simonandrews.ca/articles/how-to-set-up-spf-dkim-dmarc">I figured out how DMARC works, and it almost broke me&lt;/a>
+&lt;a href="https://lobste.rs/s/mslhsa/i_figured_out_how_dmarc_works_it_almost">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://dawn.cs.stanford.edu//2018/01/11/index-baselines/">Classical Data Structures That Can Outperform Learned Indexes&lt;/a>
+&lt;a href="https://lobste.rs/s/pvjhcl/classical_data_structures_can">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.fossil-scm.org/home/doc/trunk/www/rebaseharm.md">Rebase Considered Harmful&lt;/a>
+&lt;a href="https://lobste.rs/s/fzms7u/rebase_considered_harmful">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lists.debian.org/debian-announce/2021/msg00004.html">Debian 11 &amp;ldquo;bullseye&amp;rdquo; released&lt;/a>
+&lt;a href="https://lobste.rs/s/ocd2lk/debian_11_bullseye_released">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://easylang.online/apps/tut_blackj.html">Blackjack - Probabilities, Strategy, Card Counting - Calculation and Simulation&lt;/a>
+&lt;a href="https://lobste.rs/s/f9afru/blackjack_probabilities_strategy_card">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tech.ebayinc.com/engineering/sre-case-study-mysterious-traffic-imbalance/">SRE Case Study: Mysterious Traffic Imbalance&lt;/a>
+&lt;a href="https://lobste.rs/s/ydktis/sre_case_study_mysterious_traffic">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tech.marksblogg.com/meilisearch-full-text-search.html">MeiliSearch: A Minimalist Full-Text Search Engine&lt;/a>
+&lt;a href="https://lobste.rs/s/zwu72v/meilisearch_minimalist_full_text_search">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://renato.athaydes.com/posts/how-to-write-fast-rust-code.html">How to write fast Rust code&lt;/a>
+&lt;a href="https://lobste.rs/s/zl1vyc/how_write_fast_rust_code">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/unbibium/atari64">atari64: Commodore 64 OS running on Atari 8-bit hardware&lt;/a>
+&lt;a href="https://lobste.rs/s/cbtlyw/atari64_commodore_64_os_running_on_atari_8">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://nolanlawson.com/2021/08/15/does-shadow-dom-improve-style-performance/">Does shadow DOM improve style performance?&lt;/a>
+&lt;a href="https://lobste.rs/s/uizc3n/does_shadow_dom_improve_style">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-08-15</title><link>https://frozen-lobster.rohanverma.net/posts/2021-08-15/</link><pubDate>Sun, 15 Aug 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-08-15/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://tech.marksblogg.com/meilisearch-full-text-search.html">MeiliSearch: A Minimalist Full-Text Search Engine&lt;/a>
 &lt;a href="https://lobste.rs/s/zwu72v/meilisearch_minimalist_full_text_search">(comments)&lt;/a>&lt;/p>
