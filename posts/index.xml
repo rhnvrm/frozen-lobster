@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 16 Aug 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-08-16</title><link>https://frozen-lobster.rohanverma.net/posts/2021-08-16/</link><pubDate>Mon, 16 Aug 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-08-16/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 17 Aug 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-08-17</title><link>https://frozen-lobster.rohanverma.net/posts/2021-08-17/</link><pubDate>Tue, 17 Aug 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-08-17/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/google/zx/releases/tag/3.0.0">Google/zx 3.0 release&lt;/a>
+&lt;a href="https://lobste.rs/s/pdpjvo/google_zx_3_0_release">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://simonandrews.ca/articles/how-to-set-up-spf-dkim-dmarc">I figured out how DMARC works, and it almost broke me&lt;/a>
+&lt;a href="https://lobste.rs/s/mslhsa/i_figured_out_how_dmarc_works_it_almost">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.golang.org/go1.17">Go 1.17 is released&lt;/a>
+&lt;a href="https://lobste.rs/s/wfl1of/go_1_17_is_released">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ctrl.blog/entry/homenet-domain-name.html">What domain name to use for your home network&lt;/a>
+&lt;a href="https://lobste.rs/s/zugtld/what_domain_name_use_for_your_home_network">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://bits.debian.org/2021/08/debianday-2021.html">Debian celebrates our 28th Anniversary&lt;/a>
+&lt;a href="https://lobste.rs/s/vi6kw2/debian_celebrates_our_28th_anniversary">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://slab.com/blog/announcing-delta-for-elixir/">Announcing Delta – Operational Transform in Elixir&lt;/a>
+&lt;a href="https://lobste.rs/s/f47bhp/announcing_delta_operational_transform">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://be-n.com/spw/you-can-list-a-million-files-in-a-directory-but-not-with-ls.html">You can list a directory containing 8 million files! But not with ls&lt;/a>
+&lt;a href="https://lobste.rs/s/c0t48z/you_can_list_directory_containing_8">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.linkedin.com/pulse/why-your-dev-board-wont-catch-retrospective-arduinos-popularity">Why Your Dev Board Won’t Catch On: A Retrospective of Arduino’s Popularity&lt;/a>
+&lt;a href="https://lobste.rs/s/l1juhw/why_your_dev_board_won_t_catch_on">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lazyadmin.nl/powershell/powershell-ssh/">PowerShell SSH Client and Remoting Explained —&lt;/a>
+&lt;a href="https://lobste.rs/s/j7mnuc/powershell_ssh_client_remoting">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://www.slackware.com/changelog/current.php?cpu=x86_64">Slackware Linux 15.0 release candidate one (RC1)&lt;/a>
+&lt;a href="https://lobste.rs/s/o8xtic/slackware_linux_15_0_release_candidate">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-08-16</title><link>https://frozen-lobster.rohanverma.net/posts/2021-08-16/</link><pubDate>Mon, 16 Aug 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-08-16/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://simonandrews.ca/articles/how-to-set-up-spf-dkim-dmarc">I figured out how DMARC works, and it almost broke me&lt;/a>
 &lt;a href="https://lobste.rs/s/mslhsa/i_figured_out_how_dmarc_works_it_almost">(comments)&lt;/a>&lt;/p>
