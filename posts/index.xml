@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 18 Aug 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-08-18</title><link>https://frozen-lobster.rohanverma.net/posts/2021-08-18/</link><pubDate>Wed, 18 Aug 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-08-18/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 19 Aug 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-08-19</title><link>https://frozen-lobster.rohanverma.net/posts/2021-08-19/</link><pubDate>Thu, 19 Aug 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-08-19/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://sporks.space/2021/08/18/it-never-had-to-be-like-this-the-git-index/">It never had to be like this: the git &amp;ldquo;index&amp;rdquo;&lt;/a>
+&lt;a href="https://lobste.rs/s/7bo9ml/it_never_had_be_like_this_git_index">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://wiki.alopex.li/OnParsers">On Parsers&lt;/a>
+&lt;a href="https://lobste.rs/s/7it43u/on_parsers">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://benjamincongdon.me/blog/2021/08/17/B-Trees-More-Than-I-Thought-Id-Want-to-Know/">B-Trees: More Than I Thought I&amp;rsquo;d Want to Know&lt;/a>
+&lt;a href="https://lobste.rs/s/za4cxl/b_trees_more_than_i_thought_i_d_want_know">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://arstechnica.com/gadgets/2021/08/not-a-linux-distro-review-serenityos-is-a-unix-y-love-letter-to-the-90s/">Not-a-Linux distro review: SerenityOS is a Unix-y love letter to the ’90s&lt;/a>
+&lt;a href="https://lobste.rs/s/dp0umd/not_linux_distro_review_serenityos_is">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/RocketRace/easy_z3">z3 made unreasonably easy&lt;/a>
+&lt;a href="https://lobste.rs/s/giarhd/z3_made_unreasonably_easy">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX/issues/1">Hash collision in Apple NeuralHash model&lt;/a>
+&lt;a href="https://lobste.rs/s/e31e2n/hash_collision_apple_neuralhash_model">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://rachelbythebay.com/w/2021/08/17/pop/">Asking nicely for root command execution (and getting it)&lt;/a>
+&lt;a href="https://lobste.rs/s/b3q4kw/asking_nicely_for_root_command_execution">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/ms-jpq/coq_nvim">coq_nvim: Fast nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization&lt;/a>
+&lt;a href="https://lobste.rs/s/s7h88m/coq_nvim_fast_nvim_completion_sqlite">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://abbbi.github.io/actions/">A few simple tricks to tune your github actions runtime&lt;/a>
+&lt;a href="https://lobste.rs/s/fbew1s/few_simple_tricks_tune_your_github">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://mud.co.uk/richard/DesigningVirtualWorlds.pdf">Designing Virtual Worlds [2003]&lt;/a>
+&lt;a href="https://lobste.rs/s/gplc9j/designing_virtual_worlds_2003">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-08-18</title><link>https://frozen-lobster.rohanverma.net/posts/2021-08-18/</link><pubDate>Wed, 18 Aug 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-08-18/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://github.com/jpochyla/psst">Psst: Fast Spotify client with native GUI, without Electron, built in Rust&lt;/a>
 &lt;a href="https://lobste.rs/s/ehtwox/psst_fast_spotify_client_with_native_gui">(comments)&lt;/a>&lt;/p>
