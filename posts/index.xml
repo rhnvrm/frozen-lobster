@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 20 Aug 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-08-20</title><link>https://frozen-lobster.rohanverma.net/posts/2021-08-20/</link><pubDate>Fri, 20 Aug 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-08-20/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 21 Aug 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-08-21</title><link>https://frozen-lobster.rohanverma.net/posts/2021-08-21/</link><pubDate>Sat, 21 Aug 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-08-21/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://soatok.blog/2021/08/20/lobste-rs-password-reset-vulnerability/">Hypothetical Timing Attack on MariaDB Through Lobste.rs Password Reset&lt;/a>
+&lt;a href="https://lobste.rs/s/8kxcvy/hypothetical_timing_attack_on_mariadb">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://world.hey.com/dhh/modern-web-apps-without-javascript-bundling-or-transpiling-a20f2755">Modern web apps without JavaScript bundling or transpiling&lt;/a>
+&lt;a href="https://lobste.rs/s/6os9mq/modern_web_apps_without_javascript">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://bhupesh.gitbook.io/notes/git/autocorrect-git-commands">Auto-correct Git commands&lt;/a>
+&lt;a href="https://lobste.rs/s/5asrov/auto_correct_git_commands">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this weekend?&lt;/a>
+&lt;a href="https://lobste.rs/s/uzeutu/what_are_you_doing_this_weekend">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/kpcyrd/i-probably-didnt-backdoor-this">i-probably-didnt-backdoor-this: Using Reproducible Builds to verify a Rust binary&lt;/a>
+&lt;a href="https://lobste.rs/s/gtlzbv/i_probably_didnt_backdoor_this_using">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.typeable.io/posts/2021-08-17-unicode.html">How Unicode helps to ruin your software&lt;/a>
+&lt;a href="https://lobste.rs/s/3sbvvg/how_unicode_helps_ruin_your_software">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://scotthelme.co.uk/heres-another-free-ca-as-an-alternative-to-lets-encrypt/">Here&amp;rsquo;s another free CA as an alternative to Let&amp;rsquo;s Encrypt&lt;/a>
+&lt;a href="https://lobste.rs/s/pfxfy4/here_s_another_free_ca_as_alternative_let_s">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.cybertec-postgresql.com/en/postgresql-count-made-fast/">PostgreSQL count(*) made fast&lt;/a>
+&lt;a href="https://lobste.rs/s/ctcwho/postgresql_count_made_fast">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://hackernoon.com/ruby-vs-python-the-definitive-faq-5cb0046292be">Ruby vs Python, the Definitive FAQ (2016)&lt;/a>
+&lt;a href="https://lobste.rs/s/bwgj9r/ruby_vs_python_definitive_faq_2016">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.haiku-os.org/news/2021-08-18_20_years_of_haiku/">20 Years of Haiku&lt;/a>
+&lt;a href="https://lobste.rs/s/pysgzj/20_years_haiku">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-08-20</title><link>https://frozen-lobster.rohanverma.net/posts/2021-08-20/</link><pubDate>Fri, 20 Aug 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-08-20/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://utcc.utoronto.ca/~cks/space/blog/programming/ConfigurationIsNotGeneric">Configuration (and configuration files) is not and cannot be generic&lt;/a>
 &lt;a href="https://lobste.rs/s/v8iqgb/configuration_configuration_files_is">(comments)&lt;/a>&lt;/p>
