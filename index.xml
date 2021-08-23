@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 22 Aug 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-08-22</title><link>https://frozen-lobster.rohanverma.net/posts/2021-08-22/</link><pubDate>Sun, 22 Aug 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-08-22/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 23 Aug 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-08-23</title><link>https://frozen-lobster.rohanverma.net/posts/2021-08-23/</link><pubDate>Mon, 23 Aug 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-08-23/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="http://len.falken.ink/p-lang/first-class-comments.txt">First class comments&lt;/a>
+&lt;a href="https://lobste.rs/s/u6tusd/first_class_comments">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.kellybrazil.com/2019/11/26/bringing-the-unix-philosophy-to-the-21st-century/">Bringing the Unix Philosophy to the 21st Century&lt;/a>
+&lt;a href="https://lobste.rs/s/ovregk/bringing_unix_philosophy_21st_century">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/extrawurst/gitui/releases/tag/v0.17">GitUI v0.17 adds: compare commits&lt;/a>
+&lt;a href="https://lobste.rs/s/nxsnvk/gitui_v0_17_adds_compare_commits">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://invisibleup.com/articles/34/">The Perils of File Typing&lt;/a>
+&lt;a href="https://lobste.rs/s/gkplai/perils_file_typing">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://nolanlawson.com/2021/08/22/speeding-up-indexeddb-reads-and-writes/">Speeding up IndexedDB reads and writes&lt;/a>
+&lt;a href="https://lobste.rs/s/a4yiel/speeding_up_indexeddb_reads_writes">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://matklad.github.io//2021/08/22/large-rust-workspaces.html">Large Rust Workspaces&lt;/a>
+&lt;a href="https://lobste.rs/s/jz98ci/large_rust_workspaces">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://notes.eatonphil.com/parser-generators-vs-handwritten-parsers-survey-2021.html">Parser generators vs. handwritten parsers: surveying major language implementations in 2021&lt;/a>
+&lt;a href="https://lobste.rs/s/10pkib/parser_generators_vs_handwritten">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/sproket/Persism">Persism 1.2.0 Released - A zero ceremony ORM for Java&lt;/a>
+&lt;a href="https://lobste.rs/s/jcws1m/persism_1_2_0_released_zero_ceremony_orm">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.oilshell.org/blog/2021/08/xargs.html">An Opinionated Guide to xargs&lt;/a>
+&lt;a href="https://lobste.rs/s/xestey/opinionated_guide_xargs">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/langjam/jam0001/tree/main/hope">PlsExplain: A small dynamic programming language where every value is explained by a comment&lt;/a>
+&lt;a href="https://lobste.rs/s/43fxuk/plsexplain_small_dynamic_programming">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-08-22</title><link>https://frozen-lobster.rohanverma.net/posts/2021-08-22/</link><pubDate>Sun, 22 Aug 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-08-22/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://www.oilshell.org/blog/2021/08/xargs.html">An Opinionated Guide to xargs&lt;/a>
 &lt;a href="https://lobste.rs/s/xestey/opinionated_guide_xargs">(comments)&lt;/a>&lt;/p>
