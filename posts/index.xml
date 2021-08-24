@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 23 Aug 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-08-23</title><link>https://frozen-lobster.rohanverma.net/posts/2021-08-23/</link><pubDate>Mon, 23 Aug 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-08-23/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 24 Aug 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-08-24</title><link>https://frozen-lobster.rohanverma.net/posts/2021-08-24/</link><pubDate>Tue, 24 Aug 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-08-24/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://scotthelme.co.uk/i-turned-on-csp-and-all-i-got-was-this-crappy-lawsuit/">I turned on CSP and all I got was this crappy lawsuit&lt;/a>
+&lt;a href="https://lobste.rs/s/odfwve/i_turned_on_csp_all_i_got_was_this_crappy">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://git.sr.ht/~subsetpark/jnj">JNJ: J bindings for Janet&lt;/a>
+&lt;a href="https://lobste.rs/s/lgeh3a/jnj_j_bindings_for_janet">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://utf9k.net/blog/conditional-gitconfig/">Conditionally setting your gitconfig&lt;/a>
+&lt;a href="https://lobste.rs/s/e3na5c/conditionally_setting_your_gitconfig">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://snapdrop.net">AirDrop alternative through a web browser using WebRTC&lt;/a>
+&lt;a href="https://lobste.rs/s/lyd19u/airdrop_alternative_through_web_browser">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://michaelfeathers.silvrback.com/gateway-teams">Gateway Teams - a strategy for spreading development practice in organizations&lt;/a>
+&lt;a href="https://lobste.rs/s/549fnv/gateway_teams_strategy_for_spreading">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this week?&lt;/a>
+&lt;a href="https://lobste.rs/s/rzbdfr/what_are_you_doing_this_week">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jake-shadle.github.io/xwin/">Cross compiling Windows binaries from Linux&lt;/a>
+&lt;a href="https://lobste.rs/s/lq1r6e/cross_compiling_windows_binaries_from">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.cloudflare.com/announcing-warp-for-linux-and-proxy-mode/">Cloudflare WARP for Linux&lt;/a>
+&lt;a href="https://lobste.rs/s/vtefm2/cloudflare_warp_for_linux">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/">mkinitcpio v31 and UEFI stubs&lt;/a>
+&lt;a href="https://lobste.rs/s/yeqdoq/mkinitcpio_v31_uefi_stubs">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://squarism.com/2021/08/20/send-me-your-stuff/">Send Me Your Stuff&lt;/a>
+&lt;a href="https://lobste.rs/s/wquku0/send_me_your_stuff">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-08-23</title><link>https://frozen-lobster.rohanverma.net/posts/2021-08-23/</link><pubDate>Mon, 23 Aug 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-08-23/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="http://len.falken.ink/p-lang/first-class-comments.txt">First class comments&lt;/a>
 &lt;a href="https://lobste.rs/s/u6tusd/first_class_comments">(comments)&lt;/a>&lt;/p>
