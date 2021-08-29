@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 28 Aug 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-08-28</title><link>https://frozen-lobster.rohanverma.net/posts/2021-08-28/</link><pubDate>Sat, 28 Aug 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-08-28/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 29 Aug 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-08-29</title><link>https://frozen-lobster.rohanverma.net/posts/2021-08-29/</link><pubDate>Sun, 29 Aug 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-08-29/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://mike.zwobble.org/2021/08/side-projects-vs-industry/">My tiny side project has had more impact than my decade in the software industry&lt;/a>
+&lt;a href="https://lobste.rs/s/kyaoqk/my_tiny_side_project_has_had_more_impact">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://kaitai.io/">Kaitai Struct: declarative binary format parsing language&lt;/a>
+&lt;a href="https://lobste.rs/s/pnfkzp/kaitai_struct_declarative_binary_format">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pan.earth/posts/why-i-will-stay-janet.html">Why I will stay Janet&lt;/a>
+&lt;a href="https://lobste.rs/s/falxep/why_i_will_stay_janet">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://vfoley.xyz/reasonable-use-2/">Making Reasonable Use of Computer Resources: Part 2&lt;/a>
+&lt;a href="https://lobste.rs/s/ivboce/making_reasonable_use_computer">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://michael.stapelberg.ch/posts/2021-08-28-silent-hp-z440-workstation/">Silent HP Z440 workstation: replacing noisy fans&lt;/a>
+&lt;a href="https://lobste.rs/s/hmbepl/silent_hp_z440_workstation_replacing">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.cs.bham.ac.uk/~mhe/HoTT-UF-in-Agda-Lecture-Notes/index.html">Introduction to Homotopy Type Theory and Univalent Foundations (HoTT/UF) with Agda&lt;/a>
+&lt;a href="https://lobste.rs/s/htj8ix/introduction_homotopy_type_theory">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://simonwillison.net/2021/Aug/28/dynamic-github-repository-templates/">Dynamic content for GitHub repository templates using cookiecutter and GitHub Actions&lt;/a>
+&lt;a href="https://lobste.rs/s/lztgne/dynamic_content_for_github_repository">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://furbo.org/2021/08/25/jsc-my-new-best-friend/">jsc: My New Best Friend&lt;/a>
+&lt;a href="https://lobste.rs/s/agm5nv/jsc_my_new_best_friend">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tailscale.com/blog/rbac-like-it-was-meant-to-be/">RBAC like it was meant to be&lt;/a>
+&lt;a href="https://lobste.rs/s/i2ngzq/rbac_like_it_was_meant_be">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.draketo.de/software/guile-10x.html">10 ways GNU Guile is 10x better&lt;/a>
+&lt;a href="https://lobste.rs/s/siibpv/10_ways_gnu_guile_is_10x_better">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-08-28</title><link>https://frozen-lobster.rohanverma.net/posts/2021-08-28/</link><pubDate>Sat, 28 Aug 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-08-28/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://tailscale.com/kb/1134/ipv6-faq/">IPv4 vs. IPv6 FAQ&lt;/a>
 &lt;a href="https://lobste.rs/s/uid8v2/ipv4_vs_ipv6_faq">(comments)&lt;/a>&lt;/p>
