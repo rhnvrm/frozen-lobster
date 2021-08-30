@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 29 Aug 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-08-29</title><link>https://frozen-lobster.rohanverma.net/posts/2021-08-29/</link><pubDate>Sun, 29 Aug 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-08-29/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 30 Aug 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-08-30</title><link>https://frozen-lobster.rohanverma.net/posts/2021-08-30/</link><pubDate>Mon, 30 Aug 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-08-30/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://toroid.org/modern-neovim">Moving to modern Neovim&lt;/a>
+&lt;a href="https://lobste.rs/s/hgvtpd/moving_modern_neovim">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.klipse.tech/golang/2021/08/29/blog-go.html">A new way of blogging about Golang&lt;/a>
+&lt;a href="https://lobste.rs/s/qd94zg/new_way_blogging_about_golang">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://hyperthings.garden/posts/2021-06-20/hell-is-other-repls.html">Hell Is Other REPLs&lt;/a>
+&lt;a href="https://lobste.rs/s/dxquiu/hell_is_other_repls">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://yingtongli.me/blog/2021/08/29/drm5-1.html">Reverse engineering software licencing from early-2000s abandonware – Part 1&lt;/a>
+&lt;a href="https://lobste.rs/s/dmne96/reverse_engineering_software_licencing">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/google/wuffs">wuffs: Wrangling Untrusted File Formats Safely&lt;/a>
+&lt;a href="https://lobste.rs/s/d7ztvr/wuffs_wrangling_untrusted_file_formats">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://rachelbythebay.com/w/2021/08/28/big/">Big company tale: six months for a list and a button&lt;/a>
+&lt;a href="https://lobste.rs/s/eppfwf/big_company_tale_six_months_for_list">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://msucharski.eu/posts/application-isolation-nixos-containers/">Application Isolation using NixOS Containers&lt;/a>
+&lt;a href="https://lobste.rs/s/hhpvwe/application_isolation_using_nixos">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/taviso/nntpit">taviso/nntpit: minimalist reddit2nntp gateway&lt;/a>
+&lt;a href="https://lobste.rs/s/m0ozw1/taviso_nntpit_minimalist_reddit2nntp">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://vfoley.xyz/reasonable-use-2/">Making Reasonable Use of Computer Resources: Part 2&lt;/a>
+&lt;a href="https://lobste.rs/s/ivboce/making_reasonable_use_computer">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://mike.zwobble.org/2021/08/side-projects-vs-industry/">My tiny side project has had more impact than my decade in the software industry&lt;/a>
+&lt;a href="https://lobste.rs/s/kyaoqk/my_tiny_side_project_has_had_more_impact">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-08-29</title><link>https://frozen-lobster.rohanverma.net/posts/2021-08-29/</link><pubDate>Sun, 29 Aug 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-08-29/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://mike.zwobble.org/2021/08/side-projects-vs-industry/">My tiny side project has had more impact than my decade in the software industry&lt;/a>
 &lt;a href="https://lobste.rs/s/kyaoqk/my_tiny_side_project_has_had_more_impact">(comments)&lt;/a>&lt;/p>
