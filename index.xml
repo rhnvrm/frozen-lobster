@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 30 Aug 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-08-30</title><link>https://frozen-lobster.rohanverma.net/posts/2021-08-30/</link><pubDate>Mon, 30 Aug 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-08-30/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 31 Aug 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-08-31</title><link>https://frozen-lobster.rohanverma.net/posts/2021-08-31/</link><pubDate>Tue, 31 Aug 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-08-31/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://neosmart.net/blog/2021/using-simd-acceleration-in-rust-to-create-the-worlds-fastest-tac/">Using SIMD acceleration in rust to create the world’s fastest tac&lt;/a>
+&lt;a href="https://lobste.rs/s/wdfmrj/using_simd_acceleration_rust_create">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://rubenerd.com/im-not-sure-that-unix-won/">I’m not sure that UNIX won&lt;/a>
+&lt;a href="https://lobste.rs/s/ezqjv5/i_m_not_sure_unix_won">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://neilalexander.dev/2021/08/29/go-pass-by-value.html">Go is pass-by-value — but it might not always feel like it&lt;/a>
+&lt;a href="https://lobste.rs/s/lfidmh/go_is_pass_by_value_it_might_not_always_feel">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pythonspeed.com/articles/base-image-python-docker-images/">The best Docker base image for your Python application&lt;/a>
+&lt;a href="https://lobste.rs/s/jclep1/best_docker_base_image_for_your_python">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://toroid.org/modern-neovim">Moving to modern Neovim&lt;/a>
+&lt;a href="https://lobste.rs/s/hgvtpd/moving_modern_neovim">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.extremetech.com/computing/326292-why-lying-about-storage-products-is-bad-an-ibm-deskstar-story">Why Lying About Storage Products Is Bad: An IBM DeskStar Story&lt;/a>
+&lt;a href="https://lobste.rs/s/grwlhx/why_lying_about_storage_products_is_bad">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this week?&lt;/a>
+&lt;a href="https://lobste.rs/s/wjd7tu/what_are_you_doing_this_week">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://web.stanford.edu/~learnest/sail/finger.html">How a nosy bureaucrat accidentally created the first social networking and blogging service (2017)&lt;/a>
+&lt;a href="https://lobste.rs/s/w6xip8/how_nosy_bureaucrat_accidentally">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.thechiefmeat.com/guides/containers.html">Firefox Containers for Increased Privacy&lt;/a>
+&lt;a href="https://lobste.rs/s/5kmvyh/firefox_containers_for_increased">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://neverworkintheory.org/2021/08/29/software-development-waste.html">Software Development Waste&lt;/a>
+&lt;a href="https://lobste.rs/s/4urnpr/software_development_waste">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-08-30</title><link>https://frozen-lobster.rohanverma.net/posts/2021-08-30/</link><pubDate>Mon, 30 Aug 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-08-30/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://toroid.org/modern-neovim">Moving to modern Neovim&lt;/a>
 &lt;a href="https://lobste.rs/s/hgvtpd/moving_modern_neovim">(comments)&lt;/a>&lt;/p>
