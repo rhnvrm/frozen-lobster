@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 31 Aug 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-08-31</title><link>https://frozen-lobster.rohanverma.net/posts/2021-08-31/</link><pubDate>Tue, 31 Aug 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-08-31/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-09-01</title><link>https://frozen-lobster.rohanverma.net/posts/2021-09-01/</link><pubDate>Wed, 01 Sep 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-09-01/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://jezenthomas.com/why-we-dont-do-daily-stand-ups-at-supercede/">Why We Don&amp;rsquo;t Do Daily Stand-Ups at Supercede&lt;/a>
+&lt;a href="https://lobste.rs/s/fear8c/why_we_don_t_do_daily_stand_ups_at_supercede">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/facebookexperimental/skybison">Skybison, Instagram&amp;rsquo;s experimental performance oriented greenfield implementation of Python&lt;/a>
+&lt;a href="https://lobste.rs/s/lbgrah/skybison_instagram_s_experimental">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehftguy.com/2021/08/30/french-appeal-court-affirms-decision-that-copyright-claims-on-gpl-are-invalid-must-be-enforced-via-contractual-dispute/">French Appeal Court affirms decision that copyright claims on GPL are invalid; must be enforced via contractual dispute&lt;/a>
+&lt;a href="https://lobste.rs/s/ozdf5m/french_appeal_court_affirms_decision">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.fredrikholmqvist.com/posts/brooks-wirth-go/">Brooks, Wirth and Go&lt;/a>
+&lt;a href="https://lobste.rs/s/wx3r8f/brooks_wirth_go">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://mlochbaum.github.io/BQN/implementation/kclaims.html">Wild claims about K performance&lt;/a>
+&lt;a href="https://lobste.rs/s/d3plgr/wild_claims_about_k_performance">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.fredrikholmqvist.com/posts/why-erlang/">Why Erlang?&lt;/a>
+&lt;a href="https://lobste.rs/s/ibd5bw/why_erlang">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://matduggan.com/how-does-apple-private-relay-work/">How does Apple Private Relay Work?&lt;/a>
+&lt;a href="https://lobste.rs/s/3gy02o/how_does_apple_private_relay_work">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://esoteric.codes/blog/bouk-monkey-satirical-code-used-by-people-who-dont-get-the-joke">Monkey: the satirical Go package used unwittingly by Arduino and SalesForce&lt;/a>
+&lt;a href="https://lobste.rs/s/jrnc38/monkey_satirical_go_package_used">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">If you could rewrite anything from scratch, what would it be?&lt;/a>
+&lt;a href="https://lobste.rs/s/sdum3p/if_you_could_rewrite_anything_from">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://neosmart.net/blog/2021/using-simd-acceleration-in-rust-to-create-the-worlds-fastest-tac/">Using SIMD acceleration in rust to create the world’s fastest tac&lt;/a>
+&lt;a href="https://lobste.rs/s/wdfmrj/using_simd_acceleration_rust_create">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-08-31</title><link>https://frozen-lobster.rohanverma.net/posts/2021-08-31/</link><pubDate>Tue, 31 Aug 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-08-31/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://neosmart.net/blog/2021/using-simd-acceleration-in-rust-to-create-the-worlds-fastest-tac/">Using SIMD acceleration in rust to create the world’s fastest tac&lt;/a>
 &lt;a href="https://lobste.rs/s/wdfmrj/using_simd_acceleration_rust_create">(comments)&lt;/a>&lt;/p>
