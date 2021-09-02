@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-09-01</title><link>https://frozen-lobster.rohanverma.net/posts/2021-09-01/</link><pubDate>Wed, 01 Sep 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-09-01/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 02 Sep 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-09-02</title><link>https://frozen-lobster.rohanverma.net/posts/2021-09-02/</link><pubDate>Thu, 02 Sep 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-09-02/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.getrevue.co/profile/shift-happens/issues/moire-no-more-688319">Moiré no more&lt;/a>
+&lt;a href="https://lobste.rs/s/5eap5c/moire_no_more">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/DeterminateSystems/nix-netboot-serve">nix-netboot-serve: Make any NixOS system netbootable with 10s cycle times&lt;/a>
+&lt;a href="https://lobste.rs/s/jhjva2/nix_netboot_serve_make_any_nixos_system">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://twitter.com/alyssarzg/status/1432927311058194436">Bare metal Apple M1 Debian at 4K&lt;/a>
+&lt;a href="https://lobste.rs/s/n3fwta/bare_metal_apple_m1_debian_at_4k">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">If you could rewrite anything from scratch, what would it be?&lt;/a>
+&lt;a href="https://lobste.rs/s/sdum3p/if_you_could_rewrite_anything_from">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/mTvare6/hello-world.rs">Memory safe, blazing fast, configurable, minimal hello world written in rust&lt;/a>
+&lt;a href="https://lobste.rs/s/brerxy/memory_safe_blazing_fast_configurable">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/Cykelero/timefind">timefind: search a website&amp;rsquo;s history&lt;/a>
+&lt;a href="https://lobste.rs/s/6jdwnj/timefind_search_website_s_history">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.tomshardware.com/news/apple-m1-netbsd-boot">Apple&amp;rsquo;s M1 Chip Boots NetBSD Operating System&lt;/a>
+&lt;a href="https://lobste.rs/s/m39tvb/apple_s_m1_chip_boots_netbsd_operating">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tech.nextroll.com/blog/dev/2021/09/01/erlang-rebar3-depup.html">Stay on top of your Erlang deps with our latest rebar3 plugin&lt;/a>
+&lt;a href="https://lobste.rs/s/avfxe4/stay_on_top_your_erlang_deps_with_our">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://rudism.com/coding-csharp-in-neovim/">Coding C# in Neovim&lt;/a>
+&lt;a href="https://lobste.rs/s/uvitsy/coding_c_neovim">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://mckinley.cc/blog/20210831.html">Documents are not Programs&lt;/a>
+&lt;a href="https://lobste.rs/s/poxwde/documents_are_not_programs">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-09-01</title><link>https://frozen-lobster.rohanverma.net/posts/2021-09-01/</link><pubDate>Wed, 01 Sep 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-09-01/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://jezenthomas.com/why-we-dont-do-daily-stand-ups-at-supercede/">Why We Don&amp;rsquo;t Do Daily Stand-Ups at Supercede&lt;/a>
 &lt;a href="https://lobste.rs/s/fear8c/why_we_don_t_do_daily_stand_ups_at_supercede">(comments)&lt;/a>&lt;/p>
