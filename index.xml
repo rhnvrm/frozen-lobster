@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 04 Sep 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-09-04</title><link>https://frozen-lobster.rohanverma.net/posts/2021-09-04/</link><pubDate>Sat, 04 Sep 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-09-04/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 05 Sep 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-09-05</title><link>https://frozen-lobster.rohanverma.net/posts/2021-09-05/</link><pubDate>Sun, 05 Sep 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-09-05/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/epilys/nntpserver.py">nntpserver.py, no external dependency NNTP server library for writing server/bridges with ease&lt;/a>
+&lt;a href="https://lobste.rs/s/nw56kf/nntpserver_py_no_external_dependency">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://daniel.haxx.se/blog/2021/09/04/making-world-class-docs-takes-effort/">Making world-class docs takes effort&lt;/a>
+&lt;a href="https://lobste.rs/s/wt6orw/making_world_class_docs_takes_effort">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this weekend?&lt;/a>
+&lt;a href="https://lobste.rs/s/ilawug/what_are_you_doing_this_weekend">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://threkk.medium.com/how-to-use-bookmarks-in-bash-zsh-6b8074e40774">How to use bookmarks in bash/zsh&lt;/a>
+&lt;a href="https://lobste.rs/s/6s1azj/how_use_bookmarks_bash_zsh">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/v1cont/yad">yad: create ad-hoc gtk GUIs from shell&lt;/a>
+&lt;a href="https://lobste.rs/s/xcnisi/yad_create_ad_hoc_gtk_guis_from_shell">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=f7464060f7ab9a2424428008f0ee9f1e267e410f">Paragon NTFS driver approved and merged into Linux kernel&lt;/a>
+&lt;a href="https://lobste.rs/s/lcnbar/paragon_ntfs_driver_approved_merged_into">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://eli.thegreenplace.net/2017/benefits-of-dependencies-in-software-projects-as-a-function-of-effort/">The benefit of a dependency is inversely proportional to the amount of effort spent on a project&lt;/a>
+&lt;a href="https://lobste.rs/s/uxgclp/benefit_dependency_is_inversely">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.arctic81.com/">Arctic Adventure: A Lost 1981 TRS-80 Adventure Game&lt;/a>
+&lt;a href="https://lobste.rs/s/c9mwvu/arctic_adventure_lost_1981_trs_80">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://www.bitsavers.org/pdf/xerox/parc/techReports/ISL-83-1_A_Retrospective_on_the_Dorado_A_High-Performance_Personal_Computer.pdf">A Retrospective on the Dorado, A High-Performance Personal Computer (1983)&lt;/a>
+&lt;a href="https://lobste.rs/s/rnvqph/retrospective_on_dorado_high">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://qmacro.org/autodidactics/2021/09/03/exploring-fff-part-1-main/">Exploring fff part 1 - main&lt;/a>
+&lt;a href="https://lobste.rs/s/oea06o/exploring_fff_part_1_main">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-09-04</title><link>https://frozen-lobster.rohanverma.net/posts/2021-09-04/</link><pubDate>Sat, 04 Sep 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-09-04/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://qmacro.org/autodidactics/2021/09/03/exploring-fff-part-1-main/">Exploring fff part 1 - main&lt;/a>
 &lt;a href="https://lobste.rs/s/oea06o/exploring_fff_part_1_main">(comments)&lt;/a>&lt;/p>
