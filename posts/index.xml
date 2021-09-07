@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 06 Sep 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-09-06</title><link>https://frozen-lobster.rohanverma.net/posts/2021-09-06/</link><pubDate>Mon, 06 Sep 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-09-06/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 07 Sep 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-09-07</title><link>https://frozen-lobster.rohanverma.net/posts/2021-09-07/</link><pubDate>Tue, 07 Sep 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-09-07/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://vincent.bernat.ch/en/blog/2021-i3-window-manager">Switching to the i3 window manager&lt;/a>
+&lt;a href="https://lobste.rs/s/5jdjno/switching_i3_window_manager">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">Who&amp;rsquo;s hiring? Q4Y2021&lt;/a>
+&lt;a href="https://lobste.rs/s/bh5jnd/who_s_hiring_q4y2021">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/FiloSottile/age/releases/tag/v1.0.0">Release age v1.0.0&lt;/a>
+&lt;a href="https://lobste.rs/s/ot0qwb/release_age_v1_0_0">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://matklad.github.io//2021/09/04/fast-rust-builds.html">Fast Rust Builds&lt;/a>
+&lt;a href="https://lobste.rs/s/vwhlgp/fast_rust_builds">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://xtclang.blogspot.com/2021/08/its-little-things.html">XIP: Packed Integer Format for VMs / IRs&lt;/a>
+&lt;a href="https://lobste.rs/s/8lr3zo/xip_packed_integer_format_for_vms_irs">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://blog.pkh.me/p/30-saving-a-restic-backup-the-hard-way.html">Saving a restic backup the hard way&lt;/a>
+&lt;a href="https://lobste.rs/s/ohnloh/saving_restic_backup_hard_way">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.brendangregg.com/blog/2021-09-06/zfs-is-mysteriously-eating-my-cpu.html">ZFS Is Mysteriously Eating My CPU&lt;/a>
+&lt;a href="https://lobste.rs/s/99hjxm/zfs_is_mysteriously_eating_my_cpu">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://vermaden.wordpress.com/2021/09/06/freebsd-desktop-part-27-configuration-netflix-signal-telegram/">Netflix, Signal, and Telegram on FreeBSD&lt;/a>
+&lt;a href="https://lobste.rs/s/ai3yp2/netflix_signal_telegram_on_freebsd">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thenewstack.io/meet-the-college-student-who-makes-his-own-chips/">Meet the College Student Who Makes His Own Chips&lt;/a>
+&lt;a href="https://lobste.rs/s/pj49l5/meet_college_student_who_makes_his_own">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://raymii.org/s/blog/Relegendable_keycaps_for_your_macropad.html">Relegendable keycaps for your macropad, the best thing ever for my productivity&lt;/a>
+&lt;a href="https://lobste.rs/s/nlpqtr/relegendable_keycaps_for_your_macropad">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-09-06</title><link>https://frozen-lobster.rohanverma.net/posts/2021-09-06/</link><pubDate>Mon, 06 Sep 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-09-06/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://thephd.dev/c-the-improvements-june-september-virtual-c-meeting">Progress on C23&lt;/a>
 &lt;a href="https://lobste.rs/s/vpfnao/progress_on_c23">(comments)&lt;/a>&lt;/p>
