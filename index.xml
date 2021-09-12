@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 11 Sep 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-09-11</title><link>https://frozen-lobster.rohanverma.net/posts/2021-09-11/</link><pubDate>Sat, 11 Sep 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-09-11/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 12 Sep 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-09-12</title><link>https://frozen-lobster.rohanverma.net/posts/2021-09-12/</link><pubDate>Sun, 12 Sep 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-09-12/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://blogs.gnome.org/alexm/2021/09/10/cleaning-up-header-bars/">Cleaning up header bars in GNOME 41&lt;/a>
+&lt;a href="https://lobste.rs/s/a2o5qz/cleaning_up_header_bars_gnome_41">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/e-n-f/if-then-else/blob/master/if-then-else.md">if &amp;hellip; then &amp;hellip; else had to be invented&lt;/a>
+&lt;a href="https://lobste.rs/s/cnfxut/if_then_else_had_be_invented">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://neverworkintheory.org">Short summaries of recent results in empirical software engineering research&lt;/a>
+&lt;a href="https://lobste.rs/s/vyr8zw/short_summaries_recent_results">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://programmingisterrible.com/post/173883533613/code-to-debug">Write code that&amp;rsquo;s easy to delete, and easy to debug too&lt;/a>
+&lt;a href="https://lobste.rs/s/xadwgk/write_code_s_easy_delete_easy_debug_too">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://matduggan.com/are-dockerfiles-good-enough/">Are Dockerfiles good enough?&lt;/a>
+&lt;a href="https://lobste.rs/s/ttqi4c/are_dockerfiles_good_enough">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pmig96.wordpress.com/2021/04/29/palmos-on-raspberry-pi/">PalmOS on Raspberry Pi&lt;/a>
+&lt;a href="https://lobste.rs/s/thgm1c/palmos_on_raspberry_pi">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://briancallahan.net/blog/20210911.html">I got the J language working on OpenBSD&lt;/a>
+&lt;a href="https://lobste.rs/s/w3ohim/i_got_j_language_working_on_openbsd">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.lunarvim.org/">LunarVim: An opinionated, extensible, and fast IDE layer for Neovim&lt;/a>
+&lt;a href="https://lobste.rs/s/iptxp7/lunarvim_opinionated_extensible_fast">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ryanliptak.com/blog/code-coverage-zig-callgrind/">Code Coverage for Zig with Callgrind&lt;/a>
+&lt;a href="https://lobste.rs/s/ytezj7/code_coverage_for_zig_with_callgrind">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://stitcher.io/blog/php-81-readonly-properties">PHP 8.1: readonly properties&lt;/a>
+&lt;a href="https://lobste.rs/s/vdwn7u/php_8_1_readonly_properties">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-09-11</title><link>https://frozen-lobster.rohanverma.net/posts/2021-09-11/</link><pubDate>Sat, 11 Sep 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-09-11/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://matduggan.com/are-dockerfiles-good-enough/">Are Dockerfiles good enough?&lt;/a>
 &lt;a href="https://lobste.rs/s/ttqi4c/are_dockerfiles_good_enough">(comments)&lt;/a>&lt;/p>
