@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 12 Sep 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-09-12</title><link>https://frozen-lobster.rohanverma.net/posts/2021-09-12/</link><pubDate>Sun, 12 Sep 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-09-12/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 13 Sep 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-09-13</title><link>https://frozen-lobster.rohanverma.net/posts/2021-09-13/</link><pubDate>Mon, 13 Sep 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-09-13/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://zig.news/kprotty/resource-efficient-thread-pools-with-zig-3291">Resource efficient Thread Pools with Zig&lt;/a>
+&lt;a href="https://lobste.rs/s/kbjpiu/resource_efficient_thread_pools_with_zig">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.acriticalhit.com/sumerian-game-most-important-video-game-youve-never-heard/">The Sumerian Game: The most important video game you’ve never heard of&lt;/a>
+&lt;a href="https://lobste.rs/s/8iwko8/sumerian_game_most_important_video_game">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sszczep.github.io/ray-casting-in-2d-game-engines/">Ray casting in 2D game engines&lt;/a>
+&lt;a href="https://lobste.rs/s/xpnodg/ray_casting_2d_game_engines">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cs-syd.eu/posts/2021-09-11-json-vulnerability?source=twitter">JSON Vulnerability in Haskell&amp;rsquo;s Aeson library&lt;/a>
+&lt;a href="https://lobste.rs/s/hzfb4m/json_vulnerability_haskell_s_aeson">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.jonlu.ca/posts/heap-snapshot-scraping?ref=ls">Snapshotting memory to scrape encrypted network requests&lt;/a>
+&lt;a href="https://lobste.rs/s/rlapah/snapshotting_memory_scrape_encrypted">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://vermaden.wordpress.com/2021/09/13/ghost-in-the-shell-part-6-learn-shell-scripting/">Ghost in the Shell - Learn Shell Scripting&lt;/a>
+&lt;a href="https://lobste.rs/s/3iz1gf/ghost_shell_learn_shell_scripting">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.i-dont-care-about-cookies.eu/">I don&amp;rsquo;t care about cookies&lt;/a>
+&lt;a href="https://lobste.rs/s/xdgfwq/i_don_t_care_about_cookies">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://nolanlawson.com/2021/09/12/how-to-write-about-web-performance/">How to write about web performance&lt;/a>
+&lt;a href="https://lobste.rs/s/cycuza/how_write_about_web_performance">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://www.cs.toronto.edu/~matz/dissertation/matzDissertation-latex2html/node6.html">Dispatch Techniques&lt;/a>
+&lt;a href="https://lobste.rs/s/ux0e7f/dispatch_techniques">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://briancallahan.net/blog/20210911.html">I got the J language working on OpenBSD&lt;/a>
+&lt;a href="https://lobste.rs/s/w3ohim/i_got_j_language_working_on_openbsd">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-09-12</title><link>https://frozen-lobster.rohanverma.net/posts/2021-09-12/</link><pubDate>Sun, 12 Sep 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-09-12/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://blogs.gnome.org/alexm/2021/09/10/cleaning-up-header-bars/">Cleaning up header bars in GNOME 41&lt;/a>
 &lt;a href="https://lobste.rs/s/a2o5qz/cleaning_up_header_bars_gnome_41">(comments)&lt;/a>&lt;/p>
