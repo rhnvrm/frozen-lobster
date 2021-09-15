@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 14 Sep 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-09-14</title><link>https://frozen-lobster.rohanverma.net/posts/2021-09-14/</link><pubDate>Tue, 14 Sep 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-09-14/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 15 Sep 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-09-15</title><link>https://frozen-lobster.rohanverma.net/posts/2021-09-15/</link><pubDate>Wed, 15 Sep 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-09-15/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://phoenixtrap.com/2021/09/14/a-good-old-fashioned-perl-log-analyzer/">A good old-​fashioned Perl log analyzer&lt;/a>
+&lt;a href="https://lobste.rs/s/fq0qyi/good_old_fashioned_perl_log_analyzer">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.apple.com/apple-events/">Apple Event for September 14th, 2021&lt;/a>
+&lt;a href="https://lobste.rs/s/wevd6q/apple_event_for_september_14th_2021">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://mail.openjdk.java.net/pipermail/jdk-dev/2021-September/006037.html">Java 17 / JDK 17: General Availability&lt;/a>
+&lt;a href="https://lobste.rs/s/nwfmvz/java_17_jdk_17_general_availability">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.theverge.com/2021/9/13/22671182/mozilla-default-browser-windows-protections-firefox">Mozilla has automated Microsoft’s default browser protections in Windows&lt;/a>
+&lt;a href="https://lobste.rs/s/djzmlp/mozilla_has_automated_microsoft_s">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.joshwcomeau.com/css/designing-shadows/">Designing Beautiful Shadows in CSS&lt;/a>
+&lt;a href="https://lobste.rs/s/6jcqdp/designing_beautiful_shadows_css">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.yossarian.net/2021/09/14/LLVM-internals-part-3-from-bitcode-to-IR">LLVM internals, part 3: from bitcode to IR&lt;/a>
+&lt;a href="https://lobste.rs/s/dpaekr/llvm_internals_part_3_from_bitcode_ir">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://conventionalcomments.org/">Conventional Comments&lt;/a>
+&lt;a href="https://lobste.rs/s/rhjqfq/conventional_comments">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/segmentio/asm">Go library providing algorithms optimized to leverage the characteristics of modern CPUs&lt;/a>
+&lt;a href="https://lobste.rs/s/jnz41f/go_library_providing_algorithms">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.felixparadis.com/posts/randomizing-the-alert-sound-on-a-mac/">Randomizing the Alert Sound on a Mac&lt;/a>
+&lt;a href="https://lobste.rs/s/pantka/randomizing_alert_sound_on_mac">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://alex-hhh.github.io/2021/09/screenshots.html">Racket GUI screenshots&lt;/a>
+&lt;a href="https://lobste.rs/s/ld9kty/racket_gui_screenshots">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-09-14</title><link>https://frozen-lobster.rohanverma.net/posts/2021-09-14/</link><pubDate>Tue, 14 Sep 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-09-14/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://alex-hhh.github.io/2021/09/screenshots.html">Racket GUI screenshots&lt;/a>
 &lt;a href="https://lobste.rs/s/ld9kty/racket_gui_screenshots">(comments)&lt;/a>&lt;/p>
