@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 18 Sep 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-09-18</title><link>https://frozen-lobster.rohanverma.net/posts/2021-09-18/</link><pubDate>Sat, 18 Sep 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-09-18/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 19 Sep 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-09-19</title><link>https://frozen-lobster.rohanverma.net/posts/2021-09-19/</link><pubDate>Sun, 19 Sep 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-09-19/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/haileys/doslinux">DOS Subsystem for Linux&lt;/a>
+&lt;a href="https://lobste.rs/s/wfmjcc/dos_subsystem_for_linux">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://offbeat.cc/blog/our-trip-to-integer-partitions.html">Our Next Trip to Integer Partitions&lt;/a>
+&lt;a href="https://lobste.rs/s/gxvrzy/our_next_trip_integer_partitions">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tomgamon.com/posts/things-i-have-learned-new-tech-lead/">What I Learnt Becoming a Tech Lead&lt;/a>
+&lt;a href="https://lobste.rs/s/8uxjea/what_i_learnt_becoming_tech_lead">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/joehillen/sysz">sysz: An fzf terminal UI for systemctl&lt;/a>
+&lt;a href="https://lobste.rs/s/4mhbxf/sysz_fzf_terminal_ui_for_systemctl">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://spectrum.ieee.org/q-a-with-co-creator-of-the-6502-processor">Q&amp;amp;A with the co-creator of the 6502&lt;/a>
+&lt;a href="https://lobste.rs/s/o9wcyy/q_with_co_creator_6502">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/linuxenko/chkservice">chkservice: ncurses-based TUI for systemd&lt;/a>
+&lt;a href="https://lobste.rs/s/sbacis/chkservice_ncurses_based_tui_for_systemd">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://vermaden.wordpress.com/2021/09/19/ghost-in-the-shell-part-7-zsh-setup/">Ghost in the Shell – ZSH Setup&lt;/a>
+&lt;a href="https://lobste.rs/s/iiyoj0/ghost_shell_zsh_setup">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">Is the formal methods winter about to end?&lt;/a>
+&lt;a href="https://lobste.rs/s/yaufia/is_formal_methods_winter_about_end">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">How does Tailscale&amp;rsquo;s MagicDNS work?&lt;/a>
+&lt;a href="https://lobste.rs/s/v4obi8/how_does_tailscale_s_magicdns_work">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://juliu.is/ditch-your-version-manager/">Ditch your version manager&lt;/a>
+&lt;a href="https://lobste.rs/s/emyfhx/ditch_your_version_manager">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-09-18</title><link>https://frozen-lobster.rohanverma.net/posts/2021-09-18/</link><pubDate>Sat, 18 Sep 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-09-18/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://juliu.is/ditch-your-version-manager/">Ditch your version manager&lt;/a>
 &lt;a href="https://lobste.rs/s/emyfhx/ditch_your_version_manager">(comments)&lt;/a>&lt;/p>
