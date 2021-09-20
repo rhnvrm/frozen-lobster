@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 19 Sep 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-09-19</title><link>https://frozen-lobster.rohanverma.net/posts/2021-09-19/</link><pubDate>Sun, 19 Sep 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-09-19/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 20 Sep 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-09-20</title><link>https://frozen-lobster.rohanverma.net/posts/2021-09-20/</link><pubDate>Mon, 20 Sep 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-09-20/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.oilshell.org/blog/2021/09/multiline.html">Oil Has Multi-line Commands and String Literals&lt;/a>
+&lt;a href="https://lobste.rs/s/0gblwr/oil_has_multi_line_commands_string">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://people.freebsd.org/~gallatin/talks/euro2021.pdf">Serving Netflix Video at 400Gb/s&lt;/a>
+&lt;a href="https://lobste.rs/s/wwigjy/serving_netflix_video_at_400gb_s">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.gwern.net/Sidenotes">Sidenotes In Web Design&lt;/a>
+&lt;a href="https://lobste.rs/s/1h4dcs/sidenotes_web_design">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">Is the formal methods winter about to end?&lt;/a>
+&lt;a href="https://lobste.rs/s/yaufia/is_formal_methods_winter_about_end">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://webdraft.eu/fonts/classic-console/">Classic Console Neue&lt;/a>
+&lt;a href="https://lobste.rs/s/bx339s/classic_console_neue">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://medium.com/erlang-battleground/oh-erlang-885379e8bf7e">Oh, Erlang! - what we did for SpawnFest 2021&lt;/a>
+&lt;a href="https://lobste.rs/s/tmifvs/oh_erlang_what_we_did_for_spawnfest_2021">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cuddly-octo-palm-tree.com/posts/2021-09-19-git-elements/">The elements of git&lt;/a>
+&lt;a href="https://lobste.rs/s/khebdf/elements_git">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gergo.erdi.hu/blog/2021-09-18-rust_on_the_mos_6502__beyond_fibonacci/">Rust on the MOS 6502: Beyond Fibonacci&lt;/a>
+&lt;a href="https://lobste.rs/s/jmjlvj/rust_on_mos_6502_beyond_fibonacci">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/lewis6991/impatient.nvim">impatient.nvim: Improve startup time for Neovim&lt;/a>
+&lt;a href="https://lobste.rs/s/uebhbm/impatient_nvim_improve_startup_time_for">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://nethackchallenge.com/">NetHack Challenge&lt;/a>
+&lt;a href="https://lobste.rs/s/xuiekc/nethack_challenge">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-09-19</title><link>https://frozen-lobster.rohanverma.net/posts/2021-09-19/</link><pubDate>Sun, 19 Sep 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-09-19/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://github.com/haileys/doslinux">DOS Subsystem for Linux&lt;/a>
 &lt;a href="https://lobste.rs/s/wfmjcc/dos_subsystem_for_linux">(comments)&lt;/a>&lt;/p>
