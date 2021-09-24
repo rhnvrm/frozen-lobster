@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 23 Sep 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-09-23</title><link>https://frozen-lobster.rohanverma.net/posts/2021-09-23/</link><pubDate>Thu, 23 Sep 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-09-23/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 24 Sep 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-09-24</title><link>https://frozen-lobster.rohanverma.net/posts/2021-09-24/</link><pubDate>Fri, 24 Sep 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-09-24/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://nyxt.atlas.engineer/article/nyxt-versus-plugins.org">&amp;ldquo;Why should I use Nyxt if I can use Vimium?&amp;quot;&lt;/a>
+&lt;a href="https://lobste.rs/s/9uc1xe/why_should_i_use_nyxt_if_i_can_use_vimium">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://rachelbythebay.com/w/2021/09/22/membind/">A different take on the NUMA OOM killer story&lt;/a>
+&lt;a href="https://lobste.rs/s/4aq4tc/different_take_on_numa_oom_killer_story">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://goblog.app/tips/diary-tailscale-https">Private diary with GoBlog, Tailscale and HTTPS&lt;/a>
+&lt;a href="https://lobste.rs/s/nqb1mw/private_diary_with_goblog_tailscale">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tonsky.me/blog/python-build/">Python as a build tool&lt;/a>
+&lt;a href="https://lobste.rs/s/dektfe/python_as_build_tool">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://kerkour.com/blog/rust-on-esp32/">Rust on ESP32&lt;/a>
+&lt;a href="https://lobste.rs/s/l4kfiz/rust_on_esp32">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://fly.io/blog/how-we-got-to-liveview/">How We Got to LiveView&lt;/a>
+&lt;a href="https://lobste.rs/s/q6vxnw/how_we_got_liveview">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://you.have.fail/ed/blog/posts/bespoke/">Bespoke shenanigans&lt;/a>
+&lt;a href="https://lobste.rs/s/bmefea/bespoke_shenanigans">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.theverge.com/22684730/students-file-folder-directory-structure-education-gen-z">Concept of files and folder unfamiliar to modern students&lt;/a>
+&lt;a href="https://lobste.rs/s/sttul0/concept_files_folder_unfamiliar_modern">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://christine.website/blog/fun-with-redirection-2021-09-22">Fun with Redirection&lt;/a>
+&lt;a href="https://lobste.rs/s/v4nqxw/fun_with_redirection">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://spectrum.ieee.org/we-need-software-updates-forever">We Need Software Updates Forever&lt;/a>
+&lt;a href="https://lobste.rs/s/udabk9/we_need_software_updates_forever">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-09-23</title><link>https://frozen-lobster.rohanverma.net/posts/2021-09-23/</link><pubDate>Thu, 23 Sep 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-09-23/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://h2x.sh/apple/">Leaving Apples ecosystem and choosing tools which align with my mindset&lt;/a>
 &lt;a href="https://lobste.rs/s/jcwyax/leaving_apples_ecosystem_choosing_tools">(comments)&lt;/a>&lt;/p>
