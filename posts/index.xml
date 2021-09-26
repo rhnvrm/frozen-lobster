@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 25 Sep 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-09-25</title><link>https://frozen-lobster.rohanverma.net/posts/2021-09-25/</link><pubDate>Sat, 25 Sep 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-09-25/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 26 Sep 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-09-26</title><link>https://frozen-lobster.rohanverma.net/posts/2021-09-26/</link><pubDate>Sun, 26 Sep 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-09-26/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://benjamindlee.com/posts/2021/why-i-use-nim-instead-of-python-for-data-processing/">Why I Use Nim instead of Python for Data Processing&lt;/a>
+&lt;a href="https://lobste.rs/s/xlfbpp/why_i_use_nim_instead_python_for_data">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.joda.org/2021/09/big-problems-at-timezone-database.html">Big problems at the timezone database&lt;/a>
+&lt;a href="https://lobste.rs/s/rymxjk/big_problems_at_timezone_database">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://fasterthanli.me/articles/a-terminal-case-of-linux">A terminal case of Linux&lt;/a>
+&lt;a href="https://lobste.rs/s/wenfxx/terminal_case_linux">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://xahteiwi.eu/resources/presentations/no-we-wont-have-a-video-call-for-that/">No, We Won’t Have a Video Call for That&lt;/a>
+&lt;a href="https://lobste.rs/s/xpo1su/no_we_won_t_have_video_call_for">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blogs.gnome.org/uraeus/2021/09/24/fedora-workstation-our-vision-for-linux-desktop/">Fedora Workstation: Our Vision for Linux Desktop&lt;/a>
+&lt;a href="https://lobste.rs/s/9glcb8/fedora_workstation_our_vision_for_linux">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.danieljanus.pl/2021/09/25/testing-lithium/">Testing a compiler that can’t even print stuff out&lt;/a>
+&lt;a href="https://lobste.rs/s/q7hdq2/testing_compiler_can_t_even_print_stuff">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://arstechnica.com/gadgets/2021/09/examining-btrfs-linuxs-perpetually-half-finished-filesystem/">Examining btrfs, Linux’s perpetually half-finished filesystem&lt;/a>
+&lt;a href="https://lobste.rs/s/f3rifo/examining_btrfs_linux_s_perpetually_half">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://blog.cleancoder.com/uncle-bob/2021/09/25/roots.html">Roots (PDP-8 emulator for the iPad)&lt;/a>
+&lt;a href="https://lobste.rs/s/bajo5o/roots_pdp_8_emulator_for_ipad">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://moinakg.wordpress.com/2013/01/19/vectorizing-xxhash-for-fun-and-profit/">Vectorizing xxHash for Fun and Profit (2013)&lt;/a>
+&lt;a href="https://lobste.rs/s/5emj1s/vectorizing_xxhash_for_fun_profit_2013">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://adriano.fyi/post/2021-09-23-my-math-confession/">My Math Confession&lt;/a>
+&lt;a href="https://lobste.rs/s/p5kano/my_math_confession">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-09-25</title><link>https://frozen-lobster.rohanverma.net/posts/2021-09-25/</link><pubDate>Sat, 25 Sep 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-09-25/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://adriano.fyi/post/2021-09-23-my-math-confession/">My Math Confession&lt;/a>
 &lt;a href="https://lobste.rs/s/p5kano/my_math_confession">(comments)&lt;/a>&lt;/p>
