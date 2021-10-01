@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 30 Sep 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-09-30</title><link>https://frozen-lobster.rohanverma.net/posts/2021-09-30/</link><pubDate>Thu, 30 Sep 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-09-30/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 01 Oct 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-10-01</title><link>https://frozen-lobster.rohanverma.net/posts/2021-10-01/</link><pubDate>Fri, 01 Oct 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-10-01/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="">Dark mode&lt;/a>
+&lt;a href="https://lobste.rs/s/eg1n75/dark_mode">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://madhadron.com/posts/seven_languages.html">The seven programming ur-languages&lt;/a>
+&lt;a href="https://lobste.rs/s/kwpyt8/seven_programming_ur_languages">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.postgresql.org/about/news/postgresql-14-released-2318/">PostgreSQL 14 Released&lt;/a>
+&lt;a href="https://lobste.rs/s/kxx7lr/postgresql_14_released">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://earthly.dev/blog/awk-examples/">Understanding AWK&lt;/a>
+&lt;a href="https://lobste.rs/s/4wxwzh/understanding_awk">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://betterprogramming.pub/why-i-still-lisp-and-you-should-too-18a2ae36bd8">Why I Still Lisp (and You Should Too)&lt;/a>
+&lt;a href="https://lobste.rs/s/ociwy7/why_i_still_lisp_you_should_too">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/authzed/spicedb/releases/tag/v1.0.0">SpiceDB – production-ready, open-source Google Zanzibar implementation&lt;/a>
+&lt;a href="https://lobste.rs/s/smpkth/spicedb_production_ready_open_source">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://about.gitlab.com/blog/2021/09/29/why-we-spent-the-last-month-eliminating-postgresql-subtransactions/">Why we spent the last month eliminating PostgreSQL subtransactions&lt;/a>
+&lt;a href="https://lobste.rs/s/zyyoma/why_we_spent_last_month_eliminating">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://webzine.puffy.cafe/">The OpenBSD Webzine&lt;/a>
+&lt;a href="https://lobste.rs/s/lyo9jv/openbsd_webzine">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://orgmode.org/Changes.html">Emacs org-mode version 9.5, a major release, is out&lt;/a>
+&lt;a href="https://lobste.rs/s/trcmtn/emacs_org_mode_version_9_5_major_release_is">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.tedinski.com/2018/01/23/data-objects-and-being-railroaded-into-misdesign.html">Data, objects, and how we&amp;rsquo;re railroaded into poor design&lt;/a>
+&lt;a href="https://lobste.rs/s/78tq8r/data_objects_how_we_re_railroaded_into">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-09-30</title><link>https://frozen-lobster.rohanverma.net/posts/2021-09-30/</link><pubDate>Thu, 30 Sep 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-09-30/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="">Dark mode&lt;/a>
 &lt;a href="https://lobste.rs/s/eg1n75/dark_mode">(comments)&lt;/a>&lt;/p>
