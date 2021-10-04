@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 03 Oct 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-10-03</title><link>https://frozen-lobster.rohanverma.net/posts/2021-10-03/</link><pubDate>Sun, 03 Oct 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-10-03/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 04 Oct 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-10-04</title><link>https://frozen-lobster.rohanverma.net/posts/2021-10-04/</link><pubDate>Mon, 04 Oct 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-10-04/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="">Do you practice?&lt;/a>
+&lt;a href="https://lobste.rs/s/h45sn7/do_you_practice">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.btao.org/2021/10/03/removing-from-google/">Removing my site from Google search&lt;/a>
+&lt;a href="https://lobste.rs/s/kzas58/removing_my_site_from_google_search">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://matduggan.com/the-hunt-for-a-better-dockerfile/">The hunt for a better Dockerfile&lt;/a>
+&lt;a href="https://lobste.rs/s/jfcnvn/hunt_for_better_dockerfile">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://benhoyt.com/writings/simple-lists/">Simple Lists: a tiny to-do list app written the old-school way (server-side Go, no JS)&lt;/a>
+&lt;a href="https://lobste.rs/s/paulo7/simple_lists_tiny_do_list_app_written_old">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://quakkels.com/posts/functions-for-documentation-instead-of-comments/">Functions for Documentation Instead of Comments&lt;/a>
+&lt;a href="https://lobste.rs/s/a1cam7/functions_for_documentation_instead">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://golang.org/doc/effective_go">Effective Go&lt;/a>
+&lt;a href="https://lobste.rs/s/tejmsk/effective_go">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/adam-mcdaniel/dune">Dune: A shell by the beach&lt;/a>
+&lt;a href="https://lobste.rs/s/iqnasv/dune_shell_by_beach">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ericlippert.com/2015/05/11/wizards-and-warriors-part-five/">Wizards and warriors, part five&lt;/a>
+&lt;a href="https://lobste.rs/s/vvx58k/wizards_warriors_part_five">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/googleprojectzero/weggli">googleprojectzero/weggli: a semantic search tool for C and C++ codebases&lt;/a>
+&lt;a href="https://lobste.rs/s/tpcosq/googleprojectzero_weggli_semantic">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gavinhoward.com/2021/10/static-linking-considered-harmful-considered-harmful/">&amp;ldquo;Static Linking Considered Harmful&amp;rdquo; Considered Harmful&lt;/a>
+&lt;a href="https://lobste.rs/s/gzna8a/static_linking_considered_harmful">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-10-03</title><link>https://frozen-lobster.rohanverma.net/posts/2021-10-03/</link><pubDate>Sun, 03 Oct 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-10-03/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://gavinhoward.com/2021/10/static-linking-considered-harmful-considered-harmful/">&amp;ldquo;Static Linking Considered Harmful&amp;rdquo; Considered Harmful&lt;/a>
 &lt;a href="https://lobste.rs/s/gzna8a/static_linking_considered_harmful">(comments)&lt;/a>&lt;/p>
