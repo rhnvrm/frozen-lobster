@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 05 Oct 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-10-05</title><link>https://frozen-lobster.rohanverma.net/posts/2021-10-05/</link><pubDate>Tue, 05 Oct 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-10-05/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 06 Oct 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-10-06</title><link>https://frozen-lobster.rohanverma.net/posts/2021-10-06/</link><pubDate>Wed, 06 Oct 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-10-06/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://arxiv.org/pdf/2110.01111.pdf">Is this the simplest (and most surprising) sorting algorithm ever?&lt;/a>
+&lt;a href="https://lobste.rs/s/gh1ngc/is_this_simplest_most_surprising_sorting">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pythonspeed.com/articles/switch-python-3.10/">Wait for toolchain support for Python 3.10&lt;/a>
+&lt;a href="https://lobste.rs/s/pvzpnk/wait_for_toolchain_support_for_python_3_10">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://phrack.org/issues/70/1.html">Phrack Magazine Issue 70&lt;/a>
+&lt;a href="https://lobste.rs/s/4e0bs0/phrack_magazine_issue_70">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://peppe.rs/posts/novice_nix:_flake_templates/">Novice Nix: Flake Templates&lt;/a>
+&lt;a href="https://lobste.rs/s/8ork0g/novice_nix_flake_templates">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://buttondown.email/hillelwayne/archive/jewmain-driven-design/">Jewmain Driven Design&lt;/a>
+&lt;a href="https://lobste.rs/s/cxzpfn/jewmain_driven_design">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.alexedwards.net/blog/which-go-router-should-i-use">Which Go router should I use?&lt;/a>
+&lt;a href="https://lobste.rs/s/njvqgj/which_go_router_should_i_use">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sqlite.org/draft/lang_with.html#rcex3">Implementing a graph database in SQLite&lt;/a>
+&lt;a href="https://lobste.rs/s/sraciw/implementing_graph_database_sqlite">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://asahilinux.org/2021/10/progress-report-september-2021/">Asahi Linux Progress Report: September 2021&lt;/a>
+&lt;a href="https://lobste.rs/s/mi36qm/asahi_linux_progress_report_september">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://hacks.mozilla.org/2021/10/tab-unloading-in-firefox-93/">Tab Unloading in Firefox 93&lt;/a>
+&lt;a href="https://lobste.rs/s/hqqgxp/tab_unloading_firefox_93">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://josephmate.github.io/2021-10-03-my-bug-used-up-100cpu-or-did-it/">100% CPU: My Fault?&lt;/a>
+&lt;a href="https://lobste.rs/s/fsfykm/100_cpu_my_fault">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-10-05</title><link>https://frozen-lobster.rohanverma.net/posts/2021-10-05/</link><pubDate>Tue, 05 Oct 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-10-05/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://unterwaditzer.net/2021/linux-paths.html">Relative paths are faster than absolute paths on Linux (and other jokes I tell myself)&lt;/a>
 &lt;a href="https://lobste.rs/s/catm2p/relative_paths_are_faster_than_absolute">(comments)&lt;/a>&lt;/p>
