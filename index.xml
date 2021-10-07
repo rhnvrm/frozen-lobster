@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 06 Oct 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-10-06</title><link>https://frozen-lobster.rohanverma.net/posts/2021-10-06/</link><pubDate>Wed, 06 Oct 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-10-06/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 07 Oct 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-10-07</title><link>https://frozen-lobster.rohanverma.net/posts/2021-10-07/</link><pubDate>Thu, 07 Oct 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-10-07/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://matduggan.com/warp-terminal-emulator-review/">Warp Terminal Emulator Review&lt;/a>
+&lt;a href="https://lobste.rs/s/a235fs/warp_terminal_emulator_review">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://rachelbythebay.com/w/2021/10/05/cmd/">&amp;lsquo;date -d&amp;rsquo; vs. &amp;lsquo;date -s&amp;rsquo;, and &amp;lsquo;show foo&amp;rsquo; vs. &amp;lsquo;clear foo&amp;rsquo;&lt;/a>
+&lt;a href="https://lobste.rs/s/mzl5un/date_d_vs_date_s_show_foo_vs_clear_foo">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lwn.net/SubscriberLink/871195/d7e9acf5894446e6/">Moving Google toward the mainline&lt;/a>
+&lt;a href="https://lobste.rs/s/igmgou/moving_google_toward_mainline">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.andrewjvpowell.com/articles/dear-privacy-aware-android-app-devs-please-use-unifiedpush/">Dear Privacy Aware Android App Devs - Please Use UnifiedPush&lt;/a>
+&lt;a href="https://lobste.rs/s/jwhlcx/dear_privacy_aware_android_app_devs">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.softwareatscale.dev/p/software-at-scale-34-faster-python">Guido van Rossum on improving Python&amp;rsquo;s performance&lt;/a>
+&lt;a href="https://lobste.rs/s/8tlsr1/guido_van_rossum_on_improving_python_s">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://philipwalton.com/articles/my-challenge-to-the-web-performance-community/">My Challenge to the Web Performance Community&lt;/a>
+&lt;a href="https://lobste.rs/s/p4szxq/my_challenge_web_performance_community">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://abbbi.github.io/vagrant/">How the latest Windows Update KB5005716 broke my CI environment&lt;/a>
+&lt;a href="https://lobste.rs/s/6d3ifk/how_latest_windows_update_kb5005716">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.thirtythreeforty.net/posts/2021/10/ti-calculator-innovation/">The Insane Innovation of TI Calculator Hobbyists&lt;/a>
+&lt;a href="https://lobste.rs/s/evsqje/insane_innovation_ti_calculator">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://emptysqua.re/blog/interactive-tla-plus/">Current and Future Tools for Interactive TLA+&lt;/a>
+&lt;a href="https://lobste.rs/s/btkm3f/current_future_tools_for_interactive_tla">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sqlite.org/draft/lang_with.html#rcex3">Implementing a graph database in SQLite&lt;/a>
+&lt;a href="https://lobste.rs/s/sraciw/implementing_graph_database_sqlite">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-10-06</title><link>https://frozen-lobster.rohanverma.net/posts/2021-10-06/</link><pubDate>Wed, 06 Oct 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-10-06/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://arxiv.org/pdf/2110.01111.pdf">Is this the simplest (and most surprising) sorting algorithm ever?&lt;/a>
 &lt;a href="https://lobste.rs/s/gh1ngc/is_this_simplest_most_surprising_sorting">(comments)&lt;/a>&lt;/p>
