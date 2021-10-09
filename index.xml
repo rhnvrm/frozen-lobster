@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 08 Oct 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-10-08</title><link>https://frozen-lobster.rohanverma.net/posts/2021-10-08/</link><pubDate>Fri, 08 Oct 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-10-08/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 09 Oct 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-10-09</title><link>https://frozen-lobster.rohanverma.net/posts/2021-10-09/</link><pubDate>Sat, 09 Oct 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-10-09/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://kennydodrill.net/blog/how-to-be-a-nice-programmer/">How to be a nice programmer&lt;/a>
+&lt;a href="https://lobste.rs/s/wcqcus/how_be_nice_programmer">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://scotthelme.co.uk/lets-encrypt-root-expiration-post-mortem/">Let&amp;rsquo;s Encrypt Root Expiration - Post-Mortem&lt;/a>
+&lt;a href="https://lobste.rs/s/peoke4/let_s_encrypt_root_expiration_post_mortem">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/">20 Things I&amp;rsquo;ve Learned in my 20 Years as a Software Engineer&lt;/a>
+&lt;a href="https://lobste.rs/s/4igntd/20_things_i_ve_learned_my_20_years_as">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tech.marksblogg.com/roapi-rust-data-api.html">ROAPI: An API Server for Static Datasets&lt;/a>
+&lt;a href="https://lobste.rs/s/viyalc/roapi_api_server_for_static_datasets">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://hacks.mozilla.org/2021/10/lots-to-see-in-firefox-93/">Lots to see in Firefox 93&lt;/a>
+&lt;a href="https://lobste.rs/s/b4q9yf/lots_see_firefox_93">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jsvine.github.io/intro-to-visidata/index.html">An Introduction to VisiData&lt;/a>
+&lt;a href="https://lobste.rs/s/yvj0hx/introduction_visidata">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this weekend?&lt;/a>
+&lt;a href="https://lobste.rs/s/i4w3io/what_are_you_doing_this_weekend">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://bronevichok.ru/posts/git-as-a-storage.html">Git as a storage&lt;/a>
+&lt;a href="https://lobste.rs/s/jhjkv8/git_as_storage">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://convexhuman.com/graalvm-clojure.html">Native Clojure with GraalVM&lt;/a>
+&lt;a href="https://lobste.rs/s/hndnkc/native_clojure_with_graalvm">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://hypirion.com/musings/type-safe-http-servers-in-go-via-generics">Type-Safe HTTP Servers in Go via Generics&lt;/a>
+&lt;a href="https://lobste.rs/s/barweu/type_safe_http_servers_go_via_generics">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-10-08</title><link>https://frozen-lobster.rohanverma.net/posts/2021-10-08/</link><pubDate>Fri, 08 Oct 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-10-08/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://discuss.ocaml.org/t/the-road-to-ocaml-5-0/8584">The road to OCaml 5.0&lt;/a>
 &lt;a href="https://lobste.rs/s/gffeww/road_ocaml_5_0">(comments)&lt;/a>&lt;/p>
