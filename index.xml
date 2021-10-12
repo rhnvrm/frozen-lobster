@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 11 Oct 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-10-11</title><link>https://frozen-lobster.rohanverma.net/posts/2021-10-11/</link><pubDate>Mon, 11 Oct 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-10-11/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 12 Oct 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-10-12</title><link>https://frozen-lobster.rohanverma.net/posts/2021-10-12/</link><pubDate>Tue, 12 Oct 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-10-12/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://scribe.rip/">Scribe - An alternative frontend to medium.com&lt;/a>
+&lt;a href="https://lobste.rs/s/gt5zyk/scribe_alternative_frontend_medium_com">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://minnie.tuhs.org/pipermail/tuhs/2021-October/024523.html">RIP Jörg Schilling&lt;/a>
+&lt;a href="https://lobste.rs/s/du47vw/rip_jorg_schilling">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://curia.europa.eu/juris/document/document.jsf?docid=247056&amp;amp;text=&amp;amp;dir=&amp;amp;doclang=EN&amp;amp;part=1&amp;amp;occ=first&amp;amp;mode=DOC&amp;amp;pageIndex=0&amp;amp;cid=10751201">EU court rules no EULA can forbid decompilation, if you want to fix a bug&lt;/a>
+&lt;a href="https://lobste.rs/s/ojfrvx/eu_court_rules_no_eula_can_forbid">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.bryanbraun.com/2021/09/21/i-keep-making-things-out-of-checkboxes/">I keep making things out of checkboxes&lt;/a>
+&lt;a href="https://lobste.rs/s/slzf99/i_keep_making_things_out_checkboxes">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://maskray.me/blog/2021-10-10-when-can-glibc-be-built-with-clang">When can glibc be built with Clang?&lt;/a>
+&lt;a href="https://lobste.rs/s/mxjnsb/when_can_glibc_be_built_with_clang">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://corecursive.com/remote-developer/">Apple II Programming&lt;/a>
+&lt;a href="https://lobste.rs/s/hnpzun/apple_ii_programming">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://seriot.ch/projects/parsing_json.html">Parsing JSON is a Minefield (2018)&lt;/a>
+&lt;a href="https://lobste.rs/s/dhoz98/parsing_json_is_minefield_2018">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.datagubbe.se/fleeting/">Fleeting Memories of Youth and the Increasing Impermanence of Culture&lt;/a>
+&lt;a href="https://lobste.rs/s/q3enjh/fleeting_memories_youth_increasing">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this week?&lt;/a>
+&lt;a href="https://lobste.rs/s/ptudog/what_are_you_doing_this_week">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://scattered-thoughts.net/writing/better-operator-precedence/">Better operator precedence&lt;/a>
+&lt;a href="https://lobste.rs/s/jol24u/better_operator_precedence">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-10-11</title><link>https://frozen-lobster.rohanverma.net/posts/2021-10-11/</link><pubDate>Mon, 11 Oct 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-10-11/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://utcc.utoronto.ca/~cks/space/blog/unix/StackSizeLimitWhen">V7 Unix had no stack size limit, and when Unix acquired one&lt;/a>
 &lt;a href="https://lobste.rs/s/otcrex/v7_unix_had_no_stack_size_limit_when_unix">(comments)&lt;/a>&lt;/p>
