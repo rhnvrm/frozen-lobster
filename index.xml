@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 12 Oct 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-10-12</title><link>https://frozen-lobster.rohanverma.net/posts/2021-10-12/</link><pubDate>Tue, 12 Oct 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-10-12/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 13 Oct 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-10-13</title><link>https://frozen-lobster.rohanverma.net/posts/2021-10-13/</link><pubDate>Wed, 13 Oct 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-10-13/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://ianthehenry.com/posts/janet-game/the-problem-with-macros/">The problem with macros&lt;/a>
+&lt;a href="https://lobste.rs/s/d0hogq/problem_with_macros">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blogs.gnome.org/alexl/2021/10/12/quadlet-an-easier-way-to-run-system-containers/">Quadlet, an easier way to run system containers [with podman]&lt;/a>
+&lt;a href="https://lobste.rs/s/nimat2/quadlet_easier_way_run_system_containers">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://rickcarlino.com/2021/building-tiny-raspberry-pi-linux-images-with-buildroot.html">Building Tiny Raspberry Pi Linux Images With Buildroot&lt;/a>
+&lt;a href="https://lobste.rs/s/7bhakm/building_tiny_raspberry_pi_linux_images">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lwn.net/SubscriberLink/871283/c437c1364397e70e/">Rust and GCC, two different ways&lt;/a>
+&lt;a href="https://lobste.rs/s/itmdgq/rust_gcc_two_different_ways">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/d3d1rty/algoheader">algoheader: Programmatically generate beautiful header images for blogs or social media accounts&lt;/a>
+&lt;a href="https://lobste.rs/s/tnx36u/algoheader_programmatically_generate">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://handtracking.io/">YoHa: A Practical Hand Tracking Engine&lt;/a>
+&lt;a href="https://lobste.rs/s/umkq0r/yoha_practical_hand_tracking_engine">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://scribe.rip/">Scribe - An alternative frontend to medium.com&lt;/a>
+&lt;a href="https://lobste.rs/s/gt5zyk/scribe_alternative_frontend_medium_com">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.sigops.org/2021/the-return-of-the-unix-shell/">The Return of the Unix Shell&lt;/a>
+&lt;a href="https://lobste.rs/s/68271x/return_unix_shell">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/Const-me/LookupTables">A Case Against Lookup Tables&lt;/a>
+&lt;a href="https://lobste.rs/s/fzp6cz/case_against_lookup_tables">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://elliotth.blogspot.com/2012/10/how-not-to-use-readdirr3.html">How (not) to use readdir_r(3) (2012)&lt;/a>
+&lt;a href="https://lobste.rs/s/lbly9p/how_not_use_readdir_r_3_2012">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-10-12</title><link>https://frozen-lobster.rohanverma.net/posts/2021-10-12/</link><pubDate>Tue, 12 Oct 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-10-12/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://scribe.rip/">Scribe - An alternative frontend to medium.com&lt;/a>
 &lt;a href="https://lobste.rs/s/gt5zyk/scribe_alternative_frontend_medium_com">(comments)&lt;/a>&lt;/p>
