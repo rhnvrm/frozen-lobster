@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 13 Oct 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-10-13</title><link>https://frozen-lobster.rohanverma.net/posts/2021-10-13/</link><pubDate>Wed, 13 Oct 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-10-13/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 14 Oct 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-10-14</title><link>https://frozen-lobster.rohanverma.net/posts/2021-10-14/</link><pubDate>Thu, 14 Oct 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-10-14/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="http://www.e-basteln.de/computing/65f02/65f02/">The 100 MHz 6502&lt;/a>
+&lt;a href="https://lobste.rs/s/wbuvji/100_mhz_6502">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ianthehenry.com/posts/janet-game/the-problem-with-macros/">The problem with macros&lt;/a>
+&lt;a href="https://lobste.rs/s/d0hogq/problem_with_macros">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.psycopg.org/articles/2021/10/13/psycopg-30-released/">Psycopg 3.0 released&lt;/a>
+&lt;a href="https://lobste.rs/s/sjzxxa/psycopg_3_0_released">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://meka.rs/blog/2021/10/12/freebsd-audio/">FreeBSD audio from a perspective of a happy user&lt;/a>
+&lt;a href="https://lobste.rs/s/moflv5/freebsd_audio_from_perspective_happy">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://mdk.fr/blog/how-apt-does-its-fancy-progress-bar.html">How APT does its fancy progress bar?&lt;/a>
+&lt;a href="https://lobste.rs/s/bpiqol/how_apt_does_its_fancy_progress_bar">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://whitehoodhacker.net/posts/2021-10-04-the-big-rick">IoT Hacking and Rickrolling My High School District&lt;/a>
+&lt;a href="https://lobste.rs/s/fcvbfm/iot_hacking_rickrolling_my_high_school">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://realkeyboardwarrior.github.io/security/2021/10/11/hacking-youtube.html">Hacking YouTube With MP4&lt;/a>
+&lt;a href="https://lobste.rs/s/8rqksk/hacking_youtube_with_mp4">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://compudanzas.net/uxn_tutorial.html">compudanzas — uxn tutorial&lt;/a>
+&lt;a href="https://lobste.rs/s/jg0ylh/compudanzas_uxn_tutorial">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://parceljs.org/blog/v2/">Announcing Parcel v2&lt;/a>
+&lt;a href="https://lobste.rs/s/csqr1a/announcing_parcel_v2">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://nathanotterness.com/2021/10/tiny_elf_modernized.html">Tiny ELF Files: Revisited in 2021&lt;/a>
+&lt;a href="https://lobste.rs/s/x9xxe2/tiny_elf_files_revisited_2021">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-10-13</title><link>https://frozen-lobster.rohanverma.net/posts/2021-10-13/</link><pubDate>Wed, 13 Oct 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-10-13/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://ianthehenry.com/posts/janet-game/the-problem-with-macros/">The problem with macros&lt;/a>
 &lt;a href="https://lobste.rs/s/d0hogq/problem_with_macros">(comments)&lt;/a>&lt;/p>
