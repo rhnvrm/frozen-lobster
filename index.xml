@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 15 Oct 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-10-15</title><link>https://frozen-lobster.rohanverma.net/posts/2021-10-15/</link><pubDate>Fri, 15 Oct 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-10-15/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 16 Oct 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-10-16</title><link>https://frozen-lobster.rohanverma.net/posts/2021-10-16/</link><pubDate>Sat, 16 Oct 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-10-16/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.pine64.org/2021/10/15/october-update-introducing-the-pinephone-pro/">October Update: Introducing the PinePhone Pro&lt;/a>
+&lt;a href="https://lobste.rs/s/zqw8t8/october_update_introducing_pinephone">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://web.eecs.utk.edu/~azh/blog/perfecteditorparadox.html">Paradox of the perfect code editor&lt;/a>
+&lt;a href="https://lobste.rs/s/fv0ypi/paradox_perfect_code_editor">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://scattered-thoughts.net/writing/speed-matters/">Speed matters&lt;/a>
+&lt;a href="https://lobste.rs/s/3mrhwx/speed_matters">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pythonspeed.com/articles/conda-vs-pip/">Pip vs Conda: an in-depth comparison of Python’s two packaging systems&lt;/a>
+&lt;a href="https://lobste.rs/s/4mpadj/pip_vs_conda_depth_comparison_python_s_two">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://danluu.com/productivity-velocity/">Some reasons to work on productivity and velocity&lt;/a>
+&lt;a href="https://lobste.rs/s/xxehai/some_reasons_work_on_productivity">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://arxiv.org/abs/2110.07450">Bugs in our Pockets: The Risks of Client-Side Scanning&lt;/a>
+&lt;a href="https://lobste.rs/s/a3taal/bugs_our_pockets_risks_client_side">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.theregister.com/2021/10/14/lantenna_ethernet_cable_rf_emissions/">LANtenna attack reveals Ethernet cable traffic contents&lt;/a>
+&lt;a href="https://lobste.rs/s/ekkfkf/lantenna_attack_reveals_ethernet_cable">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.greyblake.com/blog/2021-10-11-phantom-types-in-rust/">Phantom Types in Rust&lt;/a>
+&lt;a href="https://lobste.rs/s/8h5tra/phantom_types_rust">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://techcommunity.microsoft.com/t5/windows-it-pro-blog/how-microsoft-reduced-windows-11-update-size-by-40/ba-p/2839794">How Microsoft reduced Windows 11 update size by 40%&lt;/a>
+&lt;a href="https://lobste.rs/s/5oeese/how_microsoft_reduced_windows_11_update">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/readme/featured/why-the-lucky-stiff">What we can learn from &amp;ldquo;_why&amp;rdquo; the long lost open source developer&lt;/a>
+&lt;a href="https://lobste.rs/s/lbero9/what_we_can_learn_from_why_long_lost_open">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-10-15</title><link>https://frozen-lobster.rohanverma.net/posts/2021-10-15/</link><pubDate>Fri, 15 Oct 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-10-15/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://www.openbsd.org/70.html">OpenBSD 7.0&lt;/a>
 &lt;a href="https://lobste.rs/s/1qza18/openbsd_7_0">(comments)&lt;/a>&lt;/p>
