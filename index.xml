@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 16 Oct 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-10-16</title><link>https://frozen-lobster.rohanverma.net/posts/2021-10-16/</link><pubDate>Sat, 16 Oct 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-10-16/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 17 Oct 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-10-17</title><link>https://frozen-lobster.rohanverma.net/posts/2021-10-17/</link><pubDate>Sun, 17 Oct 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-10-17/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://danielbmarkham.com/feedback-loops-are-bullshit/">Feedback Loops are Bullshit&lt;/a>
+&lt;a href="https://lobste.rs/s/qblewn/feedback_loops_are_bullshit">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/readme/featured/why-the-lucky-stiff">What we can learn from &amp;ldquo;_why&amp;rdquo; the long lost open source developer&lt;/a>
+&lt;a href="https://lobste.rs/s/lbero9/what_we_can_learn_from_why_long_lost_open">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ianthehenry.com/posts/janet-game/putting-judge-to-the-test/">Putting Judge to the test&lt;/a>
+&lt;a href="https://lobste.rs/s/cxtsfh/putting_judge_test">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.andreinc.net/2021/10/02/implementing-hash-tables-in-c-part-1">Implementing Hash Tables in C&lt;/a>
+&lt;a href="https://lobste.rs/s/afcyic/implementing_hash_tables_c">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pkolaczk.github.io/overhead-of-optional/">Overhead of Returning Optional Values in Java and Rust&lt;/a>
+&lt;a href="https://lobste.rs/s/d1tk0e/overhead_returning_optional_values_java">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lwn.net/SubscriberLink/872869/0e62bba2db51ec7a/">A viable solution for Python concurrency&lt;/a>
+&lt;a href="https://lobste.rs/s/iqfh2x/viable_solution_for_python_concurrency">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.pine64.org/2021/10/15/october-update-introducing-the-pinephone-pro/">October Update: Introducing the PinePhone Pro&lt;/a>
+&lt;a href="https://lobste.rs/s/zqw8t8/october_update_introducing_pinephone">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://static.architectis.je/sag2021-the-lost-art-of-software-design.pdf">The lost art of software design&lt;/a>
+&lt;a href="https://lobste.rs/s/s0ehvj/lost_art_software_design">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://justinas.org/nixos-in-the-cloud-step-by-step-part-1">NixOS in the Cloud, step-by-step&lt;/a>
+&lt;a href="https://lobste.rs/s/uhnypm/nixos_cloud_step_by_step">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gustedt.wordpress.com/2021/10/16/feature-freeze-for-c23/">Feature freeze for C23&lt;/a>
+&lt;a href="https://lobste.rs/s/6dx3gk/feature_freeze_for_c23">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-10-16</title><link>https://frozen-lobster.rohanverma.net/posts/2021-10-16/</link><pubDate>Sat, 16 Oct 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-10-16/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://www.pine64.org/2021/10/15/october-update-introducing-the-pinephone-pro/">October Update: Introducing the PinePhone Pro&lt;/a>
 &lt;a href="https://lobste.rs/s/zqw8t8/october_update_introducing_pinephone">(comments)&lt;/a>&lt;/p>
