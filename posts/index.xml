@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 17 Oct 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-10-17</title><link>https://frozen-lobster.rohanverma.net/posts/2021-10-17/</link><pubDate>Sun, 17 Oct 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-10-17/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 18 Oct 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-10-18</title><link>https://frozen-lobster.rohanverma.net/posts/2021-10-18/</link><pubDate>Mon, 18 Oct 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-10-18/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://offbeat.cc/blog/time-for-programming-puzzles.html">Our Algorithm Problem Solving Club Is Beginning This Week&lt;/a>
+&lt;a href="https://lobste.rs/s/iyrjrx/our_algorithm_problem_solving_club_is">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.openttd.org/news/2021/10/17/openttd-12-0">OpenTTD 12.0 released&lt;/a>
+&lt;a href="https://lobste.rs/s/zkytsy/openttd_12_0_released">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://web.archive.org/web/20061124122032/http://www.stifflog.com/2006/10/16/stiff-asks-great-programmers-answer/">Stiff asks, great programmers answer (2006)&lt;/a>
+&lt;a href="https://lobste.rs/s/aolhaz/stiff_asks_great_programmers_answer_2006">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://kracekumar.com/post/profiling_django/">Three tools to profile django app&lt;/a>
+&lt;a href="https://lobste.rs/s/04c6zh/three_tools_profile_django_app">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://onezero.medium.com/the-largely-untold-story-of-how-one-guy-in-california-keeps-the-worlds-computers-on-the-right-time-a97a5493bf73">Untold Story Of How One Guy In California Keeps The World’s Computers Running on the Right Time Zone&lt;/a>
+&lt;a href="https://lobste.rs/s/kn6sew/untold_story_how_one_guy_california_keeps">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://include-what-you-use.org/">include-what-you-use - A tool for use with clang to analyze #includes in C and C++ source files&lt;/a>
+&lt;a href="https://lobste.rs/s/72s5ky/include_what_you_use_tool_for_use_with">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://artificial-mind.net/blog/2021/10/17/optimize-without-inline">Optimization without Inlining&lt;/a>
+&lt;a href="https://lobste.rs/s/hcodzl/optimization_without_inlining">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://news.mit.edu/2016/scene-at-mit-margaret-hamilton-apollo-code-0817">Scene at MIT: Margaret Hamilton’s Apollo code (2016)&lt;/a>
+&lt;a href="https://lobste.rs/s/hpuzbn/scene_at_mit_margaret_hamilton_s_apollo">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lwn.net/SubscriberLink/872869/0e62bba2db51ec7a/">A viable solution for Python concurrency&lt;/a>
+&lt;a href="https://lobste.rs/s/iqfh2x/viable_solution_for_python_concurrency">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cuddly-octo-palm-tree.com/posts/2021-10-17-dns/">A short overview of DNS&lt;/a>
+&lt;a href="https://lobste.rs/s/8lgrpg/short_overview_dns">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-10-17</title><link>https://frozen-lobster.rohanverma.net/posts/2021-10-17/</link><pubDate>Sun, 17 Oct 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-10-17/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://danielbmarkham.com/feedback-loops-are-bullshit/">Feedback Loops are Bullshit&lt;/a>
 &lt;a href="https://lobste.rs/s/qblewn/feedback_loops_are_bullshit">(comments)&lt;/a>&lt;/p>
