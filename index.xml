@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 20 Oct 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-10-20</title><link>https://frozen-lobster.rohanverma.net/posts/2021-10-20/</link><pubDate>Wed, 20 Oct 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-10-20/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 21 Oct 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-10-21</title><link>https://frozen-lobster.rohanverma.net/posts/2021-10-21/</link><pubDate>Thu, 21 Oct 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-10-21/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://cerebralab.com/Boring_machine_learning_is_where_it's_at">Boring machine learning is where it&amp;rsquo;s at&lt;/a>
+&lt;a href="https://lobste.rs/s/y8s5gt/boring_machine_learning_is_where_it_s_at">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/xonixx/gron.awk">Gron in Awk&lt;/a>
+&lt;a href="https://lobste.rs/s/y8otxa/gron_awk">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.rentpathcode.com/introducing-eflamb%C3%A9-3065e70f9eb">Introducing eFlambé&lt;/a>
+&lt;a href="https://lobste.rs/s/to5n3x/introducing_eflambe">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sfconservancy.org/copyleft-compliance/vizio.html">Lawsuit against California TV manufacturer Vizio Inc. for GPL violations&lt;/a>
+&lt;a href="https://lobste.rs/s/crqjxz/lawsuit_against_california_tv">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cgit.freebsd.org/src/commit/?id=d410b585b6f00a26c2de7724d6576a3ea7d548b7">FreeBSD switches the default root shell from csh to sh&lt;/a>
+&lt;a href="https://lobste.rs/s/nkyfoa/freebsd_switches_default_root_shell_from">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.greyblake.com/blog/2021-10-19-builder-pattern-in-rust/">Builder pattern in Rust&lt;/a>
+&lt;a href="https://lobste.rs/s/v1krlk/builder_pattern_rust">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://portswigger.net/daily-swig/google-mozilla-close-to-finalizing-sanitizer-api-for-chrome-and-firefox-browsers">Google, Mozilla close to finalizing Sanitizer API for Chrome and Firefox browsers&lt;/a>
+&lt;a href="https://lobste.rs/s/eeigdh/google_mozilla_close_finalizing">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.copetti.org/writings/consoles/playstation-3/">PlayStation 3 Architecture&lt;/a>
+&lt;a href="https://lobste.rs/s/22cnlk/playstation_3_architecture">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tech.marksblogg.com/faster-clickhouse-imports-csv-parquet-mysql.html">Faster ClickHouse Imports&lt;/a>
+&lt;a href="https://lobste.rs/s/hdfkpg/faster_clickhouse_imports">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">Release Early, Release Often?&lt;/a>
+&lt;a href="https://lobste.rs/s/gqbpwd/release_early_release_often">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-10-20</title><link>https://frozen-lobster.rohanverma.net/posts/2021-10-20/</link><pubDate>Wed, 20 Oct 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-10-20/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://blog.lambda.cx/posts/how-bsd-authentication-works/">How BSD Authentication Works&lt;/a>
 &lt;a href="https://lobste.rs/s/w3l6uq/how_bsd_authentication_works">(comments)&lt;/a>&lt;/p>
