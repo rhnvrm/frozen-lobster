@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 24 Oct 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-10-24</title><link>https://frozen-lobster.rohanverma.net/posts/2021-10-24/</link><pubDate>Sun, 24 Oct 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-10-24/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 25 Oct 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-10-25</title><link>https://frozen-lobster.rohanverma.net/posts/2021-10-25/</link><pubDate>Mon, 25 Oct 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-10-25/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://cprimozic.net/blog/programming-speed-strategies/">Habits I&amp;rsquo;ve Developed for Fast + Efficient Programming&lt;/a>
+&lt;a href="https://lobste.rs/s/3fp2mj/habits_i_ve_developed_for_fast_efficient">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://initialcommit.com/blog/history-git-init-command">A 16 Year History of the Git Init Command&lt;/a>
+&lt;a href="https://lobste.rs/s/jz0xke/16_year_history_git_init_command">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/soywod/himalaya">Himalaya, the CLI email client: v0.5.1 released&lt;/a>
+&lt;a href="https://lobste.rs/s/uzlojb/himalaya_cli_email_client_v0_5_1_released">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.eiman.tv/blog/posts/lannames/">LLMNR, Multicast DNS and names on your LAN&lt;/a>
+&lt;a href="https://lobste.rs/s/mp9bjn/llmnr_multicast_dns_names_on_your_lan">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.codemagic.io/fuchsia-os-preview/">Getting to know Fuchsia, Google&amp;rsquo;s open-source operating system&lt;/a>
+&lt;a href="https://lobste.rs/s/p8bizb/getting_know_fuchsia_google_s_open_source">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://scattered-thoughts.net/writing/moving-faster/">Moving Faster&lt;/a>
+&lt;a href="https://lobste.rs/s/raxxgj/moving_faster">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://docs.freebsd.org/en/articles/bsdl-gpl/">Why you should use a BSD style license for your Open Source Project&lt;/a>
+&lt;a href="https://lobste.rs/s/maggc7/why_you_should_use_bsd_style_license_for">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.figma.com/blog/an-alternative-approach-to-rate-limiting/">An alternative approach to rate limiting (2017)&lt;/a>
+&lt;a href="https://lobste.rs/s/zwhznq/alternative_approach_rate_limiting_2017">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://quakkels.com/posts/rss-is-wonderful/">RSS is Wonderful&lt;/a>
+&lt;a href="https://lobste.rs/s/s68iid/rss_is_wonderful">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://notes.eatonphil.com/exploring-plpgsql.html">Strings, arrays, recursion, and parsing JSON: Exploring PL/pgSQL&lt;/a>
+&lt;a href="https://lobste.rs/s/1dzvxx/strings_arrays_recursion_parsing_json">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-10-24</title><link>https://frozen-lobster.rohanverma.net/posts/2021-10-24/</link><pubDate>Sun, 24 Oct 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-10-24/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://quakkels.com/posts/rss-is-wonderful/">RSS is Wonderful&lt;/a>
 &lt;a href="https://lobste.rs/s/s68iid/rss_is_wonderful">(comments)&lt;/a>&lt;/p>
