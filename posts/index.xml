@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 25 Oct 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-10-25</title><link>https://frozen-lobster.rohanverma.net/posts/2021-10-25/</link><pubDate>Mon, 25 Oct 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-10-25/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 26 Oct 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-10-26</title><link>https://frozen-lobster.rohanverma.net/posts/2021-10-26/</link><pubDate>Tue, 26 Oct 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-10-26/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://code.lag.net/robey/bitbottle">bitbottle: a modern archive file format&lt;/a>
+&lt;a href="https://lobste.rs/s/ywxuxj/bitbottle_modern_archive_file_format">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/mgdm/htmlq">htmlq - Like jq, but for HTML&lt;/a>
+&lt;a href="https://lobste.rs/s/9ljgez/htmlq_like_jq_for_html">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://shkspr.mobi/blog/2021/10/ebcdic-is-incompatible-with-gdpr/">EBCDIC is incompatible with GDPR&lt;/a>
+&lt;a href="https://lobste.rs/s/sfco6w/ebcdic_is_incompatible_with_gdpr">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/nuta/kerla">nuta/kerla: A new operating system kernel with Linux binary compatibility written in Rust&lt;/a>
+&lt;a href="https://lobste.rs/s/axeb5x/nuta_kerla_new_operating_system_kernel">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.sinjakli.co.uk/2021/10/25/waiting-for-apt-locks-without-the-hacky-bash-scripts/">Waiting for apt locks without the hacky bash scripts&lt;/a>
+&lt;a href="https://lobste.rs/s/jlkys1/waiting_for_apt_locks_without_hacky_bash">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ariadne.space/2021/10/25/dont-do-clever-things-in-configure-scripts/">don’t do clever things in configure scripts&lt;/a>
+&lt;a href="https://lobste.rs/s/fy70y8/don_t_do_clever_things_configure_scripts">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this week?&lt;/a>
+&lt;a href="https://lobste.rs/s/qtz2ta/what_are_you_doing_this_week">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sequentialread.com/greenhouse-alpha/">Can we make self-hosting radically easier? I ended up creating a cloud service trying to answer this&lt;/a>
+&lt;a href="https://lobste.rs/s/gaeag9/can_we_make_self_hosting_radically_easier">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://kernelpanic.life/hardware/hifive-unmatched.html">OpenBSD on the HiFive Unmatched&lt;/a>
+&lt;a href="https://lobste.rs/s/8oc2kx/openbsd_on_hifive_unmatched">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://docs.google.com/document/d/e/2PACX-1vSt2VB1zQAJ6JDMaIA9PlmEgBxz2K5Tx6w2JqJNeYCy0gU4aoubdTxlENSKNSrQ2TXqPWcuwtXe6PlO/pub">Borrowing Trouble: The Difficulties Of A C++ Borrow-Checker&lt;/a>
+&lt;a href="https://lobste.rs/s/7832sw/borrowing_trouble_difficulties_c_borrow">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-10-25</title><link>https://frozen-lobster.rohanverma.net/posts/2021-10-25/</link><pubDate>Mon, 25 Oct 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-10-25/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://cprimozic.net/blog/programming-speed-strategies/">Habits I&amp;rsquo;ve Developed for Fast + Efficient Programming&lt;/a>
 &lt;a href="https://lobste.rs/s/3fp2mj/habits_i_ve_developed_for_fast_efficient">(comments)&lt;/a>&lt;/p>
