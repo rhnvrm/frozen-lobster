@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 26 Oct 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-10-26</title><link>https://frozen-lobster.rohanverma.net/posts/2021-10-26/</link><pubDate>Tue, 26 Oct 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-10-26/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 27 Oct 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-10-27</title><link>https://frozen-lobster.rohanverma.net/posts/2021-10-27/</link><pubDate>Wed, 27 Oct 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-10-27/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://cooklang.org/">CookLang – Recipe Markup Language&lt;/a>
+&lt;a href="https://lobste.rs/s/dihrpr/cooklang_recipe_markup_language">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.cockroachlabs.com/blog/how-we-built-cockroachdb-serverless/">How we built a forever-free serverless SQL database&lt;/a>
+&lt;a href="https://lobste.rs/s/skhwui/how_we_built_forever_free_serverless_sql">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://code.lag.net/robey/bitbottle">bitbottle: a modern archive file format&lt;/a>
+&lt;a href="https://lobste.rs/s/ywxuxj/bitbottle_modern_archive_file_format">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.boringcactus.com/2021/10/24/2021-survey-of-rust-gui-libraries.html">A 2021 Survey of Rust GUI Libraries&lt;/a>
+&lt;a href="https://lobste.rs/s/hmvrcj/2021_survey_rust_gui_libraries">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.yiningkarlli.com/2021/10/takua-on-m1-max.html">Rendering on the Apple M1 Max Chip&lt;/a>
+&lt;a href="https://lobste.rs/s/d5vcej/rendering_on_apple_m1_max_chip">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/git/git/pull/1041">Git: ssh signing: Add commit &amp;amp; tag signing/verification via SSH keys using ssh-keygen&lt;/a>
+&lt;a href="https://lobste.rs/s/l5h2ct/git_ssh_signing_add_commit_tag_signing">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://colorforth.github.io/cf.htm">colorForth (2009)&lt;/a>
+&lt;a href="https://lobste.rs/s/tkqpqr/colorforth_2009">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://kendru.github.io/go/2021/10/26/sorting-a-dependency-graph-in-go/">Sorting a Dependency Graph in Go&lt;/a>
+&lt;a href="https://lobste.rs/s/facanf/sorting_dependency_graph_go">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cnr.sh/essays/google-oauth-wkwebview">OAuth “Sign In With Google” in a WkWebView&lt;/a>
+&lt;a href="https://lobste.rs/s/d0rspi/oauth_sign_with_google_wkwebview">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://medium.com/erlang-battleground/erlangs-halloween-ceffd057dc8b">Erlang’s Halloween&lt;/a>
+&lt;a href="https://lobste.rs/s/zfu90b/erlang_s_halloween">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-10-26</title><link>https://frozen-lobster.rohanverma.net/posts/2021-10-26/</link><pubDate>Tue, 26 Oct 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-10-26/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://code.lag.net/robey/bitbottle">bitbottle: a modern archive file format&lt;/a>
 &lt;a href="https://lobste.rs/s/ywxuxj/bitbottle_modern_archive_file_format">(comments)&lt;/a>&lt;/p>
