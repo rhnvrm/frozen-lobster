@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 30 Oct 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-10-30</title><link>https://frozen-lobster.rohanverma.net/posts/2021-10-30/</link><pubDate>Sat, 30 Oct 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-10-30/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-11-01</title><link>https://frozen-lobster.rohanverma.net/posts/2021-11-01/</link><pubDate>Mon, 01 Nov 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-11-01/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://devlog.hexops.com/2021/perfecting-glfw-for-zig-and-finding-undefined-behavior">Perfecting GLFW for Zig, and finding lurking undefined behavior that went unnoticed for 6+ years&lt;/a>
+&lt;a href="https://lobste.rs/s/mfofcv/perfecting_glfw_for_zig_finding_lurking">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cuddly-octo-palm-tree.com/posts/2021-10-31-better-bash-functions/">Bash functions are better than I thought&lt;/a>
+&lt;a href="https://lobste.rs/s/1l1t8f/bash_functions_are_better_than_i_thought">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://susam.in/maze/timing-with-curl.html">Timing with curl (2010)&lt;/a>
+&lt;a href="https://lobste.rs/s/srdbun/timing_with_curl_2010">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://bpm.is">BPM Is - Tap along with the beat of a song and discover its BPM&lt;/a>
+&lt;a href="https://lobste.rs/s/dyxogq/bpm_is_tap_along_with_beat_song_discover">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/epilys/rsqlite3">epilys/rsqlite3: sqlite3 Rewritten in RiiR Rust&lt;/a>
+&lt;a href="https://lobste.rs/s/c5jotg/epilys_rsqlite3_sqlite3_rewritten_riir">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://functor.tokyo/blog/2021-10-20-nix-cross-static">Cross-compiling and Static-linking with Nix&lt;/a>
+&lt;a href="https://lobste.rs/s/jfc1is/cross_compiling_static_linking_with_nix">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://beza1e1.tuxen.de/embedded.html">Why Embedded Software Development is Harder&lt;/a>
+&lt;a href="https://lobste.rs/s/rlxfdr/why_embedded_software_development_is">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://dependency-injection.com/pentium-on-a-386-motherboard/">Pentium on a 386 motherboard&lt;/a>
+&lt;a href="https://lobste.rs/s/6ldvah/pentium_on_386_motherboard">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://brunosutic.com/blog/async-ruby">Async Ruby&lt;/a>
+&lt;a href="https://lobste.rs/s/tbgerk/async_ruby">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://justine.lol/sectorlisp/">SectorLISP Now Fits in One Sector&lt;/a>
+&lt;a href="https://lobste.rs/s/cpqdjs/sectorlisp_now_fits_one_sector">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-10-30</title><link>https://frozen-lobster.rohanverma.net/posts/2021-10-30/</link><pubDate>Sat, 30 Oct 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-10-30/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://www.curiositry.com/blog.txt">Blog.txt&lt;/a>
 &lt;a href="https://lobste.rs/s/4bpstv/blog_txt">(comments)&lt;/a>&lt;/p>
