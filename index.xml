@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-11-01</title><link>https://frozen-lobster.rohanverma.net/posts/2021-11-01/</link><pubDate>Mon, 01 Nov 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-11-01/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 02 Nov 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-11-02</title><link>https://frozen-lobster.rohanverma.net/posts/2021-11-02/</link><pubDate>Tue, 02 Nov 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-11-02/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://discourse.nixos.org/t/nix-2-4-released/15822">Nix 2.4 released&lt;/a>
+&lt;a href="https://lobste.rs/s/cumwee/nix_2_4_released">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://visualgit.io/news.html#20211031">Introducing Visual Git&lt;/a>
+&lt;a href="https://lobste.rs/s/izdp3e/introducing_visual_git">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lambdafoo.com/posts/2021-10-29-getting-started-with-ocaml.html">Getting Started with OCaml in 2021&lt;/a>
+&lt;a href="https://lobste.rs/s/5jwkol/getting_started_with_ocaml_2021">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://haskellweekly.news/survey/2021.html">2021 State of Haskell Survey&lt;/a>
+&lt;a href="https://lobste.rs/s/2iduyn/2021_state_haskell_survey">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.noredink.com/post/666654908557180928/tuning-haskell-rts-for-kubernetes-part-2">Tuning Haskell RTS for Kubernetes, Part 2&lt;/a>
+&lt;a href="https://lobste.rs/s/nnhol6/tuning_haskell_rts_for_kubernetes_part_2">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://www.fourmilab.ch/webtools/MindGrenade/">Mind Grenade&lt;/a>
+&lt;a href="https://lobste.rs/s/xlm3l7/mind_grenade">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/postgrespro/jsquery">jsquery: a PostgreSQL extension for searching nested jsonb objects and arrays&lt;/a>
+&lt;a href="https://lobste.rs/s/x3d282/jsquery_postgresql_extension_for">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.freebsd.org/cgi/man.cgi?query=sysexits">sysexits &amp;ndash; preferable exit codes for programs&lt;/a>
+&lt;a href="https://lobste.rs/s/uvlixc/sysexits_preferable_exit_codes_for">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.mutuallyhuman.com/blog/how-a-read-query-can-write-to-disk-a-postgresql-story/">How a Read Query Can Write to Disk: a Postgresql Story&lt;/a>
+&lt;a href="https://lobste.rs/s/8qii7j/how_read_query_can_write_disk_postgresql">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://secluded.site/abusing-mesh-networks-for-easy-remote-support/">(Ab)using mesh networks for easy remote support&lt;/a>
+&lt;a href="https://lobste.rs/s/rsi7jj/ab_using_mesh_networks_for_easy_remote">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-11-01</title><link>https://frozen-lobster.rohanverma.net/posts/2021-11-01/</link><pubDate>Mon, 01 Nov 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-11-01/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://devlog.hexops.com/2021/perfecting-glfw-for-zig-and-finding-undefined-behavior">Perfecting GLFW for Zig, and finding lurking undefined behavior that went unnoticed for 6+ years&lt;/a>
 &lt;a href="https://lobste.rs/s/mfofcv/perfecting_glfw_for_zig_finding_lurking">(comments)&lt;/a>&lt;/p>
