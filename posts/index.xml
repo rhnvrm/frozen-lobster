@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 02 Nov 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-11-02</title><link>https://frozen-lobster.rohanverma.net/posts/2021-11-02/</link><pubDate>Tue, 02 Nov 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-11-02/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 03 Nov 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-11-03</title><link>https://frozen-lobster.rohanverma.net/posts/2021-11-03/</link><pubDate>Wed, 03 Nov 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-11-03/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.poor.dev/blog/terminal-anatomy/">Anatomy of a Terminal Emulator&lt;/a>
+&lt;a href="https://lobste.rs/s/zxzgzw/anatomy_terminal_emulator">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/naver/lispe/wiki/2.5--LispE-vs.-Python%3A-A-Stochastic-Gradient-Descent-Comparison">LispE vs. Python: A Stochastic Gradient Descent Comparison&lt;/a>
+&lt;a href="https://lobste.rs/s/sim7x7/lispe_vs_python_stochastic_gradient">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.microsoft.com/en-us/research/uploads/prod/2019/06/mimalloc-tr-v1.pdf">Mimalloc: Free List Sharding in Action&lt;/a>
+&lt;a href="https://lobste.rs/s/4awecj/mimalloc_free_list_sharding_action">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://discourse.nixos.org/t/nix-2-4-released/15822">Nix 2.4 released&lt;/a>
+&lt;a href="https://lobste.rs/s/cumwee/nix_2_4_released">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://homebrewserver.club/low-tech-website-howto.html">How to build a Low-Tech website: Software &amp;amp; Hardware&lt;/a>
+&lt;a href="https://lobste.rs/s/f6x8i2/how_build_low_tech_website_software">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://beej.us/guide/bgc/html/split/goto.html">goto&lt;/a>
+&lt;a href="https://lobste.rs/s/sgn2dk/goto">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://corecursive.com/leaving-debian/">Leaving Debian&lt;/a>
+&lt;a href="https://lobste.rs/s/aausar/leaving_debian">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.micahlerner.com/2021/10/31/rudra-finding-memory-safety-bugs-in-rust-at-the-ecosystem-scale.html">Rudra: Finding Memory Safety Bugs in Rust at the Ecosystem Scale&lt;/a>
+&lt;a href="https://lobste.rs/s/qbbqho/rudra_finding_memory_safety_bugs_rust_at">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/lima-vm/lima">Lima: Linux virtual machines (on macOS, in most cases)&lt;/a>
+&lt;a href="https://lobste.rs/s/c4kfb3/lima_linux_virtual_machines_on_macos_most">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://scotthelme.co.uk/when-pwned-passwords-bloom/">When Pwned Passwords Bloom&lt;/a>
+&lt;a href="https://lobste.rs/s/lijt6w/when_pwned_passwords_bloom">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-11-02</title><link>https://frozen-lobster.rohanverma.net/posts/2021-11-02/</link><pubDate>Tue, 02 Nov 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-11-02/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://discourse.nixos.org/t/nix-2-4-released/15822">Nix 2.4 released&lt;/a>
 &lt;a href="https://lobste.rs/s/cumwee/nix_2_4_released">(comments)&lt;/a>&lt;/p>
