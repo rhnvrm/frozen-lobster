@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 06 Nov 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-11-06</title><link>https://frozen-lobster.rohanverma.net/posts/2021-11-06/</link><pubDate>Sat, 06 Nov 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-11-06/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 07 Nov 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-11-07</title><link>https://frozen-lobster.rohanverma.net/posts/2021-11-07/</link><pubDate>Sun, 07 Nov 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-11-07/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://nora.codes/post/its-time-to-get-hyped-about-const-generics-in-rust/">It&amp;rsquo;s Time to Get Hyped About Const Generics in Rust&lt;/a>
+&lt;a href="https://lobste.rs/s/chn04c/it_s_time_get_hyped_about_const_generics">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.collicutt.co.uk/notebook/backups.html">Backups and Corruption&lt;/a>
+&lt;a href="https://lobste.rs/s/kynguh/backups_corruption">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://scribe.rip/telecom-expert/what-is-at-t-doing-at-1111340002-c418876c212c">What is AT&amp;amp;T doing at 1111340002?&lt;/a>
+&lt;a href="https://lobste.rs/s/hp5wwb/what_is_at_t_doing_at_1111340002">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://soatok.blog/2021/11/05/threema-three-strikes-youre-out/">Threema: Three Strikes, You’re Out&lt;/a>
+&lt;a href="https://lobste.rs/s/fxrzbw/threema_three_strikes_you_re_out">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lars.ingebrigtsen.no/2021/10/28/emacs-emojis-a-%e2%9d%a4%ef%b8%8f-story/">Emacs &amp;amp; Emojis: A love Story&lt;/a>
+&lt;a href="https://lobste.rs/s/avetyv/emacs_emojis_love_story">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://www.call-with-current-continuation.org/articles/the-joy-of-concurrent-logic-programming.txt">An Introduction to Concurrent Logic Programming&lt;/a>
+&lt;a href="https://lobste.rs/s/p6ou77/introduction_concurrent_logic">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.juxt.pro/blog/from-mac-to-arch">From MacOS to Arch Linux&lt;/a>
+&lt;a href="https://lobste.rs/s/jd7vun/from_macos_arch_linux">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://www.call-with-current-continuation.org/fleng/fleng.html">Version 7 of FLENG, a concurrent logic programming language, has been released&lt;/a>
+&lt;a href="https://lobste.rs/s/ihstms/version_7_fleng_concurrent_logic">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.btao.org/2021/09/09/npm-install-is-curl-bash/">npm install is curl | bash&lt;/a>
+&lt;a href="https://lobste.rs/s/wf3piq/npm_install_is_curl_bash">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jesper.sikanda.be/posts/1001-syntax-representations.html">1001 Representations of Syntax with Binding&lt;/a>
+&lt;a href="https://lobste.rs/s/jdq7ai/1001_representations_syntax_with">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-11-06</title><link>https://frozen-lobster.rohanverma.net/posts/2021-11-06/</link><pubDate>Sat, 06 Nov 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-11-06/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://soatok.blog/2021/11/05/threema-three-strikes-youre-out/">Threema: Three Strikes, You’re Out&lt;/a>
 &lt;a href="https://lobste.rs/s/fxrzbw/threema_three_strikes_you_re_out">(comments)&lt;/a>&lt;/p>
