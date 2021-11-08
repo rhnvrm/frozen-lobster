@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 07 Nov 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-11-07</title><link>https://frozen-lobster.rohanverma.net/posts/2021-11-07/</link><pubDate>Sun, 07 Nov 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-11-07/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 08 Nov 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-11-08</title><link>https://frozen-lobster.rohanverma.net/posts/2021-11-08/</link><pubDate>Mon, 08 Nov 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-11-08/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="http://rachelbythebay.com/w/2021/11/06/sql/">Normalizing a database schema&lt;/a>
+&lt;a href="https://lobste.rs/s/wld7fb/normalizing_database_schema">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ariadne.space/2021/11/04/an-inside-look-into-the-illicit-ad-industry/">an inside look into the illicit ad industry&lt;/a>
+&lt;a href="https://lobste.rs/s/yif3tc/inside_look_into_illicit_ad_industry">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://matklad.github.io//2021/11/07/generate-all-the-things.html">Generate All the Things&lt;/a>
+&lt;a href="https://lobste.rs/s/khbbac/generate_all_things">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://susam.in/maze/of-course-changeme-is-valid-base64.html">Of Course &amp;ldquo;changeme&amp;rdquo; Is Valid Base64 (2020)&lt;/a>
+&lt;a href="https://lobste.rs/s/aj7jak/course_changeme_is_valid_base64_2020">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.cl.cam.ac.uk/~pes20/pip2014-slides/PIP2014-Leroy.pdf">How much is a mechanized proof worth, certification-wise?&lt;/a>
+&lt;a href="https://lobste.rs/s/lhswcs/how_much_is_mechanized_proof_worth">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://scribe.rip/telecom-expert/what-is-at-t-doing-at-1111340002-c418876c212c">What is AT&amp;amp;T doing at 1111340002?&lt;/a>
+&lt;a href="https://lobste.rs/s/hp5wwb/what_is_at_t_doing_at_1111340002">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">Which Python projects have completed their transition to a type system successfully?&lt;/a>
+&lt;a href="https://lobste.rs/s/8ou90b/which_python_projects_have_completed">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tevps.net/blog/2021/11/7/poc-terraform-provider-rust/">PoC Terraform Provider in Rust&lt;/a>
+&lt;a href="https://lobste.rs/s/lztopq/poc_terraform_provider_rust">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://dump.mntmn.com/interim-paper/">Interim OS: Reclaiming the Computer through Minimalism and Genericity (2015)&lt;/a>
+&lt;a href="https://lobste.rs/s/o3mbnu/interim_os_reclaiming_computer_through">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://nora.codes/post/its-time-to-get-hyped-about-const-generics-in-rust/">It&amp;rsquo;s Time to Get Hyped About Const Generics in Rust&lt;/a>
+&lt;a href="https://lobste.rs/s/chn04c/it_s_time_get_hyped_about_const_generics">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-11-07</title><link>https://frozen-lobster.rohanverma.net/posts/2021-11-07/</link><pubDate>Sun, 07 Nov 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-11-07/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://nora.codes/post/its-time-to-get-hyped-about-const-generics-in-rust/">It&amp;rsquo;s Time to Get Hyped About Const Generics in Rust&lt;/a>
 &lt;a href="https://lobste.rs/s/chn04c/it_s_time_get_hyped_about_const_generics">(comments)&lt;/a>&lt;/p>
