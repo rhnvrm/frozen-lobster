@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 08 Nov 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-11-08</title><link>https://frozen-lobster.rohanverma.net/posts/2021-11-08/</link><pubDate>Mon, 08 Nov 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-11-08/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 09 Nov 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-11-09</title><link>https://frozen-lobster.rohanverma.net/posts/2021-11-09/</link><pubDate>Tue, 09 Nov 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-11-09/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://hakibenita.com/postgresql-unknown-features">Lesser Known PostgreSQL Features&lt;/a>
+&lt;a href="https://lobste.rs/s/rhrj2z/lesser_known_postgresql_features">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.theregister.com/2021/11/08/system76_developing_new_linux_desktop/">System76 is building a new Linux desktop in Rust&lt;/a>
+&lt;a href="https://lobste.rs/s/nzm4w4/system76_is_building_new_linux_desktop">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://battlepenguin.com/tech/zfs-woes-or-how-zfs-saved-me-from-data-corruption">ZFS Woes, or how ZFS Saved Me From Data Corruption&lt;/a>
+&lt;a href="https://lobste.rs/s/9hpnwn/zfs_woes_how_zfs_saved_me_from_data">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://nullderef.com/blog/plugin-abi-stable/">Plugins in Rust: Reducing the Pain with Dependencies&lt;/a>
+&lt;a href="https://lobste.rs/s/krjqjl/plugins_rust_reducing_pain_with">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gitlab.alpinelinux.org/alpine/tsc/-/issues/28">Alpine: Considering LibreSSL as default OpenSSL provider again&lt;/a>
+&lt;a href="https://lobste.rs/s/1t8z6a/alpine_considering_libressl_as_default">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://nelsonslog.wordpress.com/2021/10/30/hugo-theme-from-scratch-the-absolute-minimum/">Hugo theme from scratch: the absolute minimum&lt;/a>
+&lt;a href="https://lobste.rs/s/je0gft/hugo_theme_from_scratch_absolute_minimum">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/ggerganov/imtui">ImTui: Immediate Mode Text-based User Interface&lt;/a>
+&lt;a href="https://lobste.rs/s/0ijzdn/imtui_immediate_mode_text_based_user">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this week?&lt;/a>
+&lt;a href="https://lobste.rs/s/psmtgp/what_are_you_doing_this_week">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tevps.net/blog/2021/11/7/poc-terraform-provider-rust/">PoC Terraform Provider in Rust&lt;/a>
+&lt;a href="https://lobste.rs/s/lztopq/poc_terraform_provider_rust">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://rachelbythebay.com/w/2021/11/06/sql/">A terrible schema from a clueless programmer&lt;/a>
+&lt;a href="https://lobste.rs/s/wld7fb/terrible_schema_from_clueless">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-11-08</title><link>https://frozen-lobster.rohanverma.net/posts/2021-11-08/</link><pubDate>Mon, 08 Nov 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-11-08/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="http://rachelbythebay.com/w/2021/11/06/sql/">Normalizing a database schema&lt;/a>
 &lt;a href="https://lobste.rs/s/wld7fb/normalizing_database_schema">(comments)&lt;/a>&lt;/p>
