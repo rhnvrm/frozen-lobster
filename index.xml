@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 09 Nov 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-11-09</title><link>https://frozen-lobster.rohanverma.net/posts/2021-11-09/</link><pubDate>Tue, 09 Nov 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-11-09/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 10 Nov 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-11-10</title><link>https://frozen-lobster.rohanverma.net/posts/2021-11-10/</link><pubDate>Wed, 10 Nov 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-11-10/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://web.eecs.utk.edu/~azh/blog/thisprojectwillonlytake.html">&amp;ldquo;This project will only take 2 hours&amp;rdquo;&lt;/a>
+&lt;a href="https://lobste.rs/s/b6oms9/this_project_will_only_take_2_hours">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://kevq.uk/reality-without-css-javascript">A Reality Where CSS &amp;amp; JavaScript Don’t Exist…?&lt;/a>
+&lt;a href="https://lobste.rs/s/cxr4ml/reality_where_css_javascript_don_t_exist">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://hanamirb.org/blog/2021/11/09/announcing-hanami-200alpha3/">Announcing Hanami v2.0.0.alpha3&lt;/a>
+&lt;a href="https://lobste.rs/s/bm7sok/announcing_hanami_v2_0_0_alpha3">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.costarastrology.com/why-haskell">Why Co–Star uses Haskell&lt;/a>
+&lt;a href="https://lobste.rs/s/pkpub4/why_co_star_uses_haskell">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://christine.website/talks/surreal-horror-pam-2021-11-09">The Surreal Horror of PAM&lt;/a>
+&lt;a href="https://lobste.rs/s/vv6cjv/surreal_horror_pam">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.theregister.com/2021/11/08/system76_developing_new_linux_desktop/">System76 is building a new Linux desktop in Rust&lt;/a>
+&lt;a href="https://lobste.rs/s/nzm4w4/system76_is_building_new_linux_desktop">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/wooden-worm/ios-app-rs">iOS app proof of concept written in pure Rust&lt;/a>
+&lt;a href="https://lobste.rs/s/rr2akm/ios_app_proof_concept_written_pure_rust">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://jackkelly.name/blog/archives/2021/11/09/a_static_haskell_reflex_frontend_app">A Static Haskell/Reflex Frontend App&lt;/a>
+&lt;a href="https://lobste.rs/s/pacwm8/static_haskell_reflex_frontend_app">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://hakibenita.com/postgresql-unknown-features">Lesser Known PostgreSQL Features&lt;/a>
+&lt;a href="https://lobste.rs/s/rhrj2z/lesser_known_postgresql_features">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://discuss.ocaml.org/t/ann-first-release-of-ts2ocaml-generates-ocaml-bindings-from-d-ts-files/8772">ts2ocaml: generate OCaml bindings from .d.ts files&lt;/a>
+&lt;a href="https://lobste.rs/s/pi6g4j/ts2ocaml_generate_ocaml_bindings_from_d">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-11-09</title><link>https://frozen-lobster.rohanverma.net/posts/2021-11-09/</link><pubDate>Tue, 09 Nov 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-11-09/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://hakibenita.com/postgresql-unknown-features">Lesser Known PostgreSQL Features&lt;/a>
 &lt;a href="https://lobste.rs/s/rhrj2z/lesser_known_postgresql_features">(comments)&lt;/a>&lt;/p>
