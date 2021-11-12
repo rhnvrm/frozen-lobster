@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 11 Nov 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-11-11</title><link>https://frozen-lobster.rohanverma.net/posts/2021-11-11/</link><pubDate>Thu, 11 Nov 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-11-11/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 12 Nov 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-11-12</title><link>https://frozen-lobster.rohanverma.net/posts/2021-11-12/</link><pubDate>Fri, 12 Nov 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-11-12/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://sgt.hootr.club/molten-matter/nixops-on-the-pi/">NixOps is easier than I thought&lt;/a>
+&lt;a href="https://lobste.rs/s/pka4na/nixops_is_easier_than_i_thought">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://mermaid-js.github.io/mermaid/">mermaid - Markdownish syntax for generating diagrams&lt;/a>
+&lt;a href="https://lobste.rs/s/51sea4/mermaid_markdownish_syntax_for">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/couchbase/couchbase-lite-core/wiki/Backpressure">Backpressure And The Replicator&lt;/a>
+&lt;a href="https://lobste.rs/s/x9kwgp/backpressure_replicator">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.geoffchappell.com/notes/security/aim/index.htm">America Online Exploits Bug In Own Software (1999)&lt;/a>
+&lt;a href="https://lobste.rs/s/hshrje/america_online_exploits_bug_own_software">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://hyper.dev/blog/2021/chaos-the-last-question/">Small steps toward compiling Kernel to Scheme&lt;/a>
+&lt;a href="https://lobste.rs/s/bxn5ex/small_steps_toward_compiling_kernel">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://christine.website/talks/nixos-pain-2021-11-10">How Nix and NixOS Get So Close to Perfect&lt;/a>
+&lt;a href="https://lobste.rs/s/ff54p1/how_nix_nixos_get_so_close_perfect">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://devblogs.microsoft.com/oldnewthing/20211111-00/?p=105897">The inside story of the outside investigation of SoftRAM 95&lt;/a>
+&lt;a href="https://lobste.rs/s/x4jxxn/inside_story_outside_investigation">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jaked.org/blog/2021-11-11-Reconstructing-TypeScript-part-6">How to implement a TypeScript-style type checker, part 6: narrowing&lt;/a>
+&lt;a href="https://lobste.rs/s/yvbr4c/how_implement_typescript_style_type">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/elobdog/mailhelp">mailhelp: config and dot files for mutt with Gmail on macOS (mbsync, fdm, msmtp)&lt;/a>
+&lt;a href="https://lobste.rs/s/dt15a2/mailhelp_config_dot_files_for_mutt_with">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ihatereality.space/04-what-mutref-to-slice-ref-means/">What does &lt;code>&amp;amp;mut &amp;amp;[T]&lt;/code> mean?&lt;/a>
+&lt;a href="https://lobste.rs/s/w0buyv/what_does_mut_t_mean">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-11-11</title><link>https://frozen-lobster.rohanverma.net/posts/2021-11-11/</link><pubDate>Thu, 11 Nov 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-11-11/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://christine.website/talks/nixos-pain-2021-11-10">How Nix and NixOS Get So Close to Perfect&lt;/a>
 &lt;a href="https://lobste.rs/s/ff54p1/how_nix_nixos_get_so_close_perfect">(comments)&lt;/a>&lt;/p>
