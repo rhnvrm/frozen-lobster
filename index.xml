@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 12 Nov 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-11-12</title><link>https://frozen-lobster.rohanverma.net/posts/2021-11-12/</link><pubDate>Fri, 12 Nov 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-11-12/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 13 Nov 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-11-13</title><link>https://frozen-lobster.rohanverma.net/posts/2021-11-13/</link><pubDate>Sat, 13 Nov 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-11-13/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=XbBzSSvT_P0">The Coming Firmware Revolution&lt;/a>
+&lt;a href="https://lobste.rs/s/fwdrda/coming_firmware_revolution">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.agwa.name/blog/post/ssh_signatures">It&amp;rsquo;s Now Possible To Sign Arbitrary Data With Your SSH Keys&lt;/a>
+&lt;a href="https://lobste.rs/s/a0byrl/it_s_now_possible_sign_arbitrary_data_with">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.patreon.com/posts/58563886">SDL Next-Gen rendering API&lt;/a>
+&lt;a href="https://lobste.rs/s/jlsori/sdl_next_gen_rendering_api">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this weekend?&lt;/a>
+&lt;a href="https://lobste.rs/s/nvrswe/what_are_you_doing_this_weekend">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://softwaredoug.com/blog/2021/11/12/ruby-vs-python-for-loop.html">Ruby vs Python comes down to the for loop&lt;/a>
+&lt;a href="https://lobste.rs/s/hkigal/ruby_vs_python_comes_down_for_loop">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/adrianscheff/useful-sed">Useful sed&lt;/a>
+&lt;a href="https://lobste.rs/s/b3ppdk/useful_sed">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/couchbase/couchbase-lite-core/wiki/Backpressure">Backpressure And The Replicator&lt;/a>
+&lt;a href="https://lobste.rs/s/x9kwgp/backpressure_replicator">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pypi.org/project/rusty-results/">Rusty results&lt;/a>
+&lt;a href="https://lobste.rs/s/ivptuo/rusty_results">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://nixers.net/Thread-Nixers-net-Conf-2021">Nixers.net Conf 2021&lt;/a>
+&lt;a href="https://lobste.rs/s/qj1de3/nixers_net_conf_2021">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://xtdb.com/blog/blockchain-without-crypto/">Blockchain Without the Crypto&lt;/a>
+&lt;a href="https://lobste.rs/s/jp5fik/blockchain_without_crypto">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-11-12</title><link>https://frozen-lobster.rohanverma.net/posts/2021-11-12/</link><pubDate>Fri, 12 Nov 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-11-12/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://sgt.hootr.club/molten-matter/nixops-on-the-pi/">NixOps is easier than I thought&lt;/a>
 &lt;a href="https://lobste.rs/s/pka4na/nixops_is_easier_than_i_thought">(comments)&lt;/a>&lt;/p>
