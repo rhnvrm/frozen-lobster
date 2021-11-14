@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 13 Nov 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-11-13</title><link>https://frozen-lobster.rohanverma.net/posts/2021-11-13/</link><pubDate>Sat, 13 Nov 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-11-13/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 14 Nov 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-11-14</title><link>https://frozen-lobster.rohanverma.net/posts/2021-11-14/</link><pubDate>Sun, 14 Nov 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-11-14/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/jstrieb/quickserv">Dangerously user-friendly web server for quick prototyping and hackathons&lt;/a>
+&lt;a href="https://lobste.rs/s/escaur/dangerously_user_friendly_web_server_for">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://mental-reverb.com/blog.php?id=29">The weirdest bug I&amp;rsquo;ve ever encountered&lt;/a>
+&lt;a href="https://lobste.rs/s/figxvw/weirdest_bug_i_ve_ever_encountered">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gist.github.com/rain-1/2f5551e34f32b1ef3cd58d01478a4916">Easily build NodeJS projects inside a docker container&lt;/a>
+&lt;a href="https://lobste.rs/s/cwhckf/easily_build_nodejs_projects_inside">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://factorcode.org/littledan/dls.pdf">Factor: a dynamic stack-based programming language (2010)&lt;/a>
+&lt;a href="https://lobste.rs/s/qe16vk/factor_dynamic_stack_based_programming">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://susam.in/maze/infinitely-nested-dictionary.html">Infinitely Nested Dictionary&lt;/a>
+&lt;a href="https://lobste.rs/s/nivexd/infinitely_nested_dictionary">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.agwa.name/blog/post/ssh_signatures">It&amp;rsquo;s Now Possible To Sign Arbitrary Data With Your SSH Keys&lt;/a>
+&lt;a href="https://lobste.rs/s/a0byrl/it_s_now_possible_sign_arbitrary_data_with">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=XbBzSSvT_P0">The Coming Firmware Revolution&lt;/a>
+&lt;a href="https://lobste.rs/s/fwdrda/coming_firmware_revolution">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/mvrozanti/dte">dte: A language for expressing and calculating date and time&lt;/a>
+&lt;a href="https://lobste.rs/s/a2kmut/dte_language_for_expressing_calculating">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pcsx2.net/300-q3-2021-progress-report.html">PCSX2 - The Playstation 2 emulator - Q3 2021 Progress Report&lt;/a>
+&lt;a href="https://lobste.rs/s/uftumy/pcsx2_playstation_2_emulator_q3_2021">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jmtd.net/log/systemd_ext_backups/">Frictionless external backups with systemd&lt;/a>
+&lt;a href="https://lobste.rs/s/wjxxin/frictionless_external_backups_with">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-11-13</title><link>https://frozen-lobster.rohanverma.net/posts/2021-11-13/</link><pubDate>Sat, 13 Nov 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-11-13/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://www.youtube.com/watch?v=XbBzSSvT_P0">The Coming Firmware Revolution&lt;/a>
 &lt;a href="https://lobste.rs/s/fwdrda/coming_firmware_revolution">(comments)&lt;/a>&lt;/p>
