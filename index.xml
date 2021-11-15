@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 14 Nov 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-11-14</title><link>https://frozen-lobster.rohanverma.net/posts/2021-11-14/</link><pubDate>Sun, 14 Nov 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-11-14/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 15 Nov 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-11-15</title><link>https://frozen-lobster.rohanverma.net/posts/2021-11-15/</link><pubDate>Mon, 15 Nov 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-11-15/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://lists.sr.ht/~technomancy/fennel/%3C87v90ubdrq.fsf%40hagelb.org%3E">Fennel 1.0.0 released&lt;/a>
+&lt;a href="https://lobste.rs/s/3iiyf6/fennel_1_0_0_released">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://beza1e1.tuxen.de/microdefects.html">Microdefects&lt;/a>
+&lt;a href="https://lobste.rs/s/jp9mru/microdefects">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/jstrieb/quickserv">Dangerously user-friendly web server for quick prototyping and hackathons&lt;/a>
+&lt;a href="https://lobste.rs/s/escaur/dangerously_user_friendly_web_server_for">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=g_koa00MBLg">How do hardware timers work?&lt;/a>
+&lt;a href="https://lobste.rs/s/64q4r5/how_do_hardware_timers_work">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://esolangs.org/wiki/Cammy">Cammy&lt;/a>
+&lt;a href="https://lobste.rs/s/ehr3oq/cammy">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.unity.com/technology/debugging-memory-corruption-who-the-hell-writes-2-into-my-stack-2">Debugging memory corruption: who the hell writes “2” into my stack?&lt;/a>
+&lt;a href="https://lobste.rs/s/zu9wo2/debugging_memory_corruption_who_hell">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://dev.to/baweaver/future-of-ruby-ast-tooling-9i1">Future of Ruby – AST Tooling&lt;/a>
+&lt;a href="https://lobste.rs/s/3o99ep/future_ruby_ast_tooling">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.software-carpentry.org/blog/2011/03/tuple-spaces-or-good-ideas-dont-always-win.html">Tuple Spaces (or, Good Ideas Don&amp;rsquo;t Always Win) (2011)&lt;/a>
+&lt;a href="https://lobste.rs/s/lvbxci/tuple_spaces_good_ideas_don_t_always_win">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://abyteofcoding.com/blog/oauth-with-cloudflare-workers-on-a-statically-generated-site/">OAuth with Cloudflare Workers on a Statically Generated Site&lt;/a>
+&lt;a href="https://lobste.rs/s/9bblrv/oauth_with_cloudflare_workers_on">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=8DuhbwWkMQw">/dev/random - A New Approach&lt;/a>
+&lt;a href="https://lobste.rs/s/0jtjcs/dev_random_new_approach">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-11-14</title><link>https://frozen-lobster.rohanverma.net/posts/2021-11-14/</link><pubDate>Sun, 14 Nov 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-11-14/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://github.com/jstrieb/quickserv">Dangerously user-friendly web server for quick prototyping and hackathons&lt;/a>
 &lt;a href="https://lobste.rs/s/escaur/dangerously_user_friendly_web_server_for">(comments)&lt;/a>&lt;/p>
