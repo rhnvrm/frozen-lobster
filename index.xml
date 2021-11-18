@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 17 Nov 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-11-17</title><link>https://frozen-lobster.rohanverma.net/posts/2021-11-17/</link><pubDate>Wed, 17 Nov 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-11-17/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 18 Nov 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-11-18</title><link>https://frozen-lobster.rohanverma.net/posts/2021-11-18/</link><pubDate>Thu, 18 Nov 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-11-18/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/lark-parser/lark/releases/tag/1.0.0">Lark 1.0 released - a parsing toolkit that is friendly, production-ready, and comprehensive&lt;/a>
+&lt;a href="https://lobste.rs/s/y3mdj8/lark_1_0_released_parsing_toolkit_is">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://soatok.blog/2021/11/17/understanding-hkdf/">Understanding HKDF&lt;/a>
+&lt;a href="https://lobste.rs/s/jevtka/understanding_hkdf">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://plan.cat">.plan&lt;/a>
+&lt;a href="https://lobste.rs/s/woxgih/plan">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/epilys/kit-kat">epilys/kit-kat: plan9 kit-kat clock framebuffer implementation from scratch&lt;/a>
+&lt;a href="https://lobste.rs/s/zqnliv/epilys_kit_kat_plan9_kit_kat_clock">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=xrIjfIjssLE">Erlang: The Movie&lt;/a>
+&lt;a href="https://lobste.rs/s/1gwsni/erlang_movie">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://arstechnica.com/gadgets/2021/11/dan-kaminskys-dns-cache-poisoning-attack-is-back-from-the-dead-again/">Linux has a serious security problem that once again enables DNS cache poisoning&lt;/a>
+&lt;a href="https://lobste.rs/s/5um4az/linux_has_serious_security_problem_once">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.daknob.net/mapping-44net/">The utilization of 44/8: the reason I mapped IPv4 &amp;amp; IPv6&lt;/a>
+&lt;a href="https://lobste.rs/s/xxakzn/utilization_44_8_reason_i_mapped_ipv4_ipv6">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cgit.freebsd.org/src/commit/?id=b014e0f15bc73d80ef49b64fd1f8c29f469467cb">Enable ASLR by default for 64-bit executables&lt;/a>
+&lt;a href="https://lobste.rs/s/jogo7k/enable_aslr_by_default_for_64_bit">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pythonspeed.com/articles/faster-conda-install/">Speed up your Conda installs with Mamba&lt;/a>
+&lt;a href="https://lobste.rs/s/19lkxd/speed_up_your_conda_installs_with_mamba">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://batsov.com/articles/2021/11/16/why-emacs-redux/">Why Emacs: Redux&lt;/a>
+&lt;a href="https://lobste.rs/s/vugqbi/why_emacs_redux">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-11-17</title><link>https://frozen-lobster.rohanverma.net/posts/2021-11-17/</link><pubDate>Wed, 17 Nov 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-11-17/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://batsov.com/articles/2021/11/16/why-emacs-redux/">Why Emacs: Redux&lt;/a>
 &lt;a href="https://lobste.rs/s/vugqbi/why_emacs_redux">(comments)&lt;/a>&lt;/p>
