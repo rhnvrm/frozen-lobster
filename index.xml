@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 18 Nov 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-11-18</title><link>https://frozen-lobster.rohanverma.net/posts/2021-11-18/</link><pubDate>Thu, 18 Nov 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-11-18/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 19 Nov 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-11-19</title><link>https://frozen-lobster.rohanverma.net/posts/2021-11-19/</link><pubDate>Fri, 19 Nov 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-11-19/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://monzo.com/blog/2021/11/18/protecting-our-most-sensitive-secrets/">How we protect our most sensitive secrets from the most determined attackers&lt;/a>
+&lt;a href="https://lobste.rs/s/felkjt/how_we_protect_our_most_sensitive_secrets">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://takebackourtech.org/xmpp-comeback/">XMPP, A Comeback Story&lt;/a>
+&lt;a href="https://lobste.rs/s/8q1qd4/xmpp_comeback_story">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://kerkour.com/rust-crate-backdoor/">Backdooring Rust crates for fun and profit&lt;/a>
+&lt;a href="https://lobste.rs/s/cjt83n/backdooring_rust_crates_for_fun_profit">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://bulletproofphp.dev/yes-php-is-worth-using">Yes, PHP is Worth Learning/Using in $CURRENT_YEAR&lt;/a>
+&lt;a href="https://lobste.rs/s/ikp0zc/yes_php_is_worth_learning_using_current">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/nkcmr/async">async: experimental promises in go1.18 with generics&lt;/a>
+&lt;a href="https://lobste.rs/s/jo0bze/async_experimental_promises_go1_18_with">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://kotlinlang.org/docs/whatsnew16.html">What&amp;rsquo;s new in Kotlin 1.6.0&lt;/a>
+&lt;a href="https://lobste.rs/s/bfwgny/what_s_new_kotlin_1_6_0">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://belaycpp.com/2021/11/18/duffs-device-in-2021/">Duff’s device in 2021&lt;/a>
+&lt;a href="https://lobste.rs/s/57k1hm/duff_s_device_2021">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://hal.archives-ouvertes.fr/hal-01633123/document">A Simple, Possibly Correct LR Parser for C11&lt;/a>
+&lt;a href="https://lobste.rs/s/q7zlly/simple_possibly_correct_lr_parser_for_c11">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jvns.ca/blog/2021/11/17/debugging-a-weird--file-not-found--error/">Debugging a weird &amp;lsquo;file not found&amp;rsquo; error&lt;/a>
+&lt;a href="https://lobste.rs/s/8rgp9r/debugging_weird_file_not_found_error">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://robertodip.com/blog/data-visualization-marks-and-channels/">Data Visualization: attribute types and their graphical elements&lt;/a>
+&lt;a href="https://lobste.rs/s/yz0wpe/data_visualization_attribute_types">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-11-18</title><link>https://frozen-lobster.rohanverma.net/posts/2021-11-18/</link><pubDate>Thu, 18 Nov 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-11-18/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://github.com/lark-parser/lark/releases/tag/1.0.0">Lark 1.0 released - a parsing toolkit that is friendly, production-ready, and comprehensive&lt;/a>
 &lt;a href="https://lobste.rs/s/y3mdj8/lark_1_0_released_parsing_toolkit_is">(comments)&lt;/a>&lt;/p>
