@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 20 Nov 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-11-20</title><link>https://frozen-lobster.rohanverma.net/posts/2021-11-20/</link><pubDate>Sat, 20 Nov 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-11-20/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 21 Nov 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-11-21</title><link>https://frozen-lobster.rohanverma.net/posts/2021-11-21/</link><pubDate>Sun, 21 Nov 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-11-21/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.dawn-lang.org/posts/foundations-ucc/">Foundations of Dawn: The Untyped Concatenative Calculus&lt;/a>
+&lt;a href="https://lobste.rs/s/clatuv/foundations_dawn_untyped_concatenative">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://boilingsteam.com/i-love-arch-but-gnu-guix-is-my-new-distro/">I Love Arch, But GNU Guix Is My New Distro&lt;/a>
+&lt;a href="https://lobste.rs/s/knbjfu/i_love_arch_gnu_guix_is_my_new_distro">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/qTox/qTox">qTox is a chat, voice, video, and file transfer IM client using an encrypted peer-to-peer protocol&lt;/a>
+&lt;a href="https://lobste.rs/s/yp9x9g/qtox_is_chat_voice_video_file_transfer_im">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://engineering.tines.com/blog/understanding-why-our-build-got-15x-slower-with-webpack">Understanding why our build got 15x slower with Webpack 5&lt;/a>
+&lt;a href="https://lobste.rs/s/rea1pz/understanding_why_our_build_got_15x">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://danielbmarkham.com/whats-the-frequency-kenneth-f/">What&amp;rsquo;s the Frequency, Kenneth? (F#)&lt;/a>
+&lt;a href="https://lobste.rs/s/pf9epe/what_s_frequency_kenneth_f">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://queue.acm.org/detail.cfm?id=3501713">A Conversation with Margo Seltzer and Mike Olson: The history of Berkeley DB&lt;/a>
+&lt;a href="https://lobste.rs/s/fhiqor/conversation_with_margo_seltzer_mike">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://adnauseam.io/">AdNauseam - Clicking Ads So You Don&amp;rsquo;t Have To&lt;/a>
+&lt;a href="https://lobste.rs/s/tr3tke/adnauseam_clicking_ads_so_you_don_t_have">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://www.oilshell.org/blog/2021/11/release-0.9.4.html">Oil 0.9.4 - User Feedback&lt;/a>
+&lt;a href="https://lobste.rs/s/ckzdqs/oil_0_9_4_user_feedback">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.plover.com/2021/11/18/#transcendental">In simple English, what does it mean to be transcendental?&lt;/a>
+&lt;a href="https://lobste.rs/s/xo4tcg/simple_english_what_does_it_mean_be">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://spack.readthedocs.io/en/latest/">Spack - A flexible package manager&lt;/a>
+&lt;a href="https://lobste.rs/s/1zuqgm/spack_flexible_package_manager">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-11-20</title><link>https://frozen-lobster.rohanverma.net/posts/2021-11-20/</link><pubDate>Sat, 20 Nov 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-11-20/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://blog.plover.com/2021/11/18/#transcendental">In simple English, what does it mean to be transcendental?&lt;/a>
 &lt;a href="https://lobste.rs/s/xo4tcg/simple_english_what_does_it_mean_be">(comments)&lt;/a>&lt;/p>
