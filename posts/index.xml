@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 21 Nov 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-11-21</title><link>https://frozen-lobster.rohanverma.net/posts/2021-11-21/</link><pubDate>Sun, 21 Nov 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-11-21/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 22 Nov 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-11-22</title><link>https://frozen-lobster.rohanverma.net/posts/2021-11-22/</link><pubDate>Mon, 22 Nov 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-11-22/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://benhoyt.com/writings/awkgo/">AWKGo, an AWK-to-Go compiler&lt;/a>
+&lt;a href="https://lobste.rs/s/gwkvzz/awkgo_awk_go_compiler">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://danilafe.com/blog/coq_dawn/">Formalizing Dawn in Coq&lt;/a>
+&lt;a href="https://lobste.rs/s/ah6ysm/formalizing_dawn_coq">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://bcachefs.org/">Bcachefs: The COW filesystem for Linux that won&amp;rsquo;t eat your data&lt;/a>
+&lt;a href="https://lobste.rs/s/zbhdyu/bcachefs_cow_filesystem_for_linux_won_t">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cj.rs//readme-in-static-site/">README In Static Site (RISS)&lt;/a>
+&lt;a href="https://lobste.rs/s/a4jzvv/readme_static_site_riss">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gregdavill.github.io/posts/dell-xps13-ram-upgrade/">Dell XPS13 RAM Upgrade&lt;/a>
+&lt;a href="https://lobste.rs/s/qpuliu/dell_xps13_ram_upgrade">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://x86.fr/investigating-the-halt-and-catch-fire-instruction-on-motorola-6800/">Investigating the HCF (Halt &amp;amp; Catch Fire) instruction on Motorola 6800&lt;/a>
+&lt;a href="https://lobste.rs/s/ym199j/investigating_hcf_halt_catch_fire">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.phoenixframework.org/">Phoenix Framework&lt;/a>
+&lt;a href="https://lobste.rs/s/u5a7a1/phoenix_framework">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://rust-analyzer.github.io//blog/2021/11/21/ides-and-macros.html">IDEs and Macros&lt;/a>
+&lt;a href="https://lobste.rs/s/l3jlmd/ides_macros">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cj.rs//blog/git-ls-files-is-faster-than-fd-and-find/">Git ls-files is Faster Than Fd and Find&lt;/a>
+&lt;a href="https://lobste.rs/s/kpzdew/git_ls_files_is_faster_than_fd_find">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://dev.to/yonkeltron/a-modern-ergonomic-unix-shell-configuration-with-fish-4dio">A modern, ergonomic Unix shell configuration with Fish&lt;/a>
+&lt;a href="https://lobste.rs/s/3qhwe6/modern_ergonomic_unix_shell">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-11-21</title><link>https://frozen-lobster.rohanverma.net/posts/2021-11-21/</link><pubDate>Sun, 21 Nov 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-11-21/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://www.dawn-lang.org/posts/foundations-ucc/">Foundations of Dawn: The Untyped Concatenative Calculus&lt;/a>
 &lt;a href="https://lobste.rs/s/clatuv/foundations_dawn_untyped_concatenative">(comments)&lt;/a>&lt;/p>
