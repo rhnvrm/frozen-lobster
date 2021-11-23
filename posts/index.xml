@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 22 Nov 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-11-22</title><link>https://frozen-lobster.rohanverma.net/posts/2021-11-22/</link><pubDate>Mon, 22 Nov 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-11-22/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 23 Nov 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-11-23</title><link>https://frozen-lobster.rohanverma.net/posts/2021-11-23/</link><pubDate>Tue, 23 Nov 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-11-23/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://catgirl.ai/log/cut-c-harmful/">cut -c considered harmful&lt;/a>
+&lt;a href="https://lobste.rs/s/iqxv2m/cut_c_considered_harmful">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://andydote.co.uk/2021/11/22/nomad-operator-pattern/">The Operator Pattern in Nomad&lt;/a>
+&lt;a href="https://lobste.rs/s/d8hgw1/operator_pattern_nomad">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this week?&lt;/a>
+&lt;a href="https://lobste.rs/s/exxrfj/what_are_you_doing_this_week">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ericwbailey.design/writing/your-css-is-an-interface/">Your CSS is an interface&lt;/a>
+&lt;a href="https://lobste.rs/s/6wyjrl/your_css_is_interface">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/RDambrosio016/Rust-CUDA">An Ecosystem of libraries and tools for writing and executing extremely fast GPU code fully in Rust&lt;/a>
+&lt;a href="https://lobste.rs/s/ltzv1p/ecosystem_libraries_tools_for_writing">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ariadne.space/2021/11/22/on-cve-2019-5021/">On CVE-2019-5021&lt;/a>
+&lt;a href="https://lobste.rs/s/shcqci/on_cve_2019_5021">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://aposymbiont.github.io/split-keyboards/">Split Keyboards Gallery&lt;/a>
+&lt;a href="https://lobste.rs/s/ckf8ae/split_keyboards_gallery">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.reddit.com/r/sml/comments/qyy2gs/getting_started_with_standard_ml/">Getting started with Standard ML&lt;/a>
+&lt;a href="https://lobste.rs/s/xhqtr1/getting_started_with_standard_ml">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://joyofcryptography.com/">The Joy of Cryptography&lt;/a>
+&lt;a href="https://lobste.rs/s/gorqvx/joy_cryptography">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://utcc.utoronto.ca/~cks/space/blog/unix/V7WhyItMattersSoMuch">Why V7 Unix matters so much&lt;/a>
+&lt;a href="https://lobste.rs/s/af0utt/why_v7_unix_matters_so_much">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-11-22</title><link>https://frozen-lobster.rohanverma.net/posts/2021-11-22/</link><pubDate>Mon, 22 Nov 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-11-22/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://benhoyt.com/writings/awkgo/">AWKGo, an AWK-to-Go compiler&lt;/a>
 &lt;a href="https://lobste.rs/s/gwkvzz/awkgo_awk_go_compiler">(comments)&lt;/a>&lt;/p>
