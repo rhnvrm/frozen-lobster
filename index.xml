@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 23 Nov 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-11-23</title><link>https://frozen-lobster.rohanverma.net/posts/2021-11-23/</link><pubDate>Tue, 23 Nov 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-11-23/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 24 Nov 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-11-24</title><link>https://frozen-lobster.rohanverma.net/posts/2021-11-24/</link><pubDate>Wed, 24 Nov 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-11-24/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://ludocode.com/blog/flatpak-is-not-the-future">Flatpak Is Not the Future&lt;/a>
+&lt;a href="https://lobste.rs/s/ljsx5r/flatpak_is_not_future">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://media.handmade-seattle.com/practical-data-oriented-design/">A Practical Guide to Applying Data-Oriented Design&lt;/a>
+&lt;a href="https://lobste.rs/s/vbiu6y/practical_guide_applying_data_oriented">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/catern/sfork">sfork: A synchronous, single-threaded interface for starting processes on Linux&lt;/a>
+&lt;a href="https://lobste.rs/s/vzavsz/sfork_synchronous_single_threaded">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gist.githubusercontent.com/plutooo/733318dbb57166d203c10d12f6c24e06/raw/15c5b2612ab62998243ce5e7877496466cabb77f/tsec.txt">Full key extraction of NVIDIA TSEC&lt;/a>
+&lt;a href="https://lobste.rs/s/scl8kq/full_key_extraction_nvidia_tsec">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://seekstorm.com/blog/1000x-spelling-correction/">1000x Faster Spelling Correction algorithm&lt;/a>
+&lt;a href="https://lobste.rs/s/gkkb4i/1000x_faster_spelling_correction">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://seb.jambor.dev/posts/systemd-by-example-part-1-minimization/">systemd by example - Part 1: Minimization&lt;/a>
+&lt;a href="https://lobste.rs/s/nuon2z/systemd_by_example_part_1_minimization">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/carlmjohnson/new">More fun with Go generics: A new.Of() helper function&lt;/a>
+&lt;a href="https://lobste.rs/s/nq0ogp/more_fun_with_go_generics_new_helper">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/martijnvwezel/pico-probe-programmer">Using the RPi Pico tiny as your programmer with OpenOCD&lt;/a>
+&lt;a href="https://lobste.rs/s/stsvcr/using_rpi_pico_tiny_as_your_programmer">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pseudorandom.resistant.tech/nesfuzz-nes-game-fuzzer.html">Writing a Fuzzer for Nes Games&lt;/a>
+&lt;a href="https://lobste.rs/s/sjgv34/writing_fuzzer_for_nes_games">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://htmx.org/essays/hateoas/">HATEOAS — An Alternative Explanation&lt;/a>
+&lt;a href="https://lobste.rs/s/ostwvt/hateoas_alternative_explanation">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-11-23</title><link>https://frozen-lobster.rohanverma.net/posts/2021-11-23/</link><pubDate>Tue, 23 Nov 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-11-23/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://catgirl.ai/log/cut-c-harmful/">cut -c considered harmful&lt;/a>
 &lt;a href="https://lobste.rs/s/iqxv2m/cut_c_considered_harmful">(comments)&lt;/a>&lt;/p>
