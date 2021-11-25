@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 24 Nov 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-11-24</title><link>https://frozen-lobster.rohanverma.net/posts/2021-11-24/</link><pubDate>Wed, 24 Nov 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-11-24/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 25 Nov 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-11-25</title><link>https://frozen-lobster.rohanverma.net/posts/2021-11-25/</link><pubDate>Thu, 25 Nov 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-11-25/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://phoboslab.org/log/2021/11/qoi-fast-lossless-image-compression">Lossless Image Compression in O(n) Time&lt;/a>
+&lt;a href="https://lobste.rs/s/1hafjp/lossless_image_compression_o_n_time">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://notes.eatonphil.com/implementing-zip-in-go-unzipping.html">Implementing zip archiving in Golang: unzipping&lt;/a>
+&lt;a href="https://lobste.rs/s/0vrgbm/implementing_zip_archiving_golang">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.inkandswitch.com/peritext/">Peritext A CRDT for Rich-Text Collaboration&lt;/a>
+&lt;a href="https://lobste.rs/s/l6clsx/peritext_crdt_for_rich_text">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.joshwcomeau.com/css/custom-css-reset/">My Custom CSS Reset&lt;/a>
+&lt;a href="https://lobste.rs/s/c4kt0i/my_custom_css_reset">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ludocode.com/blog/flatpak-is-not-the-future">Flatpak Is Not the Future&lt;/a>
+&lt;a href="https://lobste.rs/s/ljsx5r/flatpak_is_not_future">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://mazzo.li/posts/check-huge-page.html">Reliably allocating huge pages in Linux&lt;/a>
+&lt;a href="https://lobste.rs/s/upbigm/reliably_allocating_huge_pages_linux">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://media.handmade-seattle.com/practical-data-oriented-design/">A Practical Guide to Applying Data-Oriented Design&lt;/a>
+&lt;a href="https://lobste.rs/s/vbiu6y/practical_guide_applying_data_oriented">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://www.youtube.com/playlist?list=PLl386dCR5QGQu7XhFaVTwEGoD7fLtnGQ7">PackagingCon 2021 Talk Recordings&lt;/a>
+&lt;a href="https://lobste.rs/s/ssht4p/packagingcon_2021_talk_recordings">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.haproxy.com/blog/announcing-haproxy-2-5/">Announcing HAProxy 2.5&lt;/a>
+&lt;a href="https://lobste.rs/s/4skluq/announcing_haproxy_2_5">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://mazzo.li/posts/hetzner-zfs.html">Remote, encrypted ZFS storage server with NixOS&lt;/a>
+&lt;a href="https://lobste.rs/s/weg73v/remote_encrypted_zfs_storage_server_with">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-11-24</title><link>https://frozen-lobster.rohanverma.net/posts/2021-11-24/</link><pubDate>Wed, 24 Nov 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-11-24/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://ludocode.com/blog/flatpak-is-not-the-future">Flatpak Is Not the Future&lt;/a>
 &lt;a href="https://lobste.rs/s/ljsx5r/flatpak_is_not_future">(comments)&lt;/a>&lt;/p>
