@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 25 Nov 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-11-25</title><link>https://frozen-lobster.rohanverma.net/posts/2021-11-25/</link><pubDate>Thu, 25 Nov 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-11-25/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 26 Nov 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-11-26</title><link>https://frozen-lobster.rohanverma.net/posts/2021-11-26/</link><pubDate>Fri, 26 Nov 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-11-26/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://rmpr.xyz/the-fish-shell-is-amazing/">The fish shell is amazing&lt;/a>
+&lt;a href="https://lobste.rs/s/pj0byo/fish_shell_is_amazing">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.cloudflare.com/everything-you-ever-wanted-to-know-about-udp-sockets-but-were-afraid-to-ask-part-1/">Everything you ever wanted to know about UDP sockets but were afraid to ask, part 1&lt;/a>
+&lt;a href="https://lobste.rs/s/aw72ua/everything_you_ever_wanted_know_about_udp">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tech.marksblogg.com/fastest-fizz-buzz.html">The Fastest FizzBuzz Implementation&lt;/a>
+&lt;a href="https://lobste.rs/s/wb7ogi/fastest_fizzbuzz_implementation">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://menno.io/posts/golang-register-calling/">Faster software through register based calling&lt;/a>
+&lt;a href="https://lobste.rs/s/anqgcy/faster_software_through_register_based">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/nsacyber/RandPassGenerator">A command-line utility for generating random passwords, passphrases, and raw keys by the NSA&lt;/a>
+&lt;a href="https://lobste.rs/s/mtyjbj/command_line_utility_for_generating">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.tweag.io/blog/2021-11-25-varieties-of-haskelling-experience/">The Varieties of the Haskelling Experience&lt;/a>
+&lt;a href="https://lobste.rs/s/qkdlip/varieties_haskelling_experience">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://crawshaw.io/blog/thankful-for-technology">Technology I’m thankful for&lt;/a>
+&lt;a href="https://lobste.rs/s/hxujin/technology_i_m_thankful_for">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://threedots.ovh/blog/2021/11/what-is-amd-rocm/">What is AMD ROCm?&lt;/a>
+&lt;a href="https://lobste.rs/s/dv4iqx/what_is_amd_rocm">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://media.handmade-seattle.com/zld/">The ZLD Linker&lt;/a>
+&lt;a href="https://lobste.rs/s/at48rq/zld_linker">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://phoboslab.org/log/2021/11/qoi-fast-lossless-image-compression">Lossless Image Compression in O(n) Time&lt;/a>
+&lt;a href="https://lobste.rs/s/1hafjp/lossless_image_compression_o_n_time">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-11-25</title><link>https://frozen-lobster.rohanverma.net/posts/2021-11-25/</link><pubDate>Thu, 25 Nov 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-11-25/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://phoboslab.org/log/2021/11/qoi-fast-lossless-image-compression">Lossless Image Compression in O(n) Time&lt;/a>
 &lt;a href="https://lobste.rs/s/1hafjp/lossless_image_compression_o_n_time">(comments)&lt;/a>&lt;/p>
