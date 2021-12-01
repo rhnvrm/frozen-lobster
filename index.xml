@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 30 Nov 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-11-30</title><link>https://frozen-lobster.rohanverma.net/posts/2021-11-30/</link><pubDate>Tue, 30 Nov 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-11-30/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-12-01</title><link>https://frozen-lobster.rohanverma.net/posts/2021-12-01/</link><pubDate>Wed, 01 Dec 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-12-01/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://oxide.computer/blog/hubris-and-humility">Hubris and Humility&lt;/a>
+&lt;a href="https://lobste.rs/s/htpotv/hubris_humility">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.replit.com/nix-vs-docker">Will Nix Overtake Docker?&lt;/a>
+&lt;a href="https://lobste.rs/s/65xymz/will_nix_overtake_docker">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://www.oilshell.org/blog/2021/11/recent-progress.html">Recent Progress on the Oil shell&lt;/a>
+&lt;a href="https://lobste.rs/s/irvnko/recent_progress_on_oil_shell">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://usesthis.com/interviews/andreas.kling/">Uses This: Andreas Kling&lt;/a>
+&lt;a href="https://lobste.rs/s/7ymyfq/uses_this_andreas_kling">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://techblog.bozho.net/simple-things-that-are-actually-hard-user-authentication/">Simple Things That Are Actually Hard: User Authentication&lt;/a>
+&lt;a href="https://lobste.rs/s/onn8vc/simple_things_are_actually_hard_user">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://belaycpp.com/2021/11/30/prettier-switch-cases/">Prettier switch-cases&lt;/a>
+&lt;a href="https://lobste.rs/s/dv99se/prettier_switch_cases">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.asciinema.org/post/smaller-faster/">asciinema 3.0, 4x smaller, 50x faster&lt;/a>
+&lt;a href="https://lobste.rs/s/kfmhxw/asciinema_3_0_4x_smaller_50x_faster">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://zverok.github.io/blog/2021-11-30-irregular1.html">Wikipedia as the data source: taming the irregular, pt.1&lt;/a>
+&lt;a href="https://lobste.rs/s/bwkrzg/wikipedia_as_data_source_taming">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.jetbrains.com/fleet/">JetBrains Fleet: The Next-Generation IDE&lt;/a>
+&lt;a href="https://lobste.rs/s/6zxjmw/jetbrains_fleet_next_generation_ide">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sgcderek.github.io/posts/starlink-beacons/">Receiving Starlink satellite beacons on a budget&lt;/a>
+&lt;a href="https://lobste.rs/s/xye3co/receiving_starlink_satellite_beacons_on">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-11-30</title><link>https://frozen-lobster.rohanverma.net/posts/2021-11-30/</link><pubDate>Tue, 30 Nov 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-11-30/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://www.hillelwayne.com/post/alloy6/">Alloy 6: it&amp;rsquo;s about Time&lt;/a>
 &lt;a href="https://lobste.rs/s/0d4s5q/alloy_6_it_s_about_time">(comments)&lt;/a>&lt;/p>
