@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 02 Dec 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-12-02</title><link>https://frozen-lobster.rohanverma.net/posts/2021-12-02/</link><pubDate>Thu, 02 Dec 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-12-02/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 03 Dec 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-12-03</title><link>https://frozen-lobster.rohanverma.net/posts/2021-12-03/</link><pubDate>Fri, 03 Dec 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-12-03/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://tvl.fyi/blog/rewriting-nix">Tvix: We are rewriting Nix&lt;/a>
+&lt;a href="https://lobste.rs/s/ypwgwp/tvix_we_are_rewriting_nix">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.rust-lang.org/2021/12/02/Rust-1.57.0.html">Announcing Rust 1.57.0&lt;/a>
+&lt;a href="https://lobste.rs/s/vjyhls/announcing_rust_1_57_0">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.haiku-os.org/blog/kallisti5/2021-11-07_booting_our_risc-v_images/">Haiku ported to RISC-V&lt;/a>
+&lt;a href="https://lobste.rs/s/clg7gd/haiku_ported_risc_v">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sprocketfox.io/xssfox/2021/12/02/xrandr/">Ideal monitor rotation for programmers&lt;/a>
+&lt;a href="https://lobste.rs/s/as3oou/ideal_monitor_rotation_for_programmers">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://christine.website/blog/nixos-vr-hell-2021-12-02">My VR Hell on NixOS&lt;/a>
+&lt;a href="https://lobste.rs/s/npofl0/my_vr_hell_on_nixos">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://karthinks.com/software/avy-can-do-anything/">Avy can do anything&lt;/a>
+&lt;a href="https://lobste.rs/s/kqq604/avy_can_do_anything">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/dubzzz/fast-check/blob/30d1d961c3adceed108d91912641125e78c25d26/documentation/HowItWorks.md">fast-check: How it works&lt;/a>
+&lt;a href="https://lobste.rs/s/erw4a4/fast_check_how_it_works">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://arrow.apache.org/blog/2021/11/19/datafusion-6.0.0/">Apache Arrow DataFusion 6.0.0 Release&lt;/a>
+&lt;a href="https://lobste.rs/s/m26nlk/apache_arrow_datafusion_6_0_0_release">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://engineeringblog.ridereport.com/pythons-none-problem">Python&amp;rsquo;s None problem, and how Mypy helps you deal with it&lt;/a>
+&lt;a href="https://lobste.rs/s/6sdtuq/python_s_none_problem_how_mypy_helps_you">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.welivesecurity.com/wp-content/uploads/2021/12/eset_jumping_the_air_gap_wp.pdf">Jumping the air gap: 15 years of nation-state effort&lt;/a>
+&lt;a href="https://lobste.rs/s/waahpl/jumping_air_gap_15_years_nation_state">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-12-02</title><link>https://frozen-lobster.rohanverma.net/posts/2021-12-02/</link><pubDate>Thu, 02 Dec 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-12-02/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://engineeringblog.ridereport.com/pythons-none-problem">Python&amp;rsquo;s None problem, and how Mypy helps you deal with it&lt;/a>
 &lt;a href="https://lobste.rs/s/6sdtuq/python_s_none_problem_how_mypy_helps_you">(comments)&lt;/a>&lt;/p>
