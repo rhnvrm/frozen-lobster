@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 03 Dec 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-12-03</title><link>https://frozen-lobster.rohanverma.net/posts/2021-12-03/</link><pubDate>Fri, 03 Dec 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-12-03/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 04 Dec 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-12-04</title><link>https://frozen-lobster.rohanverma.net/posts/2021-12-04/</link><pubDate>Sat, 04 Dec 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-12-04/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://matduggan.com/mistakes/">Don&amp;rsquo;t Make My Mistakes: Common Infrastructure Errors I&amp;rsquo;ve Made&lt;/a>
+&lt;a href="https://lobste.rs/s/5r5fsa/don_t_make_my_mistakes_common">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">tag suggestion: nix&lt;/a>
+&lt;a href="https://lobste.rs/s/bv2nje/tag_suggestion_nix">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://talks.osfc.io/osfc2021/talk/JTWYEH/">On Hubris and Humility: developing an OS for robustness in Rust Open Source Firmware Conference 2021&lt;/a>
+&lt;a href="https://lobste.rs/s/fwwufs/on_hubris_humility_developing_os_for">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this weekend?&lt;/a>
+&lt;a href="https://lobste.rs/s/yiomco/what_are_you_doing_this_weekend">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://reindernijhoff.net/2021/11/townscapers-rendering-style-in-webgl/">Townscaper&amp;rsquo;s rendering style in WebGL&lt;/a>
+&lt;a href="https://lobste.rs/s/dkpixg/townscaper_s_rendering_style_webgl">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tvl.fyi/blog/rewriting-nix">Tvix: We are rewriting Nix&lt;/a>
+&lt;a href="https://lobste.rs/s/ypwgwp/tvix_we_are_rewriting_nix">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://christine.website/blog/nixos-vr-hell-2021-12-02">My VR Hell on NixOS&lt;/a>
+&lt;a href="https://lobste.rs/s/npofl0/my_vr_hell_on_nixos">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cushychicken.github.io/rules-for-web-scrapers/">Some guidelines for writing web scrapers&lt;/a>
+&lt;a href="https://lobste.rs/s/0cc8ko/some_guidelines_for_writing_web_scrapers">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://engineering.backtrace.io/2021-12-02-verneuil-s3-backed-asynchronous-replication-for-sqlite/">Verneuil: S3-backed asynchronous replication for SQLite&lt;/a>
+&lt;a href="https://lobste.rs/s/rd4p7r/verneuil_s3_backed_asynchronous">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://nusenu.medium.com/is-kax17-performing-de-anonymization-attacks-against-tor-users-42e566defce8">Is “KAX17” performing de-anonymization Attacks against Tor Users?&lt;/a>
+&lt;a href="https://lobste.rs/s/gpvw5m/is_kax17_performing_de_anonymization">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-12-03</title><link>https://frozen-lobster.rohanverma.net/posts/2021-12-03/</link><pubDate>Fri, 03 Dec 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-12-03/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://tvl.fyi/blog/rewriting-nix">Tvix: We are rewriting Nix&lt;/a>
 &lt;a href="https://lobste.rs/s/ypwgwp/tvix_we_are_rewriting_nix">(comments)&lt;/a>&lt;/p>
