@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 05 Dec 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-12-05</title><link>https://frozen-lobster.rohanverma.net/posts/2021-12-05/</link><pubDate>Sun, 05 Dec 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-12-05/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 06 Dec 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-12-06</title><link>https://frozen-lobster.rohanverma.net/posts/2021-12-06/</link><pubDate>Mon, 06 Dec 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-12-06/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://twitter.com/arkann1985/status/1467202744947822594">Bumble claims IP rights on employee&amp;rsquo;s open-source code&lt;/a>
+&lt;a href="https://lobste.rs/s/rsbfg1/bumble_claims_ip_rights_on_employee_s_open">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://arewelinusyet.com/">Are We Linus Yet?&lt;/a>
+&lt;a href="https://lobste.rs/s/rj7blp/are_we_linus_yet">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/alin23/m1-panic">Tailwind CSS watch mode makes the M1 CPU panic&lt;/a>
+&lt;a href="https://lobste.rs/s/mv8pko/tailwind_css_watch_mode_makes_m1_cpu_panic">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://michael.stapelberg.ch/posts/2021-12-05-logitech-mx-ergo-mouse-button-kailh/">Fixing the Logitech MX Ergo Trackball mouse buttons&lt;/a>
+&lt;a href="https://lobste.rs/s/chzf8o/fixing_logitech_mx_ergo_trackball_mouse">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.nootch.net/post/kubernetes-at-home-with-k3s/">Kubernetes at Home With K3s&lt;/a>
+&lt;a href="https://lobste.rs/s/rhonjg/kubernetes_at_home_with_k3s">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://alinpanaitiu.com/blog/apps-outside-app-store/">Why aren&amp;rsquo;t the most useful Mac apps on the App Store?&lt;/a>
+&lt;a href="https://lobste.rs/s/x9k6uc/why_aren_t_most_useful_mac_apps_on_app_store">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cuddly-octo-palm-tree.com/posts/2021-12-05-sieve/">&amp;ldquo;The Genuine Sieve of Eratosthenes&amp;rdquo; in Clojure&lt;/a>
+&lt;a href="https://lobste.rs/s/ke0bwe/genuine_sieve_eratosthenes_clojure">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://eng.lyft.com/scaling-productivity-on-microservices-at-lyft-part-2-optimizing-for-fast-local-development-9f27a98b47ee">Optimizing for fast local development&lt;/a>
+&lt;a href="https://lobste.rs/s/jjerlf/optimizing_for_fast_local_development">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://rqsall.com/posts/creating-a-solaris-10-zone-on-openindiana">Creating a Solaris 10 zone on OpenIndiana&lt;/a>
+&lt;a href="https://lobste.rs/s/hdsh7g/creating_solaris_10_zone_on_openindiana">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cashapp.github.io/hermit/">Hermit manages isolated, self-bootstrapping sets of tools in software projects&lt;/a>
+&lt;a href="https://lobste.rs/s/leqj8z/hermit_manages_isolated_self">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-12-05</title><link>https://frozen-lobster.rohanverma.net/posts/2021-12-05/</link><pubDate>Sun, 05 Dec 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-12-05/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://www.ralfj.de/blog/2021/11/24/ub-necessary.html">Do we really need Undefined Behavior?&lt;/a>
 &lt;a href="https://lobste.rs/s/or5aay/do_we_really_need_undefined_behavior">(comments)&lt;/a>&lt;/p>
