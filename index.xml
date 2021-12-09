@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 08 Dec 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-12-08</title><link>https://frozen-lobster.rohanverma.net/posts/2021-12-08/</link><pubDate>Wed, 08 Dec 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-12-08/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 09 Dec 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-12-09</title><link>https://frozen-lobster.rohanverma.net/posts/2021-12-09/</link><pubDate>Thu, 09 Dec 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-12-09/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://bkhome.org/news/202112/why-iso-was-retired.html">Why ISO was retired&lt;/a>
+&lt;a href="https://lobste.rs/s/hygygk/why_iso_was_retired">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://angelika.me/2021/11/23/7-gettext-lessons-after-2-years/">7 Gettext lessons learned after 2 years of developing a European platform&lt;/a>
+&lt;a href="https://lobste.rs/s/bzxhe4/7_gettext_lessons_learned_after_2_years">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What does it take to get a new tag accepted?&lt;/a>
+&lt;a href="https://lobste.rs/s/ugprwi/what_does_it_take_get_new_tag_accepted">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gcc.gnu.org/wiki/boringcc">The only thing stopping gcc from becoming boringcc is to find the people willing to do the work&lt;/a>
+&lt;a href="https://lobste.rs/s/d0tu6h/only_thing_stopping_gcc_from_becoming">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://avi.im/blag/2021/rc-day-24/">Hacking Go compiler to add a new keyword&lt;/a>
+&lt;a href="https://lobste.rs/s/ahjpf9/hacking_go_compiler_add_new_keyword">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pythonspeed.com/articles/python-multiprocessing/">Why your multiprocessing Pool is stuck (it’s full of sharks!)&lt;/a>
+&lt;a href="https://lobste.rs/s/gv389y/why_your_multiprocessing_pool_is_stuck_it">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.david-colson.com/2021/11/30/ps1-style-renderer.html">Building a PS1 style retro 3D renderer&lt;/a>
+&lt;a href="https://lobste.rs/s/ejvvwp/building_ps1_style_retro_3d_renderer">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/supabase/pg_graphql">pg_graphql: GraphQL support for PostgreSQL&lt;/a>
+&lt;a href="https://lobste.rs/s/qluchg/pg_graphql_graphql_support_for">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ncameron.org/blog/portable-and-interoperable-async-rust/">Portable and interoperable async Rust&lt;/a>
+&lt;a href="https://lobste.rs/s/wolgza/portable_interoperable_async_rust">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.reddit.com/r/programming/comments/rbvpmy/bank_python_the_strange_world_of_python_as_used/">&amp;ldquo;Have worked on “Bank Python” systems. AMA.&amp;quot;&lt;/a>
+&lt;a href="https://lobste.rs/s/tufdrz/have_worked_on_bank_python_systems_ama">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-12-08</title><link>https://frozen-lobster.rohanverma.net/posts/2021-12-08/</link><pubDate>Wed, 08 Dec 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-12-08/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://world.hey.com/dhh/the-time-is-right-for-hotwire-ecdb9b33">The time is right for Hotwire&lt;/a>
 &lt;a href="https://lobste.rs/s/lifxol/time_is_right_for_hotwire">(comments)&lt;/a>&lt;/p>
