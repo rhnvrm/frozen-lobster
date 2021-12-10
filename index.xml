@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 09 Dec 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-12-09</title><link>https://frozen-lobster.rohanverma.net/posts/2021-12-09/</link><pubDate>Thu, 09 Dec 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-12-09/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 10 Dec 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-12-10</title><link>https://frozen-lobster.rohanverma.net/posts/2021-12-10/</link><pubDate>Fri, 10 Dec 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-12-10/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://arxiv.org/abs/2110.01098">Does the Bronze Garbage Collector Make Rust Easier to Use? A Controlled Experiment&lt;/a>
+&lt;a href="https://lobste.rs/s/dvwomq/does_bronze_garbage_collector_make_rust">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.blog/2021-12-09-introducing-stack-graphs/">Introducing stack graphs&lt;/a>
+&lt;a href="https://lobste.rs/s/pk8eqs/introducing_stack_graphs">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://diagrams.mingrammer.com/">Diagram as Code&lt;/a>
+&lt;a href="https://lobste.rs/s/xxqmbz/diagram_as_code">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.rust-lang.org/2021/12/08/survey-launch.html">Launching the 2021 State of Rust Survey | Rust Blog&lt;/a>
+&lt;a href="https://lobste.rs/s/gktubn/launching_2021_state_rust_survey_rust">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.phoronix.com/scan.php?page=news_item&amp;amp;px=Web-Browser-Packages-Debian">The Sad State Of Web Browser Support Currently Within Debian&lt;/a>
+&lt;a href="https://lobste.rs/s/cffupf/sad_state_web_browser_support_currently">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.wesleyac.com/posts/why-not-javascript-cdn">Reasons to avoid Javascript CDNs&lt;/a>
+&lt;a href="https://lobste.rs/s/5plc3o/reasons_avoid_javascript_cdns">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/antonmedv/llama">Llama - a terminal file manager&lt;/a>
+&lt;a href="https://lobste.rs/s/snz5il/llama_terminal_file_manager">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=Qytg0Ibet2E">Automerge: a new foundation for collaboration software&lt;/a>
+&lt;a href="https://lobste.rs/s/2wxr79/automerge_new_foundation_for">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tailwindcss.com/blog/tailwindcss-v3">Tailwind CSS v3.0&lt;/a>
+&lt;a href="https://lobste.rs/s/k1m6c6/tailwind_css_v3_0">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.copetti.org/writings/consoles/playstation/">PlayStation Architecture | A Practical Analysis&lt;/a>
+&lt;a href="https://lobste.rs/s/tt4gj9/playstation_architecture_practical">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-12-09</title><link>https://frozen-lobster.rohanverma.net/posts/2021-12-09/</link><pubDate>Thu, 09 Dec 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-12-09/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://bkhome.org/news/202112/why-iso-was-retired.html">Why ISO was retired&lt;/a>
 &lt;a href="https://lobste.rs/s/hygygk/why_iso_was_retired">(comments)&lt;/a>&lt;/p>
