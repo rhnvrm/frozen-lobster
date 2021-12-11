@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 10 Dec 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-12-10</title><link>https://frozen-lobster.rohanverma.net/posts/2021-12-10/</link><pubDate>Fri, 10 Dec 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-12-10/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 11 Dec 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-12-11</title><link>https://frozen-lobster.rohanverma.net/posts/2021-12-11/</link><pubDate>Sat, 11 Dec 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-12-11/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.techrepublic.com/article/the-new-firefox-95-might-be-the-most-secure-web-browser-on-the-market/">Firefox 95 might be the most secure web browser on the market&lt;/a>
+&lt;a href="https://lobste.rs/s/tsxp7b/firefox_95_might_be_most_secure_web">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.lunasec.io/docs/blog/log4j-zero-day/">RCE 0-day exploit found in log4j, a popular Java logging package&lt;/a>
+&lt;a href="https://lobste.rs/s/ngrid5/rce_0_day_exploit_found_log4j_popular_java">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gitlab.com/esr/reposurgeon/-/blob/master/GoNotes.adoc">Notes on the Go translation of Reposurgeon&lt;/a>
+&lt;a href="https://lobste.rs/s/hxm50h/notes_on_go_translation_reposurgeon">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/asimihsan/cwl-mount">Mount AWS CloudWatch logs as a file system&lt;/a>
+&lt;a href="https://lobste.rs/s/iyufzp/mount_aws_cloudwatch_logs_as_file_system">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/dunhamsteve/notesutils/blob/master/notes.md">Notes on Notes.app&lt;/a>
+&lt;a href="https://lobste.rs/s/g4698k/notes_on_notes_app">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://las.rs/blog/haskell-as-shell.html">Using Haskell as my shell&lt;/a>
+&lt;a href="https://lobste.rs/s/mxwncw/using_haskell_as_my_shell">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.wesleyac.com/posts/why-not-javascript-cdn">Reasons to avoid Javascript CDNs&lt;/a>
+&lt;a href="https://lobste.rs/s/5plc3o/reasons_avoid_javascript_cdns">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/antonmedv/llama">Llama - a terminal file manager&lt;/a>
+&lt;a href="https://lobste.rs/s/snz5il/llama_terminal_file_manager">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.hytradboi.com/">Have you tried rubbing a database on it?&lt;/a>
+&lt;a href="https://lobste.rs/s/nmz2um/have_you_tried_rubbing_database_on_it">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://kristoff.it/blog/interfacing-with-zig/">Interfacing with Zig, a BDFL-run project&lt;/a>
+&lt;a href="https://lobste.rs/s/xphmg5/interfacing_with_zig_bdfl_run_project">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-12-10</title><link>https://frozen-lobster.rohanverma.net/posts/2021-12-10/</link><pubDate>Fri, 10 Dec 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-12-10/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://arxiv.org/abs/2110.01098">Does the Bronze Garbage Collector Make Rust Easier to Use? A Controlled Experiment&lt;/a>
 &lt;a href="https://lobste.rs/s/dvwomq/does_bronze_garbage_collector_make_rust">(comments)&lt;/a>&lt;/p>
