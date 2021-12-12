@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 11 Dec 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-12-11</title><link>https://frozen-lobster.rohanverma.net/posts/2021-12-11/</link><pubDate>Sat, 11 Dec 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-12-11/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 12 Dec 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-12-12</title><link>https://frozen-lobster.rohanverma.net/posts/2021-12-12/</link><pubDate>Sun, 12 Dec 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-12-12/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://christine.website/blog/open-source-broken-2021-12-11">&amp;ldquo;Open Source&amp;rdquo; is Broken&lt;/a>
+&lt;a href="https://lobste.rs/s/w3uhz1/open_source_is_broken">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://crawshaw.io/blog/log4j">log4j: between a rock and a hard place&lt;/a>
+&lt;a href="https://lobste.rs/s/qcudey/log4j_between_rock_hard_place">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.filippo.io/professional-maintainers/">Professional maintainers: a wake-up call&lt;/a>
+&lt;a href="https://lobste.rs/s/xjjzsn/professional_maintainers_wake_up_call">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://kevin.burke.dev/kevin/phone-screens-broken/?lobsters">Ten years of experience, still failing phone screens&lt;/a>
+&lt;a href="https://lobste.rs/s/ujerjr/ten_years_experience_still_failing_phone">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://raku-advent.blog/2021/12/11/unix_philosophy_without_leftpad_part2/">Unix philosophy without left-pad, Part 2: Minimizing dependencies with a utilities package&lt;/a>
+&lt;a href="https://lobste.rs/s/xahswz/unix_philosophy_without_left_pad_part_2">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ariadne.space/2021/12/11/to-secure-the-supply-chain-you-must-properly-fund-it/">to secure the supply chain, you must properly fund it&lt;/a>
+&lt;a href="https://lobste.rs/s/jiy0xs/secure_supply_chain_you_must_properly">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://trmm.net/PDP-11/Booting/">PDP-11 Booting&lt;/a>
+&lt;a href="https://lobste.rs/s/ee7jnz/pdp_11_booting">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://susam.in/maze/vim-sudo-write-trick.html">Vim Sudo Write Trick (2005)&lt;/a>
+&lt;a href="https://lobste.rs/s/ozidc1/vim_sudo_write_trick_2005">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.phoronix.com/scan.php?page=article&amp;amp;item=bsd-linux-eo2021&amp;amp;num=1">Benchmarks: FreeBSD 13 vs. NetBSD 9.2 vs. OpenBSD 7 vs. DragonFlyBSD 6 vs. Linux&lt;/a>
+&lt;a href="https://lobste.rs/s/e8as49/benchmarks_freebsd_13_vs_netbsd_9_2_vs">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gameoftrees.org/index.html">Game of Trees&lt;/a>
+&lt;a href="https://lobste.rs/s/tc80tr/game_trees">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-12-11</title><link>https://frozen-lobster.rohanverma.net/posts/2021-12-11/</link><pubDate>Sat, 11 Dec 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-12-11/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://www.techrepublic.com/article/the-new-firefox-95-might-be-the-most-secure-web-browser-on-the-market/">Firefox 95 might be the most secure web browser on the market&lt;/a>
 &lt;a href="https://lobste.rs/s/tsxp7b/firefox_95_might_be_most_secure_web">(comments)&lt;/a>&lt;/p>
