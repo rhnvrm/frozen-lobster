@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 12 Dec 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-12-12</title><link>https://frozen-lobster.rohanverma.net/posts/2021-12-12/</link><pubDate>Sun, 12 Dec 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-12-12/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 13 Dec 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-12-13</title><link>https://frozen-lobster.rohanverma.net/posts/2021-12-13/</link><pubDate>Mon, 13 Dec 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-12-13/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.keepassx.org/index.html%3Fp=636.html">KeePassX development stopped&lt;/a>
+&lt;a href="https://lobste.rs/s/sxeh60/keepassx_development_stopped">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/inconvergent/weird">Weird: Generative art in Common Lisp&lt;/a>
+&lt;a href="https://lobste.rs/s/53ixml/weird_generative_art_common_lisp">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://vitez.me/hts-language">Haskell’s Type System Standing Alone&lt;/a>
+&lt;a href="https://lobste.rs/s/ok8hju/haskell_s_type_system_standing_alone">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/fishfight/FishFight">Fish FIght v0.3 - Open source moddable game&lt;/a>
+&lt;a href="https://lobste.rs/s/5wjjmd/fish_fight_v0_3_open_source_moddable_game">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://learnyouanagda.liamoc.net">Learn you An Agda And Achieve Enlightenment&lt;/a>
+&lt;a href="https://lobste.rs/s/cjamii/learn_you_agda_achieve_enlightenment">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://xenodium.com/plain-org-v11-released">Plain Org v1.1 released&lt;/a>
+&lt;a href="https://lobste.rs/s/rpukhx/plain_org_v1_1_released">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://bhupesh.gitbook.io/notes/git/view-python-function-git-history-with-fzf">View a python function&amp;rsquo;s history over-time with Git &amp;amp; FZF&lt;/a>
+&lt;a href="https://lobste.rs/s/xdkhxo/view_python_function_s_history_over_time">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.klipse.tech/databook/2021/12/10/dop-link.html">Data-Oriented Programming: A link in the chain of programming paradigms&lt;/a>
+&lt;a href="https://lobste.rs/s/gayg3e/data_oriented_programming_link_chain">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://public.sinusoid.es/misc/immer/immer-icfp17.pdf">Persistence for the Masses: RRB-Vectors in a Systems Language&lt;/a>
+&lt;a href="https://lobste.rs/s/nndizu/persistence_for_masses_rrb_vectors">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://kevin.burke.dev/kevin/phone-screens-broken/?lobsters">Ten years of experience, still failing phone screens&lt;/a>
+&lt;a href="https://lobste.rs/s/ujerjr/ten_years_experience_still_failing_phone">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-12-12</title><link>https://frozen-lobster.rohanverma.net/posts/2021-12-12/</link><pubDate>Sun, 12 Dec 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-12-12/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://christine.website/blog/open-source-broken-2021-12-11">&amp;ldquo;Open Source&amp;rdquo; is Broken&lt;/a>
 &lt;a href="https://lobste.rs/s/w3uhz1/open_source_is_broken">(comments)&lt;/a>&lt;/p>
