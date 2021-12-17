@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 16 Dec 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-12-16</title><link>https://frozen-lobster.rohanverma.net/posts/2021-12-16/</link><pubDate>Thu, 16 Dec 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-12-16/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 17 Dec 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-12-17</title><link>https://frozen-lobster.rohanverma.net/posts/2021-12-17/</link><pubDate>Fri, 17 Dec 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-12-17/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://codelab.farai.xyz/posts/pros-use-google/">&amp;ldquo;Imagine if Doctors Relied on Google As Much As Programmers Do&amp;rdquo;&lt;/a>
+&lt;a href="https://lobste.rs/s/zteh2e/imagine_if_doctors_relied_on_google_as">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://arnoldgalovics.com/microservices-in-production/">Don’t start with microservices – monoliths are your friend&lt;/a>
+&lt;a href="https://lobste.rs/s/p7l6kz/don_t_start_with_microservices_monoliths">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://rubyonrails.org/2021/12/15/Rails-7-fulfilling-a-vision">Rails 7.0: Fulfilling a vision&lt;/a>
+&lt;a href="https://lobste.rs/s/yauqkw/rails_7_0_fulfilling_vision">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://arstechnica.com/information-technology/2021/12/patch-fixing-critical-log4j-0-day-has-its-own-vulnerability-thats-under-exploit/">Patch fixing critical Log4J 0-day has its own vulnerability that’s under exploit&lt;/a>
+&lt;a href="https://lobste.rs/s/ccc9tu/patch_fixing_critical_log4j_0_day_has_its">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lists.debian.org/debian-hurd/2021/08/msg00040.html">Debian GNU/Hurd 2021 released&lt;/a>
+&lt;a href="https://lobste.rs/s/xnesub/debian_gnu_hurd_2021_released">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://breckyunits.com/aftertext.html">Aftertext&lt;/a>
+&lt;a href="https://lobste.rs/s/eextqh/aftertext">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pithlessly.github.io/allocgate.html">Allocgate is coming in Zig 0.9, and you will have to change your code&lt;/a>
+&lt;a href="https://lobste.rs/s/unzvwc/allocgate_is_coming_zig_0_9_you_will_have">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://there.oughta.be/a/wifi-game-boy-cartridge">WiFi Game Boy cartridge&lt;/a>
+&lt;a href="https://lobste.rs/s/kxvq8p/wifi_game_boy_cartridge">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://langsec.org/occupy/">LangSec in a few slogans&lt;/a>
+&lt;a href="https://lobste.rs/s/kuihxe/langsec_few_slogans">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/racket/rhombus-prototype/discussions/199">Does Rhombus risk missing the trees for enforestation?&lt;/a>
+&lt;a href="https://lobste.rs/s/9qun4d/does_rhombus_risk_missing_trees_for">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-12-16</title><link>https://frozen-lobster.rohanverma.net/posts/2021-12-16/</link><pubDate>Thu, 16 Dec 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-12-16/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://kreya.app/blog/grpc-best-practices">gRPC - Best Practices&lt;/a>
 &lt;a href="https://lobste.rs/s/3bsg5h/grpc_best_practices">(comments)&lt;/a>&lt;/p>
