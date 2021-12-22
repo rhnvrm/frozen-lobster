@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 21 Dec 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-12-21</title><link>https://frozen-lobster.rohanverma.net/posts/2021-12-21/</link><pubDate>Tue, 21 Dec 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-12-21/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 22 Dec 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-12-22</title><link>https://frozen-lobster.rohanverma.net/posts/2021-12-22/</link><pubDate>Wed, 22 Dec 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-12-22/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/ocaml/ocaml/pull/10831">Pull Request for Multicore OCaml&lt;/a>
+&lt;a href="https://lobste.rs/s/nuowue/pull_request_for_multicore_ocaml">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://phoenixtrap.com/2021/12/21/34-at-34-for-v5-34-modern-perl-features-for-perls-birthday/">34 at 34 for v5.34: Modern Perl features for Perl’s birthday&lt;/a>
+&lt;a href="https://lobste.rs/s/yojxb2/34_at_34_for_v5_34_modern_perl_features_for">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://justine.lol/sectorlisp2/">LISP with GC in 436 bytes&lt;/a>
+&lt;a href="https://lobste.rs/s/o6n6de/lisp_with_gc_436_bytes">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://rakyll.org/generics-facilititators/">Generics facilitators in Go&lt;/a>
+&lt;a href="https://lobste.rs/s/hz9fzl/generics_facilitators_go">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://zig.news/xq/a-challenger-to-the-throne-of-vector-graphics-svg-is-dead-long-live-tinyvg-4on8">A challenger to the throne of vector graphics. SVG is dead, long live TinyVG&lt;/a>
+&lt;a href="https://lobste.rs/s/09wnbp/challenger_throne_vector_graphics_svg_is">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tmandry.gitlab.io/blog/posts/2021-12-21-context-capabilities/">A proposal for contexts and capabilities in Rust&lt;/a>
+&lt;a href="https://lobste.rs/s/tosde4/proposal_for_contexts_capabilities_rust">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pragmaticpineapple.com/smoothly-reverting-css-animations/">Smoothly Reverting CSS Animations&lt;/a>
+&lt;a href="https://lobste.rs/s/hm1zgu/smoothly_reverting_css_animations">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://medium.com/erlang-battleground/erlang-asn-1-abstract-syntax-notation-one-deeb8300f479">Erlang &amp;amp; ASN.1(Abstract Syntax Notation One)&lt;/a>
+&lt;a href="https://lobste.rs/s/gwervn/erlang_asn_1_abstract_syntax_notation_one">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ziglang.org/download/0.9.0/release-notes.html">Zig 0.9.0 Release Notes&lt;/a>
+&lt;a href="https://lobste.rs/s/52sw14/zig_0_9_0_release_notes">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://marc.info/?l=git&amp;amp;m=124111702609723&amp;amp;w=2">Why is C faster than Java: git vs JGit (2009)&lt;/a>
+&lt;a href="https://lobste.rs/s/nrrgby/why_is_c_faster_than_java_git_vs_jgit_2009">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-12-21</title><link>https://frozen-lobster.rohanverma.net/posts/2021-12-21/</link><pubDate>Tue, 21 Dec 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-12-21/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://danluu.com/cgroup-throttling/">The container throttling problem&lt;/a>
 &lt;a href="https://lobste.rs/s/rerfc5/container_throttling_problem">(comments)&lt;/a>&lt;/p>
