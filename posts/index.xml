@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 22 Dec 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-12-22</title><link>https://frozen-lobster.rohanverma.net/posts/2021-12-22/</link><pubDate>Wed, 22 Dec 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-12-22/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 23 Dec 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-12-23</title><link>https://frozen-lobster.rohanverma.net/posts/2021-12-23/</link><pubDate>Thu, 23 Dec 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-12-23/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://libs.suckless.org/libgrapheme/">libgrapheme - A suckless Unicode string library&lt;/a>
+&lt;a href="https://lobste.rs/s/7wx1z4/libgrapheme_suckless_unicode_string">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://dragonman225.js.org/curved-arrows.html">How to Draw S-Curved Arrows Between Boxes / Rectangles&lt;/a>
+&lt;a href="https://lobste.rs/s/2kdggi/how_draw_s_curved_arrows_between_boxes">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ferd.ca/plato-s-dashboards.html">Plato&amp;rsquo;s Dashboards&lt;/a>
+&lt;a href="https://lobste.rs/s/gwmv21/plato_s_dashboards">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.collabora.com/news-and-blog/blog/2021/12/22/wine-on-wayland-year-end-update-improved-functionality-stability/">Wine on Wayland year-end update: improved functionality &amp;amp; stability&lt;/a>
+&lt;a href="https://lobste.rs/s/phl1jm/wine_on_wayland_year_end_update_improved">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://topikettunen.com/blog/freebsd-jails-for-fun-and-profit/">FreeBSD jails for fun and profit (2020)&lt;/a>
+&lt;a href="https://lobste.rs/s/p4xdvv/freebsd_jails_for_fun_profit_2020">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://www.canoncat.net">Canon Cat&lt;/a>
+&lt;a href="https://lobste.rs/s/10vgyo/canon_cat">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://positive.security/blog/ms-teams-1-feature-4-vulns">MS Teams: 1 feature, 4 vulnerabilities&lt;/a>
+&lt;a href="https://lobste.rs/s/px5na1/ms_teams_1_feature_4_vulnerabilities">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://matrix.org/blog/2021/12/22/the-mega-matrix-holiday-special-2021/">The Mega Matrix Holiday Special 2021&lt;/a>
+&lt;a href="https://lobste.rs/s/nhy3lk/mega_matrix_holiday_special_2021">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/turbolent/w2c2">w2c2: Translates WebAssembly modules to C&lt;/a>
+&lt;a href="https://lobste.rs/s/8jpj77/w2c2_translates_webassembly_modules_c">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.tumfatig.net/2021/openbsd-on-mele-quieter2/">OpenBSD on MeLE Quieter2&lt;/a>
+&lt;a href="https://lobste.rs/s/kog5ez/openbsd_on_mele_quieter2">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-12-22</title><link>https://frozen-lobster.rohanverma.net/posts/2021-12-22/</link><pubDate>Wed, 22 Dec 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-12-22/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://github.com/ocaml/ocaml/pull/10831">Pull Request for Multicore OCaml&lt;/a>
 &lt;a href="https://lobste.rs/s/nuowue/pull_request_for_multicore_ocaml">(comments)&lt;/a>&lt;/p>
