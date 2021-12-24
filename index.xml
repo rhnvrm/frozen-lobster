@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 23 Dec 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-12-23</title><link>https://frozen-lobster.rohanverma.net/posts/2021-12-23/</link><pubDate>Thu, 23 Dec 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-12-23/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 24 Dec 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-12-24</title><link>https://frozen-lobster.rohanverma.net/posts/2021-12-24/</link><pubDate>Fri, 24 Dec 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-12-24/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://cuddly-octo-palm-tree.com/posts/2021-12-19-tyska-nix-shell/">Tools You Should Know About: nix-shell&lt;/a>
+&lt;a href="https://lobste.rs/s/4khflt/tools_you_should_know_about_nix_shell">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://systemfolder.wordpress.com/2015/01/17/about-box/">A few About boxes from vintage Mac applications&lt;/a>
+&lt;a href="https://lobste.rs/s/apfdj3/few_about_boxes_from_vintage_mac">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://fabiensanglard.net/sf2_sheets/index.html">Street Fighter II, paper trails&lt;/a>
+&lt;a href="https://lobste.rs/s/kl56zq/street_fighter_ii_paper_trails">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/woodrush/lisp-in-life">A Lisp interpreter implemented in Conway&amp;rsquo;s Game of Life&lt;/a>
+&lt;a href="https://lobste.rs/s/lqt472/lisp_interpreter_implemented_conway_s">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://libs.suckless.org/libgrapheme/">libgrapheme - A suckless Unicode string library&lt;/a>
+&lt;a href="https://lobste.rs/s/7wx1z4/libgrapheme_suckless_unicode_string">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://docs.google.com/document/d/1fDaOXY7aCQk27tScDtyaNoOnOY7dxstABmi-QJg1R6s/">Column Modules for Mechanical Keyboards&lt;/a>
+&lt;a href="https://lobste.rs/s/xtcstl/column_modules_for_mechanical_keyboards">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.walkergriggs.com/2021/12/15/learning_go_generics_with_aoc/">Learning Go Generics with Advent of Code&lt;/a>
+&lt;a href="https://lobste.rs/s/n2raqc/learning_go_generics_with_advent_code">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://objective-see.com/blog/blog_0x6A.html">Where&amp;rsquo;s the Interpreter!? (CVE-2021-30853)&lt;/a>
+&lt;a href="https://lobste.rs/s/ngfuhi/where_s_interpreter_cve_2021_30853">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://www.canoncat.net">Canon Cat&lt;/a>
+&lt;a href="https://lobste.rs/s/10vgyo/canon_cat">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ruben.verborgh.org/blog/2021/12/23/reflections-of-knowledge/">Reflections of knowledge&lt;/a>
+&lt;a href="https://lobste.rs/s/zzkpxm/reflections_knowledge">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-12-23</title><link>https://frozen-lobster.rohanverma.net/posts/2021-12-23/</link><pubDate>Thu, 23 Dec 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-12-23/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://libs.suckless.org/libgrapheme/">libgrapheme - A suckless Unicode string library&lt;/a>
 &lt;a href="https://lobste.rs/s/7wx1z4/libgrapheme_suckless_unicode_string">(comments)&lt;/a>&lt;/p>
