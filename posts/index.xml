@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 25 Dec 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-12-25</title><link>https://frozen-lobster.rohanverma.net/posts/2021-12-25/</link><pubDate>Sat, 25 Dec 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-12-25/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 26 Dec 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-12-26</title><link>https://frozen-lobster.rohanverma.net/posts/2021-12-26/</link><pubDate>Sun, 26 Dec 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-12-26/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.facebook.com/maddoghall/posts/10159125354012025">The lost talks from Linus Torvalds at DECUS'94&lt;/a>
+&lt;a href="https://lobste.rs/s/80p6up/lost_talks_from_linus_torvalds_at_decus_94">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://twitter.com/antonmedv/status/1474838597991813127">The simplest web server: while + nc&lt;/a>
+&lt;a href="https://lobste.rs/s/of4pd4/simplest_web_server_while_nc">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://rachelbythebay.com/w/2021/12/24/mkdir/">Fix the unit test and open a giant hole everywhere&lt;/a>
+&lt;a href="https://lobste.rs/s/2nccou/fix_unit_test_open_giant_hole_everywhere">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ruby-lang.org/en/news/2021/12/25/ruby-3-1-0-released/">Ruby 3.1.0 Released&lt;/a>
+&lt;a href="https://lobste.rs/s/ssmdf4/ruby_3_1_0_released">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://n-o-d-e.net/pinouts.html">The Pinouts Book&lt;/a>
+&lt;a href="https://lobste.rs/s/db5t25/pinouts_book">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/maxpert/rues">RuES is a Expression Evaluation as Service&lt;/a>
+&lt;a href="https://lobste.rs/s/sqivnc/rues_is_expression_evaluation_as_service">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://roll.urown.net/index.html">Roll Your Own Network&lt;/a>
+&lt;a href="https://lobste.rs/s/ho2paq/roll_your_own_network">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://cyber.dabamos.de/unix/x11/">Cool, but obscure X11 tools&lt;/a>
+&lt;a href="https://lobste.rs/s/vjg28e/cool_obscure_x11_tools">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.thanassis.space/asn1.html">Useful old technologies: ASN.1&lt;/a>
+&lt;a href="https://lobste.rs/s/na2xv4/useful_old_technologies_asn_1">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.matthewdmiller.net/learn-common-lisp-by-example-qt-gui-with-eql5">Learn Common Lisp by Example: Qt GUI with EQL5&lt;/a>
+&lt;a href="https://lobste.rs/s/tgtpmm/learn_common_lisp_by_example_qt_gui_with">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-12-25</title><link>https://frozen-lobster.rohanverma.net/posts/2021-12-25/</link><pubDate>Sat, 25 Dec 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-12-25/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://www.gibney.org/from_debian_to_web_app">What do you think of this type of “terminal based programming tutorial”?&lt;/a>
 &lt;a href="https://lobste.rs/s/cykyln/what_do_you_think_this_type_terminal_based">(comments)&lt;/a>&lt;/p>
