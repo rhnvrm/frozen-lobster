@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 26 Dec 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-12-26</title><link>https://frozen-lobster.rohanverma.net/posts/2021-12-26/</link><pubDate>Sun, 26 Dec 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-12-26/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 27 Dec 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-12-27</title><link>https://frozen-lobster.rohanverma.net/posts/2021-12-27/</link><pubDate>Mon, 27 Dec 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-12-27/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://terinstock.com/post/2021/12/Systemds-clock-epoch-for-RTC-less-systems/">Systemd&amp;rsquo;s clock-epoch for RTC-less systems&lt;/a>
+&lt;a href="https://lobste.rs/s/0jlh6q/systemd_s_clock_epoch_for_rtc_less_systems">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gettalong.org/blog/2021/benchmarking-rubies.html">Benchmarking Ruby 2.5 to 3.1&lt;/a>
+&lt;a href="https://lobste.rs/s/1mbbii/benchmarking_ruby_2_5_3_1">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/prathyvsh/category-theory-resources">Category Theory Resources for an enthusiast&lt;/a>
+&lt;a href="https://lobste.rs/s/n863se/category_theory_resources_for">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://icyphox.sh/blog/signal-vmm/">Signal Desktop on OpenBSD via vmm(4)&lt;/a>
+&lt;a href="https://lobste.rs/s/y6vkg6/signal_desktop_on_openbsd_via_vmm_4">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.supertux.org/news/2021/12/23/0.6.3">SuperTux 0.6.3&lt;/a>
+&lt;a href="https://lobste.rs/s/vkvwla/supertux_0_6_3">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://queue.acm.org/detail.cfm?id=1117403">Performance Anti-Patterns (2006)&lt;/a>
+&lt;a href="https://lobste.rs/s/i9grx6/performance_anti_patterns_2006">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=pq1XqP4-qOo">Portable Linux Binaries for Video Games using Zig&lt;/a>
+&lt;a href="https://lobste.rs/s/qneczx/portable_linux_binaries_for_video_games">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://twitter.com/antonmedv/status/1474838597991813127">The simplest web server: while + nc&lt;/a>
+&lt;a href="https://lobste.rs/s/of4pd4/simplest_web_server_while_nc">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jwst.nasa.gov/resources/ISIMmanuscript.pdf">Status of the James Webb Space Telescope Integrated Science Instrument Module System (2011)&lt;/a>
+&lt;a href="https://lobste.rs/s/qiux7z/status_james_webb_space_telescope">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.facebook.com/maddoghall/posts/10159125354012025">The lost talks from Linus Torvalds at DECUS'94&lt;/a>
+&lt;a href="https://lobste.rs/s/80p6up/lost_talks_from_linus_torvalds_at_decus_94">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-12-26</title><link>https://frozen-lobster.rohanverma.net/posts/2021-12-26/</link><pubDate>Sun, 26 Dec 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-12-26/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://www.facebook.com/maddoghall/posts/10159125354012025">The lost talks from Linus Torvalds at DECUS'94&lt;/a>
 &lt;a href="https://lobste.rs/s/80p6up/lost_talks_from_linus_torvalds_at_decus_94">(comments)&lt;/a>&lt;/p>
