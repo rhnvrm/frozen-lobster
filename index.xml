@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 27 Dec 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-12-27</title><link>https://frozen-lobster.rohanverma.net/posts/2021-12-27/</link><pubDate>Mon, 27 Dec 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-12-27/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 28 Dec 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-12-28</title><link>https://frozen-lobster.rohanverma.net/posts/2021-12-28/</link><pubDate>Tue, 28 Dec 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-12-28/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://computer.rip/2021-12-26-diy-mail.html">DIY Email&lt;/a>
+&lt;a href="https://lobste.rs/s/mx5i9x/diy_email">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this week?&lt;/a>
+&lt;a href="https://lobste.rs/s/83qrzt/what_are_you_doing_this_week">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">How do you use layers on your keyboard?&lt;/a>
+&lt;a href="https://lobste.rs/s/2ps6iq/how_do_you_use_layers_on_your_keyboard">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/orgs/videogamepreservation/repositories">Video Game Preservation&lt;/a>
+&lt;a href="https://lobste.rs/s/ivuhrv/video_game_preservation">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thevaluable.dev/zsh-expansion-guide-example/">A Guide to Zsh Expansion with Examples&lt;/a>
+&lt;a href="https://lobste.rs/s/nb6wiu/guide_zsh_expansion_with_examples">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://w2k.phreaknet.org/guide">Windows 2000 Modernization Guide&lt;/a>
+&lt;a href="https://lobste.rs/s/o7pbzh/windows_2000_modernization_guide">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://giansegato.com/essays/what-future-ides/">What&amp;rsquo;s the Future of IDEs?&lt;/a>
+&lt;a href="https://lobste.rs/s/z2supy/what_s_future_ides">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://timonweb.com/python/you-can-now-use-pip-to-install-tailwind-css-nodejs-is-no-longer-required/">You can now use &amp;lsquo;pip&amp;rsquo; to install Tailwind CSS. Node.js is no longer required&lt;/a>
+&lt;a href="https://lobste.rs/s/q6fa9p/you_can_now_use_pip_install_tailwind_css">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://justinpombrio.net/2021/12/26/preventing-log4j-with-capabilities.html">Preventing log4j with Capabilities&lt;/a>
+&lt;a href="https://lobste.rs/s/lumsvs/preventing_log4j_with_capabilities">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://felipepepe.medium.com/the-history-of-rpg-maker-its-games-c93685f41ae6">RPG Maker: History &amp;amp; Games&lt;/a>
+&lt;a href="https://lobste.rs/s/alxazu/rpg_maker_history_games">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-12-27</title><link>https://frozen-lobster.rohanverma.net/posts/2021-12-27/</link><pubDate>Mon, 27 Dec 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-12-27/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://terinstock.com/post/2021/12/Systemds-clock-epoch-for-RTC-less-systems/">Systemd&amp;rsquo;s clock-epoch for RTC-less systems&lt;/a>
 &lt;a href="https://lobste.rs/s/0jlh6q/systemd_s_clock_epoch_for_rtc_less_systems">(comments)&lt;/a>&lt;/p>
