@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 28 Dec 2021 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-12-28</title><link>https://frozen-lobster.rohanverma.net/posts/2021-12-28/</link><pubDate>Tue, 28 Dec 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-12-28/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 29 Dec 2021 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2021-12-29</title><link>https://frozen-lobster.rohanverma.net/posts/2021-12-29/</link><pubDate>Wed, 29 Dec 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-12-29/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://notes.eatonphil.com/lua-in-rust.html">Writing a minimal Lua implementation with a virtual machine from scratch in Rust&lt;/a>
+&lt;a href="https://lobste.rs/s/wlpgc3/writing_minimal_lua_implementation_with">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://phoenixtrap.com/2021/12/28/avoid-yoda-conditions-in-perl-you-should/">Avoid Yoda conditions in Perl you should&lt;/a>
+&lt;a href="https://lobste.rs/s/ndnnvf/avoid_yoda_conditions_perl_you_should">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://zverok.github.io/blog/2021-12-28-grok-shan-shui.html">Grok {Shan, Shui}*: Advent of understanding the generative art&lt;/a>
+&lt;a href="https://lobste.rs/s/rexg2n/grok_shan_shui_advent_understanding">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cloudnull.io/2017/05/nfs-mount-via-systemd/">NFS mount via systemd (2017)&lt;/a>
+&lt;a href="https://lobste.rs/s/9bme8w/nfs_mount_via_systemd_2017">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://bass-lang.org/">Bass is a low-fidelity Lisp dialect for scripting the infrastructure&lt;/a>
+&lt;a href="https://lobste.rs/s/faafm5/bass_is_low_fidelity_lisp_dialect_for">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ethw.org/Oral-History:Adele_Goldberg">Oral-History: Adele Goldberg&lt;/a>
+&lt;a href="https://lobste.rs/s/yvh1tg/oral_history_adele_goldberg">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.paavo.me/masa-copy-protection/">Bypassing early 2000s copy protection for software preservation&lt;/a>
+&lt;a href="https://lobste.rs/s/n70o0h/bypassing_early_2000s_copy_protection">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://arxiv.org/abs/2112.12758v1">A Manifesto for Applicable Formal Methods&lt;/a>
+&lt;a href="https://lobste.rs/s/k1enth/manifesto_for_applicable_formal_methods">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.zachary.com/posts/hammerspoon-and-bear/">Using Hammerspoon to enhance and automate Bear.app on macOS&lt;/a>
+&lt;a href="https://lobste.rs/s/7eukwt/using_hammerspoon_enhance_automate_bear">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">How do you use layers on your keyboard?&lt;/a>
+&lt;a href="https://lobste.rs/s/2ps6iq/how_do_you_use_layers_on_your_keyboard">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-12-28</title><link>https://frozen-lobster.rohanverma.net/posts/2021-12-28/</link><pubDate>Tue, 28 Dec 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-12-28/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://computer.rip/2021-12-26-diy-mail.html">DIY Email&lt;/a>
 &lt;a href="https://lobste.rs/s/mx5i9x/diy_email">(comments)&lt;/a>&lt;/p>
