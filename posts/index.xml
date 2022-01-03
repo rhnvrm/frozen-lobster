@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 02 Jan 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-01-02</title><link>https://frozen-lobster.rohanverma.net/posts/2022-01-02/</link><pubDate>Sun, 02 Jan 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-01-02/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 03 Jan 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-01-03</title><link>https://frozen-lobster.rohanverma.net/posts/2022-01-03/</link><pubDate>Mon, 03 Jan 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-01-03/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.datagubbe.se/30yearcomp/">The Amiga as “a computer built to last 50 years”&lt;/a>
+&lt;a href="https://lobste.rs/s/rasume/amiga_as_computer_built_last_50_years">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://expandingman.gitlab.io/tvu-compare/">a comparison of rust and zig&lt;/a>
+&lt;a href="https://lobste.rs/s/veinkw/comparison_rust_zig">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://zig.news/aransentin/analysis-of-the-overhead-of-a-minimal-zig-program-4lg0">Analysis of the overhead of a minimal Zig program&lt;/a>
+&lt;a href="https://lobste.rs/s/hbceut/analysis_overhead_minimal_zig_program">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://bugs.xdavidhu.me/google/2021/12/31/fixing-the-unfixable-story-of-a-google-cloud-ssrf/">Fixing the Unfixable: Story of a Google Cloud SSRF (2021)&lt;/a>
+&lt;a href="https://lobste.rs/s/1wasuz/fixing_unfixable_story_google_cloud_ssrf">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://hauleth.dev/post/log-all-the-things/">Log all the things - features of Elixir 1.11 Logger application&lt;/a>
+&lt;a href="https://lobste.rs/s/i29sqw/log_all_things_features_elixir_1_11_logger">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://graphitemaster.github.io/aau/">Almost Always Unsigned&lt;/a>
+&lt;a href="https://lobste.rs/s/8expvx/almost_always_unsigned">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://twitter.com/ChrisRackauckas/status/1477274812460449793">Write custom Julia compiler passes in library code&lt;/a>
+&lt;a href="https://lobste.rs/s/jqqslc/write_custom_julia_compiler_passes">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ratfactor.com/assembly-nights">Assembly Nights&lt;/a>
+&lt;a href="https://lobste.rs/s/w1sy1m/assembly_nights">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://computer.rip/2022-01-01-secret-military-telephone-buttons.html">Secret military telephone buttons&lt;/a>
+&lt;a href="https://lobste.rs/s/byl9lk/secret_military_telephone_buttons">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://www.stark-labs.com/">Nebulosity has gone open-source and free&lt;/a>
+&lt;a href="https://lobste.rs/s/y4syme/nebulosity_has_gone_open_source_free">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-01-02</title><link>https://frozen-lobster.rohanverma.net/posts/2022-01-02/</link><pubDate>Sun, 02 Jan 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-01-02/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://jott.live/markdown/javascript_vector_addition">15x Faster TypedArrays: Vector Addition in WebAssembly @ 154GB/s&lt;/a>
 &lt;a href="https://lobste.rs/s/7rdpsj/15x_faster_typedarrays_vector_addition">(comments)&lt;/a>&lt;/p>
