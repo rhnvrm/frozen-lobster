@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 03 Jan 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-01-03</title><link>https://frozen-lobster.rohanverma.net/posts/2022-01-03/</link><pubDate>Mon, 03 Jan 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-01-03/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 04 Jan 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-01-04</title><link>https://frozen-lobster.rohanverma.net/posts/2022-01-04/</link><pubDate>Tue, 04 Jan 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-01-04/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/tkellogg/dura">dura: You shouldn&amp;rsquo;t ever lose your work if you&amp;rsquo;re using Git&lt;/a>
+&lt;a href="https://lobste.rs/s/g7suro/dura_you_shouldn_t_ever_lose_your_work_if">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">Who&amp;rsquo;s hiring? Q1Y2022&lt;/a>
+&lt;a href="https://lobste.rs/s/4a6wwg/who_s_hiring_q1y2022">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ebiten.org/blog/native_compiling_for_nintendo_switch.html">Compiling a Go program into a native binary for Nintendo Switch&lt;/a>
+&lt;a href="https://lobste.rs/s/fptqpf/compiling_go_program_into_native_binary">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.jhm.dev/posts/papers-please/">Fixing stutters in Papers Please on Linux&lt;/a>
+&lt;a href="https://lobste.rs/s/yljvsi/fixing_stutters_papers_please_on_linux">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lwn.net/Articles/880175/">The fast kernel headers tree&lt;/a>
+&lt;a href="https://lobste.rs/s/zjug8x/fast_kernel_headers_tree">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.cloudwisp.com/exploring-visual-basic-1-0-for-ms-dos/">Exploring Visual Basic 1.0 for MS-DOS&lt;/a>
+&lt;a href="https://lobste.rs/s/5lipzc/exploring_visual_basic_1_0_for_ms_dos">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this week?&lt;/a>
+&lt;a href="https://lobste.rs/s/2uiyl5/what_are_you_doing_this_week">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jeffhuang.com/best_paper_awards/">Best Paper Awards in Computer Science over the past 25 years&lt;/a>
+&lt;a href="https://lobste.rs/s/es1jwm/best_paper_awards_computer_science_over">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://zig.news/aransentin/analysis-of-the-overhead-of-a-minimal-zig-program-4lg0">Analysis of the overhead of a minimal Zig program&lt;/a>
+&lt;a href="https://lobste.rs/s/hbceut/analysis_overhead_minimal_zig_program">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.cambus.net/toolchains-adventures-q4-2021/">Toolchains adventures - Q4 2021&lt;/a>
+&lt;a href="https://lobste.rs/s/p8waqd/toolchains_adventures_q4_2021">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-01-03</title><link>https://frozen-lobster.rohanverma.net/posts/2022-01-03/</link><pubDate>Mon, 03 Jan 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-01-03/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://www.datagubbe.se/30yearcomp/">The Amiga as “a computer built to last 50 years”&lt;/a>
 &lt;a href="https://lobste.rs/s/rasume/amiga_as_computer_built_last_50_years">(comments)&lt;/a>&lt;/p>
