@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 04 Jan 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-01-04</title><link>https://frozen-lobster.rohanverma.net/posts/2022-01-04/</link><pubDate>Tue, 04 Jan 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-01-04/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 05 Jan 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-01-05</title><link>https://frozen-lobster.rohanverma.net/posts/2022-01-05/</link><pubDate>Wed, 05 Jan 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-01-05/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://blog.sunfishcode.online/port-std-to-rustix/">Porting Rust&amp;rsquo;s std to rustix&lt;/a>
+&lt;a href="https://lobste.rs/s/piqbfw/porting_rust_s_std_rustix">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pngquant.org/rust.html">Rewriting libimagequant in Rust for portability&lt;/a>
+&lt;a href="https://lobste.rs/s/1wrjdy/rewriting_libimagequant_rust_for">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://utcc.utoronto.ca/~cks/space/blog/unix/VFSImportance">The important Unix idea of the &amp;ldquo;virtual filesystem switch&amp;rdquo;&lt;/a>
+&lt;a href="https://lobste.rs/s/9im1to/important_unix_idea_virtual_filesystem">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/tkellogg/dura">dura: You shouldn&amp;rsquo;t ever lose your work if you&amp;rsquo;re using Git&lt;/a>
+&lt;a href="https://lobste.rs/s/g7suro/dura_you_shouldn_t_ever_lose_your_work_if">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://phoenixtrap.com/2022/01/04/perl-warnings-and-the-warn-function/">Perl warnings and the warn function&lt;/a>
+&lt;a href="https://lobste.rs/s/jfj3mj/perl_warnings_warn_function">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">Who&amp;rsquo;s hiring? Q1Y2022&lt;/a>
+&lt;a href="https://lobste.rs/s/4a6wwg/who_s_hiring_q1y2022">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.thecodedmessage.com/posts/async-colors/">In Defense of Async: Function Colors Are Rusty&lt;/a>
+&lt;a href="https://lobste.rs/s/2jkkic/defense_async_function_colors_are_rusty">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://arstechnica.com/science/2022/01/the-most-important-computer-youve-never-heard-of/">The most important computer you’ve never heard of&lt;/a>
+&lt;a href="https://lobste.rs/s/ldihxq/most_important_computer_you_ve_never">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://mob.sh/">mob: A CLI tool for fast git handover&lt;/a>
+&lt;a href="https://lobste.rs/s/gwd7c6/mob_cli_tool_for_fast_git_handover">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://www.fraglets.net/">Fraglets: Computing with Fragments&lt;/a>
+&lt;a href="https://lobste.rs/s/ztckz8/fraglets_computing_with_fragments">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-01-04</title><link>https://frozen-lobster.rohanverma.net/posts/2022-01-04/</link><pubDate>Tue, 04 Jan 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-01-04/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://github.com/tkellogg/dura">dura: You shouldn&amp;rsquo;t ever lose your work if you&amp;rsquo;re using Git&lt;/a>
 &lt;a href="https://lobste.rs/s/g7suro/dura_you_shouldn_t_ever_lose_your_work_if">(comments)&lt;/a>&lt;/p>
