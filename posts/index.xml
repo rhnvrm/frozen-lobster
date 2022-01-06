@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 05 Jan 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-01-05</title><link>https://frozen-lobster.rohanverma.net/posts/2022-01-05/</link><pubDate>Wed, 05 Jan 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-01-05/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 06 Jan 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-01-06</title><link>https://frozen-lobster.rohanverma.net/posts/2022-01-06/</link><pubDate>Thu, 06 Jan 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-01-06/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://nolanlawson.com/2022/01/05/memory-leaks-the-forgotten-side-of-web-performance/">Memory leaks: the forgotten side of web performance&lt;/a>
+&lt;a href="https://lobste.rs/s/zzawym/memory_leaks_forgotten_side_web">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://shkspr.mobi/blog/2022/01/should-you-use-lets-encrypt-for-internal-hostnames/">Should you use Let’s Encrypt for internal hostnames?&lt;/a>
+&lt;a href="https://lobste.rs/s/q9jb95/should_you_use_let_s_encrypt_for_internal">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://christine.website/blog/sqlite-json-munge-2022-01-04">Bashing JSON into Shape with SQLite&lt;/a>
+&lt;a href="https://lobste.rs/s/bjjjbr/bashing_json_into_shape_with_sqlite">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://stopa.io/post/290">Bel in Clojure&lt;/a>
+&lt;a href="https://lobste.rs/s/jkrzj1/bel_clojure">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sudhir.io/uuids-ulids">Understanding UUIDs, ULIDs and String Representations&lt;/a>
+&lt;a href="https://lobste.rs/s/ucvsxl/understanding_uuids_ulids_string">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cprimozic.net/blog/trying-out-sveltekit/">Evaluating SvelteKit for Full-Stack Web App Development&lt;/a>
+&lt;a href="https://lobste.rs/s/zwp9ys/evaluating_sveltekit_for_full_stack_web">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://stackoverflow.blog/2022/01/03/favor-real-dependencies-for-unit-testing/">Favor real dependencies for unit testing&lt;/a>
+&lt;a href="https://lobste.rs/s/2btkdu/favor_real_dependencies_for_unit_testing">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ovid.github.io/blog/programming-in-1987-versus-today.html">Programming in 1987 Versus Today&lt;/a>
+&lt;a href="https://lobste.rs/s/s8joj1/programming_1987_versus_today">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">Providing mentorship outside the workplace&lt;/a>
+&lt;a href="https://lobste.rs/s/mw0xd7/providing_mentorship_outside_workplace">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sirupsen.com/napkin/neural-net">Neural Network From Scratch&lt;/a>
+&lt;a href="https://lobste.rs/s/hwzaii/neural_network_from_scratch">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-01-05</title><link>https://frozen-lobster.rohanverma.net/posts/2022-01-05/</link><pubDate>Wed, 05 Jan 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-01-05/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://blog.sunfishcode.online/port-std-to-rustix/">Porting Rust&amp;rsquo;s std to rustix&lt;/a>
 &lt;a href="https://lobste.rs/s/piqbfw/porting_rust_s_std_rustix">(comments)&lt;/a>&lt;/p>
