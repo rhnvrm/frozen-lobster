@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 09 Jan 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-01-09</title><link>https://frozen-lobster.rohanverma.net/posts/2022-01-09/</link><pubDate>Sun, 09 Jan 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-01-09/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 10 Jan 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-01-10</title><link>https://frozen-lobster.rohanverma.net/posts/2022-01-10/</link><pubDate>Mon, 10 Jan 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-01-10/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://susam.net/maze/simplicity-of-irc.html">Simplicity of IRC&lt;/a>
+&lt;a href="https://lobste.rs/s/lfiask/simplicity_irc">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://signalsandthreads.com/memory-management/">Memory Management&lt;/a>
+&lt;a href="https://lobste.rs/s/testaq/memory_management">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.bleepingcomputer.com/news/security/dev-corrupts-npm-libs-colors-and-faker-breaking-thousands-of-apps/">Dev corrupts NPM libs &amp;lsquo;colors&amp;rsquo; and &amp;lsquo;faker&amp;rsquo; breaking thousands of apps&lt;/a>
+&lt;a href="https://lobste.rs/s/pydtol/dev_corrupts_npm_libs_colors_faker">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://betterprogramming.pub/flutter-failed-to-solve-the-biggest-challenge-for-our-cross-platform-app-c551afa0ef18">Flutter Failed To Solve the Biggest Challenge for Our Cross-Platform App&lt;/a>
+&lt;a href="https://lobste.rs/s/xytvag/flutter_failed_solve_biggest_challenge">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://mjg59.dreamwidth.org/58125.html">Pluton is not (currently) a threat to software freedom&lt;/a>
+&lt;a href="https://lobste.rs/s/vjiq8v/pluton_is_not_currently_threat_software">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://worthdoingbadly.com/vowifi2/">VoLTE/VoWiFi research with $0 of equipment: set up a phone network over Wi-Fi calling&lt;/a>
+&lt;a href="https://lobste.rs/s/8j1ul4/volte_vowifi_research_with_0_equipment">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://branislavjenco.github.io/desired-state-systems/">Desired state systems&lt;/a>
+&lt;a href="https://lobste.rs/s/pxqx09/desired_state_systems">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://moxie.org/2022/01/07/web3-first-impressions.html">My first impressions of web3&lt;/a>
+&lt;a href="https://lobste.rs/s/15ncn9/my_first_impressions_web3">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://wagslane.dev/posts/go-struct-ordering/">Saving a Third of Our Memory by Re-ordering Go Struct Fields&lt;/a>
+&lt;a href="https://lobste.rs/s/oxtpfw/saving_third_our_memory_by_re_ordering_go">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gigasquidsoftware.com/chemical-computing/index.html">Chemical Computing with Clojure&lt;/a>
+&lt;a href="https://lobste.rs/s/p3byhx/chemical_computing_with_clojure">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-01-09</title><link>https://frozen-lobster.rohanverma.net/posts/2022-01-09/</link><pubDate>Sun, 09 Jan 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-01-09/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://moxie.org/2022/01/07/web3-first-impressions.html">My first impressions of web3&lt;/a>
 &lt;a href="https://lobste.rs/s/15ncn9/my_first_impressions_web3">(comments)&lt;/a>&lt;/p>
