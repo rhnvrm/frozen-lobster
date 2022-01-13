@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 12 Jan 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-01-12</title><link>https://frozen-lobster.rohanverma.net/posts/2022-01-12/</link><pubDate>Wed, 12 Jan 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-01-12/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 13 Jan 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-01-13</title><link>https://frozen-lobster.rohanverma.net/posts/2022-01-13/</link><pubDate>Thu, 13 Jan 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-01-13/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://gleam.run/news/gleam-v0.19-released/">v0.19 of Gleam, a type safe language for the Erlang VM, is out&lt;/a>
+&lt;a href="https://lobste.rs/s/ynmba8/v0_19_gleam_type_safe_language_for_erlang">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://dev.to/xba/data-oriented-programming-is-dope-ma2">Data-Oriented Programming is dope&lt;/a>
+&lt;a href="https://lobste.rs/s/lb3gon/data_oriented_programming_is_dope">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://aradaelli.com/blog/why-i-like-d/">Why I Like D&lt;/a>
+&lt;a href="https://lobste.rs/s/xngyfa/why_i_like_d">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://relistan.com/event-sourcing-and-event-bus">Events, Event Sourcing, and the Path Forward&lt;/a>
+&lt;a href="https://lobste.rs/s/k85bsg/events_event_sourcing_path_forward">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://simonwillison.net/2022/Jan/12/how-i-build-a-feature/">My process for building a feature&lt;/a>
+&lt;a href="https://lobste.rs/s/blbi4p/my_process_for_building_feature">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://2ton.com.au/rwasa/">rwasa: a web server written entirely in assembly language&lt;/a>
+&lt;a href="https://lobste.rs/s/hu78lg/rwasa_web_server_written_entirely">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://twitter.com/antonmedv/status/1480978991309807616">Use StrictHostKeyChecking=&amp;ldquo;accept-new&amp;rdquo; instead of &amp;ldquo;no&amp;rdquo;&lt;/a>
+&lt;a href="https://lobste.rs/s/bj6glf/use_stricthostkeychecking_accept_new">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://medium.com/hackernoon/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5">I’m harvesting credit card numbers and passwords from your site. Here’s how (2018)&lt;/a>
+&lt;a href="https://lobste.rs/s/lzuiyh/i_m_harvesting_credit_card_numbers">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://linoscope.github.io/writing-a-game-boy-emulator-in-ocaml/">Writing a Game Boy Emulator in OCaml&lt;/a>
+&lt;a href="https://lobste.rs/s/pz7o6d/writing_game_boy_emulator_ocaml">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/managarm/mlibc">mlibc: Portable C standard library&lt;/a>
+&lt;a href="https://lobste.rs/s/jzckka/mlibc_portable_c_standard_library">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-01-12</title><link>https://frozen-lobster.rohanverma.net/posts/2022-01-12/</link><pubDate>Wed, 12 Jan 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-01-12/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://github.com/deadpixi/ergex">The Ergex Regular Expression Engine&lt;/a>
 &lt;a href="https://lobste.rs/s/s7b2t8/ergex_regular_expression_engine">(comments)&lt;/a>&lt;/p>
