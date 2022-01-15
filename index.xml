@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 14 Jan 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-01-14</title><link>https://frozen-lobster.rohanverma.net/posts/2022-01-14/</link><pubDate>Fri, 14 Jan 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-01-14/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 15 Jan 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-01-15</title><link>https://frozen-lobster.rohanverma.net/posts/2022-01-15/</link><pubDate>Sat, 15 Jan 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-01-15/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://blog.wesleyac.com/posts/no-static-websites">There is no such thing as a static website&lt;/a>
+&lt;a href="https://lobste.rs/s/itcl7j/there_is_no_such_thing_as_static_website">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/FFmpeg/FFmpeg/blob/release/5.0/Changelog">FFmpeg 5.0&lt;/a>
+&lt;a href="https://lobste.rs/s/vinecc/ffmpeg_5_0">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/github/roadmap/issues/372">GitHub will natively support Mermaid diagrams&lt;/a>
+&lt;a href="https://lobste.rs/s/lejtxs/github_will_natively_support_mermaid">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.anthropicstudios.com/2022/01/13/asking-windows-nicely/">Making Your Game Go Fast by Asking Windows Nicely&lt;/a>
+&lt;a href="https://lobste.rs/s/mwkxj5/making_your_game_go_fast_by_asking_windows">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this weekend?&lt;/a>
+&lt;a href="https://lobste.rs/s/q3p756/what_are_you_doing_this_weekend">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://matt-rickard.com/aws-is-not-a-dumb-pipe/">AWS is Not a Dumb Pipe&lt;/a>
+&lt;a href="https://lobste.rs/s/yprzex/aws_is_not_dumb_pipe">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://noyb.eu/en/austrian-dsb-eu-us-data-transfers-google-analytics-illegal">Austrian DSB: EU-US data transfers to Google Analytics illegal&lt;/a>
+&lt;a href="https://lobste.rs/s/iahept/austrian_dsb_eu_us_data_transfers_google">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.edfloreshz.dev/articles/linux/system76/rust-based-desktop-environment/">Exploring System76&amp;rsquo;s New Rust Based Desktop Environment&lt;/a>
+&lt;a href="https://lobste.rs/s/zbyzye/exploring_system76_s_new_rust_based">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://adamj.eu/tech/2022/01/14/make-simple-mocks-with-simplenamespace/">Make Simple Python Mocks With SimpleNamespace&lt;/a>
+&lt;a href="https://lobste.rs/s/thcxxt/make_simple_python_mocks_with">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://flokli.de/posts/2021-12-10-nix-casync-intro/">Introducing nix-casync, a more efficient way to store and substitute Nix store paths&lt;/a>
+&lt;a href="https://lobste.rs/s/qrmwxs/introducing_nix_casync_more_efficient">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-01-14</title><link>https://frozen-lobster.rohanverma.net/posts/2022-01-14/</link><pubDate>Fri, 14 Jan 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-01-14/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://github.com/github/roadmap/issues/372">GitHub will natively support Mermaid diagrams&lt;/a>
 &lt;a href="https://lobste.rs/s/lejtxs/github_will_natively_support_mermaid">(comments)&lt;/a>&lt;/p>
