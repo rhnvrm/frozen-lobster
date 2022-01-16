@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 15 Jan 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-01-15</title><link>https://frozen-lobster.rohanverma.net/posts/2022-01-15/</link><pubDate>Sat, 15 Jan 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-01-15/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 16 Jan 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-01-16</title><link>https://frozen-lobster.rohanverma.net/posts/2022-01-16/</link><pubDate>Sun, 16 Jan 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-01-16/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="http://hiccupfx.telnet.asia">Get that &amp;ldquo;client side render&amp;rdquo; look&lt;/a>
+&lt;a href="https://lobste.rs/s/oybdsa/get_client_side_render_look">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://michael.stapelberg.ch/posts/2022-01-15-high-end-linux-pc/">My 2022 high-end Linux PC&lt;/a>
+&lt;a href="https://lobste.rs/s/ysqqhd/my_2022_high_end_linux_pc">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are some good solutions for safe storage of 2FA backup codes?&lt;/a>
+&lt;a href="https://lobste.rs/s/gljhif/what_are_some_good_solutions_for_safe">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.linkedin.com/pulse/build-your-own-anycast-network-9-steps-samir-jafferali">Build your own Anycast network in 9 steps (2016)&lt;/a>
+&lt;a href="https://lobste.rs/s/zvkujc/build_your_own_anycast_network_9_steps">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://db.cs.cmu.edu/mmap-cidr2022/">Are You Sure You Want to Use MMAP in Your Database Management System?&lt;/a>
+&lt;a href="https://lobste.rs/s/nxymu2/are_you_sure_you_want_use_mmap_your">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://neil.computer/notes/teaching-how-to-code-is-broken/">Teaching how to code is broken&lt;/a>
+&lt;a href="https://lobste.rs/s/01gogy/teaching_how_code_is_broken">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://unixsheikh.com/articles/is-the-madness-ever-going-to-end.html">Is the madness ever going to end?&lt;/a>
+&lt;a href="https://lobste.rs/s/fojdfg/is_madness_ever_going_end">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/FFmpeg/FFmpeg/blob/release/5.0/Changelog">FFmpeg 5.0&lt;/a>
+&lt;a href="https://lobste.rs/s/vinecc/ffmpeg_5_0">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://fingerprintjs.com/blog/indexeddb-api-browser-vulnerability-safari-15/">Exploiting IndexedDB API information leaks in Safari 15&lt;/a>
+&lt;a href="https://lobste.rs/s/uwonu3/exploiting_indexeddb_api_information">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.wesleyac.com/posts/no-static-websites">There is no such thing as a static website&lt;/a>
+&lt;a href="https://lobste.rs/s/itcl7j/there_is_no_such_thing_as_static_website">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-01-15</title><link>https://frozen-lobster.rohanverma.net/posts/2022-01-15/</link><pubDate>Sat, 15 Jan 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-01-15/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://blog.wesleyac.com/posts/no-static-websites">There is no such thing as a static website&lt;/a>
 &lt;a href="https://lobste.rs/s/itcl7j/there_is_no_such_thing_as_static_website">(comments)&lt;/a>&lt;/p>
