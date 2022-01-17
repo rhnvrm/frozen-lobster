@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 16 Jan 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-01-16</title><link>https://frozen-lobster.rohanverma.net/posts/2022-01-16/</link><pubDate>Sun, 16 Jan 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-01-16/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 17 Jan 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-01-17</title><link>https://frozen-lobster.rohanverma.net/posts/2022-01-17/</link><pubDate>Mon, 17 Jan 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-01-17/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://woodrush.github.io/blog/posts/2022-01-16-neural-networks-in-pure-lisp.html">Building A Neural Network in Pure Lisp without Built-in Numbers using only Atoms and Lists&lt;/a>
+&lt;a href="https://lobste.rs/s/8ru003/building_neural_network_pure_lisp">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://nakst.gitlab.io/essence">Essence - Desktop operating system built from scratch&lt;/a>
+&lt;a href="https://lobste.rs/s/sv3p3r/essence_desktop_operating_system_built">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://hiccupfx.telnet.asia">Get that &amp;ldquo;client side render&amp;rdquo; look&lt;/a>
+&lt;a href="https://lobste.rs/s/oybdsa/get_client_side_render_look">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.sethvargo.com/what-id-like-to-see-in-go-2/">What I&amp;rsquo;d like to see in Go 2.0&lt;/a>
+&lt;a href="https://lobste.rs/s/ygoznw/what_i_d_like_see_go_2_0">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://www.open-std.org/jtc1/sc22/wg14/www/docs/n2895.htm">A simple defer feature for C&lt;/a>
+&lt;a href="https://lobste.rs/s/50yc4i/simple_defer_feature_for_c">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://arstechnica.com/information-technology/2022/01/backdoor-for-windows-macos-and-linux-went-undetected-until-now/">Backdoor RAT for Windows, macOS, and Linux went undetected until now&lt;/a>
+&lt;a href="https://lobste.rs/s/moojds/backdoor_rat_for_windows_macos_linux_went">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://michael.stapelberg.ch/posts/2022-01-15-high-end-linux-pc/">My 2022 high-end Linux PC&lt;/a>
+&lt;a href="https://lobste.rs/s/ysqqhd/my_2022_high_end_linux_pc">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/stepchowfun/typical">Typical: data interchange with algebraic data types&lt;/a>
+&lt;a href="https://lobste.rs/s/docknj/typical_data_interchange_with_algebraic">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://myme.no/posts/2022-01-16-nixos-the-ultimate-dev-environment.html">NixOS: The Ultimate Dev Environment?&lt;/a>
+&lt;a href="https://lobste.rs/s/pwrni4/nixos_ultimate_dev_environment">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/MoserMichael/pyasmtool/blob/master/bytecode_disasm.md">Python bytecode explained&lt;/a>
+&lt;a href="https://lobste.rs/s/ntbq3e/python_bytecode_explained">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-01-16</title><link>https://frozen-lobster.rohanverma.net/posts/2022-01-16/</link><pubDate>Sun, 16 Jan 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-01-16/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="http://hiccupfx.telnet.asia">Get that &amp;ldquo;client side render&amp;rdquo; look&lt;/a>
 &lt;a href="https://lobste.rs/s/oybdsa/get_client_side_render_look">(comments)&lt;/a>&lt;/p>
