@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 17 Jan 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-01-17</title><link>https://frozen-lobster.rohanverma.net/posts/2022-01-17/</link><pubDate>Mon, 17 Jan 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-01-17/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 18 Jan 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-01-18</title><link>https://frozen-lobster.rohanverma.net/posts/2022-01-18/</link><pubDate>Tue, 18 Jan 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-01-18/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.forrestthewoods.com/blog/failing-to-learn-zig-via-advent-of-code/">Failing to Learn Zig via Advent of Code&lt;/a>
+&lt;a href="https://lobste.rs/s/or1fr4/failing_learn_zig_via_advent_code">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.learndmarc.com/">Learn and Test DMARC&lt;/a>
+&lt;a href="https://lobste.rs/s/y4sltk/learn_test_dmarc">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.haschek.at/2019/the-curious-case-of-the-RasPi-in-our-network.html">The curious case of the Raspberry Pi in the network closet (2019)&lt;/a>
+&lt;a href="https://lobste.rs/s/idfmbj/curious_case_raspberry_pi_network_closet">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.t-ravis.com/post/shell/the_missing_comprehensive_package_manager_for_shell/">the missing comprehensive package manager for Shell&lt;/a>
+&lt;a href="https://lobste.rs/s/3wwrcf/missing_comprehensive_package_manager">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://nyxt.atlas.engineer/article/release-2.2.4.org">Nyxt Release 2.2.4&lt;/a>
+&lt;a href="https://lobste.rs/s/6g825t/nyxt_release_2_2_4">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.mikeperham.com/2022/01/17/happy-10th-birthday-sidekiq/">Happy 10th Birthday, Sidekiq&lt;/a>
+&lt;a href="https://lobste.rs/s/1uw8ep/happy_10th_birthday_sidekiq">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://myme.no/posts/2022-01-16-nixos-the-ultimate-dev-environment.html">NixOS: The Ultimate Dev Environment?&lt;/a>
+&lt;a href="https://lobste.rs/s/pwrni4/nixos_ultimate_dev_environment">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://devlog.hexops.com/2022/lets-build-ecs-part-1">Let&amp;rsquo;s build an Entity Component System from scratch (part 1)&lt;/a>
+&lt;a href="https://lobste.rs/s/qnft5u/let_s_build_entity_component_system_from">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://pierrezemb.fr/posts/distsys-resources/">Best resources to learn about data and distributed systems&lt;/a>
+&lt;a href="https://lobste.rs/s/ywb30i/best_resources_learn_about_data">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://hauleth.dev/post/who-watches-watchmen-i/">Who Watches Watchmen? - Integrating Elixir applications with systemd&lt;/a>
+&lt;a href="https://lobste.rs/s/cnilmd/who_watches_watchmen_integrating_elixir">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-01-17</title><link>https://frozen-lobster.rohanverma.net/posts/2022-01-17/</link><pubDate>Mon, 17 Jan 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-01-17/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://woodrush.github.io/blog/posts/2022-01-16-neural-networks-in-pure-lisp.html">Building A Neural Network in Pure Lisp without Built-in Numbers using only Atoms and Lists&lt;/a>
 &lt;a href="https://lobste.rs/s/8ru003/building_neural_network_pure_lisp">(comments)&lt;/a>&lt;/p>
