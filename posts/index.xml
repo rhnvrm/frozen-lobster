@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 18 Jan 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-01-18</title><link>https://frozen-lobster.rohanverma.net/posts/2022-01-18/</link><pubDate>Tue, 18 Jan 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-01-18/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 19 Jan 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-01-19</title><link>https://frozen-lobster.rohanverma.net/posts/2022-01-19/</link><pubDate>Wed, 19 Jan 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-01-19/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://geekingfrog.com/blog/post/advent-of-code-2021-1s">Advent of code 2021 under 1 second&lt;/a>
+&lt;a href="https://lobste.rs/s/xc2cxt/advent_code_2021_under_1_second">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://mobile.twitter.com/dwizzzlemsft/status/1483113004979814403">Windows 11 boots with Coreboot&lt;/a>
+&lt;a href="https://lobste.rs/s/c7dy8e/windows_11_boots_with_coreboot">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/AliasIO/demodal">Demodal: a browser extension that blocks modals and overlays&lt;/a>
+&lt;a href="https://lobste.rs/s/pdxiko/demodal_browser_extension_blocks_modals">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/idealvin/cocoyaxi">A go-style coroutine library in C++11 from the Namake Planet&lt;/a>
+&lt;a href="https://lobste.rs/s/xx6to6/go_style_coroutine_library_c_11_from">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jott.live/markdown/mm_wasm">Optimized Matrix Multiplication in Pure WebAssembly&lt;/a>
+&lt;a href="https://lobste.rs/s/ilr7gv/optimized_matrix_multiplication_pure">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ciechanow.ski/gps/">GPS&lt;/a>
+&lt;a href="https://lobste.rs/s/rmnj0p/gps">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ingrids.space/posts/tyranny-of-the-compiler/">Linguistic Relativity and the Tyranny of the Compiler&lt;/a>
+&lt;a href="https://lobste.rs/s/rv8xry/linguistic_relativity_tyranny_compiler">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://nestenius.se/2022/01/18/how-i-built-my-own-sega-mega-drive-hardware-dev-kit-from-scratch/">How I built my own Sega Mega Drive hardware dev kit from scratch&lt;/a>
+&lt;a href="https://lobste.rs/s/irpth4/how_i_built_my_own_sega_mega_drive_hardware">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://counting.substack.com/p/dates-times-calendars-the-universal-source-of-data-science-trauma-92a887fdedd1">Dates, Times, Calendars— The Universal Source of Data Science Trauma&lt;/a>
+&lt;a href="https://lobste.rs/s/9q5ph2/dates_times_calendars_universal_source">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/deadpixi/wasm-maze-generator">A simple WASM maze generator in Go&lt;/a>
+&lt;a href="https://lobste.rs/s/7s1hht/simple_wasm_maze_generator_go">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-01-18</title><link>https://frozen-lobster.rohanverma.net/posts/2022-01-18/</link><pubDate>Tue, 18 Jan 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-01-18/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://www.forrestthewoods.com/blog/failing-to-learn-zig-via-advent-of-code/">Failing to Learn Zig via Advent of Code&lt;/a>
 &lt;a href="https://lobste.rs/s/or1fr4/failing_learn_zig_via_advent_code">(comments)&lt;/a>&lt;/p>
