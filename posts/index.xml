@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 20 Jan 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-01-20</title><link>https://frozen-lobster.rohanverma.net/posts/2022-01-20/</link><pubDate>Thu, 20 Jan 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-01-20/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 21 Jan 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-01-21</title><link>https://frozen-lobster.rohanverma.net/posts/2022-01-21/</link><pubDate>Fri, 21 Jan 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-01-21/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://jeang3nie.codeberg.page/case-for-modern-language-pt1/">The case for a modern language (part 1)&lt;/a>
+&lt;a href="https://lobste.rs/s/6pcgoj/case_for_modern_language_part_1">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://wingolog.org/archives/2021/12/13/webassembly-the-new-kubernetes">webassembly: the new kubernetes?&lt;/a>
+&lt;a href="https://lobste.rs/s/bthzfk/webassembly_new_kubernetes">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://curl.se/mail/archive-2022-01/0043.html">Curl: JSON support&lt;/a>
+&lt;a href="https://lobste.rs/s/wgwzwp/curl_json_support">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.cl.cam.ac.uk/research/security/ctsrd/cheri/">Capability Hardware Enhanced RISC Instructions (CHERI)&lt;/a>
+&lt;a href="https://lobste.rs/s/wqts1n/capability_hardware_enhanced_risc">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.arm.com/company/news/2022/01/morello-research-program-hits-major-milestone-with-hardware-now-available-for-testing">Morello [Arm CHERI prototype] hits major milestone with hardware now available for testing&lt;/a>
+&lt;a href="https://lobste.rs/s/w32bav/morello_arm_cheri_prototype_hits_major">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/erdos/uclj">A small, quick-starting, native Clojure interpreter&lt;/a>
+&lt;a href="https://lobste.rs/s/qxgm4j/small_quick_starting_native_clojure">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pijul.org/posts/2022-01-08-beta/">Pijul (patch-based distributed version control) hits beta&lt;/a>
+&lt;a href="https://lobste.rs/s/ya58ns/pijul_patch_based_distributed_version">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://zverok.substack.com/p/programming-language-evolution-with">Programming language evolution: with all that, we are still flying&lt;/a>
+&lt;a href="https://lobste.rs/s/omwfpi/programming_language_evolution_with_all">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/MatheusRich/end_of_life">end_of_life - A gem that lists repositories using EOL Ruby&lt;/a>
+&lt;a href="https://lobste.rs/s/tmwgmy/end_life_gem_lists_repositories_using_eol">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://malwareunicorn.org/workshops/re101.html#0">Reverse Engineering 101&lt;/a>
+&lt;a href="https://lobste.rs/s/9eljua/reverse_engineering_101">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-01-20</title><link>https://frozen-lobster.rohanverma.net/posts/2022-01-20/</link><pubDate>Thu, 20 Jan 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-01-20/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://pijul.org/posts/2022-01-08-beta/">Pijul (patch-based distributed version control) hits beta&lt;/a>
 &lt;a href="https://lobste.rs/s/ya58ns/pijul_patch_based_distributed_version">(comments)&lt;/a>&lt;/p>
