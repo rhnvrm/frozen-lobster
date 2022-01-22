@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 21 Jan 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-01-21</title><link>https://frozen-lobster.rohanverma.net/posts/2022-01-21/</link><pubDate>Fri, 21 Jan 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-01-21/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 22 Jan 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-01-22</title><link>https://frozen-lobster.rohanverma.net/posts/2022-01-22/</link><pubDate>Sat, 22 Jan 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-01-22/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://mitpress.mit.edu/books/structure-and-interpretation-computer-programs-1">New edition of Structure and Interpretation of Computer Programs, it is a JS version&lt;/a>
+&lt;a href="https://lobste.rs/s/x1tnlj/new_edition_structure_interpretation">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://geekingfrog.com/blog/post/terminal-basics">Terminal basics&lt;/a>
+&lt;a href="https://lobste.rs/s/ss7ayh/terminal_basics">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/TalalMash/SmoothWAN">SmoothWAN: Easily bond internet connections for home networks with Speedify&lt;/a>
+&lt;a href="https://lobste.rs/s/yudzky/smoothwan_easily_bond_internet">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://asim.ihsan.io/formal-modeling-as-a-design-tool/">Formal modeling as a design tool&lt;/a>
+&lt;a href="https://lobste.rs/s/tg1m3t/formal_modeling_as_design_tool">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://r2c.dev/blog/2022/the-best-free-open-source-supply-chain-tool-the-lockfile/">The best free, open-source supply-chain security tool? The lockfile&lt;/a>
+&lt;a href="https://lobste.rs/s/emtjdu/best_free_open_source_supply_chain">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this weekend?&lt;/a>
+&lt;a href="https://lobste.rs/s/gcnem6/what_are_you_doing_this_weekend">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://arxiv.org/abs/2201.07845">How ISO C became unusable for operating systems development&lt;/a>
+&lt;a href="https://lobste.rs/s/u1qahx/how_iso_c_became_unusable_for_operating">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/NAISorg/conrex">An Elixir implementation of the CONREC algorithm for topographic or isochrone maps&lt;/a>
+&lt;a href="https://lobste.rs/s/tgnqag/elixir_implementation_conrec_algorithm">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.exoticsilicon.com/crystal/pinephone_openbsd">Crystal installs OpenBSD on the Pinephone&lt;/a>
+&lt;a href="https://lobste.rs/s/lskse5/crystal_installs_openbsd_on_pinephone">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.anthonysteele.co.uk/TheSingleReturnLaw.html">The Single Return Law&lt;/a>
+&lt;a href="https://lobste.rs/s/5ibb3x/single_return_law">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-01-21</title><link>https://frozen-lobster.rohanverma.net/posts/2022-01-21/</link><pubDate>Fri, 21 Jan 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-01-21/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://jeang3nie.codeberg.page/case-for-modern-language-pt1/">The case for a modern language (part 1)&lt;/a>
 &lt;a href="https://lobste.rs/s/6pcgoj/case_for_modern_language_part_1">(comments)&lt;/a>&lt;/p>
