@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 24 Jan 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-01-24</title><link>https://frozen-lobster.rohanverma.net/posts/2022-01-24/</link><pubDate>Mon, 24 Jan 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-01-24/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 25 Jan 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-01-25</title><link>https://frozen-lobster.rohanverma.net/posts/2022-01-25/</link><pubDate>Tue, 25 Jan 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-01-25/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://blog.wesleyac.com/posts/the-curse-of-nixos">The Curse of NixOS&lt;/a>
+&lt;a href="https://lobste.rs/s/psfsfo/curse_nixos">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://it-notes.dragas.net/2022/01/24/why-were-migrating-many-of-our-servers-from-linux-to-freebsd/">Why we&amp;rsquo;re migrating (many of) our servers from Linux to FreeBSD&lt;/a>
+&lt;a href="https://lobste.rs/s/xjixhw/why_we_re_migrating_many_our_servers_from">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.mulle-kybernetik.com/modern-bash-scripting/">Modern Bash Scripting&lt;/a>
+&lt;a href="https://lobste.rs/s/gwzjjw/modern_bash_scripting">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.troyhunt.com/how-i-got-pwned-by-my-cloud-costs/">How I Got Pwned by My Cloud Costs&lt;/a>
+&lt;a href="https://lobste.rs/s/1uha7l/how_i_got_pwned_by_my_cloud_costs">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://mywiki.wooledge.org/BashGuide">Bash Guide&lt;/a>
+&lt;a href="https://lobste.rs/s/onsous/bash_guide">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://flower.codes/2021/07/08/this-post-was-written-by-github-copilot">This Post Was Written by GitHub Copilot&lt;/a>
+&lt;a href="https://lobste.rs/s/hvjyl0/this_post_was_written_by_github_copilot">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this week?&lt;/a>
+&lt;a href="https://lobste.rs/s/qyplp5/what_are_you_doing_this_week">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.howtogeek.com/779956/gorilla.bas-how-to-play-the-secret-ms-dos-game-from-your-childhood/">GORILLA.BAS: How to Play the Secret MS-DOS Game From Your Childhood&lt;/a>
+&lt;a href="https://lobste.rs/s/nlmrwl/gorilla_bas_how_play_secret_ms_dos_game">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.brandons.me/blog/bagel-bites">Update on the Bagel Language&lt;/a>
+&lt;a href="https://lobste.rs/s/f0ympt/update_on_bagel_language">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://rust-cli-recommendations.sunshowers.io/">Rain&amp;rsquo;s Rust CLI recommendations&lt;/a>
+&lt;a href="https://lobste.rs/s/o5h247/rain_s_rust_cli_recommendations">(comments)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-01-24</title><link>https://frozen-lobster.rohanverma.net/posts/2022-01-24/</link><pubDate>Mon, 24 Jan 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-01-24/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://flower.codes/2021/07/08/this-post-was-written-by-github-copilot">This Post Was Written by GitHub Copilot&lt;/a>
 &lt;a href="https://lobste.rs/s/hvjyl0/this_post_was_written_by_github_copilot">(comments)&lt;/a>&lt;/p>
