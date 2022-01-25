@@ -9,6 +9,6 @@ draft: false
 {{ range first 10 $data }}
 
 - [{{ .title }}]({{ .url }})
-  [(comments)]({{ .comments_url }})
+  ([comments]({{ .comments_url }}))
 
 {{ end }}
