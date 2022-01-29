@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 28 Jan 2022 03:52:32 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-01-28</title><link>https://frozen-lobster.rohanverma.net/posts/2022-01-28/</link><pubDate>Fri, 28 Jan 2022 03:52:32 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-01-28/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 29 Jan 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-01-29</title><link>https://frozen-lobster.rohanverma.net/posts/2022-01-29/</link><pubDate>Sat, 29 Jan 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-01-29/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/rhaiscript/rhai">Rhai – Embedded Scripting for Rust&lt;/a>
+(&lt;a href="https://lobste.rs/s/bjtogk/rhai_embedded_scripting_for_rust">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.allhandsontech.com/programming/golang/web-app-sqlite-go/">Lightning fast and self contained: How to build a Web App with Gin and SQLite&lt;/a>
+(&lt;a href="https://lobste.rs/s/hc6w2b/lightning_fast_self_contained_how_build">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.joelonsoftware.com/2022/01/27/making-the-web-better-with-blocks/">Making the web better. With blocks&lt;/a>
+(&lt;a href="https://lobste.rs/s/roqjnk/making_web_better_with_blocks">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://susam.github.io/texme/examples/demo.html">TeXMe Demo: Self-Rendering Markdown + MathJax Document&lt;/a>
+(&lt;a href="https://lobste.rs/s/fsnalc/texme_demo_self_rendering_markdown">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://wejick.wordpress.com/2022/01/29/can-i-have-a-smaller-prometheus/">Can I have a smaller Prometheus&lt;/a>
+(&lt;a href="https://lobste.rs/s/mdvdfy/can_i_have_smaller_prometheus">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/">In defense of NIR&lt;/a>
+(&lt;a href="https://lobste.rs/s/koavba/defense_nir">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this weekend?&lt;/a>
+(&lt;a href="https://lobste.rs/s/lypgvl/what_are_you_doing_this_weekend">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.steveonstuff.com/2022/01/27/no-such-thing-as-clean-code">There’s No Such Thing as Clean Code&lt;/a>
+(&lt;a href="https://lobste.rs/s/e956u8/there_s_no_such_thing_as_clean_code">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.adacore.com/ada-spark-crate-of-the-year-2021-winners-announced">Ada/SPARK Crate of the Year 2021 Winners&lt;/a>
+(&lt;a href="https://lobste.rs/s/vpljfk/ada_spark_crate_year_2021_winners">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://martiancraft.com/blog/2022/01/xcode-through-the-years/">Xcode Through the Years&lt;/a>
+(&lt;a href="https://lobste.rs/s/q1qpyi/xcode_through_years">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-01-28</title><link>https://frozen-lobster.rohanverma.net/posts/2022-01-28/</link><pubDate>Fri, 28 Jan 2022 03:52:32 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-01-28/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://www.joelonsoftware.com/2022/01/27/making-the-web-better-with-blocks/">Making the web better. With blocks&lt;/a>
 (&lt;a href="https://lobste.rs/s/roqjnk/making_web_better_with_blocks">comments&lt;/a>)&lt;/p>
