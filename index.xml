@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 29 Jan 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-01-29</title><link>https://frozen-lobster.rohanverma.net/posts/2022-01-29/</link><pubDate>Sat, 29 Jan 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-01-29/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 30 Jan 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-01-30</title><link>https://frozen-lobster.rohanverma.net/posts/2022-01-30/</link><pubDate>Sun, 30 Jan 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-01-30/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://cendyne.dev/posts/2022-01-23-base64.html">A Base64 Surprise&lt;/a>
+(&lt;a href="https://lobste.rs/s/phfiuq/base64_surprise">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sylvestre.ledru.info/blog/2022/01/29/an-update-on-rust-coreutils">An update on rust/coreutils&lt;/a>
+(&lt;a href="https://lobste.rs/s/ophbwo/update_on_rust_coreutils">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jvns.ca/blog/2022/01/29/reasons-for-servers-to-support-ipv6/">Reasons for servers to support IPv6&lt;/a>
+(&lt;a href="https://lobste.rs/s/5yhxm6/reasons_for_servers_support_ipv6">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://eli.thegreenplace.net/2022/rust-extension-traits-greppability-and-ides/">Rust extension traits, greppability and IDEs&lt;/a>
+(&lt;a href="https://lobste.rs/s/ob3glg/rust_extension_traits_greppability_ides">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.evanmiller.org/deriving-the-reddit-formula.html">Deriving the Reddit Formula (2015)&lt;/a>
+(&lt;a href="https://lobste.rs/s/6rnpcd/deriving_reddit_formula_2015">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/psf/black/releases/tag/22.1.0">Release 22.1.0 · psf/black&lt;/a>
+(&lt;a href="https://lobste.rs/s/hwmkii/release_22_1_0_psf_black">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://matt-rickard.com/docker-desktop-alternatives/">An Overview of Docker Desktop Alternatives&lt;/a>
+(&lt;a href="https://lobste.rs/s/kabs4l/overview_docker_desktop_alternatives">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ariadne.space/2022/01/27/cve-2021-4034/">CVE-2021-4034&lt;/a>
+(&lt;a href="https://lobste.rs/s/osqwmm/cve_2021_4034">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.allhandsontech.com/programming/golang/web-app-sqlite-go/">Lightning fast and self contained: How to build a Web App with Gin and SQLite&lt;/a>
+(&lt;a href="https://lobste.rs/s/hc6w2b/lightning_fast_self_contained_how_build">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gitlab.com/cznic/ql">Package ql is a pure Go embedded SQL database&lt;/a>
+(&lt;a href="https://lobste.rs/s/wtixdt/package_ql_is_pure_go_embedded_sql">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-01-29</title><link>https://frozen-lobster.rohanverma.net/posts/2022-01-29/</link><pubDate>Sat, 29 Jan 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-01-29/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://github.com/rhaiscript/rhai">Rhai – Embedded Scripting for Rust&lt;/a>
 (&lt;a href="https://lobste.rs/s/bjtogk/rhai_embedded_scripting_for_rust">comments&lt;/a>)&lt;/p>
