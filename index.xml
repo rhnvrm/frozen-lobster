@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 31 Jan 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-01-31</title><link>https://frozen-lobster.rohanverma.net/posts/2022-01-31/</link><pubDate>Mon, 31 Jan 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-01-31/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 01 Feb 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-02-01</title><link>https://frozen-lobster.rohanverma.net/posts/2022-02-01/</link><pubDate>Tue, 01 Feb 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-02-01/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://notes.eatonphil.com/recommending-a-book.html">How to recommend books, or, stop recommending SICP&lt;/a>
+(&lt;a href="https://lobste.rs/s/sp9khl/how_recommend_books_stop_recommending">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://buttondown.email/hillelwayne/archive/regexes-are-cool-and-good/">Regexes are Cool and Good&lt;/a>
+(&lt;a href="https://lobste.rs/s/wq3n73/regexes_are_cool_good">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://twitter.com/FascinatingTech/status/1487342734906171393">German court rules off-site resources like fonts violate GDPR&lt;/a>
+(&lt;a href="https://lobste.rs/s/y0yzg4/german_court_rules_off_site_resources">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://peergos.org/posts/bats">Release the BATs (block level access control in IPFS)&lt;/a>
+(&lt;a href="https://lobste.rs/s/lfnk3m/release_bats_block_level_access_control">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this week?&lt;/a>
+(&lt;a href="https://lobste.rs/s/lkv6ok/what_are_you_doing_this_week">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.sonarsource.com/10-unknown-security-pitfalls-for-python">10 Unknown Security Pitfalls for Python&lt;/a>
+(&lt;a href="https://lobste.rs/s/91hwe2/10_unknown_security_pitfalls_for_python">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://akkartik.name/post/division-of-labor">Against division of labor in software&lt;/a>
+(&lt;a href="https://lobste.rs/s/qdahdn/against_division_labor_software">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://smallcultfollowing.com/babysteps//blog/2022/01/27/panics-vs-cancellation-part-1/">Async Rust: Panics vs. Cancellation&lt;/a>
+(&lt;a href="https://lobste.rs/s/w6actm/async_rust_panics_vs_cancellation">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://acko.net/files/gltalks/toolsforthought/">Tools for Thought (2016)&lt;/a>
+(&lt;a href="https://lobste.rs/s/hilu0j/tools_for_thought_2016">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.nindalf.com/posts/rust-stdlib/">Rust has a small standard library (and that&amp;rsquo;s ok)&lt;/a>
+(&lt;a href="https://lobste.rs/s/ihy9ce/rust_has_small_standard_library_s_ok">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-01-31</title><link>https://frozen-lobster.rohanverma.net/posts/2022-01-31/</link><pubDate>Mon, 31 Jan 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-01-31/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://lucumr.pocoo.org/2022/1/30/unsafe-rust/">Uninitialized Memory: Unsafe Rust is Too Hard&lt;/a>
 (&lt;a href="https://lobste.rs/s/bkjsde/uninitialized_memory_unsafe_rust_is_too">comments&lt;/a>)&lt;/p>
