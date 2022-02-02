@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 01 Feb 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-02-01</title><link>https://frozen-lobster.rohanverma.net/posts/2022-02-01/</link><pubDate>Tue, 01 Feb 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-02-01/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 02 Feb 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-02-02</title><link>https://frozen-lobster.rohanverma.net/posts/2022-02-02/</link><pubDate>Wed, 02 Feb 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-02-02/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/rubenvannieuwpoort/c_unit_tests">Minimalistic C unit tests&lt;/a>
+(&lt;a href="https://lobste.rs/s/qxpmad/minimalistic_c_unit_tests">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://0xcc.re/2022/02/01/dangerous-toys-anything-to-ed25519-ssh-keys.html">Dangerous toys: Anything to ed25519 (SSH Keys)&lt;/a>
+(&lt;a href="https://lobste.rs/s/aiysqb/dangerous_toys_anything_ed25519_ssh_keys">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jenson.org/tesla/">A UX designer walks into a Tesla Bar&lt;/a>
+(&lt;a href="https://lobste.rs/s/qg50vy/ux_designer_walks_into_tesla_bar">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ta180m.exozy.me/posts/installing-every-arch-package/">Installing Every Arch Package&lt;/a>
+(&lt;a href="https://lobste.rs/s/yjwniu/installing_every_arch_package">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.baldurbjarnason.com/2022/i-cant-keep-up-with-web-dev/">How to keep up with web development without falling into despair&lt;/a>
+(&lt;a href="https://lobste.rs/s/0cpalp/how_keep_up_with_web_development_without">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://buttondown.email/hillelwayne/archive/regexes-are-cool-and-good/">Regexes are Cool and Good&lt;/a>
+(&lt;a href="https://lobste.rs/s/wq3n73/regexes_are_cool_good">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://matduggan.com/aws-eks/">AWS Elastic Kubernetes Service (EKS) Review&lt;/a>
+(&lt;a href="https://lobste.rs/s/ffpa5q/aws_elastic_kubernetes_service_eks">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://notes.eatonphil.com/recommending-a-book.html">How to recommend books, or, stop recommending SICP&lt;/a>
+(&lt;a href="https://lobste.rs/s/sp9khl/how_recommend_books_stop_recommending">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jvns.ca/blog/2022/02/01/a-dns-resolver-in-80-lines-of-go/">A DNS resolver in 80 lines of Go&lt;/a>
+(&lt;a href="https://lobste.rs/s/zms697/dns_resolver_80_lines_go">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gist.github.com/MostAwesomeDude/76e61e6634571da296ec1fccc6784c19">Colored Functions and Monadic Effects&lt;/a>
+(&lt;a href="https://lobste.rs/s/wa9fab/colored_functions_monadic_effects">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-02-01</title><link>https://frozen-lobster.rohanverma.net/posts/2022-02-01/</link><pubDate>Tue, 01 Feb 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-02-01/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://notes.eatonphil.com/recommending-a-book.html">How to recommend books, or, stop recommending SICP&lt;/a>
 (&lt;a href="https://lobste.rs/s/sp9khl/how_recommend_books_stop_recommending">comments&lt;/a>)&lt;/p>
