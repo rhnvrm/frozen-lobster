@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 02 Feb 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-02-02</title><link>https://frozen-lobster.rohanverma.net/posts/2022-02-02/</link><pubDate>Wed, 02 Feb 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-02-02/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 03 Feb 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-02-03</title><link>https://frozen-lobster.rohanverma.net/posts/2022-02-03/</link><pubDate>Thu, 03 Feb 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-02-03/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://chown.me/blog/getting-my-own-asn">Why and how I got my own ASN&lt;/a>
+(&lt;a href="https://lobste.rs/s/ydjy5d/why_how_i_got_my_own_asn">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.iccl.ie/news/gdpr-enforcer-rules-that-iab-europes-consent-popups-are-unlawful/">GDPR enforcer rules that IAB Europe&amp;rsquo;s consent popups are unlawful&lt;/a>
+(&lt;a href="https://lobste.rs/s/wnkloa/gdpr_enforcer_rules_iab_europe_s_consent">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.cloudflare.com/how-to-stop-running-out-of-ephemeral-ports-and-start-to-love-long-lived-connections/">How to stop running out of ephemeral ports and start to love long-lived connections&lt;/a>
+(&lt;a href="https://lobste.rs/s/rkfzp6/how_stop_running_out_ephemeral_ports">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://hacks.mozilla.org/2022/02/retrospective-and-technical-details-on-the-recent-firefox-outage/">Retrospective and Technical Details on the recent Firefox Outage&lt;/a>
+(&lt;a href="https://lobste.rs/s/m1oprf/retrospective_technical_details_on">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.ovalerio.net/archives/2346">Who keeps an eye on clipboard access?&lt;/a>
+(&lt;a href="https://lobste.rs/s/c4kbh6/who_keeps_eye_on_clipboard_access">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://corecursive.com/serenity-os-with-andreas-kling/">Serenity OS (Interview with Andreas Kling)&lt;/a>
+(&lt;a href="https://lobste.rs/s/xjtlww/serenity_os_interview_with_andreas_kling">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://wiki.alopex.li/Dllicious">Dllicious (Shared object usage analysis on Linux)&lt;/a>
+(&lt;a href="https://lobste.rs/s/la2q0y/dllicious_shared_object_usage_analysis">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://nyxt.atlas.engineer/article/annotations.org">Nyxt annotations beat pen and paper, believe me&lt;/a>
+(&lt;a href="https://lobste.rs/s/g2hu6a/nyxt_annotations_beat_pen_paper_believe">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://klarasystems.com/articles/modern-inetd-in-freebsd/">Modern Inetd(8) in FreeBSD&lt;/a>
+(&lt;a href="https://lobste.rs/s/cpsmvp/modern_inetd_8_freebsd">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode">Competitive programming with AlphaCode&lt;/a>
+(&lt;a href="https://lobste.rs/s/uk8pe9/competitive_programming_with_alphacode">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-02-02</title><link>https://frozen-lobster.rohanverma.net/posts/2022-02-02/</link><pubDate>Wed, 02 Feb 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-02-02/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://github.com/rubenvannieuwpoort/c_unit_tests">Minimalistic C unit tests&lt;/a>
 (&lt;a href="https://lobste.rs/s/qxpmad/minimalistic_c_unit_tests">comments&lt;/a>)&lt;/p>
