@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 03 Feb 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-02-03</title><link>https://frozen-lobster.rohanverma.net/posts/2022-02-03/</link><pubDate>Thu, 03 Feb 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-02-03/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 04 Feb 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-02-04</title><link>https://frozen-lobster.rohanverma.net/posts/2022-02-04/</link><pubDate>Fri, 04 Feb 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-02-04/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://solnic.codes/2022/02/02/rails-is-not-written-in-ruby/">Rails is not written in Ruby&lt;/a>
+(&lt;a href="https://lobste.rs/s/gjizyj/rails_is_not_written_ruby">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://www.slackware.com/announce/15.0.php">Slackware Release Announcement&lt;/a>
+(&lt;a href="https://lobste.rs/s/v1s8v8/slackware_release_announcement">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://benhoyt.com/writings/goawk-compiler-vm/">Optimizing GoAWK with a bytecode compiler and virtual machine&lt;/a>
+(&lt;a href="https://lobste.rs/s/lfrbyw/optimizing_goawk_with_bytecode_compiler">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.leemeichin.com/posts/yes-i-can-connect-to-a-db-in-css.html">Yes, I can connect to a DB in CSS&lt;/a>
+(&lt;a href="https://lobste.rs/s/nqpwza/yes_i_can_connect_db_css">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://libreserver.org/epicyon/v1_3_0.html">Epicyon ActivityPub server release version 1.3.0&lt;/a>
+(&lt;a href="https://lobste.rs/s/viqogr/epicyon_activitypub_server_release">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://storytime.ivysaur.me/posts/why-not-zfs/">Why not ZFS&lt;/a>
+(&lt;a href="https://lobste.rs/s/k0no1b/why_not_zfs">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/ajeetdsouza/clidle">Wordle-over-SSH&lt;/a>
+(&lt;a href="https://lobste.rs/s/or5bdj/wordle_over_ssh">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://hugodaniel.com/posts/minimal-color-swatches/">Minimal Color Swatches&lt;/a>
+(&lt;a href="https://lobste.rs/s/sgvjcd/minimal_color_swatches">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://bitspook.in/blog/using-org-mode-as-an-sql-playground/">Using org-mode as an SQL playground&lt;/a>
+(&lt;a href="https://lobste.rs/s/ldgb0e/using_org_mode_as_sql_playground">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://chown.me/blog/getting-my-own-asn">Why and how I got my own ASN&lt;/a>
+(&lt;a href="https://lobste.rs/s/ydjy5d/why_how_i_got_my_own_asn">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-02-03</title><link>https://frozen-lobster.rohanverma.net/posts/2022-02-03/</link><pubDate>Thu, 03 Feb 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-02-03/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://chown.me/blog/getting-my-own-asn">Why and how I got my own ASN&lt;/a>
 (&lt;a href="https://lobste.rs/s/ydjy5d/why_how_i_got_my_own_asn">comments&lt;/a>)&lt;/p>
