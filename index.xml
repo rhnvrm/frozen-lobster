@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 05 Feb 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-02-05</title><link>https://frozen-lobster.rohanverma.net/posts/2022-02-05/</link><pubDate>Sat, 05 Feb 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-02-05/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 06 Feb 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-02-06</title><link>https://frozen-lobster.rohanverma.net/posts/2022-02-06/</link><pubDate>Sun, 06 Feb 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-02-06/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://jepsen.io/analyses/radix-dlt-1.0-beta.35.1">Jepsen: Radix DLT 1.0-beta.35.1&lt;/a>
+(&lt;a href="https://lobste.rs/s/ltexke/jepsen_radix_dlt_1_0_beta_35_1">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/Kindelia/HVM">Kindelia/HVM: A massively parallel, optimal functional runtime in Rust&lt;/a>
+(&lt;a href="https://lobste.rs/s/zw8pgr/kindelia_hvm_massively_parallel_optimal">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://fosdem.org/2022/schedule/">FOSDEM 2022 - Schedule&lt;/a>
+(&lt;a href="https://lobste.rs/s/db9tli/fosdem_2022_schedule">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.sentinelone.com/labs/firefox-jit-use-after-frees-exploiting-cve-2020-26950/">Firefox JIT Use-After-Frees | Exploiting CVE-2020-26950&lt;/a>
+(&lt;a href="https://lobste.rs/s/2ohnpl/firefox_jit_use_after_frees_exploiting">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/hauleth/ssh_signature">SSH signatures implementation in Erlang&lt;/a>
+(&lt;a href="https://lobste.rs/s/sggocf/ssh_signatures_implementation_erlang">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">Have you found side-effects a problem by increasing complexity in your code bases?&lt;/a>
+(&lt;a href="https://lobste.rs/s/if8hle/have_you_found_side_effects_problem_by">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=pm-szurM5VY">Interview with the creator of AmigaDOS&lt;/a>
+(&lt;a href="https://lobste.rs/s/jp4g2m/interview_with_creator_amigados">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/stepchowfun/tagref">Tagref: check cross-references in your code&lt;/a>
+(&lt;a href="https://lobste.rs/s/4ne3fe/tagref_check_cross_references_your_code">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://forums.windriver.com/t/vxworks-software-development-kit-sdk/43">VxWorks Software Development Kit (SDK)&lt;/a>
+(&lt;a href="https://lobste.rs/s/g8dlor/vxworks_software_development_kit_sdk">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://bitlog.it/20141224_getting_started_with_the_ga144_and_arrayforth.html">Getting Started With The GA144 And ArrayForth (2014)&lt;/a>
+(&lt;a href="https://lobste.rs/s/fslfah/getting_started_with_ga144_arrayforth">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-02-05</title><link>https://frozen-lobster.rohanverma.net/posts/2022-02-05/</link><pubDate>Sat, 05 Feb 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-02-05/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://ariadne.space/2022/02/04/how-i-wound-up-causing-a-major-outage-of-my-services-and-destroying-my-home-directory-by-accident/">how I wound up causing a major outage of my services and destroying my home directory by accident&lt;/a>
 (&lt;a href="https://lobste.rs/s/dkwcll/how_i_wound_up_causing_major_outage_my">comments&lt;/a>)&lt;/p>
