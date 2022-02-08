@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 07 Feb 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-02-07</title><link>https://frozen-lobster.rohanverma.net/posts/2022-02-07/</link><pubDate>Mon, 07 Feb 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-02-07/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 08 Feb 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-02-08</title><link>https://frozen-lobster.rohanverma.net/posts/2022-02-08/</link><pubDate>Tue, 08 Feb 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-02-08/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://jcs.org/amend">Amend - A small revision control system for classic MacOS&lt;/a>
+(&lt;a href="https://lobste.rs/s/ll1e68/amend_small_revision_control_system_for">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://elektron.sigsegv.ch/articles/1/centralizing-resource-cleanup-paths-in-c/">Centralizing Resource Cleanup Paths in C&lt;/a>
+(&lt;a href="https://lobste.rs/s/jkx47x/centralizing_resource_cleanup_paths_c">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tinkering.xyz/fmo-optimization-story/">An optimization story&lt;/a>
+(&lt;a href="https://lobste.rs/s/o4s0jk/optimization_story">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sha256algorithm.com/">Sha256 Algorithm Explained&lt;/a>
+(&lt;a href="https://lobste.rs/s/u9ydh3/sha256_algorithm_explained">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://christine.website/blog/waifud-progress-2022-02-06">waifud Progress Report #1&lt;/a>
+(&lt;a href="https://lobste.rs/s/gp2ahi/waifud_progress_report_1">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this week?&lt;/a>
+(&lt;a href="https://lobste.rs/s/tlha5v/what_are_you_doing_this_week">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://vermaden.wordpress.com/2022/02/07/epitaph-to-laptops/">Epitaph to Laptops&lt;/a>
+(&lt;a href="https://lobste.rs/s/uu1c3l/epitaph_laptops">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ctrl.blog/entry/dht-privacy-discovery-hash.html">How a Hypercore P2P innovation could bring more privacy to IPFS&lt;/a>
+(&lt;a href="https://lobste.rs/s/uvsgi3/how_hypercore_p2p_innovation_could_bring">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://johnaustin.io/articles/2022/hot-reloading-rust">Hot Reloading Rust: Windows and Linux&lt;/a>
+(&lt;a href="https://lobste.rs/s/taro5p/hot_reloading_rust_windows_linux">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://maskray.me/blog/2022-02-06-all-about-common-symbols">All about COMMON symbols&lt;/a>
+(&lt;a href="https://lobste.rs/s/mf7evc/all_about_common_symbols">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-02-07</title><link>https://frozen-lobster.rohanverma.net/posts/2022-02-07/</link><pubDate>Mon, 07 Feb 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-02-07/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://utcc.utoronto.ca/~cks/space/blog/programming/Go118NoConstraintsPackage">Go 1.18 won&amp;rsquo;t have a &amp;lsquo;constraints&amp;rsquo; package of generics helpers&lt;/a>
 (&lt;a href="https://lobste.rs/s/psijou/go_1_18_won_t_have_constraints_package">comments&lt;/a>)&lt;/p>
