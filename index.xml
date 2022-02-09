@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 08 Feb 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-02-08</title><link>https://frozen-lobster.rohanverma.net/posts/2022-02-08/</link><pubDate>Tue, 08 Feb 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-02-08/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 09 Feb 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-02-09</title><link>https://frozen-lobster.rohanverma.net/posts/2022-02-09/</link><pubDate>Wed, 09 Feb 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-02-09/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://sethmlarson.dev/blog/utf-8">How UTF-8 works&lt;/a>
+(&lt;a href="https://lobste.rs/s/5qtiye/how_utf_8_works">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://michaelheap.com/git-ignore-rev/">A better &lt;code>git blame&lt;/code> with &lt;code>--ignore-rev&lt;/code>&lt;/a>
+(&lt;a href="https://lobste.rs/s/loxzvv/better_git_blame_with_ignore_rev">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://technomancy.us/197">five different paths to methods&lt;/a>
+(&lt;a href="https://lobste.rs/s/wnao1d/five_different_paths_methods">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://fasterthanli.me/articles/some-mistakes-rust-doesnt-catch">Some mistakes Rust doesn&amp;rsquo;t catch&lt;/a>
+(&lt;a href="https://lobste.rs/s/5jrhuk/some_mistakes_rust_doesn_t_catch">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://freebsdfoundation.org/blog/raid-z-expansion-feature-for-zfs-goes-live/">RAID-Z Expansion Feature for ZFS Goes Live | FreeBSD Foundation&lt;/a>
+(&lt;a href="https://lobste.rs/s/5ahxj1/raid_z_expansion_feature_for_zfs_goes_live">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://wordlix.app/">Wordlix: a puzzle game to guess POSIX API names&lt;/a>
+(&lt;a href="https://lobste.rs/s/bxi6ok/wordlix_puzzle_game_guess_posix_api_names">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://devblogs.microsoft.com/oldnewthing/20220207-00/?p=106223">On finding the average of two unsigned integers without overflow&lt;/a>
+(&lt;a href="https://lobste.rs/s/43hwha/on_finding_average_two_unsigned_integers">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://dev.to/lucamug/elm-vs-hyperscript-2m3m">Elm vs HyperScript - A Wordle implemetation&lt;/a>
+(&lt;a href="https://lobste.rs/s/4aoyy8/elm_vs_hyperscript_wordle_implemetation">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://datastation.multiprocess.io/blog/2022-02-08-the-world-of-postgresql-wire-compatibility.html">The world of PostgreSQL wire compatibility&lt;/a>
+(&lt;a href="https://lobste.rs/s/oiqe6q/world_postgresql_wire_compatibility">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://vermaden.wordpress.com/2022/02/09/xfce-cupertino-way/">XFCE Cupertino Way&lt;/a>
+(&lt;a href="https://lobste.rs/s/sndobr/xfce_cupertino_way">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-02-08</title><link>https://frozen-lobster.rohanverma.net/posts/2022-02-08/</link><pubDate>Tue, 08 Feb 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-02-08/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://jcs.org/amend">Amend - A small revision control system for classic MacOS&lt;/a>
 (&lt;a href="https://lobste.rs/s/ll1e68/amend_small_revision_control_system_for">comments&lt;/a>)&lt;/p>
