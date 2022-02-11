@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 10 Feb 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-02-10</title><link>https://frozen-lobster.rohanverma.net/posts/2022-02-10/</link><pubDate>Thu, 10 Feb 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-02-10/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 11 Feb 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-02-11</title><link>https://frozen-lobster.rohanverma.net/posts/2022-02-11/</link><pubDate>Fri, 11 Feb 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-02-11/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://soatok.blog/2022/02/09/using-rsa-securely-in-2022/">Using RSA Securely in 2022&lt;/a>
+(&lt;a href="https://lobste.rs/s/ingy02/using_rsa_securely_2022">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://klarasystems.com/articles/unix-on-the-path-to-bsd/">UNIX: On the Path to BSD&lt;/a>
+(&lt;a href="https://lobste.rs/s/hxijhs/unix_on_path_bsd">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://smallcultfollowing.com/babysteps//blog/2022/02/09/dare-to-ask-for-more-rust2024/">Dare to ask for more #rust2024&lt;/a>
+(&lt;a href="https://lobste.rs/s/fn3tge/dare_ask_for_more_rust2024">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tomscii.sig7.se/2022/02/Guide-to-OpenBSD-on-the-PinebookPro">The complete idiot&amp;rsquo;s guide to OpenBSD on the Pinebook Pro&lt;/a>
+(&lt;a href="https://lobste.rs/s/fuuqye/complete_idiot_s_guide_openbsd_on">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/dzavalishin/phantomuserland">Phantom: Persistent Operating System&lt;/a>
+(&lt;a href="https://lobste.rs/s/ovyve7/phantom_persistent_operating_system">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.wesleyac.com/posts/snes-dev-1-getting-started">SNES Development Part 1: Getting Started&lt;/a>
+(&lt;a href="https://lobste.rs/s/1uhssv/snes_development_part_1_getting_started">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.unisonweb.org/2022/02/10/unison-2021-year-in-review/">Unison in 2021, 2022 and beyond: year in review and future plans&lt;/a>
+(&lt;a href="https://lobste.rs/s/j0o1tf/unison_2021_2022_beyond_year_review">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://christine.website/blog/gnu-your-parent-2022-02-10">GNU Doesn&amp;rsquo;t Care About Your Agency&lt;/a>
+(&lt;a href="https://lobste.rs/s/chvnue/gnu_doesn_t_care_about_your_agency">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/google/zx/releases/tag/5.0.0">google/zx 5.0.0&lt;/a>
+(&lt;a href="https://lobste.rs/s/si2uvf/google_zx_5_0_0">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ysantos.com/blog/downcast-rust">Downcasting in Rust&lt;/a>
+(&lt;a href="https://lobste.rs/s/wuqgnw/downcasting_rust">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-02-10</title><link>https://frozen-lobster.rohanverma.net/posts/2022-02-10/</link><pubDate>Thu, 10 Feb 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-02-10/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://github.com/google/zx/releases/tag/5.0.0">google/zx 5.0.0&lt;/a>
 (&lt;a href="https://lobste.rs/s/si2uvf/google_zx_5_0_0">comments&lt;/a>)&lt;/p>
