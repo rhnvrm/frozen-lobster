@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 11 Feb 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-02-11</title><link>https://frozen-lobster.rohanverma.net/posts/2022-02-11/</link><pubDate>Fri, 11 Feb 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-02-11/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 12 Feb 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-02-12</title><link>https://frozen-lobster.rohanverma.net/posts/2022-02-12/</link><pubDate>Sat, 12 Feb 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-02-12/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://arslan.io/2019/07/03/how-to-write-idempotent-bash-scripts/">How to write idempotent Bash scripts&lt;/a>
+(&lt;a href="https://lobste.rs/s/ixuahi/how_write_idempotent_bash_scripts">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.karlsutt.com/articles/gdpr-compliance-for-50-cents-month-vat/">GDPR compliance for 0.5 USD per month. Plus VAT&lt;/a>
+(&lt;a href="https://lobste.rs/s/socxuv/gdpr_compliance_for_0_5_usd_per_month_plus">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ardentperf.com/2022/02/10/a-hairy-postgresql-incident/">A Hairy PostgreSQL Incident&lt;/a>
+(&lt;a href="https://lobste.rs/s/vkar1n/hairy_postgresql_incident">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://nullderef.com/blog/plugin-impl/">Plugins in Rust: Getting our Hands Dirty&lt;/a>
+(&lt;a href="https://lobste.rs/s/fmedlf/plugins_rust_getting_our_hands_dirty">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this weekend?&lt;/a>
+(&lt;a href="https://lobste.rs/s/m3pirs/what_are_you_doing_this_weekend">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://rachelbythebay.com/w/2022/02/09/nice/">A nice story about Unix processes &amp;ldquo;infecting&amp;rdquo; each other&lt;/a>
+(&lt;a href="https://lobste.rs/s/fhfvdn/nice_story_about_unix_processes">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://danluu.com/cache-incidents/">A decade of major cache incidents at Twitter&lt;/a>
+(&lt;a href="https://lobste.rs/s/nrjxn2/decade_major_cache_incidents_at_twitter">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ariadne.space/2022/02/11/json-ld-is-ideal-for-cloud-native-technologies/">JSON-LD is ideal for Cloud Native technologies&lt;/a>
+(&lt;a href="https://lobste.rs/s/884wyo/json_ld_is_ideal_for_cloud_native">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pointersgonewild.com/2022/02/11/code-that-doesnt-rot/">Code that Doesn’t Rot&lt;/a>
+(&lt;a href="https://lobste.rs/s/yil8kx/code_doesn_t_rot">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tomscii.sig7.se/2022/02/Guide-to-OpenBSD-on-the-PinebookPro">The complete idiot&amp;rsquo;s guide to OpenBSD on the Pinebook Pro&lt;/a>
+(&lt;a href="https://lobste.rs/s/fuuqye/complete_idiot_s_guide_openbsd_on">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-02-11</title><link>https://frozen-lobster.rohanverma.net/posts/2022-02-11/</link><pubDate>Fri, 11 Feb 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-02-11/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://soatok.blog/2022/02/09/using-rsa-securely-in-2022/">Using RSA Securely in 2022&lt;/a>
 (&lt;a href="https://lobste.rs/s/ingy02/using_rsa_securely_2022">comments&lt;/a>)&lt;/p>
