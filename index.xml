@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 12 Feb 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-02-12</title><link>https://frozen-lobster.rohanverma.net/posts/2022-02-12/</link><pubDate>Sat, 12 Feb 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-02-12/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 13 Feb 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-02-13</title><link>https://frozen-lobster.rohanverma.net/posts/2022-02-13/</link><pubDate>Sun, 13 Feb 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-02-13/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://aws.amazon.com/blogs/opensource/sustainability-with-rust/">Sustainability with Rust&lt;/a>
+(&lt;a href="https://lobste.rs/s/odsliw/sustainability_with_rust">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://dino.im/blog/2022/02/dino-0.3-release/">Dino 0.3 Release Video calls and conferences - encrypted and peer-to-peer&lt;/a>
+(&lt;a href="https://lobste.rs/s/4a2iod/dino_0_3_release_video_calls_conferences">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.darrien.dev/posts/you-dont-know-gif/">You Don&amp;rsquo;t Know Gif - An analysis of a gif file and some weird gif features&lt;/a>
+(&lt;a href="https://lobste.rs/s/qeymcp/you_don_t_know_gif_analysis_gif_file_some">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pdos.csail.mit.edu/6.S081/2021/readings/biscuit.pdf">The benefits and costs of writing a POSIX kernel in a high-level language&lt;/a>
+(&lt;a href="https://lobste.rs/s/ehienq/benefits_costs_writing_posix_kernel_high">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://craftofcoding.wordpress.com/2022/02/11/what-fortran-does-better-than-c-like-languages/">What Fortran does better than C-like languages&lt;/a>
+(&lt;a href="https://lobste.rs/s/p2ewra/what_fortran_does_better_than_c_like">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://yurichev.com/news/20220212_C_ptrs/">Yet another explanation of C/C++ pointers&lt;/a>
+(&lt;a href="https://lobste.rs/s/zf4umu/yet_another_explanation_c_c_pointers">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.talospace.com/2022/02/sheepsforza-sheepshaver-power-mac.html">SheepSforza: the SheepShaver Power Mac emulator for OpenPOWER&lt;/a>
+(&lt;a href="https://lobste.rs/s/v8v6id/sheepsforza_sheepshaver_power_mac">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://arslan.io/2019/07/03/how-to-write-idempotent-bash-scripts/">How to write idempotent Bash scripts (2019)&lt;/a>
+(&lt;a href="https://lobste.rs/s/ixuahi/how_write_idempotent_bash_scripts_2019">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://minimalmodeling.substack.com/p/migrations-migrating-attributes-pt-200">Migrations: migrating attributes, pt. V&lt;/a>
+(&lt;a href="https://lobste.rs/s/zu3lbe/migrations_migrating_attributes_pt_v">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=rY413t5fArw">Raytracing on a Graphing Calculator (again)&lt;/a>
+(&lt;a href="https://lobste.rs/s/jryzjl/raytracing_on_graphing_calculator_again">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-02-12</title><link>https://frozen-lobster.rohanverma.net/posts/2022-02-12/</link><pubDate>Sat, 12 Feb 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-02-12/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://arslan.io/2019/07/03/how-to-write-idempotent-bash-scripts/">How to write idempotent Bash scripts&lt;/a>
 (&lt;a href="https://lobste.rs/s/ixuahi/how_write_idempotent_bash_scripts">comments&lt;/a>)&lt;/p>
