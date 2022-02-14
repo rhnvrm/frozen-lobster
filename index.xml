@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 13 Feb 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-02-13</title><link>https://frozen-lobster.rohanverma.net/posts/2022-02-13/</link><pubDate>Sun, 13 Feb 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-02-13/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 14 Feb 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-02-14</title><link>https://frozen-lobster.rohanverma.net/posts/2022-02-14/</link><pubDate>Mon, 14 Feb 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-02-14/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://susam.net/invaders.html">Wicked Invaders: A 1980s-arcade-style game written using HTML5 Canvas and AudioContext&lt;/a>
+(&lt;a href="https://lobste.rs/s/tt5wdf/wicked_invaders_1980s_arcade_style_game">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://rtpg.co/2022/02/13/your-own-sudo.html">Writing Your Own Sudo&lt;/a>
+(&lt;a href="https://lobste.rs/s/mobxgg/writing_your_own_sudo">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://tvier.net/blog/a_walk_through_lightweight_blogging/">A walk through lightweight blogging&lt;/a>
+(&lt;a href="https://lobste.rs/s/xgybsc/walk_through_lightweight_blogging">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ietf.org/archive/id/draft-iab-protocol-maintenance-05.html">The Harmful Consequences of the Robustness Principle&lt;/a>
+(&lt;a href="https://lobste.rs/s/enszyj/harmful_consequences_robustness">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://xenodium.com/plain-org-v12-released/">Plain Org v1.2 released&lt;/a>
+(&lt;a href="https://lobste.rs/s/mth7cc/plain_org_v1_2_released">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=fRed0Xmc2Wg">Oh, wait, actually the best Wordle opener is not “crane”…&lt;/a>
+(&lt;a href="https://lobste.rs/s/2godkq/oh_wait_actually_best_wordle_opener_is_not">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://eli.thegreenplace.net/2022/file-driven-testing-in-go/">File-driven testing in Go&lt;/a>
+(&lt;a href="https://lobste.rs/s/sgk1nn/file_driven_testing_go">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://bas.codes/posts/python-dict-slots">Understanding Attributes, Dicts and Slots in Python&lt;/a>
+(&lt;a href="https://lobste.rs/s/elqtlw/understanding_attributes_dicts_slots">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://paulbutler.org/2022/what-does-it-mean-to-listen-on-a-port/">What does it mean to listen on a port?&lt;/a>
+(&lt;a href="https://lobste.rs/s/yzo3xs/what_does_it_mean_listen_on_port">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://aws.amazon.com/blogs/opensource/sustainability-with-rust/">Sustainability with Rust&lt;/a>
+(&lt;a href="https://lobste.rs/s/odsliw/sustainability_with_rust">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-02-13</title><link>https://frozen-lobster.rohanverma.net/posts/2022-02-13/</link><pubDate>Sun, 13 Feb 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-02-13/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://aws.amazon.com/blogs/opensource/sustainability-with-rust/">Sustainability with Rust&lt;/a>
 (&lt;a href="https://lobste.rs/s/odsliw/sustainability_with_rust">comments&lt;/a>)&lt;/p>
