@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 14 Feb 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-02-14</title><link>https://frozen-lobster.rohanverma.net/posts/2022-02-14/</link><pubDate>Mon, 14 Feb 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-02-14/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 15 Feb 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-02-15</title><link>https://frozen-lobster.rohanverma.net/posts/2022-02-15/</link><pubDate>Tue, 15 Feb 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-02-15/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://blog.cofree.coffee/2022-02-14-how-to-design-a-chat-bot/">How To Design A Chat Bot&lt;/a>
+(&lt;a href="https://lobste.rs/s/ujrdjt/how_design_chat_bot">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://notes.volution.ro/v1/2022/01/notes/fbf3f06c/">Single binary executable packages&lt;/a>
+(&lt;a href="https://lobste.rs/s/adr60v/single_binary_executable_packages">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/BawdyAnarchist/quBSD">quBSD: Qubes-like containerization using FreeBSD jails and bhyve&lt;/a>
+(&lt;a href="https://lobste.rs/s/m1pdqy/qubsd_qubes_like_containerization_using">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://mariusschulz.com/blog/assertion-functions-in-typescript">Assertion Functions in TypeScript&lt;/a>
+(&lt;a href="https://lobste.rs/s/o40pgt/assertion_functions_typescript">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this week?&lt;/a>
+(&lt;a href="https://lobste.rs/s/98knbl/what_are_you_doing_this_week">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://research.swtch.com/govcs">Go’s Version Control History&lt;/a>
+(&lt;a href="https://lobste.rs/s/zhjayo/go_s_version_control_history">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://tvier.net/blog/a_walk_through_lightweight_blogging/">A walk through lightweight blogging&lt;/a>
+(&lt;a href="https://lobste.rs/s/xgybsc/walk_through_lightweight_blogging">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://julialang.org/blog/2022/02/10years/">Why We Use Julia, 10 Years Later&lt;/a>
+(&lt;a href="https://lobste.rs/s/hdep9u/why_we_use_julia_10_years_later">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://margin.re/blog/mikrotik-authentication-revealed.aspx">MikroTik Authentication Revealed&lt;/a>
+(&lt;a href="https://lobste.rs/s/bxqiqe/mikrotik_authentication_revealed">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ietf.org/archive/id/draft-iab-protocol-maintenance-05.html">The Harmful Consequences of the Robustness Principle&lt;/a>
+(&lt;a href="https://lobste.rs/s/enszyj/harmful_consequences_robustness">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-02-14</title><link>https://frozen-lobster.rohanverma.net/posts/2022-02-14/</link><pubDate>Mon, 14 Feb 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-02-14/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://susam.net/invaders.html">Wicked Invaders: A 1980s-arcade-style game written using HTML5 Canvas and AudioContext&lt;/a>
 (&lt;a href="https://lobste.rs/s/tt5wdf/wicked_invaders_1980s_arcade_style_game">comments&lt;/a>)&lt;/p>
