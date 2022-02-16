@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 15 Feb 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-02-15</title><link>https://frozen-lobster.rohanverma.net/posts/2022-02-15/</link><pubDate>Tue, 15 Feb 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-02-15/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 16 Feb 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-02-16</title><link>https://frozen-lobster.rohanverma.net/posts/2022-02-16/</link><pubDate>Wed, 16 Feb 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-02-16/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://sdomi.pl/weblog/15-witchcraft-minecraft-server-in-bash/">My thoughts on writing a Minecraft server from scratch (in Bash)&lt;/a>
+(&lt;a href="https://lobste.rs/s/rbocxw/my_thoughts_on_writing_minecraft_server">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jott.live/markdown/interactive_optimization">Interactive Loop Optimization&lt;/a>
+(&lt;a href="https://lobste.rs/s/wbqbpn/interactive_loop_optimization">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://redvice.org/2022/lineiform-rust-meta-jit/">Lineiform, a meta-JIT library for Rust interpreters&lt;/a>
+(&lt;a href="https://lobste.rs/s/ej3xpv/lineiform_meta_jit_library_for_rust">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://hacks.mozilla.org/2022/02/version-100-in-chrome-and-firefox/">Version 100 in Chrome and Firefox&lt;/a>
+(&lt;a href="https://lobste.rs/s/14llhl/version_100_chrome_firefox">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://therecord.media/thousands-of-npm-accounts-use-email-addresses-with-expired-domains/">Thousands of npm accounts use email addresses with expired domains&lt;/a>
+(&lt;a href="https://lobste.rs/s/7vlnme/thousands_npm_accounts_use_email">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://alain.xyz/blog/a-review-of-shader-languages">A Review of Shader Languages&lt;/a>
+(&lt;a href="https://lobste.rs/s/mdcnug/review_shader_languages">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://vermaden.wordpress.com/2022/02/15/sensors-information-on-freebsd/">Sensors Information on FreeBSD&lt;/a>
+(&lt;a href="https://lobste.rs/s/buiyav/sensors_information_on_freebsd">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://monzo.com/blog/2022/02/15/securely-delegating-trust-with-digital-signatures-and-secret-storage-systems/">Securely delegating trust with digital signatures and secret storage systems&lt;/a>
+(&lt;a href="https://lobste.rs/s/qxosak/securely_delegating_trust_with_digital">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://notes.volution.ro/v1/2022/01/notes/fbf3f06c/">Single binary executable packages&lt;/a>
+(&lt;a href="https://lobste.rs/s/adr60v/single_binary_executable_packages">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thehackernews.com/2022/02/new-chrome-0-day-bug-under-active.html">New Chrome 0-Day Bug Under Active Attack – Update Your Browser ASAP&lt;/a>
+(&lt;a href="https://lobste.rs/s/nqpj9o/new_chrome_0_day_bug_under_active_attack">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-02-15</title><link>https://frozen-lobster.rohanverma.net/posts/2022-02-15/</link><pubDate>Tue, 15 Feb 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-02-15/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://blog.cofree.coffee/2022-02-14-how-to-design-a-chat-bot/">How To Design A Chat Bot&lt;/a>
 (&lt;a href="https://lobste.rs/s/ujrdjt/how_design_chat_bot">comments&lt;/a>)&lt;/p>
