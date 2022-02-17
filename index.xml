@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 16 Feb 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-02-16</title><link>https://frozen-lobster.rohanverma.net/posts/2022-02-16/</link><pubDate>Wed, 16 Feb 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-02-16/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 17 Feb 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-02-17</title><link>https://frozen-lobster.rohanverma.net/posts/2022-02-17/</link><pubDate>Thu, 17 Feb 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-02-17/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/oilshell/oil/wiki/Alternative-Regex-Syntax">Alternative Regex Syntax&lt;/a>
+(&lt;a href="https://lobste.rs/s/molbhc/alternative_regex_syntax">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are your favourite small internet protocols?&lt;/a>
+(&lt;a href="https://lobste.rs/s/uuzx6g/what_are_your_favourite_small_internet">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://minnie.tuhs.org/pipermail/tuhs/2022-February/025390.html">Lorinda Cherry died recently&lt;/a>
+(&lt;a href="https://lobste.rs/s/d0ptti/lorinda_cherry_died_recently">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://redbean.dev/">redbean – single-file distributable web server&lt;/a>
+(&lt;a href="https://lobste.rs/s/c6ogym/redbean_single_file_distributable_web">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://germano.dev/sse-websockets/">Server-Sent Events: the alternative to WebSockets you should be using&lt;/a>
+(&lt;a href="https://lobste.rs/s/idfifu/server_sent_events_alternative">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://reasonablypolymorphic.com/blog/haskell202x/">Haskell2020 Is Dead, but All Hope Is Not Lost (2019)&lt;/a>
+(&lt;a href="https://lobste.rs/s/anog8g/haskell2020_is_dead_all_hope_is_not_lost">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://mitchellh.com/zig">Zig&lt;/a>
+(&lt;a href="https://lobste.rs/s/wv6xhi/zig">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://klarasystems.com/articles/the-freebsd-boot-process/">The FreeBSD Boot Process&lt;/a>
+(&lt;a href="https://lobste.rs/s/t4ogvy/freebsd_boot_process">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/jwilk/perl-friday">Perl code that is syntactically correct only on Fridays&lt;/a>
+(&lt;a href="https://lobste.rs/s/yylqtu/perl_code_is_syntactically_correct_only">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sdomi.pl/weblog/15-witchcraft-minecraft-server-in-bash/">My thoughts on writing a Minecraft server from scratch (in Bash)&lt;/a>
+(&lt;a href="https://lobste.rs/s/rbocxw/my_thoughts_on_writing_minecraft_server">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-02-16</title><link>https://frozen-lobster.rohanverma.net/posts/2022-02-16/</link><pubDate>Wed, 16 Feb 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-02-16/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://sdomi.pl/weblog/15-witchcraft-minecraft-server-in-bash/">My thoughts on writing a Minecraft server from scratch (in Bash)&lt;/a>
 (&lt;a href="https://lobste.rs/s/rbocxw/my_thoughts_on_writing_minecraft_server">comments&lt;/a>)&lt;/p>
