@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 17 Feb 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-02-17</title><link>https://frozen-lobster.rohanverma.net/posts/2022-02-17/</link><pubDate>Thu, 17 Feb 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-02-17/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 18 Feb 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-02-18</title><link>https://frozen-lobster.rohanverma.net/posts/2022-02-18/</link><pubDate>Fri, 18 Feb 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-02-18/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://medium.com/pragmatic-programmers/the-unreasonable-effectiveness-of-haskell-48d92c2fe266">The Unreasonable Effectiveness of Haskell&lt;/a>
+(&lt;a href="https://lobste.rs/s/iiqlwa/unreasonable_effectiveness_haskell">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://spectrum.ieee.org/bionic-eye-obsolete">Their Bionic Eyes Are Now Obsolete and Unsupported&lt;/a>
+(&lt;a href="https://lobste.rs/s/cultag/their_bionic_eyes_are_now_obsolete">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://revelry.co/insights/development/nix-time/">Nix: An Idea Whose Time Has Come&lt;/a>
+(&lt;a href="https://lobste.rs/s/ui7wc4/nix_idea_whose_time_has_come">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://zverok.substack.com/p/how-i-tried-to-invent-a-new-query">How I tried to invent a new query language feature and failed (because the old one worked fine)&lt;/a>
+(&lt;a href="https://lobste.rs/s/7atdw1/how_i_tried_invent_new_query_language">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.thecodedmessage.com/posts/haskell-gripe/">Haskell Error Messages: Come on&lt;/a>
+(&lt;a href="https://lobste.rs/s/wze3jb/haskell_error_messages_come_on">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://boucek.me/blog/from-mac-to-freebsd/">My Journey from macOS to FreeBSD&lt;/a>
+(&lt;a href="https://lobste.rs/s/nznsys/my_journey_from_macos_freebsd">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jcs.org/2022/02/16/ioctl">Debugging an ioctl Problem on OpenBSD&lt;/a>
+(&lt;a href="https://lobste.rs/s/feav6w/debugging_ioctl_problem_on_openbsd">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/martinvonz/jj">Jujutsu DVCS&lt;/a>
+(&lt;a href="https://lobste.rs/s/47zztj/jujutsu_dvcs">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.benjojo.co.uk/post/ip-address-squatting">Who is squatting IPv4 addresses?&lt;/a>
+(&lt;a href="https://lobste.rs/s/jigwdc/who_is_squatting_ipv4_addresses">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://future.a16z.com/software-development-building-for-99-developers/">Building for the 99% Developers&lt;/a>
+(&lt;a href="https://lobste.rs/s/vzyea2/building_for_99_developers">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-02-17</title><link>https://frozen-lobster.rohanverma.net/posts/2022-02-17/</link><pubDate>Thu, 17 Feb 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-02-17/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://github.com/oilshell/oil/wiki/Alternative-Regex-Syntax">Alternative Regex Syntax&lt;/a>
 (&lt;a href="https://lobste.rs/s/molbhc/alternative_regex_syntax">comments&lt;/a>)&lt;/p>
