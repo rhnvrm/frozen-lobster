@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 18 Feb 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-02-18</title><link>https://frozen-lobster.rohanverma.net/posts/2022-02-18/</link><pubDate>Fri, 18 Feb 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-02-18/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 19 Feb 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-02-19</title><link>https://frozen-lobster.rohanverma.net/posts/2022-02-19/</link><pubDate>Sat, 19 Feb 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-02-19/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://mobile.twitter.com/marcan42/status/1494213855387734019">Apple&amp;rsquo;s custom NVMe drives are amazingly fast - if you don&amp;rsquo;t care about data integrity&lt;/a>
+(&lt;a href="https://lobste.rs/s/j5x2pm/apple_s_custom_nvme_drives_are_amazingly">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/graninas/The-Voids-Of-Haskell">The Voids of Haskell&lt;/a>
+(&lt;a href="https://lobste.rs/s/o2yrfh/voids_haskell">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://seancoates.com/blogs/modified-microphone">Microcontroller-modified microphone&lt;/a>
+(&lt;a href="https://lobste.rs/s/ngirjg/microcontroller_modified_microphone">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.lambda.cx/posts/opentype-font-exploration/">Exploring OpenType Font Features&lt;/a>
+(&lt;a href="https://lobste.rs/s/74dbew/exploring_opentype_font_features">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tokio.rs/blog/2022-02-announcing-tokio-metrics">Announcing Tokio Metrics 0.1&lt;/a>
+(&lt;a href="https://lobste.rs/s/x0cv94/announcing_tokio_metrics_0_1">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this weekend?&lt;/a>
+(&lt;a href="https://lobste.rs/s/85sbg4/what_are_you_doing_this_weekend">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://spectrum.ieee.org/bionic-eye-obsolete">Their Bionic Eyes Are Now Obsolete and Unsupported&lt;/a>
+(&lt;a href="https://lobste.rs/s/cultag/their_bionic_eyes_are_now_obsolete">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://verdagon.dev/blog/seamless-fearless-structured-concurrency">Seamless, Fearless, and Structured Concurrency&lt;/a>
+(&lt;a href="https://lobste.rs/s/v17ibz/seamless_fearless_structured">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://briandfoy.github.io/ide-driven-development/">What do you really get from IDE-driven development?&lt;/a>
+(&lt;a href="https://lobste.rs/s/aifynf/what_do_you_really_get_from_ide_driven">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://medium.com/pragmatic-programmers/the-unreasonable-effectiveness-of-haskell-48d92c2fe266">The Unreasonable Effectiveness of Haskell&lt;/a>
+(&lt;a href="https://lobste.rs/s/iiqlwa/unreasonable_effectiveness_haskell">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-02-18</title><link>https://frozen-lobster.rohanverma.net/posts/2022-02-18/</link><pubDate>Fri, 18 Feb 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-02-18/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://medium.com/pragmatic-programmers/the-unreasonable-effectiveness-of-haskell-48d92c2fe266">The Unreasonable Effectiveness of Haskell&lt;/a>
 (&lt;a href="https://lobste.rs/s/iiqlwa/unreasonable_effectiveness_haskell">comments&lt;/a>)&lt;/p>
