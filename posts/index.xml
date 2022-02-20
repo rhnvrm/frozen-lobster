@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 19 Feb 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-02-19</title><link>https://frozen-lobster.rohanverma.net/posts/2022-02-19/</link><pubDate>Sat, 19 Feb 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-02-19/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 20 Feb 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-02-20</title><link>https://frozen-lobster.rohanverma.net/posts/2022-02-20/</link><pubDate>Sun, 20 Feb 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-02-20/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://blog.brixit.nl/going-ipv6-only/">Going IPv6 only&lt;/a>
+(&lt;a href="https://lobste.rs/s/tvk7zh/going_ipv6_only">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/johnsonjh/OpenVi">OpenVi: Portable OpenBSD vi for UNIX systems&lt;/a>
+(&lt;a href="https://lobste.rs/s/asdny1/openvi_portable_openbsd_vi_for_unix">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://mobile.twitter.com/marcan42/status/1494213855387734019">Apple&amp;rsquo;s custom NVMe drives are amazingly fast - if you don&amp;rsquo;t care about data integrity&lt;/a>
+(&lt;a href="https://lobste.rs/s/j5x2pm/apple_s_custom_nvme_drives_are_amazingly">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://susam.net/maze/toy-traceroute-with-ping.html">Toy Traceroute With Ping&lt;/a>
+(&lt;a href="https://lobste.rs/s/xkyyr0/toy_traceroute_with_ping">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://dlang.org/blog/2022/02/19/how-i-taught-the-d-programming-language-at-a-russian-university/">How I Taught the D Programming Language at a Russian University&lt;/a>
+(&lt;a href="https://lobste.rs/s/8fmqrn/how_i_taught_d_programming_language_at">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/graninas/The-Voids-Of-Haskell">The Voids of Haskell&lt;/a>
+(&lt;a href="https://lobste.rs/s/o2yrfh/voids_haskell">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://seancoates.com/blogs/modified-microphone">Microcontroller-modified microphone&lt;/a>
+(&lt;a href="https://lobste.rs/s/ngirjg/microcontroller_modified_microphone">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://briandfoy.github.io/ide-driven-development/">What do you really get from IDE-driven development?&lt;/a>
+(&lt;a href="https://lobste.rs/s/aifynf/what_do_you_really_get_from_ide_driven">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tokio.rs/blog/2022-02-announcing-tokio-metrics">Announcing Tokio Metrics 0.1&lt;/a>
+(&lt;a href="https://lobste.rs/s/x0cv94/announcing_tokio_metrics_0_1">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://johnwhitington.net/ocamlfromtheverybeginning/">OCaml from the Very Beginning&lt;/a>
+(&lt;a href="https://lobste.rs/s/fjyxee/ocaml_from_very_beginning">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-02-19</title><link>https://frozen-lobster.rohanverma.net/posts/2022-02-19/</link><pubDate>Sat, 19 Feb 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-02-19/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://mobile.twitter.com/marcan42/status/1494213855387734019">Apple&amp;rsquo;s custom NVMe drives are amazingly fast - if you don&amp;rsquo;t care about data integrity&lt;/a>
 (&lt;a href="https://lobste.rs/s/j5x2pm/apple_s_custom_nvme_drives_are_amazingly">comments&lt;/a>)&lt;/p>
