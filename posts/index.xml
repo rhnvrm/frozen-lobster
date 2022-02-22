@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 21 Feb 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-02-21</title><link>https://frozen-lobster.rohanverma.net/posts/2022-02-21/</link><pubDate>Mon, 21 Feb 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-02-21/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 22 Feb 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-02-22</title><link>https://frozen-lobster.rohanverma.net/posts/2022-02-22/</link><pubDate>Tue, 22 Feb 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-02-22/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://christine.website/blog/nix-flakes-1-2022-02-21">Nix Flakes: an Introduction&lt;/a>
+(&lt;a href="https://lobste.rs/s/dmrnqy/nix_flakes_introduction">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.rust-lang.org/2022/02/21/rust-analyzer-joins-rust-org.html">rust-analyzer joins the Rust organization&lt;/a>
+(&lt;a href="https://lobste.rs/s/lbalro/rust_analyzer_joins_rust_organization">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.jowanza.com/blog/2022/2/21/software-im-thankful-for">Software I&amp;rsquo;m Thankful For&lt;/a>
+(&lt;a href="https://lobste.rs/s/ltyyzm/software_i_m_thankful_for">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://remesh.blog/breaking-the-rules-with-stateful-services-8eb361734d86">Breaking the Rules With Stateful Services&lt;/a>
+(&lt;a href="https://lobste.rs/s/yge0y3/breaking_rules_with_stateful_services">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jcs.org/2022/02/21/macplus_streaming">Live Streaming a Macintosh Plus&lt;/a>
+(&lt;a href="https://lobste.rs/s/rl76lr/live_streaming_macintosh_plus">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://verdagon.dev/blog/python-data-races">Data Races in Python, Despite the Global Interpreter Lock&lt;/a>
+(&lt;a href="https://lobste.rs/s/tssdqf/data_races_python_despite_global">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pantagruel-language.com/">Pantagruel Specification Language&lt;/a>
+(&lt;a href="https://lobste.rs/s/thsvfz/pantagruel_specification_language">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.smashingmagazine.com/2022/02/thoughts-on-markdown/">Thoughts On Markdown&lt;/a>
+(&lt;a href="https://lobste.rs/s/wcrsg3/thoughts_on_markdown">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://notes.eatonphil.com/handling-email-from-gmail-smtp-protocol-basics.html">SMTP protocol basics from scratch in Go: receiving email from Gmail&lt;/a>
+(&lt;a href="https://lobste.rs/s/gpopzi/smtp_protocol_basics_from_scratch_go">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://raymii.org/s/tutorials/Yocto_boot2qt_for_the_Raspberry_Pi_4_both_Qt_6_and_Qt_5.html">Yocto boot2qt for the Raspberry Pi 4, both Qt 5.15 and 6.2&lt;/a>
+(&lt;a href="https://lobste.rs/s/bxreym/yocto_boot2qt_for_raspberry_pi_4_both_qt_5">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-02-21</title><link>https://frozen-lobster.rohanverma.net/posts/2022-02-21/</link><pubDate>Mon, 21 Feb 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-02-21/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://www.biphelps.com/blog/The-Fastest-GIF-Does-Not-Exist">The Fastest GIF Does Not Exist&lt;/a>
 (&lt;a href="https://lobste.rs/s/12cs0m/fastest_gif_does_not_exist">comments&lt;/a>)&lt;/p>
