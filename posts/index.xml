@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 22 Feb 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-02-22</title><link>https://frozen-lobster.rohanverma.net/posts/2022-02-22/</link><pubDate>Tue, 22 Feb 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-02-22/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 23 Feb 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-02-23</title><link>https://frozen-lobster.rohanverma.net/posts/2022-02-23/</link><pubDate>Wed, 23 Feb 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-02-23/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.phoronix.com/scan.php?page=news_item&amp;amp;px=Linux-getrandom-8450p">Linux&amp;rsquo;s getrandom() Sees A 8450% Performance Improvement With Latest Code&lt;/a>
+(&lt;a href="https://lobste.rs/s/zfgqin/linux_s_getrandom_sees_8450_performance">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://arne.me/blog/plex-on-nixos">Plex on NixOS&lt;/a>
+(&lt;a href="https://lobste.rs/s/jyoukv/plex_on_nixos">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://buttondown.email/hillelwayne/archive/a-short-treatise-on-bugs/">A Short Treatise on Bugs&lt;/a>
+(&lt;a href="https://lobste.rs/s/q4rysr/short_treatise_on_bugs">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cendyne.dev/posts/2022-02-18-user-provided-primary-keys.html">Do not recommend: User Provided Primary Keys&lt;/a>
+(&lt;a href="https://lobste.rs/s/4pwdch/do_not_recommend_user_provided_primary">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.sciencedirect.com/science/article/abs/pii/S2590118420300046">Morbig: A Static parser for POSIX shell&lt;/a>
+(&lt;a href="https://lobste.rs/s/wnqdip/morbig_static_parser_for_posix_shell">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.jowanza.com/blog/2022/2/21/software-im-thankful-for">Software I&amp;rsquo;m Thankful For&lt;/a>
+(&lt;a href="https://lobste.rs/s/ltyyzm/software_i_m_thankful_for">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/soywod/himalaya">Himalaya, the CLI email client: v0.5.6 released (PGP and Maildir support)&lt;/a>
+(&lt;a href="https://lobste.rs/s/cclely/himalaya_cli_email_client_v0_5_6_released">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pointieststick.com/2022/02/21/its-normal-and-it-works/">It’s normal and it works&lt;/a>
+(&lt;a href="https://lobste.rs/s/h5hz8j/it_s_normal_it_works">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://dev.to/asterite/why-i-love-ruby-part-1-20h2">Why I love Ruby&lt;/a>
+(&lt;a href="https://lobste.rs/s/f9syni/why_i_love_ruby">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/cloudflare/tubular">cloudflare/tubular: BSD socket API on steroids&lt;/a>
+(&lt;a href="https://lobste.rs/s/0ycqqs/cloudflare_tubular_bsd_socket_api_on">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-02-22</title><link>https://frozen-lobster.rohanverma.net/posts/2022-02-22/</link><pubDate>Tue, 22 Feb 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-02-22/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://christine.website/blog/nix-flakes-1-2022-02-21">Nix Flakes: an Introduction&lt;/a>
 (&lt;a href="https://lobste.rs/s/dmrnqy/nix_flakes_introduction">comments&lt;/a>)&lt;/p>
