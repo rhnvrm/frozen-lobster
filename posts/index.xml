@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 23 Feb 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-02-23</title><link>https://frozen-lobster.rohanverma.net/posts/2022-02-23/</link><pubDate>Wed, 23 Feb 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-02-23/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 24 Feb 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-02-24</title><link>https://frozen-lobster.rohanverma.net/posts/2022-02-24/</link><pubDate>Thu, 24 Feb 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-02-24/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://gleam.run/news/gleam-v0.20-released/">v0.20 of Gleam, a type safe language for the Erlang VM, is out&lt;/a>
+(&lt;a href="https://lobste.rs/s/tt2gva/v0_20_gleam_type_safe_language_for_erlang">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.huy.rocks/everyday/02-22-2022-security-how-bitwarden-encrypts-your-data">How Bitwarden encrypts your data&lt;/a>
+(&lt;a href="https://lobste.rs/s/plnc1z/how_bitwarden_encrypts_your_data">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/hrkfdn/ncspot">ncspot: Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes&lt;/a>
+(&lt;a href="https://lobste.rs/s/owg0xa/ncspot_cross_platform_ncurses_spotify">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.openssh.com/releasenotes.html">OpenSSH 8.9 Released&lt;/a>
+(&lt;a href="https://lobste.rs/s/vej7dz/openssh_8_9_released">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/JeanJouliaCode/wipeClean">Wipe your terminal clean&lt;/a>
+(&lt;a href="https://lobste.rs/s/qusz2b/wipe_your_terminal_clean">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sqlite.org/releaselog/3_38_0.html">SQLite Release 3.38.0&lt;/a>
+(&lt;a href="https://lobste.rs/s/gdu6pt/sqlite_release_3_38_0">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.sicpers.info/2022/02/aphorism-considered-harmful/">Aphorism Considered Harmful&lt;/a>
+(&lt;a href="https://lobste.rs/s/wh6rzy/aphorism_considered_harmful">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://mutable-states.com/short-names-make-the-compiler-faster.html">Short Names Make the Compiler Faster&lt;/a>
+(&lt;a href="https://lobste.rs/s/eqppjf/short_names_make_compiler_faster">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://relational-pipes.globalcode.info/v_0/examples-x11-basics.xhtml">Exploring X11 windows and devices and emulating mouse movements and keystrokes&lt;/a>
+(&lt;a href="https://lobste.rs/s/ei1ic2/exploring_x11_windows_devices_emulating">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/naver/lispe/wiki/1.2-Jag:-Terminal-Editor-With-Mouse-Support-and-Colour-Highlighting">Jag : a multi-platform terminal editor with mouse support&lt;/a>
+(&lt;a href="https://lobste.rs/s/7jddtj/jag_multi_platform_terminal_editor_with">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-02-23</title><link>https://frozen-lobster.rohanverma.net/posts/2022-02-23/</link><pubDate>Wed, 23 Feb 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-02-23/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://www.phoronix.com/scan.php?page=news_item&amp;amp;px=Linux-getrandom-8450p">Linux&amp;rsquo;s getrandom() Sees A 8450% Performance Improvement With Latest Code&lt;/a>
 (&lt;a href="https://lobste.rs/s/zfgqin/linux_s_getrandom_sees_8450_performance">comments&lt;/a>)&lt;/p>
