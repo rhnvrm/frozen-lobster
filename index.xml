@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 24 Feb 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-02-24</title><link>https://frozen-lobster.rohanverma.net/posts/2022-02-24/</link><pubDate>Thu, 24 Feb 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-02-24/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 25 Feb 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-02-25</title><link>https://frozen-lobster.rohanverma.net/posts/2022-02-25/</link><pubDate>Fri, 25 Feb 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-02-25/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://susam.net/blog/import-readline.html">import readline&lt;/a>
+(&lt;a href="https://lobste.rs/s/titngt/import_readline">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.replit.com/powered-by-nix">All New Repls are Powered By Nix&lt;/a>
+(&lt;a href="https://lobste.rs/s/jzpd65/all_new_repls_are_powered_by_nix">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jvns.ca/blog/2022/02/23/getaddrinfo-is-kind-of-weird/">Some things about getaddrinfo that surprised me&lt;/a>
+(&lt;a href="https://lobste.rs/s/gkf2mv/some_things_about_getaddrinfo_surprised">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pekingnology.substack.com/p/chinese-cybersecurity-lab-discovers">Chinese cybersecurity lab discovers US backdoor at Chinese system&lt;/a>
+(&lt;a href="https://lobste.rs/s/dy4uiy/chinese_cybersecurity_lab_discovers_us">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.rust-lang.org/inside-rust/2022/02/22/compiler-team-ambitions-2022.html">Rust Compiler Ambitions for 2022&lt;/a>
+(&lt;a href="https://lobste.rs/s/vu6nml/rust_compiler_ambitions_for_2022">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://bas.codes/posts/python-decorators">Understanding Decorators in Python&lt;/a>
+(&lt;a href="https://lobste.rs/s/gs22eb/understanding_decorators_python">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gleam.run/news/gleam-v0.20-released/">v0.20 of Gleam, a type safe language for the Erlang VM, is out&lt;/a>
+(&lt;a href="https://lobste.rs/s/tt2gva/v0_20_gleam_type_safe_language_for_erlang">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://blog.erezsh.com/5-lark-features-you-probably-didnt-know-about/">5 Lark features you probably didn&amp;rsquo;t know about&lt;/a>
+(&lt;a href="https://lobste.rs/s/jdonht/5_lark_features_you_probably_didn_t_know">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://simonwillison.net/2022/Feb/23/support-open-source/">Support open source that you use by paying the maintainers to talk to your team&lt;/a>
+(&lt;a href="https://lobste.rs/s/vut8bm/support_open_source_you_use_by_paying">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ishan.co/screen-time/">Screen Time: Another Feature That Apple Forgot&lt;/a>
+(&lt;a href="https://lobste.rs/s/cvzov8/screen_time_another_feature_apple_forgot">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-02-24</title><link>https://frozen-lobster.rohanverma.net/posts/2022-02-24/</link><pubDate>Thu, 24 Feb 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-02-24/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://gleam.run/news/gleam-v0.20-released/">v0.20 of Gleam, a type safe language for the Erlang VM, is out&lt;/a>
 (&lt;a href="https://lobste.rs/s/tt2gva/v0_20_gleam_type_safe_language_for_erlang">comments&lt;/a>)&lt;/p>
