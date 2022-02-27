@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 26 Feb 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-02-26</title><link>https://frozen-lobster.rohanverma.net/posts/2022-02-26/</link><pubDate>Sat, 26 Feb 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-02-26/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 27 Feb 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-02-27</title><link>https://frozen-lobster.rohanverma.net/posts/2022-02-27/</link><pubDate>Sun, 27 Feb 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-02-27/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://blog.aleksic.dev/using-ansible-and-nomad-for-a-homelab-part-1">Using Ansible &amp;amp; Nomad for a homelab (part 1)&lt;/a>
+(&lt;a href="https://lobste.rs/s/verixf/using_ansible_nomad_for_homelab_part_1">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://austinhenley.com/blog/pythonstringsaremutable.html">Python strings are immutable, but only sometimes&lt;/a>
+(&lt;a href="https://lobste.rs/s/pwnn5e/python_strings_are_immutable_only">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lunduke.substack.com/p/make-linux-look-exactly-like-windows">Make Linux look exactly like Windows 95&amp;hellip; I mean &lt;em>exactly&lt;/em>&lt;/a>
+(&lt;a href="https://lobste.rs/s/xjft1i/make_linux_look_exactly_like_windows_95_i">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://raymii.org/s/blog/Raspberry_Pi_Compute_Module_4_eMMC_flashing_issues.html">Raspberry Pi Compute Module 4 eMMC flashing issues&lt;/a>
+(&lt;a href="https://lobste.rs/s/lnsqgt/raspberry_pi_compute_module_4_emmc">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.hacklewayne.com/dependency-hell-not-if-we-use-functions-for-library-authors">Dependency hell? Not if we use functions! For library authors&lt;/a>
+(&lt;a href="https://lobste.rs/s/br1dkh/dependency_hell_not_if_we_use_functions">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://about.gitlab.com/releases/2022/02/25/critical-security-release-gitlab-14-8-2-released/">GitLab Critical Security Release: 14.8.2, 14.7.4, and 14.6.5&lt;/a>
+(&lt;a href="https://lobste.rs/s/vnvmwg/gitlab_critical_security_release_14_8_2_14">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jappie.me/failing-in-haskell.html">Failing in Haskell&lt;/a>
+(&lt;a href="https://lobste.rs/s/qnrdnz/failing_haskell">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lwn.net/SubscriberLink/885941/01fdc39df2ecc25f/">Moving the kernel to modern C&lt;/a>
+(&lt;a href="https://lobste.rs/s/hl5ty0/moving_kernel_modern_c">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://brunosutic.com/blog/ruby-fiber-scheduler">Ruby Fiber Scheduler&lt;/a>
+(&lt;a href="https://lobste.rs/s/esuvlh/ruby_fiber_scheduler">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://aras-p.info/blog/2022/02/25/Curious-lack-of-sprintf-scaling/">Curious lack of sprintf scaling&lt;/a>
+(&lt;a href="https://lobste.rs/s/jzagcf/curious_lack_sprintf_scaling">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-02-26</title><link>https://frozen-lobster.rohanverma.net/posts/2022-02-26/</link><pubDate>Sat, 26 Feb 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-02-26/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://lwn.net/SubscriberLink/885941/01fdc39df2ecc25f/">Moving the kernel to modern C&lt;/a>
 (&lt;a href="https://lobste.rs/s/hl5ty0/moving_kernel_modern_c">comments&lt;/a>)&lt;/p>
