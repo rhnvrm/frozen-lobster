@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 27 Feb 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-02-27</title><link>https://frozen-lobster.rohanverma.net/posts/2022-02-27/</link><pubDate>Sun, 27 Feb 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-02-27/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 28 Feb 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-02-28</title><link>https://frozen-lobster.rohanverma.net/posts/2022-02-28/</link><pubDate>Mon, 28 Feb 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-02-28/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://benhoyt.com/writings/prig/">Prig: like AWK, but uses Go for &amp;ldquo;scripting&amp;rdquo;&lt;/a>
+(&lt;a href="https://lobste.rs/s/aewpnz/prig_like_awk_uses_go_for_scripting">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sporks.space/2022/02/27/win32-is-the-stable-linux-userland-abi-and-the-consequences/">Win32 is the stable Linux userland ABI (and the consequences)&lt;/a>
+(&lt;a href="https://lobste.rs/s/c5tivn/win32_is_stable_linux_userland_abi">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gist.github.com/rain-1/799a4af4a9919c14c956272fe971b5d1">How to make small tweaks to free software&lt;/a>
+(&lt;a href="https://lobste.rs/s/spemtf/how_make_small_tweaks_free_software">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://seh.dev/9runes/">Writing UTF-8 Programs in Plan 9&lt;/a>
+(&lt;a href="https://lobste.rs/s/uugqa2/writing_utf_8_programs_plan_9">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://tirkarthi.github.io/programming/2022/02/26/sqlite-json-improvements.html">JSON improvements in SQLite 3.38.0&lt;/a>
+(&lt;a href="https://lobste.rs/s/uv3zhk/json_improvements_sqlite_3_38_0">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://christine.website/blog/nix-flakes-2-2022-02-27">Nix Flakes: Packages and How to Use Them&lt;/a>
+(&lt;a href="https://lobste.rs/s/sypdha/nix_flakes_packages_how_use_them">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.oilshell.org/blog/2022/02/diagrams.html">The Internet Was Designed With a Narrow Waist&lt;/a>
+(&lt;a href="https://lobste.rs/s/o3rjb0/internet_was_designed_with_narrow_waist">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://relational-pipes.globalcode.info/v_0/examples-asn1-x509.xhtml">Exploring content of X.509 certificates&lt;/a>
+(&lt;a href="https://lobste.rs/s/lagamd/exploring_content_x_509_certificates">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://www.os2museum.com/wp/why-does-windows-really-use-backslash-as-path-separator/">Why Does Windows Really Use Backslash as Path Separator? (2019)&lt;/a>
+(&lt;a href="https://lobste.rs/s/8okru8/why_does_windows_really_use_backslash_as">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://hackaday.com/2022/02/26/60-pc-oscilloscope-review/">$60 PC Oscilloscope Review&lt;/a>
+(&lt;a href="https://lobste.rs/s/54gjns/60_pc_oscilloscope_review">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-02-27</title><link>https://frozen-lobster.rohanverma.net/posts/2022-02-27/</link><pubDate>Sun, 27 Feb 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-02-27/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://blog.aleksic.dev/using-ansible-and-nomad-for-a-homelab-part-1">Using Ansible &amp;amp; Nomad for a homelab (part 1)&lt;/a>
 (&lt;a href="https://lobste.rs/s/verixf/using_ansible_nomad_for_homelab_part_1">comments&lt;/a>)&lt;/p>
