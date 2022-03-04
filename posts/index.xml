@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 03 Mar 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-03-03</title><link>https://frozen-lobster.rohanverma.net/posts/2022-03-03/</link><pubDate>Thu, 03 Mar 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-03-03/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 04 Mar 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-03-04</title><link>https://frozen-lobster.rohanverma.net/posts/2022-03-04/</link><pubDate>Fri, 04 Mar 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-03-04/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://datastation.multiprocess.io/blog/2022-03-03-improving-go-json-encoding-performance-for-large-arrays-of-objects.html">Speeding up Go&amp;rsquo;s builtin JSON encoder up to 55% for large arrays of objects&lt;/a>
+(&lt;a href="https://lobste.rs/s/gkueas/speeding_up_go_s_builtin_json_encoder_up_55">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gomakethings.com/spas-were-a-mistake/">SPAs were a mistake&lt;/a>
+(&lt;a href="https://lobste.rs/s/ucaheg/spas_were_mistake">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What’s your favorite vim shortcut/hack&lt;/a>
+(&lt;a href="https://lobste.rs/s/hmpuep/what_s_your_favorite_vim_shortcut_hack">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://charlieharrington.com/my-new-old-apple-macintosh-se30-computer/">My New Old Apple Macintosh SE/30 Computer&lt;/a>
+(&lt;a href="https://lobste.rs/s/dewtop/my_new_old_apple_macintosh_se_30_computer">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://computeradsfromthepast.substack.com/p/franklins-ace-1000">Franklin&amp;rsquo;s ACE 1000&lt;/a>
+(&lt;a href="https://lobste.rs/s/onfkri/franklin_s_ace_1000">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://medium.com/@laurajavier/google-slides-is-actually-hilarious-83c1ced857ee">Google Slides is Actually Hilarious&lt;/a>
+(&lt;a href="https://lobste.rs/s/nvohf2/google_slides_is_actually_hilarious">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://amissing.link/overwriting-disks.html">On overwriting disks (on OpenBSD 7.0-current)&lt;/a>
+(&lt;a href="https://lobste.rs/s/a2ib1j/on_overwriting_disks_on_openbsd_7_0">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://200ok.ch/posts/2022-02-13_integrating_org_mode_agenda_into_other_calendar_apps.html">Integrate Org mode Agenda into other calendar apps&lt;/a>
+(&lt;a href="https://lobste.rs/s/xffkwm/integrate_org_mode_agenda_into_other">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://riffle.systems/essays/prelude/">Building data-centric apps with a reactive relational database&lt;/a>
+(&lt;a href="https://lobste.rs/s/odlfid/building_data_centric_apps_with_reactive">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.warp.dev/rules-are-made-to-be-broken/">Rust&amp;rsquo;s Rules are Made to Be Broken&lt;/a>
+(&lt;a href="https://lobste.rs/s/c1bevd/rust_s_rules_are_made_be_broken">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-03-03</title><link>https://frozen-lobster.rohanverma.net/posts/2022-03-03/</link><pubDate>Thu, 03 Mar 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-03-03/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://aaronhertzmann.com/2022/02/28/how-does-perspective-work.html">How Does Perspective Work in Pictures?&lt;/a>
 (&lt;a href="https://lobste.rs/s/r7jtjm/how_does_perspective_work_pictures">comments&lt;/a>)&lt;/p>
