@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 04 Mar 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-03-04</title><link>https://frozen-lobster.rohanverma.net/posts/2022-03-04/</link><pubDate>Fri, 04 Mar 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-03-04/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 05 Mar 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-03-05</title><link>https://frozen-lobster.rohanverma.net/posts/2022-03-05/</link><pubDate>Sat, 05 Mar 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-03-05/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://twitter.com/awesomekling/status/1499750525306388482">Just managed to log into Lobsters from SerenityOS&lt;/a>
+(&lt;a href="https://lobste.rs/s/l64zhd/just_managed_log_into_lobsters_from">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://berkeleygraphics.com/typefaces/berkeley-mono">Berkeley Mono&lt;/a>
+(&lt;a href="https://lobste.rs/s/eyd8up/berkeley_mono">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/samber/lo">A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find&amp;hellip;)&lt;/a>
+(&lt;a href="https://lobste.rs/s/2bvfvs/lodash_style_go_library_based_on_go_1_18">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/tomekw/doom-parents">Manipulate parentheses and sexps in Doom Emacs&lt;/a>
+(&lt;a href="https://lobste.rs/s/qnurbg/manipulate_parentheses_sexps_doom_emacs">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this weekend?&lt;/a>
+(&lt;a href="https://lobste.rs/s/mdjph9/what_are_you_doing_this_weekend">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.jeffgeerling.com/blog/2022/getting-rx-6700-xt-work-gaming-on-linux">Getting an RX 6700 XT to work for Gaming on Linux&lt;/a>
+(&lt;a href="https://lobste.rs/s/n4slvh/getting_rx_6700_xt_work_for_gaming_on_linux">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lam.io/blog/rounding/">XKCD 2585 Implemented: Round the world&lt;/a>
+(&lt;a href="https://lobste.rs/s/641wqk/xkcd_2585_implemented_round_world">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://datastation.multiprocess.io/blog/2022-03-03-improving-go-json-encoding-performance-for-large-arrays-of-objects.html">Speeding up Go&amp;rsquo;s builtin JSON encoder up to 55% for large arrays of objects&lt;/a>
+(&lt;a href="https://lobste.rs/s/gkueas/speeding_up_go_s_builtin_json_encoder_up_55">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://devblogs.microsoft.com/commandline/windows-package-manager-1-2/">Windows Package Manager 1.2&lt;/a>
+(&lt;a href="https://lobste.rs/s/rmchep/windows_package_manager_1_2">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://golang.design/history/">Go: A Documentary&lt;/a>
+(&lt;a href="https://lobste.rs/s/djvhtm/go_documentary">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-03-04</title><link>https://frozen-lobster.rohanverma.net/posts/2022-03-04/</link><pubDate>Fri, 04 Mar 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-03-04/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://datastation.multiprocess.io/blog/2022-03-03-improving-go-json-encoding-performance-for-large-arrays-of-objects.html">Speeding up Go&amp;rsquo;s builtin JSON encoder up to 55% for large arrays of objects&lt;/a>
 (&lt;a href="https://lobste.rs/s/gkueas/speeding_up_go_s_builtin_json_encoder_up_55">comments&lt;/a>)&lt;/p>
