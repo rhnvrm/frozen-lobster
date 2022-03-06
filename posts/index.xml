@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 05 Mar 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-03-05</title><link>https://frozen-lobster.rohanverma.net/posts/2022-03-05/</link><pubDate>Sat, 05 Mar 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-03-05/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 06 Mar 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-03-06</title><link>https://frozen-lobster.rohanverma.net/posts/2022-03-06/</link><pubDate>Sun, 06 Mar 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-03-06/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://200ok.ch/posts/2022-01-12_configuring_default_applications_for_xdg_open.html">Configuring default applications for xdg-open&lt;/a>
+(&lt;a href="https://lobste.rs/s/kgswqi/configuring_default_applications_for">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://twitter.com/awesomekling/status/1499750525306388482">Just managed to log into Lobsters from SerenityOS&lt;/a>
+(&lt;a href="https://lobste.rs/s/l64zhd/just_managed_log_into_lobsters_from">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.yaymukund.com/posts/scoring-an-animation-with-orca/">Scoring an animation using Orca&lt;/a>
+(&lt;a href="https://lobste.rs/s/lpvm4n/scoring_animation_using_orca">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://adam-p.ca/blog/2022/03/x-forwarded-for/">The perils of the “real” client IP&lt;/a>
+(&lt;a href="https://lobste.rs/s/udvcbq/perils_real_client_ip">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://macwright.com/2022/03/04/browsers-and-files.html">Using files with browsers, in reality&lt;/a>
+(&lt;a href="https://lobste.rs/s/koihok/using_files_with_browsers_reality">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/IBM/MicroscoPy">An open-source, motorized microscope built using LEGO bricks, Arduino, RPi and 3D printing&lt;/a>
+(&lt;a href="https://lobste.rs/s/xhrnpm/open_source_motorized_microscope_built">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://berkeleygraphics.com/typefaces/berkeley-mono">Berkeley Mono&lt;/a>
+(&lt;a href="https://lobste.rs/s/eyd8up/berkeley_mono">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://wolfram.schneider.org/bsd/7thEdManVol2/adv.ed/adv.ed.pdf">Advanced Editing on UNIX&lt;/a>
+(&lt;a href="https://lobste.rs/s/j5wvrw/advanced_editing_on_unix">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">Display information about HTTP status codes&lt;/a>
+(&lt;a href="https://lobste.rs/s/3chsvc/display_information_about_http_status">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://element.io/blog/introducing-native-matrix-voip-with-element-call/">Introducing Native Matrix VoIP with Element Call&lt;/a>
+(&lt;a href="https://lobste.rs/s/pypuou/introducing_native_matrix_voip_with">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-03-05</title><link>https://frozen-lobster.rohanverma.net/posts/2022-03-05/</link><pubDate>Sat, 05 Mar 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-03-05/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://twitter.com/awesomekling/status/1499750525306388482">Just managed to log into Lobsters from SerenityOS&lt;/a>
 (&lt;a href="https://lobste.rs/s/l64zhd/just_managed_log_into_lobsters_from">comments&lt;/a>)&lt;/p>
