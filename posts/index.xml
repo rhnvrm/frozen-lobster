@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 06 Mar 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-03-06</title><link>https://frozen-lobster.rohanverma.net/posts/2022-03-06/</link><pubDate>Sun, 06 Mar 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-03-06/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 07 Mar 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-03-07</title><link>https://frozen-lobster.rohanverma.net/posts/2022-03-07/</link><pubDate>Mon, 07 Mar 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-03-07/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="">How did you learn AWS?&lt;/a>
+(&lt;a href="https://lobste.rs/s/lzxl0w/how_did_you_learn_aws">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://rachelbythebay.com/w/2022/03/05/prod/">Editing stuff in prod&lt;/a>
+(&lt;a href="https://lobste.rs/s/byssgg/editing_stuff_prod">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">Web-dev advice for building a localhost app w/o a steep learning curve?&lt;/a>
+(&lt;a href="https://lobste.rs/s/sxhylb/web_dev_advice_for_building_localhost_app">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://varun.ch/history">Retrieving your browsing history through a CAPTCHA&lt;/a>
+(&lt;a href="https://lobste.rs/s/ulnhnd/retrieving_your_browsing_history">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://computeradsfromthepast.substack.com/p/kensington-microwares-system-saver">Kensington Microware&amp;rsquo;s System Saver&lt;/a>
+(&lt;a href="https://lobste.rs/s/tfxols/kensington_microware_s_system_saver">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://plv.csail.mit.edu/blog/alectryon.html#alectryon">Untangling mechanized proofs&lt;/a>
+(&lt;a href="https://lobste.rs/s/dgc1cs/untangling_mechanized_proofs">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://simonwillison.net/2022/Mar/5/dash-encoding/">Why I invented “dash encoding”, a new encoding scheme for URL paths&lt;/a>
+(&lt;a href="https://lobste.rs/s/6flnmi/why_i_invented_dash_encoding_new_encoding">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://privacytests.org/">Which browsers are best for privacy?&lt;/a>
+(&lt;a href="https://lobste.rs/s/lkmnsu/which_browsers_are_best_for_privacy">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://practicalrescript.com/rescript-on-deno-declarative-command-line-tools/">ReScript on Deno: Declarative Command Line Tools&lt;/a>
+(&lt;a href="https://lobste.rs/s/mrbqjz/rescript_on_deno_declarative_command">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.itprotoday.com/compute-engines/windows-nt-and-vms-rest-story">Windows NT and VMS: The Rest of the Story (1998)&lt;/a>
+(&lt;a href="https://lobste.rs/s/uki3pj/windows_nt_vms_rest_story_1998">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-03-06</title><link>https://frozen-lobster.rohanverma.net/posts/2022-03-06/</link><pubDate>Sun, 06 Mar 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-03-06/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://200ok.ch/posts/2022-01-12_configuring_default_applications_for_xdg_open.html">Configuring default applications for xdg-open&lt;/a>
 (&lt;a href="https://lobste.rs/s/kgswqi/configuring_default_applications_for">comments&lt;/a>)&lt;/p>
