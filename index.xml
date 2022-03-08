@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 07 Mar 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-03-07</title><link>https://frozen-lobster.rohanverma.net/posts/2022-03-07/</link><pubDate>Mon, 07 Mar 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-03-07/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 08 Mar 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-03-08</title><link>https://frozen-lobster.rohanverma.net/posts/2022-03-08/</link><pubDate>Tue, 08 Mar 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-03-08/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://dirtypipe.cm4all.com/">The Dirty Pipe Vulnerability&lt;/a>
+(&lt;a href="https://lobste.rs/s/i0zwno/dirty_pipe_vulnerability">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this week?&lt;/a>
+(&lt;a href="https://lobste.rs/s/2ouqcz/what_are_you_doing_this_week">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://boredcaveman.xyz/post/0x2_static-torrent-website-p2p-queries.html">Static torrent website with peer-to-peer queries over BitTorrent on 2M records&lt;/a>
+(&lt;a href="https://lobste.rs/s/pt8ptn/static_torrent_website_with_peer_peer">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.gamasutra.com/view/feature/2320/postmortem_freeverses_marathon_.php?print=1">Postmortem: Freeverse&amp;rsquo;s Marathon 2: Durandal for XBLA (2007)&lt;/a>
+(&lt;a href="https://lobste.rs/s/rhewpq/postmortem_freeverse_s_marathon_2">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://aneksteind.github.io/posts/2022-03-04.html">Discovering I&amp;rsquo;ve Shot Myself in the Foot with std::async&lt;/a>
+(&lt;a href="https://lobste.rs/s/lxkhc5/discovering_i_ve_shot_myself_foot_with_std">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://devtails.xyz/i-can-no-longer-compile-my-first-flash-game">I Can No Longer Compile My First Flash Game&lt;/a>
+(&lt;a href="https://lobste.rs/s/zrbalq/i_can_no_longer_compile_my_first_flash_game">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://aftenposten.substack.com/p/what-if-driven-development">What if? driven development&lt;/a>
+(&lt;a href="https://lobste.rs/s/dphy3j/what_if_driven_development">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://outerproduct.net/2022-03-07_death-to-%E2%97%8B.html">Fixing APL’s trigonometric notation&lt;/a>
+(&lt;a href="https://lobste.rs/s/uhodpq/fixing_apl_s_trigonometric_notation">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://nullprogram.com/blog/2022/03/07/">Compressing and embedding a Wordle word list&lt;/a>
+(&lt;a href="https://lobste.rs/s/smtr5t/compressing_embedding_wordle_word_list">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.networkprofile.org/power-monitoring-setup-iotawatt-grafana/">Power Monitoring Setup (IoTaWatt + Grafana)&lt;/a>
+(&lt;a href="https://lobste.rs/s/stdlav/power_monitoring_setup_iotawatt_grafana">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-03-07</title><link>https://frozen-lobster.rohanverma.net/posts/2022-03-07/</link><pubDate>Mon, 07 Mar 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-03-07/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="">How did you learn AWS?&lt;/a>
 (&lt;a href="https://lobste.rs/s/lzxl0w/how_did_you_learn_aws">comments&lt;/a>)&lt;/p>
