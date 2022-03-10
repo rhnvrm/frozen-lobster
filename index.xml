@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 09 Mar 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-03-09</title><link>https://frozen-lobster.rohanverma.net/posts/2022-03-09/</link><pubDate>Wed, 09 Mar 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-03-09/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 10 Mar 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-03-10</title><link>https://frozen-lobster.rohanverma.net/posts/2022-03-10/</link><pubDate>Thu, 10 Mar 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-03-10/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://jvns.ca/blog/2022/03/08/tiny-programs/">Some tiny personal programs I&amp;rsquo;ve written&lt;/a>
+(&lt;a href="https://lobste.rs/s/osumtf/some_tiny_personal_programs_i_ve_written">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thoughtbot.com/blog/working-in-my-native-language-requires-empathy">Working in my native language requires empathy&lt;/a>
+(&lt;a href="https://lobste.rs/s/lle5hl/working_my_native_language_requires">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.sunfishcode.online/bugs-in-hello-world/">Bugs in Hello World&lt;/a>
+(&lt;a href="https://lobste.rs/s/nw8k3m/bugs_hello_world">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://nothings.org/gamedev/ssao/">Corners Don&amp;rsquo;t Look Like That: Regarding Screenspace Ambient Occlusion&lt;/a>
+(&lt;a href="https://lobste.rs/s/n2edan/corners_don_t_look_like_regarding">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://morphos-team.net/releasenotes/3.16">Public Release of MorphOS 3.16&lt;/a>
+(&lt;a href="https://lobste.rs/s/tcp6rt/public_release_morphos_3_16">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://serhack.me/articles/unveiling-anonymous-author-stylometry-techniques/">Unveiling the Anonymous Author: Stylometry Techniques&lt;/a>
+(&lt;a href="https://lobste.rs/s/bw8amy/unveiling_anonymous_author_stylometry">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.evalapply.org/posts/shite-the-static-sites-from-shell-part-1/#screw-that-gimme-a-site-already">shite: static sites from shell: part 1/2&lt;/a>
+(&lt;a href="https://lobste.rs/s/uh8pys/shite_static_sites_from_shell_part_1_2">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://www.blinkenlights.com/classiccmp/javaorigin.html">The Long Strange Trip to Java&lt;/a>
+(&lt;a href="https://lobste.rs/s/dzvifu/long_strange_trip_java">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/unisonweb/unison/releases/tag/release%2FM3">Unison Milestone 3&lt;/a>
+(&lt;a href="https://lobste.rs/s/shbkwp/unison_milestone_3">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://semiengineering.com/why-risc-v-is-succeeding/">Why RISC-V Is Succeeding&lt;/a>
+(&lt;a href="https://lobste.rs/s/owaprc/why_risc_v_is_succeeding">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-03-09</title><link>https://frozen-lobster.rohanverma.net/posts/2022-03-09/</link><pubDate>Wed, 09 Mar 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-03-09/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://www.apple.com/apple-events/">Apple Event for March 8th, 2022&lt;/a>
 (&lt;a href="https://lobste.rs/s/wzafq4/apple_event_for_march_8th_2022">comments&lt;/a>)&lt;/p>
