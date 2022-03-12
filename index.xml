@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 11 Mar 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-03-11</title><link>https://frozen-lobster.rohanverma.net/posts/2022-03-11/</link><pubDate>Fri, 11 Mar 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-03-11/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 12 Mar 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-03-12</title><link>https://frozen-lobster.rohanverma.net/posts/2022-03-12/</link><pubDate>Sat, 12 Mar 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-03-12/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://tweag.io/blog/2022-03-11-nickel-first-release/">First release of Nickel&lt;/a>
+(&lt;a href="https://lobste.rs/s/hskr5v/first_release_nickel">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://labs.ripe.net/author/emileaben/the-resilience-of-the-internet-in-ukraine/">The Resilience of the Internet in Ukraine&lt;/a>
+(&lt;a href="https://lobste.rs/s/cti2zv/resilience_internet_ukraine">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/microsoft/mimalloc">microsoft/mimalloc&lt;/a>
+(&lt;a href="https://lobste.rs/s/kfwxvu/microsoft_mimalloc">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this weekend?&lt;/a>
+(&lt;a href="https://lobste.rs/s/ylzpmz/what_are_you_doing_this_weekend">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.morling.dev/blog/the-code-review-pyramid/">The Code Review Pyramid&lt;/a>
+(&lt;a href="https://lobste.rs/s/mp3v3c/code_review_pyramid">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://computeradsfromthepast.substack.com/p/strategic-simulations-inc">Strategic Simulations Inc&lt;/a>
+(&lt;a href="https://lobste.rs/s/tsqabf/strategic_simulations_inc">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ctodive.com/hooks-the-secret-feature-powering-the-postgres-ecosystem-f05b3b82e0ba">Hooks: The secret feature powering the Postgres ecosystem&lt;/a>
+(&lt;a href="https://lobste.rs/s/bd6lkf/hooks_secret_feature_powering_postgres">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.yossarian.net/2022/03/10/Things-I-hate-about-Rust-redux">Things I hate about Rust, redux&lt;/a>
+(&lt;a href="https://lobste.rs/s/bcfxjw/things_i_hate_about_rust_redux">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://zhenghao.io/posts/ts-never">A complete guide to TypeScript’s never type&lt;/a>
+(&lt;a href="https://lobste.rs/s/fi5wuv/complete_guide_typescript_s_never_type">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://atomized.org/blog/2021/11/28/old-mccarthy-had-a-form/">Old McCarthy Had a Form&lt;/a>
+(&lt;a href="https://lobste.rs/s/ick3bc/old_mccarthy_had_form">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-03-11</title><link>https://frozen-lobster.rohanverma.net/posts/2022-03-11/</link><pubDate>Fri, 11 Mar 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-03-11/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://blog.yossarian.net/2022/03/10/Things-I-hate-about-Rust-redux">Things I hate about Rust, redux&lt;/a>
 (&lt;a href="https://lobste.rs/s/bcfxjw/things_i_hate_about_rust_redux">comments&lt;/a>)&lt;/p>
