@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 12 Mar 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-03-12</title><link>https://frozen-lobster.rohanverma.net/posts/2022-03-12/</link><pubDate>Sat, 12 Mar 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-03-12/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 13 Mar 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-03-13</title><link>https://frozen-lobster.rohanverma.net/posts/2022-03-13/</link><pubDate>Sun, 13 Mar 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-03-13/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://fabianlindfors.se/blog/schema-migrations-in-postgres/">Zero-downtime schema migrations in Postgres using views&lt;/a>
+(&lt;a href="https://lobste.rs/s/pkev1p/zero_downtime_schema_migrations">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://leaningtech.com/reducing-webassembly-size-by-exploring-all-executions-in-llvm/">PartialExecuter: Reducing WebAssembly size by exploring all executions in LLVM&lt;/a>
+(&lt;a href="https://lobste.rs/s/ewgc6r/partialexecuter_reducing_webassembly">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.jim-nielsen.com/2022/inspecting-web-views-in-macos/">Inspecting Web Views in macOS&lt;/a>
+(&lt;a href="https://lobste.rs/s/jgwp8i/inspecting_web_views_macos">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tweag.io/blog/2022-03-11-nickel-first-release/">First release of Nickel&lt;/a>
+(&lt;a href="https://lobste.rs/s/hskr5v/first_release_nickel">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ctodive.com/hooks-the-secret-feature-powering-the-postgres-ecosystem-f05b3b82e0ba">Hooks: The secret feature powering the Postgres ecosystem&lt;/a>
+(&lt;a href="https://lobste.rs/s/bd6lkf/hooks_secret_feature_powering_postgres">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/microsoft/mimalloc">microsoft/mimalloc&lt;/a>
+(&lt;a href="https://lobste.rs/s/kfwxvu/microsoft_mimalloc">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lwn.net/Articles/885729/">Better visibility into packet-dropping decisions&lt;/a>
+(&lt;a href="https://lobste.rs/s/pvaaun/better_visibility_into_packet_dropping">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://wesmckinney.com/blog/python-parquet-multithreading/">Extreme IO performance with parallel Apache Parquet in Python&lt;/a>
+(&lt;a href="https://lobste.rs/s/yn7mnh/extreme_io_performance_with_parallel">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://marcan.st/2011/01/safe-hacking/">Safe Hacking (2011)&lt;/a>
+(&lt;a href="https://lobste.rs/s/r4mz2z/safe_hacking_2011">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://labs.ripe.net/author/emileaben/the-resilience-of-the-internet-in-ukraine/">The Resilience of the Internet in Ukraine&lt;/a>
+(&lt;a href="https://lobste.rs/s/cti2zv/resilience_internet_ukraine">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-03-12</title><link>https://frozen-lobster.rohanverma.net/posts/2022-03-12/</link><pubDate>Sat, 12 Mar 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-03-12/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://tweag.io/blog/2022-03-11-nickel-first-release/">First release of Nickel&lt;/a>
 (&lt;a href="https://lobste.rs/s/hskr5v/first_release_nickel">comments&lt;/a>)&lt;/p>
