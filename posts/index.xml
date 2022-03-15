@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 14 Mar 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-03-14</title><link>https://frozen-lobster.rohanverma.net/posts/2022-03-14/</link><pubDate>Mon, 14 Mar 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-03-14/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 15 Mar 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-03-15</title><link>https://frozen-lobster.rohanverma.net/posts/2022-03-15/</link><pubDate>Tue, 15 Mar 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-03-15/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://artemis.sh/2022/03/14/propolis-oxide-at-home-pt1.html">Oxide at Home: Propolis says Hello&lt;/a>
+(&lt;a href="https://lobste.rs/s/jdqlyj/oxide_at_home_propolis_says_hello">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://fermatattack.secvuln.info/">Fermat Attack on RSA&lt;/a>
+(&lt;a href="https://lobste.rs/s/aso4bs/fermat_attack_on_rsa">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://kilograham.github.io/rp2040-doom/">RP2040 Doom&lt;/a>
+(&lt;a href="https://lobste.rs/s/x9zzij/rp2040_doom">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/scottbez1/smartknob">Haptic input knob with software-defined endstops and virtual detents&lt;/a>
+(&lt;a href="https://lobste.rs/s/pog0pq/haptic_input_knob_with_software_defined">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://vermaden.wordpress.com/2022/03/14/zfs-boot-environments-revolutions/">ZFS Boot Environments Revolutions&lt;/a>
+(&lt;a href="https://lobste.rs/s/bbte5f/zfs_boot_environments_revolutions">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this week?&lt;/a>
+(&lt;a href="https://lobste.rs/s/pzprdk/what_are_you_doing_this_week">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://arjenwiersma.nl/writeups/emacs/22-years-of-emacs/">22 years of Emacs&lt;/a>
+(&lt;a href="https://lobste.rs/s/zhwlfz/22_years_emacs">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://meyerweb.com/eric/thoughts/2022/03/14/if-or-when/">When or If&lt;/a>
+(&lt;a href="https://lobste.rs/s/ebyqam/when_if">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tildegit.org/ploum/AV-98-offline">Offpunk 1.0 : Offline Gemini/Gopher/Web browsing&lt;/a>
+(&lt;a href="https://lobste.rs/s/ybi8fy/offpunk_1_0_offline_gemini_gopher_web">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://arstechnica.com/gadgets/2022/03/a-brief-tour-of-the-pdp-11-the-most-influential-minicomputer-of-all-time/">A brief tour of the PDP-11, the most influential minicomputer of all time&lt;/a>
+(&lt;a href="https://lobste.rs/s/l9ujwj/brief_tour_pdp_11_most_influential">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-03-14</title><link>https://frozen-lobster.rohanverma.net/posts/2022-03-14/</link><pubDate>Mon, 14 Mar 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-03-14/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://github.com/artagnon/bonak">bonak: an iterated Grothendieck construction of semi-cubical types&lt;/a>
 (&lt;a href="https://lobste.rs/s/mwx80k/bonak_iterated_grothendieck">comments&lt;/a>)&lt;/p>
