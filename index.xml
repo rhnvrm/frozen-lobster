@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 15 Mar 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-03-15</title><link>https://frozen-lobster.rohanverma.net/posts/2022-03-15/</link><pubDate>Tue, 15 Mar 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-03-15/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 16 Mar 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-03-16</title><link>https://frozen-lobster.rohanverma.net/posts/2022-03-16/</link><pubDate>Wed, 16 Mar 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-03-16/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://go.dev/doc/go1.18">Go 1.18 Release Notes&lt;/a>
+(&lt;a href="https://lobste.rs/s/arw9hu/go_1_18_release_notes">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://nixos.org/guides/nix-pills/why-you-should-give-it-a-try.html">Nix: Why You Should Give it a Try&lt;/a>
+(&lt;a href="https://lobste.rs/s/ngkccn/nix_why_you_should_give_it_try">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.cambus.net/freebsd-on-the-vortex86dx-cpu/">FreeBSD on the Vortex86DX CPU&lt;/a>
+(&lt;a href="https://lobste.rs/s/dbh5ka/freebsd_on_vortex86dx_cpu">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gcc.gnu.org/pipermail/gcc/2022-March/238408.html">gcobol: a new COBOL frontend for GCC&lt;/a>
+(&lt;a href="https://lobste.rs/s/e4togd/gcobol_new_cobol_frontend_for_gcc">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/minad/osm">OpenStreetMap viewer for Emacs&lt;/a>
+(&lt;a href="https://lobste.rs/s/c7vztn/openstreetmap_viewer_for_emacs">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/tensil-ai/tensil">Tensil &amp;ndash; open-source ML accelerators&lt;/a>
+(&lt;a href="https://lobste.rs/s/cor0q1/tensil_open_source_ml_accelerators">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://mitchellh.com/writing/contributing-to-complex-projects">Contributing to Complex Projects&lt;/a>
+(&lt;a href="https://lobste.rs/s/gcpdv0/contributing_complex_projects">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.seanholloway.com/2022/03/13/visualizing-black-holes-with-general-relativistic-ray-tracing/">Visualizing Black Holes with General Relativistic Ray Tracing&lt;/a>
+(&lt;a href="https://lobste.rs/s/mkhcl8/visualizing_black_holes_with_general">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://datastation.multiprocess.io/docs/0.8.0-release-notes.html">DataStation 0.8.0 is released&lt;/a>
+(&lt;a href="https://lobste.rs/s/cy0rlt/datastation_0_8_0_is_released">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://fermatattack.secvuln.info/">Fermat Attack on RSA&lt;/a>
+(&lt;a href="https://lobste.rs/s/aso4bs/fermat_attack_on_rsa">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-03-15</title><link>https://frozen-lobster.rohanverma.net/posts/2022-03-15/</link><pubDate>Tue, 15 Mar 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-03-15/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://artemis.sh/2022/03/14/propolis-oxide-at-home-pt1.html">Oxide at Home: Propolis says Hello&lt;/a>
 (&lt;a href="https://lobste.rs/s/jdqlyj/oxide_at_home_propolis_says_hello">comments&lt;/a>)&lt;/p>
