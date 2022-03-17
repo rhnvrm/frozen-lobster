@@ -1,152 +1,34 @@
-<!doctype html><html>
-<head>
-<meta charset=utf-8><title>Daily lobste.rs News for 2021-11-01 - Frozen Lobster</title>
-<meta property="og:title" content="Daily lobste.rs News for 2021-11-01">
-<meta property="og:description" content="Perfecting GLFW for Zig, and finding lurking undefined behavior that went unnoticed for 6+ years (comments)
+<!doctype html><html><head><meta charset=utf-8><title>Daily lobste.rs News for 2021-11-01 - Frozen Lobster</title><meta property="og:title" content="Daily lobste.rs News for 2021-11-01"><meta property="og:description" content="Perfecting GLFW for Zig, and finding lurking undefined behavior that went unnoticed for 6+ years (comments)
   Bash functions are better than I thought (comments)
   Timing with curl (2010) (comments)
   BPM Is - Tap along with the beat of a song and discover its BPM (comments)
   epilys/rsqlite3: sqlite3 Rewritten in RiiR Rust (comments)
-  Cross-compiling and Static-linking with Nix (comments)">
-<meta property="og:type" content="article">
-<meta property="og:url" content="https://frozen-lobster.rohanverma.net/posts/2021-11-01/"><meta property="article:section" content="posts">
-<meta property="article:published_time" content="2021-11-01T00:05:01+00:00">
-<meta property="article:modified_time" content="2021-11-01T00:05:01+00:00">
-<meta name=twitter:card content="summary">
-<meta name=twitter:title content="Daily lobste.rs News for 2021-11-01">
-<meta name=twitter:description content="Perfecting GLFW for Zig, and finding lurking undefined behavior that went unnoticed for 6+ years (comments)
+  Cross-compiling and Static-linking with Nix (comments)"><meta property="og:type" content="article"><meta property="og:url" content="https://frozen-lobster.rohanverma.net/posts/2021-11-01/"><meta property="article:section" content="posts"><meta property="article:published_time" content="2021-11-01T00:05:01+00:00"><meta property="article:modified_time" content="2021-11-01T00:05:01+00:00"><meta name=twitter:card content="summary"><meta name=twitter:title content="Daily lobste.rs News for 2021-11-01"><meta name=twitter:description content="Perfecting GLFW for Zig, and finding lurking undefined behavior that went unnoticed for 6+ years (comments)
   Bash functions are better than I thought (comments)
   Timing with curl (2010) (comments)
   BPM Is - Tap along with the beat of a song and discover its BPM (comments)
   epilys/rsqlite3: sqlite3 Rewritten in RiiR Rust (comments)
-  Cross-compiling and Static-linking with Nix (comments)">
-<meta itemprop=name content="Daily lobste.rs News for 2021-11-01">
-<meta itemprop=description content="Perfecting GLFW for Zig, and finding lurking undefined behavior that went unnoticed for 6+ years (comments)
+  Cross-compiling and Static-linking with Nix (comments)"><meta itemprop=name content="Daily lobste.rs News for 2021-11-01"><meta itemprop=description content="Perfecting GLFW for Zig, and finding lurking undefined behavior that went unnoticed for 6+ years (comments)
   Bash functions are better than I thought (comments)
   Timing with curl (2010) (comments)
   BPM Is - Tap along with the beat of a song and discover its BPM (comments)
   epilys/rsqlite3: sqlite3 Rewritten in RiiR Rust (comments)
-  Cross-compiling and Static-linking with Nix (comments)"><meta itemprop=datePublished content="2021-11-01T00:05:01+00:00">
-<meta itemprop=dateModified content="2021-11-01T00:05:01+00:00">
-<meta itemprop=wordCount content="81">
-<meta itemprop=keywords content><meta name=viewport content="width=device-width,initial-scale=1">
-<link rel=stylesheet href=/css/normalize.min.css>
-<link rel=stylesheet type=text/css href=/css/style.css>
-<link href="https://fonts.googleapis.com/css?family=Inter|Source+Serif+Pro" rel=stylesheet type=text/css>
-<script src=https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js></script>
-<link rel=icon sizes=any href=data:image/x-icon;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAQAAADZc7J/AAACnUlEQVRIx6XVzWtcVRjH8c/cebkJOq1gNDi1WJLWpC9YmqAUpVDRRQUXUruy1FURRP+AlLbYQB18W7vwD1BcqLjoQrSYbSHWRhiJxJQgdNTErDSTXNOZ62JeMve20zLxWVwuz/Oc7znneX7nHP6nZRAYkt/G2E1/aeQw5KzfEqHQkyoaXZ7AQfM2E1l7fGIZdjmTYu/wupzAiFNetUcg54wHUms/axe5e2zuJe8aR8WUmTvicXtpvWzYBYeFQhMueqRXWm/AqP2d/0NG+gds+LfzH1nvH/CLq60+NHzj115pvYv4j4v+9rzYdz60dm9AwY6Et2hQ0bILhvGHqOXJJrIKW4AxryRCgyZEKSFNikWJrL1bgIpPUyuIfKbe5cmKfaWmaExowYrYwBag4XYCUNdQT/ka6kZddlxexaV2iYM+Ds+g804astOzynbfr413WsmxTv4hT/UPiNv63zoJ/QGqZjqd+cmN+wnpbuIuC72gYM60W92AIAXKClKiycnKWvKWfQoWrQqaq28OPOi1RPqASVJCOirXOV6jYNyVNmDeF3hQSaRqU1HsS3WDSmJVG7JyvlZTUJJXtUbzhsq1rseaZ5wzYd0VH6iJ1Iw675jYjLIlkZqdppwQmlV2vXlDtvf+mI88J4MRt72PostOCvCEgrdRMOVNOez2kNPJNj5tUqZVrpcNY8zxVjTwon0oOdGaMOOoI0nAQFfVQ/nOt31wC8gLu/oUJgFzljoau+ZPLKh00ucsomq2o8DFdrQNWDBtXmTNt95Tw4pLZm1Yd820Vawp+15N5GfvuJlUYsPnfnDAuh8tKyJ21SmHxW641ZroutOOCFXcbKskg0e94ffUZbXXfEpI4xZST9vjPrbSfFwf3ubjupqYZHv2HylrtUljNvuGAAAAAElFTkSuQmCC>
-</head>
-<body>
-<div id=header>
-<div class=avatar>
-<a href=https://frozen-lobster.rohanverma.net>
-<img src=/images/lobster.jpg alt="Frozen Lobster">
-</a>
-</div>
-<a id=headerLink href=https://frozen-lobster.rohanverma.net>Frozen Lobster</a><span class=hidden> - </span>
-<span id=headerSubtitle>Preserved goodness</span></div>
-<div id=menu>
-<a href=https://rohanverma.net>rohanverma.net</a>
+  Cross-compiling and Static-linking with Nix (comments)"><meta itemprop=datePublished content="2021-11-01T00:05:01+00:00"><meta itemprop=dateModified content="2021-11-01T00:05:01+00:00"><meta itemprop=wordCount content="81"><meta itemprop=keywords content><meta name=viewport content="width=device-width,initial-scale=1"><link rel=stylesheet href=/css/normalize.min.css><link rel=stylesheet type=text/css href=/css/style.css><link href="https://fonts.googleapis.com/css?family=Inter|Source+Serif+Pro" rel=stylesheet type=text/css><script src=https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js></script>
+<link rel=icon sizes=any href=data:image/x-icon;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAQAAADZc7J/AAACnUlEQVRIx6XVzWtcVRjH8c/cebkJOq1gNDi1WJLWpC9YmqAUpVDRRQUXUruy1FURRP+AlLbYQB18W7vwD1BcqLjoQrSYbSHWRhiJxJQgdNTErDSTXNOZ62JeMve20zLxWVwuz/Oc7znneX7nHP6nZRAYkt/G2E1/aeQw5KzfEqHQkyoaXZ7AQfM2E1l7fGIZdjmTYu/wupzAiFNetUcg54wHUms/axe5e2zuJe8aR8WUmTvicXtpvWzYBYeFQhMueqRXWm/AqP2d/0NG+gds+LfzH1nvH/CLq60+NHzj115pvYv4j4v+9rzYdz60dm9AwY6Et2hQ0bILhvGHqOXJJrIKW4AxryRCgyZEKSFNikWJrL1bgIpPUyuIfKbe5cmKfaWmaExowYrYwBag4XYCUNdQT/ka6kZddlxexaV2iYM+Ds+g804astOzynbfr413WsmxTv4hT/UPiNv63zoJ/QGqZjqd+cmN+wnpbuIuC72gYM60W92AIAXKClKiycnKWvKWfQoWrQqaq28OPOi1RPqASVJCOirXOV6jYNyVNmDeF3hQSaRqU1HsS3WDSmJVG7JyvlZTUJJXtUbzhsq1rseaZ5wzYd0VH6iJ1Iw675jYjLIlkZqdppwQmlV2vXlDtvf+mI88J4MRt72PostOCvCEgrdRMOVNOez2kNPJNj5tUqZVrpcNY8zxVjTwon0oOdGaMOOoI0nAQFfVQ/nOt31wC8gLu/oUJgFzljoau+ZPLKh00ucsomq2o8DFdrQNWDBtXmTNt95Tw4pLZm1Yd820Vawp+15N5GfvuJlUYsPnfnDAuh8tKyJ21SmHxW641ZroutOOCFXcbKskg0e94ffUZbXXfEpI4xZST9vjPrbSfFwf3ubjupqYZHv2HylrtUljNvuGAAAAAElFTkSuQmCC></head><body><div id=header><div class=avatar><a href=https://frozen-lobster.rohanverma.net><img src=/images/lobster.jpg alt="Frozen Lobster"></a></div><a id=headerLink href=https://frozen-lobster.rohanverma.net>Frozen Lobster</a><span class=hidden> -</span>
+<span id=headerSubtitle>Preserved goodness</span></div><div id=menu><a href=https://rohanverma.net>rohanverma.net</a>
 <a href=https://lobste.rs>lobste.rs</a>
-<span class=right>
-<a href=/index.xml title="RSS Feed">
-<i data-feather=rss></i>
-</a><a onclick="toggleTheme('dark')">
-<i data-feather=moon></i>
-</a>
-<a onclick="toggleTheme('light')">
-<i data-feather=sun></i>
-</a>
-<a href=/search>search<svg aria-hidden="true" class="i-search" viewBox="0 0 32 32" width="10" height="10" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"><circle cx="14" cy="14" r="12"/><path d="M23 23l7 7"/></svg></a>
-</span>
-</div>
-<div id=content>
-<div id=nav>
-<ul>
-<li>
-<a href=/archive>
-<span>archives </span>
-</a>
-</li>
-</ul>
-<ul>
-<li>
-<a href=/posts>
-<span>posts </span>
-</a>
-</li>
-</ul>
-</div>
-<div id=main>
-<article>
-<h1>Daily lobste.rs News for 2021-11-01</h1>
-<div class="small right">
-<a style=margin-right:2px class="u-url no-underline" href="https://www.addtoany.com/share#url=https%3a%2f%2ffrozen-lobster.rohanverma.net%2fposts%2f2021-11-01%2f&title=Daily%20lobste.rs%20News%20for%202021-11-01"><svg style="margin-bottom:-3px" class="i-external" viewBox="0 0 32 32" width="16" height="16" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M14 9H3V29H23V18M18 4H28V14M28 4 14 18"/></svg>
-Share
-</a>
-</div>
-<div class=light>
-<span>01 Nov 2021</span> -
-<span>1 minute read</span>
-</div>
-<div class="small light">
-</div>
-<hr>
-<div>
-<ul>
-<li>
-<p><a href=https://devlog.hexops.com/2021/perfecting-glfw-for-zig-and-finding-undefined-behavior>Perfecting GLFW for Zig, and finding lurking undefined behavior that went unnoticed for 6+ years</a>
-<a href=https://lobste.rs/s/mfofcv/perfecting_glfw_for_zig_finding_lurking>(comments)</a></p>
-</li>
-<li>
-<p><a href=https://cuddly-octo-palm-tree.com/posts/2021-10-31-better-bash-functions/>Bash functions are better than I thought</a>
-<a href=https://lobste.rs/s/1l1t8f/bash_functions_are_better_than_i_thought>(comments)</a></p>
-</li>
-<li>
-<p><a href=https://susam.in/maze/timing-with-curl.html>Timing with curl (2010)</a>
-<a href=https://lobste.rs/s/srdbun/timing_with_curl_2010>(comments)</a></p>
-</li>
-<li>
-<p><a href=https://bpm.is>BPM Is - Tap along with the beat of a song and discover its BPM</a>
-<a href=https://lobste.rs/s/dyxogq/bpm_is_tap_along_with_beat_song_discover>(comments)</a></p>
-</li>
-<li>
-<p><a href=https://github.com/epilys/rsqlite3>epilys/rsqlite3: sqlite3 Rewritten in RiiR Rust</a>
-<a href=https://lobste.rs/s/c5jotg/epilys_rsqlite3_sqlite3_rewritten_riir>(comments)</a></p>
-</li>
-<li>
-<p><a href=https://functor.tokyo/blog/2021-10-20-nix-cross-static>Cross-compiling and Static-linking with Nix</a>
-<a href=https://lobste.rs/s/jfc1is/cross_compiling_static_linking_with_nix>(comments)</a></p>
-</li>
-<li>
-<p><a href=https://beza1e1.tuxen.de/embedded.html>Why Embedded Software Development is Harder</a>
-<a href=https://lobste.rs/s/rlxfdr/why_embedded_software_development_is>(comments)</a></p>
-</li>
-<li>
-<p><a href=https://dependency-injection.com/pentium-on-a-386-motherboard/>Pentium on a 386 motherboard</a>
-<a href=https://lobste.rs/s/6ldvah/pentium_on_386_motherboard>(comments)</a></p>
-</li>
-<li>
-<p><a href=https://brunosutic.com/blog/async-ruby>Async Ruby</a>
-<a href=https://lobste.rs/s/tbgerk/async_ruby>(comments)</a></p>
-</li>
-<li>
-<p><a href=https://justine.lol/sectorlisp/>SectorLISP Now Fits in One Sector</a>
-<a href=https://lobste.rs/s/cpqdjs/sectorlisp_now_fits_one_sector>(comments)</a></p>
-</li>
-</ul>
-</div>
-</article>
-<div id=footer class="light small">
-© 2022 - Rohan Verma.
-<br>
-Daily top stories from lobste.rs
-<br>
-This page was generated using the <a href=https://github.com/rhnvrm/bodhi>Bodhi</a> theme for Hugo.
-</div>
-</div>
-<script>(function(e,b,f,c,a,d){b[c]=b[c]||function(){(b[c].q=b[c].q||[]).push(arguments)},a=e.createElement('script'),d=e.getElementsByTagName('script')[0],a.async=1,a.src=f,a.id='fathom-script',d.parentNode.insertBefore(a,d)})(document,window,'//fathom.rohanverma.net/tracker.js','fathom'),fathom('set','siteId','IUAMK'),fathom('trackPageview')</script>
-</div><script>feather.replace({width:"1em",height:"1em"})</script>
-<script src=/js/main.js></script>
-</body>
-</html>
+<span class=right><a href=/index.xml title="RSS Feed"><i data-feather=rss></i>
+</a><a onclick='toggleTheme("dark")'><i data-feather=moon></i></a>
+<a onclick='toggleTheme("light")'><i data-feather=sun></i></a>
+<a href=/search>search<svg aria-hidden="true" class="i-search" viewBox="0 0 32 32" width="10" height="10" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"><circle cx="14" cy="14" r="12"/><path d="M23 23l7 7"/></svg></a></span></div><div id=content><div id=nav><ul><li><a href=/archive><span>archives</span></a></li></ul><ul><li><a href=/posts><span>posts</span></a></li></ul></div><div id=main><article><h1>Daily lobste.rs News for 2021-11-01</h1><div class="small right"><a style=margin-right:2px class="u-url no-underline" href="https://www.addtoany.com/share#url=https%3a%2f%2ffrozen-lobster.rohanverma.net%2fposts%2f2021-11-01%2f&title=Daily%20lobste.rs%20News%20for%202021-11-01"><svg style="margin-bottom:-3px" class="i-external" viewBox="0 0 32 32" width="16" height="16" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M14 9H3V29H23V18M18 4H28V14M28 4 14 18"/></svg>Share</a></div><div class=light><span>01 Nov 2021</span> -
+<span>1 minute read</span></div><div class="small light"></div><hr><div><ul><li><p><a href=https://devlog.hexops.com/2021/perfecting-glfw-for-zig-and-finding-undefined-behavior>Perfecting GLFW for Zig, and finding lurking undefined behavior that went unnoticed for 6+ years</a>
+<a href=https://lobste.rs/s/mfofcv/perfecting_glfw_for_zig_finding_lurking>(comments)</a></p></li><li><p><a href=https://cuddly-octo-palm-tree.com/posts/2021-10-31-better-bash-functions/>Bash functions are better than I thought</a>
+<a href=https://lobste.rs/s/1l1t8f/bash_functions_are_better_than_i_thought>(comments)</a></p></li><li><p><a href=https://susam.in/maze/timing-with-curl.html>Timing with curl (2010)</a>
+<a href=https://lobste.rs/s/srdbun/timing_with_curl_2010>(comments)</a></p></li><li><p><a href=https://bpm.is>BPM Is - Tap along with the beat of a song and discover its BPM</a>
+<a href=https://lobste.rs/s/dyxogq/bpm_is_tap_along_with_beat_song_discover>(comments)</a></p></li><li><p><a href=https://github.com/epilys/rsqlite3>epilys/rsqlite3: sqlite3 Rewritten in RiiR Rust</a>
+<a href=https://lobste.rs/s/c5jotg/epilys_rsqlite3_sqlite3_rewritten_riir>(comments)</a></p></li><li><p><a href=https://functor.tokyo/blog/2021-10-20-nix-cross-static>Cross-compiling and Static-linking with Nix</a>
+<a href=https://lobste.rs/s/jfc1is/cross_compiling_static_linking_with_nix>(comments)</a></p></li><li><p><a href=https://beza1e1.tuxen.de/embedded.html>Why Embedded Software Development is Harder</a>
+<a href=https://lobste.rs/s/rlxfdr/why_embedded_software_development_is>(comments)</a></p></li><li><p><a href=https://dependency-injection.com/pentium-on-a-386-motherboard/>Pentium on a 386 motherboard</a>
+<a href=https://lobste.rs/s/6ldvah/pentium_on_386_motherboard>(comments)</a></p></li><li><p><a href=https://brunosutic.com/blog/async-ruby>Async Ruby</a>
+<a href=https://lobste.rs/s/tbgerk/async_ruby>(comments)</a></p></li><li><p><a href=https://justine.lol/sectorlisp/>SectorLISP Now Fits in One Sector</a>
+<a href=https://lobste.rs/s/cpqdjs/sectorlisp_now_fits_one_sector>(comments)</a></p></li></ul></div></article><div id=footer class="light small">© 2022 - Rohan Verma.<br>Daily top stories from lobste.rs<br>This page was generated using the <a href=https://github.com/rhnvrm/bodhi>Bodhi</a> theme for Hugo.</div></div><script>(function(o,t,i,n,e,s){t[n]=t[n]||function(){(t[n].q=t[n].q||[]).push(arguments)},e=o.createElement("script"),s=o.getElementsByTagName("script")[0],e.async=1,e.src=i,e.id="fathom-script",s.parentNode.insertBefore(e,s)})(document,window,"//fathom.rohanverma.net/tracker.js","fathom"),fathom("set","siteId","IUAMK"),fathom("trackPageview")</script></div><script>feather.replace({width:"1em",height:"1em"})</script><script src=/js/main.js></script></body></html>

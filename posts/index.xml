@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 16 Mar 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-03-16</title><link>https://frozen-lobster.rohanverma.net/posts/2022-03-16/</link><pubDate>Wed, 16 Mar 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-03-16/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 17 Mar 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-03-17</title><link>https://frozen-lobster.rohanverma.net/posts/2022-03-17/</link><pubDate>Thu, 17 Mar 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-03-17/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/AsahiLinux/docs/wiki/Introduction-to-Apple-Silicon">Introduction to Apple Silicon&lt;/a>
+(&lt;a href="https://lobste.rs/s/gy2tsn/introduction_apple_silicon">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=5IUj1EZwpJY">The Only Unbreakable Law&lt;/a>
+(&lt;a href="https://lobste.rs/s/auqnwx/only_unbreakable_law">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.jim-nielsen.com/2022/deno-is-webby-pt-2/">Deno is Webby&lt;/a>
+(&lt;a href="https://lobste.rs/s/4cnzc7/deno_is_webby">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.yboulkaid.com/2022/03/15/kinesis.html">Silencing the Kinesis Advantage 2&lt;/a>
+(&lt;a href="https://lobste.rs/s/qx8j6z/silencing_kinesis_advantage_2">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://go.dev/doc/go1.18">Go 1.18 Release Notes&lt;/a>
+(&lt;a href="https://lobste.rs/s/arw9hu/go_1_18_release_notes">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://arxiv.org/pdf/physics/0208087.pdf">Measuring the Earth with Traceroute&lt;/a>
+(&lt;a href="https://lobste.rs/s/fzmfgq/measuring_earth_with_traceroute">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://abbbi.github.io/logging/">python logging messages and exit codes&lt;/a>
+(&lt;a href="https://lobste.rs/s/zd8hk6/python_logging_messages_exit_codes">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lunduke.substack.com/p/the-first-risc-v-portable-computer">The first RISC-V portable computer is now available&lt;/a>
+(&lt;a href="https://lobste.rs/s/wnnvzn/first_risc_v_portable_computer_is_now">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://rachelbythebay.com/w/2022/03/15/link/">Dumb things you can sometimes do with hard links&lt;/a>
+(&lt;a href="https://lobste.rs/s/z156q5/dumb_things_you_can_sometimes_do_with_hard">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://2021.stateofjs.com/">The State of JS 2021&lt;/a>
+(&lt;a href="https://lobste.rs/s/txkeij/state_js_2021">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-03-16</title><link>https://frozen-lobster.rohanverma.net/posts/2022-03-16/</link><pubDate>Wed, 16 Mar 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-03-16/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://go.dev/doc/go1.18">Go 1.18 Release Notes&lt;/a>
 (&lt;a href="https://lobste.rs/s/arw9hu/go_1_18_release_notes">comments&lt;/a>)&lt;/p>
@@ -3931,7 +3972,7 @@
 &lt;a href="https://lobste.rs/s/wolgza/portable_interoperable_async_rust">(comments)&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="https://www.reddit.com/r/programming/comments/rbvpmy/bank_python_the_strange_world_of_python_as_used/">&amp;ldquo;Have worked on “Bank Python” systems. AMA.&amp;quot;&lt;/a>
+&lt;p>&lt;a href="https://www.reddit.com/r/programming/comments/rbvpmy/bank_python_the_strange_world_of_python_as_used/">&amp;ldquo;Have worked on “Bank Python” systems. AMA.&amp;rdquo;&lt;/a>
 &lt;a href="https://lobste.rs/s/tufdrz/have_worked_on_bank_python_systems_ama">(comments)&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-12-08</title><link>https://frozen-lobster.rohanverma.net/posts/2021-12-08/</link><pubDate>Wed, 08 Dec 2021 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-12-08/</guid><description>&lt;ul>
@@ -6970,7 +7011,7 @@
 &lt;/li>
 &lt;/ul></description></item><item><title>Daily lobste.rs News for 2021-09-24</title><link>https://frozen-lobster.rohanverma.net/posts/2021-09-24/</link><pubDate>Fri, 24 Sep 2021 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2021-09-24/</guid><description>&lt;ul>
 &lt;li>
-&lt;p>&lt;a href="https://nyxt.atlas.engineer/article/nyxt-versus-plugins.org">&amp;ldquo;Why should I use Nyxt if I can use Vimium?&amp;quot;&lt;/a>
+&lt;p>&lt;a href="https://nyxt.atlas.engineer/article/nyxt-versus-plugins.org">&amp;ldquo;Why should I use Nyxt if I can use Vimium?&amp;rdquo;&lt;/a>
 &lt;a href="https://lobste.rs/s/9uc1xe/why_should_i_use_nyxt_if_i_can_use_vimium">(comments)&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
@@ -13345,7 +13386,7 @@
 &lt;a href="https://lobste.rs/s/etpbqy/beam_vm_wisdoms">(comments)&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="https://root-servers.org/media/news/Statement_on_DNS_Encryption.pdf">Root server operators' Statement on DNS Encryption&lt;/a>
+&lt;p>&lt;a href="https://root-servers.org/media/news/Statement_on_DNS_Encryption.pdf">Root server operators&amp;rsquo; Statement on DNS Encryption&lt;/a>
 &lt;a href="https://lobste.rs/s/71skwl/root_server_operators_statement_on_dns">(comments)&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
@@ -13743,7 +13784,7 @@
 &lt;a href="https://lobste.rs/s/lsh14f/zig_playground">(comments)&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="https://bootcamp.uxdesign.cc/the-hidden-insights-in-developers-google-searches-47f05030cd2d">The hidden insights in developers' Google searches&lt;/a>
+&lt;p>&lt;a href="https://bootcamp.uxdesign.cc/the-hidden-insights-in-developers-google-searches-47f05030cd2d">The hidden insights in developers&amp;rsquo; Google searches&lt;/a>
 &lt;a href="https://lobste.rs/s/msv2gs/hidden_insights_developers_google">(comments)&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
@@ -18085,7 +18126,7 @@
 &lt;a href="https://lobste.rs/s/qoqbdc/reverse_engineering_source_code">(comments)&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="https://raccoon.onyxbits.de/blog/reactions-bugreport-free-support/">The aftermath of &amp;ldquo;No, &amp;lsquo;Open Source&amp;rsquo; does not mean &amp;lsquo;Includes Free Support&amp;rsquo;&amp;quot;&lt;/a>
+&lt;p>&lt;a href="https://raccoon.onyxbits.de/blog/reactions-bugreport-free-support/">The aftermath of &amp;ldquo;No, &amp;lsquo;Open Source&amp;rsquo; does not mean &amp;lsquo;Includes Free Support&amp;rsquo;&amp;rdquo;&lt;/a>
 &lt;a href="https://lobste.rs/s/nohfr6/aftermath_no_open_source_does_not_mean">(comments)&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
