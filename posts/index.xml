@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 17 Mar 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-03-17</title><link>https://frozen-lobster.rohanverma.net/posts/2022-03-17/</link><pubDate>Thu, 17 Mar 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-03-17/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 18 Mar 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-03-18</title><link>https://frozen-lobster.rohanverma.net/posts/2022-03-18/</link><pubDate>Fri, 18 Mar 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-03-18/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://words.filippo.io/pay-maintainers/">How to pay professional maintainers&lt;/a>
+(&lt;a href="https://lobste.rs/s/irizqw/how_pay_professional_maintainers">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://medium.engineering/typography-is-impossible-5872b0c7f891">Typography is impossible&lt;/a>
+(&lt;a href="https://lobste.rs/s/u8mbfa/typography_is_impossible">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://noiseprotocol.org/noise.html">The Noise Protocol Framework&lt;/a>
+(&lt;a href="https://lobste.rs/s/uof1x0/noise_protocol_framework">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.kmx.io/en/blog/2022-02-22_kmxgit-0.3.0.html">an open source git server written in Elixir that works on OpenBSD&lt;/a>
+(&lt;a href="https://lobste.rs/s/alxlnc/open_source_git_server_written_elixir">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://christophermeiklejohn.com/filibuster/2022/03/17/what-is-chaos-engineering.html">What is Chaos Engineering?&lt;/a>
+(&lt;a href="https://lobste.rs/s/wjhwuv/what_is_chaos_engineering">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://fuchsia.dev/fuchsia-src/concepts/fidl/overview">Fuchsia IDL Overview&lt;/a>
+(&lt;a href="https://lobste.rs/s/mrxgig/fuchsia_idl_overview">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://computeradsfromthepast.substack.com/p/dont-ask-computer-softwares-software">Don&amp;rsquo;t Ask Computer Software&amp;rsquo;s Software Automatic Mouth&lt;/a>
+(&lt;a href="https://lobste.rs/s/lvarua/don_t_ask_computer_software_s_software">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/AsahiLinux/docs/wiki/Introduction-to-Apple-Silicon">Introduction to Apple Silicon&lt;/a>
+(&lt;a href="https://lobste.rs/s/gy2tsn/introduction_apple_silicon">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.zx2c4.com/projects/linux-rng-5.17-5.18/">Random number generator enhancements for Linux 5.17 and 5.18&lt;/a>
+(&lt;a href="https://lobste.rs/s/wu3ayt/random_number_generator_enhancements">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://christine.website/blog/social-quandry-devops-2022-03-17">Technical Solutions Poorly Solve Social Problems&lt;/a>
+(&lt;a href="https://lobste.rs/s/a3ahnv/technical_solutions_poorly_solve_social">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-03-17</title><link>https://frozen-lobster.rohanverma.net/posts/2022-03-17/</link><pubDate>Thu, 17 Mar 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-03-17/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://github.com/AsahiLinux/docs/wiki/Introduction-to-Apple-Silicon">Introduction to Apple Silicon&lt;/a>
 (&lt;a href="https://lobste.rs/s/gy2tsn/introduction_apple_silicon">comments&lt;/a>)&lt;/p>
