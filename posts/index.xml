@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 18 Mar 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-03-18</title><link>https://frozen-lobster.rohanverma.net/posts/2022-03-18/</link><pubDate>Fri, 18 Mar 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-03-18/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 19 Mar 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-03-19</title><link>https://frozen-lobster.rohanverma.net/posts/2022-03-19/</link><pubDate>Sat, 19 Mar 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-03-19/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://lwn.net/SubscriberLink/888043/1bd384391190f7d1/">Python finally offloads some batteries&lt;/a>
+(&lt;a href="https://lobste.rs/s/tg7sin/python_finally_offloads_some_batteries">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.izs.me/2021/10/my-favorite-npm-commit/">My Favorite npm Commit&lt;/a>
+(&lt;a href="https://lobste.rs/s/is2qcl/my_favorite_npm_commit">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://rachelbythebay.com/w/2011/09/24/editor/">Text editors through the years, and my little &amp;ldquo;secret&amp;rdquo; (2011)&lt;/a>
+(&lt;a href="https://lobste.rs/s/yypvgf/text_editors_through_years_my_little">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://mkweb.bcgsc.ca/carpalx/?popular_alternatives">A detailed graphical comparison of typing efforts of a variety of keyboard layouts&lt;/a>
+(&lt;a href="https://lobste.rs/s/fznaoq/detailed_graphical_comparison_typing">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://snyk.io/blog/peacenotwar-malicious-npm-node-ipc-package-vulnerability/">Alert: peacenotwar module sabotages npm developers in the node-ipc package to protest the invasion of Ukraine&lt;/a>
+(&lt;a href="https://lobste.rs/s/pamrw6/alert_peacenotwar_module_sabotages_npm">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this weekend?&lt;/a>
+(&lt;a href="https://lobste.rs/s/xwkxan/what_are_you_doing_this_weekend">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://philippegroarke.com/posts/2018/c++_ui_solutions/">C++ UI Libraries&lt;/a>
+(&lt;a href="https://lobste.rs/s/kqtie6/c_ui_libraries">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://adi.onl/cbl.html">Simple, small, awk analytics HTTP log parsers&lt;/a>
+(&lt;a href="https://lobste.rs/s/flj9uw/simple_small_awk_analytics_http_log">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://raymii.org/s/tutorials/Yocto_boot2qt_for_the_Seeed_reTerminal_qt6.html">Yocto boot2qt for the Seeed reTerminal (Qt 6)&lt;/a>
+(&lt;a href="https://lobste.rs/s/u9xr4p/yocto_boot2qt_for_seeed_reterminal_qt_6">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://gamestudies.org/2201/articles/anonymous">Reverse Engineering North Korea&amp;rsquo;s Gaming Economy&lt;/a>
+(&lt;a href="https://lobste.rs/s/0idiqy/reverse_engineering_north_korea_s_gaming">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-03-18</title><link>https://frozen-lobster.rohanverma.net/posts/2022-03-18/</link><pubDate>Fri, 18 Mar 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-03-18/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://words.filippo.io/pay-maintainers/">How to pay professional maintainers&lt;/a>
 (&lt;a href="https://lobste.rs/s/irizqw/how_pay_professional_maintainers">comments&lt;/a>)&lt;/p>
