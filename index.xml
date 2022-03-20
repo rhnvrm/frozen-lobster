@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 19 Mar 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-03-19</title><link>https://frozen-lobster.rohanverma.net/posts/2022-03-19/</link><pubDate>Sat, 19 Mar 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-03-19/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 20 Mar 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-03-20</title><link>https://frozen-lobster.rohanverma.net/posts/2022-03-20/</link><pubDate>Sun, 20 Mar 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-03-20/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://eli.thegreenplace.net/2022/why-coding-interviews-arent-all-that-bad/">Why coding interviews aren&amp;rsquo;t all that bad&lt;/a>
+(&lt;a href="https://lobste.rs/s/nynnne/why_coding_interviews_aren_t_all_bad">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://michael.stapelberg.ch/posts/2022-03-19-smart-home-components/">Smart Home components&lt;/a>
+(&lt;a href="https://lobste.rs/s/ruyllb/smart_home_components">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://seirdy.one/2021/03/10/search-engines-with-own-indexes.html">A look at search engines with their own indexes&lt;/a>
+(&lt;a href="https://lobste.rs/s/szkcf0/look_at_search_engines_with_their_own">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/nordlow/compiler-benchmark">Benchmarks compilation speeds of different combinations of languages and compilers&lt;/a>
+(&lt;a href="https://lobste.rs/s/9t6fnr/benchmarks_compilation_speeds">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://danielbmarkham.com/random-word-generator-in-bash/">Random Word Generator In Bash&lt;/a>
+(&lt;a href="https://lobste.rs/s/nyfixr/random_word_generator_bash">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://asahilinux.org/2022/03/asahi-linux-alpha-release/">The first Asahi Linux Alpha Release is here&lt;/a>
+(&lt;a href="https://lobste.rs/s/k6kibr/first_asahi_linux_alpha_release_is_here">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/osrg/gobgp">BGP implemented in Go&lt;/a>
+(&lt;a href="https://lobste.rs/s/duym6w/bgp_implemented_go">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://bhupesh.me//automatically-remind-contributors-to-update-pull-request/">Automatically remind contributors to update their pull requests&lt;/a>
+(&lt;a href="https://lobste.rs/s/lwzpbh/automatically_remind_contributors">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://dorianmarie.fr/template/1.html">How to make a templating language (Part 1)&lt;/a>
+(&lt;a href="https://lobste.rs/s/nzjf01/how_make_templating_language_part_1">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://christophermeiklejohn.com/filibuster/2022/03/19/understanding-faults.html">Understanding why Resilience Faults in Microservice Applications Occur&lt;/a>
+(&lt;a href="https://lobste.rs/s/hnnrlc/understanding_why_resilience_faults">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-03-19</title><link>https://frozen-lobster.rohanverma.net/posts/2022-03-19/</link><pubDate>Sat, 19 Mar 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-03-19/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://lwn.net/SubscriberLink/888043/1bd384391190f7d1/">Python finally offloads some batteries&lt;/a>
 (&lt;a href="https://lobste.rs/s/tg7sin/python_finally_offloads_some_batteries">comments&lt;/a>)&lt;/p>
