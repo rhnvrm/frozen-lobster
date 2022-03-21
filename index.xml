@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 20 Mar 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-03-20</title><link>https://frozen-lobster.rohanverma.net/posts/2022-03-20/</link><pubDate>Sun, 20 Mar 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-03-20/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 21 Mar 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-03-21</title><link>https://frozen-lobster.rohanverma.net/posts/2022-03-21/</link><pubDate>Mon, 21 Mar 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-03-21/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://seeking-maintainers.net">A platform for open source projects to find maintainers&lt;/a>
+(&lt;a href="https://lobste.rs/s/xm2xcr/platform_for_open_source_projects_find">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ieftimov.com/posts/identify-escalate-risks-practical-framework-for-software-engineers/">Identify &amp;amp; Escalate Risks: A Practical Framework for Software Engineers&lt;/a>
+(&lt;a href="https://lobste.rs/s/9ildag/identify_escalate_risks_practical">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/subsetpark/pantagruel">Pantagruel v0.5.1&lt;/a>
+(&lt;a href="https://lobste.rs/s/xkth5p/pantagruel_v0_5_1">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gankra.github.io/blah/fix-rust-pointers/">Rust&amp;rsquo;s Unsafe Pointer Types Need An Overhaul&lt;/a>
+(&lt;a href="https://lobste.rs/s/mptezc/rust_s_unsafe_pointer_types_need_overhaul">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/smarr/are-we-fast-yet">Are We Fast Yet? Comparing Language Implementations with Objects, Closures, and Arrays&lt;/a>
+(&lt;a href="https://lobste.rs/s/oy3n4t/are_we_fast_yet_comparing_language">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.jgc.org/2022/03/using-minitel-1b-as-serial-terminal.html">Using a Minitel 1B as a serial terminal&lt;/a>
+(&lt;a href="https://lobste.rs/s/zncn6y/using_minitel_1b_as_serial_terminal">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://dorianmarie.fr/template/1.html">How to make a templating language (Part 1)&lt;/a>
+(&lt;a href="https://lobste.rs/s/nzjf01/how_make_templating_language_part_1">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://eli.thegreenplace.net/2022/why-coding-interviews-arent-all-that-bad/">Why coding interviews aren&amp;rsquo;t all that bad&lt;/a>
+(&lt;a href="https://lobste.rs/s/nynnne/why_coding_interviews_aren_t_all_bad">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://michael.stapelberg.ch/posts/2022-03-19-smart-home-components/">Smart Home components&lt;/a>
+(&lt;a href="https://lobste.rs/s/ruyllb/smart_home_components">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.codeofhonor.com/blog/avoiding-game-crashes-related-to-linked-lists">Avoiding game crashes related to linked lists (2012)&lt;/a>
+(&lt;a href="https://lobste.rs/s/4udokt/avoiding_game_crashes_related_linked">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-03-20</title><link>https://frozen-lobster.rohanverma.net/posts/2022-03-20/</link><pubDate>Sun, 20 Mar 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-03-20/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://eli.thegreenplace.net/2022/why-coding-interviews-arent-all-that-bad/">Why coding interviews aren&amp;rsquo;t all that bad&lt;/a>
 (&lt;a href="https://lobste.rs/s/nynnne/why_coding_interviews_aren_t_all_bad">comments&lt;/a>)&lt;/p>
