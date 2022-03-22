@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 21 Mar 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-03-21</title><link>https://frozen-lobster.rohanverma.net/posts/2022-03-21/</link><pubDate>Mon, 21 Mar 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-03-21/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 22 Mar 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-03-22</title><link>https://frozen-lobster.rohanverma.net/posts/2022-03-22/</link><pubDate>Tue, 22 Mar 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-03-22/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://danielcompton.net/2022/03/21/penny-wise-cloud-foolish">Penny Wise and Cloud Foolish&lt;/a>
+(&lt;a href="https://lobste.rs/s/yz7yjv/penny_wise_cloud_foolish">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://q3k.org/lanai.html">Lanai, the mystery CPU architecture in LLVM&lt;/a>
+(&lt;a href="https://lobste.rs/s/jtjrnc/lanai_mystery_cpu_architecture_llvm">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ruudvanasseldonk.com/2022/03/20/please-put-units-in-names">Please put units in names&lt;/a>
+(&lt;a href="https://lobste.rs/s/kwklsb/please_put_units_names">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://catern.com/linux_api.html">Linux needs a explicitly defined userspace API&lt;/a>
+(&lt;a href="https://lobste.rs/s/s1bwfu/linux_needs_explicitly_defined">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">Book Recommendation for macOS Development&lt;/a>
+(&lt;a href="https://lobste.rs/s/hjk1gx/book_recommendation_for_macos">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.brendangregg.com/blog/2022-03-19/why-dont-you-use.html">Why Don&amp;rsquo;t You Use&lt;/a>
+(&lt;a href="https://lobste.rs/s/povj3p/why_don_t_you_use">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this week?&lt;/a>
+(&lt;a href="https://lobste.rs/s/psnruk/what_are_you_doing_this_week">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/lucasvegi/Elixir-Code-Smells">Catalog of Elixir-specific code smells&lt;/a>
+(&lt;a href="https://lobste.rs/s/zqr8ii/catalog_elixir_specific_code_smells">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://seeking-maintainers.net">A platform for open source projects to find maintainers&lt;/a>
+(&lt;a href="https://lobste.rs/s/xm2xcr/platform_for_open_source_projects_find">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ctrl.blog/entry/kate-swp.html">Why it’s easier to recover unsaved documents in Kate than GEdit&lt;/a>
+(&lt;a href="https://lobste.rs/s/yj3tgk/why_it_s_easier_recover_unsaved_documents">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-03-21</title><link>https://frozen-lobster.rohanverma.net/posts/2022-03-21/</link><pubDate>Mon, 21 Mar 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-03-21/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://seeking-maintainers.net">A platform for open source projects to find maintainers&lt;/a>
 (&lt;a href="https://lobste.rs/s/xm2xcr/platform_for_open_source_projects_find">comments&lt;/a>)&lt;/p>
