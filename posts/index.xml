@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 22 Mar 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-03-22</title><link>https://frozen-lobster.rohanverma.net/posts/2022-03-22/</link><pubDate>Tue, 22 Mar 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-03-22/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 23 Mar 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-03-23</title><link>https://frozen-lobster.rohanverma.net/posts/2022-03-23/</link><pubDate>Wed, 23 Mar 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-03-23/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://pythonspeed.com/articles/shell-scripts/">Please stop writing shell scripts&lt;/a>
+(&lt;a href="https://lobste.rs/s/iofste/please_stop_writing_shell_scripts">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/kognise/arpchat">GitHub - kognise/arpchat: Chat app using only ARP&lt;/a>
+(&lt;a href="https://lobste.rs/s/1vlisj/github_kognise_arpchat_chat_app_using">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://clojure.org/news/2022/03/22/clojure-1-11-0">Clojure 1.11.0 release&lt;/a>
+(&lt;a href="https://lobste.rs/s/nijiqf/clojure_1_11_0_release">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://twitter.com/_MG_/status/1506109152665382920">Claimed security breach of Okta&lt;/a>
+(&lt;a href="https://lobste.rs/s/ha4vtx/claimed_security_breach_okta">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.brendangregg.com/blog/2021-08-27/slack-crashes-secret-stderr.html">Slack&amp;rsquo;s Secret STDERR Messages&lt;/a>
+(&lt;a href="https://lobste.rs/s/dwghno/slack_s_secret_stderr_messages">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sirupsen.com/metrics">Metrics For Your Web Application&amp;rsquo;s Dashboards&lt;/a>
+(&lt;a href="https://lobste.rs/s/heosu9/metrics_for_your_web_application_s">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://danielcompton.net/2022/03/21/penny-wise-cloud-foolish">Penny Wise and Cloud Foolish&lt;/a>
+(&lt;a href="https://lobste.rs/s/yz7yjv/penny_wise_cloud_foolish">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://q3k.org/lanai.html">Lanai, the mystery CPU architecture in LLVM&lt;/a>
+(&lt;a href="https://lobste.rs/s/jtjrnc/lanai_mystery_cpu_architecture_llvm">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://research.swtch.com/npm-colors">What NPM Should Do Today To Stop A New Colors Attack Tomorrow&lt;/a>
+(&lt;a href="https://lobste.rs/s/btw27b/what_npm_should_do_today_stop_new_colors">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thoughtbot.com/blog/the-opportunity-will-find-you">The opportunity will find you&lt;/a>
+(&lt;a href="https://lobste.rs/s/cu867c/opportunity_will_find_you">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-03-22</title><link>https://frozen-lobster.rohanverma.net/posts/2022-03-22/</link><pubDate>Tue, 22 Mar 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-03-22/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://danielcompton.net/2022/03/21/penny-wise-cloud-foolish">Penny Wise and Cloud Foolish&lt;/a>
 (&lt;a href="https://lobste.rs/s/yz7yjv/penny_wise_cloud_foolish">comments&lt;/a>)&lt;/p>
