@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 23 Mar 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-03-23</title><link>https://frozen-lobster.rohanverma.net/posts/2022-03-23/</link><pubDate>Wed, 23 Mar 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-03-23/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 24 Mar 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-03-24</title><link>https://frozen-lobster.rohanverma.net/posts/2022-03-24/</link><pubDate>Thu, 24 Mar 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-03-24/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/StanzaOrg/lbstanza">A new optionally-typed general purpose programming language&lt;/a>
+(&lt;a href="https://lobste.rs/s/44gfjr/new_optionally_typed_general_purpose">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://daniel.haxx.se/blog/2022/03/23/anatomy-of-a-ghost-cve/">Anatomy of a ghost CVE&lt;/a>
+(&lt;a href="https://lobste.rs/s/9lafpp/anatomy_ghost_cve">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://go.dev/blog/intro-generics">An Introduction To Generics&lt;/a>
+(&lt;a href="https://lobste.rs/s/vcu5gq/introduction_generics">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.codemadness.org/totp.html">2FA TOTP without crappy authenticator apps&lt;/a>
+(&lt;a href="https://lobste.rs/s/lobg98/2fa_totp_without_crappy_authenticator">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pythonspeed.com/articles/shell-scripts/">Please stop writing shell scripts&lt;/a>
+(&lt;a href="https://lobste.rs/s/iofste/please_stop_writing_shell_scripts">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://yurichev.com/news/20220322_circle/?src=rss">Drawing a circle, point-by-point, without floating point support&lt;/a>
+(&lt;a href="https://lobste.rs/s/gxtcgs/drawing_circle_point_by_point_without">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://avdi.codes/preface-to-an-unwritten-programming-language-book/">Preface to an Unwritten Programming Language Book&lt;/a>
+(&lt;a href="https://lobste.rs/s/aoopm4/preface_unwritten_programming_language">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://webzine.puffy.cafe/issue-8.html">OpenBSD Webzine Issue #8&lt;/a>
+(&lt;a href="https://lobste.rs/s/qp2sfi/openbsd_webzine_issue_8">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.qubes-os.org/">Qubes OS: A reasonably secure operating system&lt;/a>
+(&lt;a href="https://lobste.rs/s/nh3vfk/qubes_os_reasonably_secure_operating">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://twitter.com/qlutoo/status/1506370290967883778">Interesting bug in Switch kernel&lt;/a>
+(&lt;a href="https://lobste.rs/s/z6scde/interesting_bug_switch_kernel">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-03-23</title><link>https://frozen-lobster.rohanverma.net/posts/2022-03-23/</link><pubDate>Wed, 23 Mar 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-03-23/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://pythonspeed.com/articles/shell-scripts/">Please stop writing shell scripts&lt;/a>
 (&lt;a href="https://lobste.rs/s/iofste/please_stop_writing_shell_scripts">comments&lt;/a>)&lt;/p>
