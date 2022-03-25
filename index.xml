@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 24 Mar 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-03-24</title><link>https://frozen-lobster.rohanverma.net/posts/2022-03-24/</link><pubDate>Thu, 24 Mar 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-03-24/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 25 Mar 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-03-25</title><link>https://frozen-lobster.rohanverma.net/posts/2022-03-25/</link><pubDate>Fri, 25 Mar 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-03-25/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://garrit.xyz/posts/2022-03-24-swapping-numbers-without-temp">Swapping two Numbers without Temporary Variables&lt;/a>
+(&lt;a href="https://lobste.rs/s/htx3ml/swapping_two_numbers_without_temporary">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://vermaden.wordpress.com/2022/03/25/zfs-compatibility/">ZFS Compatibility&lt;/a>
+(&lt;a href="https://lobste.rs/s/cubjbo/zfs_compatibility">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jvns.ca/blog/2022/03/23/a-toy-version-of-tls/">Implementing a toy version of TLS 1.3&lt;/a>
+(&lt;a href="https://lobste.rs/s/kiehke/implementing_toy_version_tls_1_3">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://computeradsfromthepast.substack.com/p/crush-crumble-and-chomp">Epyx&amp;rsquo;s Crush, Crumble, &amp;amp; Chomp&lt;/a>
+(&lt;a href="https://lobste.rs/s/kfk3vu/epyx_s_crush_crumble_chomp">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://multimedia.cx/eggs/understanding-the-dreamcast-gd-rom-layout/">Understanding The Dreamcast GD-ROM Layout&lt;/a>
+(&lt;a href="https://lobste.rs/s/bu4znj/understanding_dreamcast_gd_rom_layout">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://www.jerf.org/iri/post/2960">Abuse Of Some Sum Types In OO Languages&lt;/a>
+(&lt;a href="https://lobste.rs/s/9abpvf/abuse_some_sum_types_oo_languages">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://nick-black.com/dankwiki/index.php?title=The_Power,_pt_1">The Power, pt 1 OR How Plasmas Become Cat Pictures&lt;/a>
+(&lt;a href="https://lobste.rs/s/srtorf/power_pt_1_how_plasmas_become_cat_pictures">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://blog.cretaria.com/posts/mason-jars.html">Mason jars&lt;/a>
+(&lt;a href="https://lobste.rs/s/mylhws/mason_jars">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://spacedoutandsmiling.com/blog/2021-12-27-nerdy-aws-graviton-vs-m1-vs-m1-pro-nodejsr-benchmarks">AWS Graviton vs M1 vs M1 Pro Node.js Benchmarks&lt;/a>
+(&lt;a href="https://lobste.rs/s/hrj8mr/aws_graviton_vs_m1_vs_m1_pro_node_js">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://go.dev/blog/intro-generics">An Introduction To Generics&lt;/a>
+(&lt;a href="https://lobste.rs/s/vcu5gq/introduction_generics">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-03-24</title><link>https://frozen-lobster.rohanverma.net/posts/2022-03-24/</link><pubDate>Thu, 24 Mar 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-03-24/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://github.com/StanzaOrg/lbstanza">A new optionally-typed general purpose programming language&lt;/a>
 (&lt;a href="https://lobste.rs/s/44gfjr/new_optionally_typed_general_purpose">comments&lt;/a>)&lt;/p>
