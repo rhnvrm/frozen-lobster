@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 25 Mar 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-03-25</title><link>https://frozen-lobster.rohanverma.net/posts/2022-03-25/</link><pubDate>Fri, 25 Mar 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-03-25/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 26 Mar 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-03-26</title><link>https://frozen-lobster.rohanverma.net/posts/2022-03-26/</link><pubDate>Sat, 26 Mar 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-03-26/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://encore.dev/blog/go-1.18-generic-identifiers">How we used Go 1.18 generics when designing our Identifiers at Encore&lt;/a>
+(&lt;a href="https://lobste.rs/s/uakuuc/how_we_used_go_1_18_generics_when_designing">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.brixit.nl/the-end-of-the-nice-gtk-button/">The end of the nice GTK button&lt;/a>
+(&lt;a href="https://lobste.rs/s/zlanqi/end_nice_gtk_button">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://aschmelyun.com/blog/i-built-a-receipt-printer-for-github-issues/">I built a receipt printer for GitHub issues&lt;/a>
+(&lt;a href="https://lobste.rs/s/gainro/i_built_receipt_printer_for_github_issues">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://neugierig.org/software/blog/2022/03/n2.html">Tech Notes: n2: revisiting Ninja&lt;/a>
+(&lt;a href="https://lobste.rs/s/wjjpgn/tech_notes_n2_revisiting_ninja">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://timriley.info/writing/2022/03/24/salubrious-ruby/">Salubrious Ruby&lt;/a>
+(&lt;a href="https://lobste.rs/s/dhc0hx/salubrious_ruby">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://qmacro.org/2022/03/25/understanding-jq-s-reduce-function/">Understanding jq&amp;rsquo;s reduce function&lt;/a>
+(&lt;a href="https://lobste.rs/s/d2fgh9/understanding_jq_s_reduce_function">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://vermaden.wordpress.com/2022/03/25/zfs-compatibility/">ZFS Compatibility&lt;/a>
+(&lt;a href="https://lobste.rs/s/cubjbo/zfs_compatibility">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://verdagon.dev/blog/higher-raii-7drl">Vale&amp;rsquo;s Higher RAII, the pattern that saved me a vital 5 hours in the 7DRL Challenge&lt;/a>
+(&lt;a href="https://lobste.rs/s/3evayg/vale_s_higher_raii_pattern_saved_me_vital_5">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this weekend?&lt;/a>
+(&lt;a href="https://lobste.rs/s/zpygcw/what_are_you_doing_this_weekend">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://garrit.xyz/posts/2022-03-24-swapping-numbers-without-temp">Swapping two Numbers without Temporary Variables&lt;/a>
+(&lt;a href="https://lobste.rs/s/htx3ml/swapping_two_numbers_without_temporary">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-03-25</title><link>https://frozen-lobster.rohanverma.net/posts/2022-03-25/</link><pubDate>Fri, 25 Mar 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-03-25/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://garrit.xyz/posts/2022-03-24-swapping-numbers-without-temp">Swapping two Numbers without Temporary Variables&lt;/a>
 (&lt;a href="https://lobste.rs/s/htx3ml/swapping_two_numbers_without_temporary">comments&lt;/a>)&lt;/p>
