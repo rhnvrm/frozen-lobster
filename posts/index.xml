@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 28 Mar 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-03-28</title><link>https://frozen-lobster.rohanverma.net/posts/2022-03-28/</link><pubDate>Mon, 28 Mar 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-03-28/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 29 Mar 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-03-29</title><link>https://frozen-lobster.rohanverma.net/posts/2022-03-29/</link><pubDate>Tue, 29 Mar 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-03-29/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.pathsensitive.com/2022/03/abstraction-not-what-you-think-it-is.html">Abstraction: Not What You Think It Is&lt;/a>
+(&lt;a href="https://lobste.rs/s/d1jkw5/abstraction_not_what_you_think_it_is">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://artemis.sh/2022/03/28/oxide-hubris-on-pinetime.html">Oxide on My Wrist: Hubris on PineTime was the best worst idea&lt;/a>
+(&lt;a href="https://lobste.rs/s/ertrus/oxide_on_my_wrist_hubris_on_pinetime_was">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.productchart.com/laptops/similar">Finding the laptop most similar to yours via the euclidean distance of the specifications&lt;/a>
+(&lt;a href="https://lobste.rs/s/ww4daq/finding_laptop_most_similar_yours_via">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://notes.eatonphil.com/documentdb.html">Writing a document database from scratch in Go: Lucene-like filters and indexes&lt;/a>
+(&lt;a href="https://lobste.rs/s/9hwnup/writing_document_database_from_scratch">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/Wilfred/difftastic">Difftastic: a diff that understands syntax&lt;/a>
+(&lt;a href="https://lobste.rs/s/d4jhbh/difftastic_diff_understands_syntax">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://fuchsia.dev/fuchsia-src/development/build/build_workstation">Fuchsia Workstation build&lt;/a>
+(&lt;a href="https://lobste.rs/s/nx79m1/fuchsia_workstation_build">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://bernsteinbear.com/blog/discovering-basic-blocks/">Discovering basic blocks (building a CFG from Python bytecode)&lt;/a>
+(&lt;a href="https://lobste.rs/s/y8hnry/discovering_basic_blocks_building_cfg">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://savo.rocks/posts/overtone-basic-setup/">Overtone: Basic Setup&lt;/a>
+(&lt;a href="https://lobste.rs/s/mtnkno/overtone_basic_setup">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.caffeinatedwonders.com/2022/03/28/new-ssh-server/">Introducing Caddy-SSH&lt;/a>
+(&lt;a href="https://lobste.rs/s/ozhujc/introducing_caddy_ssh">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://kevinboone.me/retrocomputing.html">Why the fascination with retrocomputing?&lt;/a>
+(&lt;a href="https://lobste.rs/s/pu5xhc/why_fascination_with_retrocomputing">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-03-28</title><link>https://frozen-lobster.rohanverma.net/posts/2022-03-28/</link><pubDate>Mon, 28 Mar 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-03-28/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://github.com/Wilfred/difftastic">Difftastic: a diff that understands syntax&lt;/a>
 (&lt;a href="https://lobste.rs/s/d4jhbh/difftastic_diff_understands_syntax">comments&lt;/a>)&lt;/p>
