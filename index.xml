@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 30 Mar 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-03-30</title><link>https://frozen-lobster.rohanverma.net/posts/2022-03-30/</link><pubDate>Wed, 30 Mar 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-03-30/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 31 Mar 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-03-31</title><link>https://frozen-lobster.rohanverma.net/posts/2022-03-31/</link><pubDate>Thu, 31 Mar 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-03-31/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://bas.codes/posts/new-features-python-3-11">What to Expect from Python 3.11?&lt;/a>
+(&lt;a href="https://lobste.rs/s/cjykqr/what_expect_from_python_3_11">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://planetscale.com/blog/generics-can-make-your-go-code-slower">Generics can make your Go code slower&lt;/a>
+(&lt;a href="https://lobste.rs/s/xqh1s2/generics_can_make_your_go_code_slower">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://twitter.com/awesomekling/status/1508953394836353024">Serenity Browser passes Acid3&lt;/a>
+(&lt;a href="https://lobste.rs/s/jznsau/serenity_browser_passes_acid3">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://helix-editor.com/news/release-22-03-highlights/">Helix 22.03 released. A modal, terminal based, text editor written in Rust&lt;/a>
+(&lt;a href="https://lobste.rs/s/8hxvk2/helix_22_03_released_modal_terminal_based">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://catern.com/compdist.html">Your computer is a distributed system&lt;/a>
+(&lt;a href="https://lobste.rs/s/maeixe/your_computer_is_distributed_system">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://fly.io/blog/a-foolish-consistency/">Consul at Fly.io&lt;/a>
+(&lt;a href="https://lobste.rs/s/spvdwx/consul_at_fly_io">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are the most useful aliases in your bashrc or zshrc&lt;/a>
+(&lt;a href="https://lobste.rs/s/qgqssl/what_are_most_useful_aliases_your_bashrc">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/redneckbeard/thanos">Ruby -&amp;gt; Go at the snap of your fingers&lt;/a>
+(&lt;a href="https://lobste.rs/s/0fvyr3/ruby_go_at_snap_your_fingers">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://amturing.acm.org/">The 2021 ACM Turing Award&lt;/a>
+(&lt;a href="https://lobste.rs/s/inyn6z/2021_acm_turing_award">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">Laptop users, what hardware do you use?&lt;/a>
+(&lt;a href="https://lobste.rs/s/eqsktd/laptop_users_what_hardware_do_you_use">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-03-30</title><link>https://frozen-lobster.rohanverma.net/posts/2022-03-30/</link><pubDate>Wed, 30 Mar 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-03-30/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://austinhenley.com/blog/cosine.html">Implementing cosine in C from scratch&lt;/a>
 (&lt;a href="https://lobste.rs/s/wp1un6/implementing_cosine_c_from_scratch">comments&lt;/a>)&lt;/p>
