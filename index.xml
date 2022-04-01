@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 31 Mar 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-03-31</title><link>https://frozen-lobster.rohanverma.net/posts/2022-03-31/</link><pubDate>Thu, 31 Mar 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-03-31/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-04-01</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-01/</link><pubDate>Fri, 01 Apr 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-01/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.oilshell.org/blog/2022/03/middle-out.html">Oil Is Being Implemented &amp;ldquo;Middle Out&amp;rdquo;&lt;/a>
+(&lt;a href="https://lobste.rs/s/s2remb/oil_is_being_implemented_middle_out">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://dnlytras.com/blog/modern-php/">While I wasn&amp;rsquo;t paying attention, PHP got quite good&lt;/a>
+(&lt;a href="https://lobste.rs/s/rllvqw/while_i_wasn_t_paying_attention_php_got">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://go.dev/blog/supply-chain">How Go Mitigates Supply Chain Attacks&lt;/a>
+(&lt;a href="https://lobste.rs/s/ipzpte/how_go_mitigates_supply_chain_attacks">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://mitxela.com/projects/ddc-oled">The smallest and worst HDMI display ever&lt;/a>
+(&lt;a href="https://lobste.rs/s/sybkjg/smallest_worst_hdmi_display_ever">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://matrix.org/blog/2022/03/30/technical-faq-on-the-digital-markets-act">Technical FAQ on the Digital Markets Act&lt;/a>
+(&lt;a href="https://lobste.rs/s/bwta0t/technical_faq_on_digital_markets_act">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/DanilaFe/matrix-highlight">matrix-highlight: A decentralized and federated way of annotating the web based on Matrix&lt;/a>
+(&lt;a href="https://lobste.rs/s/f8iswa/matrix_highlight_decentralized">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://bas.codes/posts/new-features-python-3-11">What to Expect from Python 3.11?&lt;/a>
+(&lt;a href="https://lobste.rs/s/cjykqr/what_expect_from_python_3_11">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://doc.rust-lang.org/nightly/std/ptr/index.html#strict-provenance">Strict provenance: a teachable memory model (experiment) for Rust&lt;/a>
+(&lt;a href="https://lobste.rs/s/zbmgmp/strict_provenance_teachable_memory">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://googleprojectzero.blogspot.com/2022/03/forcedentry-sandbox-escape.html">FORCEDENTRY: Sandbox Escape&lt;/a>
+(&lt;a href="https://lobste.rs/s/mezd19/forcedentry_sandbox_escape">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://monzo.com/blog/2022/03/31/how-we-secure-monzos-banking-platform/">How we secure Monzo’s banking platform&lt;/a>
+(&lt;a href="https://lobste.rs/s/y08kql/how_we_secure_monzo_s_banking_platform">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-03-31</title><link>https://frozen-lobster.rohanverma.net/posts/2022-03-31/</link><pubDate>Thu, 31 Mar 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-03-31/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://bas.codes/posts/new-features-python-3-11">What to Expect from Python 3.11?&lt;/a>
 (&lt;a href="https://lobste.rs/s/cjykqr/what_expect_from_python_3_11">comments&lt;/a>)&lt;/p>
