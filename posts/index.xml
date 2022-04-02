@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-04-01</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-01/</link><pubDate>Fri, 01 Apr 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-01/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 02 Apr 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-04-02</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-02/</link><pubDate>Sat, 02 Apr 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-02/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://tailscale.com/blog/database-for-2022/">A database for 2022&lt;/a>
+(&lt;a href="https://lobste.rs/s/t5a0et/database_for_2022">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://kundor.github.io/Finding-Waldo/">Finding Waldo in π&lt;/a>
+(&lt;a href="https://lobste.rs/s/kn4nq0/finding_waldo">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://computeradsfromthepast.substack.com/p/sierra-online">Sierra Online&lt;/a>
+(&lt;a href="https://lobste.rs/s/ylqdfh/sierra_online">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">April Fool&amp;rsquo;s Accumulator 2022&lt;/a>
+(&lt;a href="https://lobste.rs/s/bxhwi7/april_fool_s_accumulator_2022">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/patsie75/awk-demo">Old Skool demo in awk&lt;/a>
+(&lt;a href="https://lobste.rs/s/09mamg/old_skool_demo_awk">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this weekend?&lt;/a>
+(&lt;a href="https://lobste.rs/s/qkncve/what_are_you_doing_this_weekend">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://computeradsfromthepast.substack.com/p/sierra-online-part-2">Sierra Online - Part 2&lt;/a>
+(&lt;a href="https://lobste.rs/s/sjzfxb/sierra_online_part_2">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://web.archive.org/web/20030313155637/http://www.virtualschool.edu/cox/pub/PSIR/">Planning the Software Industrial Revolution (1990)&lt;/a>
+(&lt;a href="https://lobste.rs/s/itsiyv/planning_software_industrial">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.depesz.com/2022/03/31/waiting-for-postgresql-15-add-support-for-merge-sql-command/">Waiting for PostgreSQL 15 – Add support for MERGE SQL command&lt;/a>
+(&lt;a href="https://lobste.rs/s/xi7ymx/waiting_for_postgresql_15_add_support_for">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.kdab.com/cpp23-will-be-really-awesome/">C++23 Will Be Really Awesome&lt;/a>
+(&lt;a href="https://lobste.rs/s/liarbt/c_23_will_be_really_awesome">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-04-01</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-01/</link><pubDate>Fri, 01 Apr 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-01/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://www.oilshell.org/blog/2022/03/middle-out.html">Oil Is Being Implemented &amp;ldquo;Middle Out&amp;rdquo;&lt;/a>
 (&lt;a href="https://lobste.rs/s/s2remb/oil_is_being_implemented_middle_out">comments&lt;/a>)&lt;/p>
