@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 02 Apr 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-04-02</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-02/</link><pubDate>Sat, 02 Apr 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-02/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 03 Apr 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-04-03</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-03/</link><pubDate>Sun, 03 Apr 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-03/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="http://cliffle.com/blog/rust-mutexes/">Why Rust mutexes look like they do&lt;/a>
+(&lt;a href="https://lobste.rs/s/3xpd1q/why_rust_mutexes_look_like_they_do">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tailscale.com/blog/database-for-2022/">A database for 2022&lt;/a>
+(&lt;a href="https://lobste.rs/s/t5a0et/database_for_2022">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=Je8lwcUPBys">How 90&amp;rsquo;s dial-up Internet worked, and let&amp;rsquo;s make our own ISP&lt;/a>
+(&lt;a href="https://lobste.rs/s/9bapx4/how_90_s_dial_up_internet_worked_let_s_make">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://verdagon.dev/blog/surprising-weak-refs">Surprising Weak-Ref Implementations: Swift, Obj-C, C++, Rust, and Vale&lt;/a>
+(&lt;a href="https://lobste.rs/s/mngcvg/surprising_weak_ref_implementations">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.pypy.org/posts/2022/04/how-is-pypy-tested.html">How is PyPy Tested?&lt;/a>
+(&lt;a href="https://lobste.rs/s/jwo0j4/how_is_pypy_tested">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://eli.thegreenplace.net/2022/faster-sorting-with-go-generics/">Faster sorting with Go generics&lt;/a>
+(&lt;a href="https://lobste.rs/s/hqbxbs/faster_sorting_with_go_generics">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.nulliq.dev/posts/battleship/">Battleship&lt;/a>
+(&lt;a href="https://lobste.rs/s/br5eys/battleship">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.persistent.info/2022/03/blog-post.html">Infinite Mac: An Instant-Booting Quadra in Your Browser&lt;/a>
+(&lt;a href="https://lobste.rs/s/qc00xi/infinite_mac_instant_booting_quadra_your">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/vinc/moros">MOROS: Obscure Rust Operating System&lt;/a>
+(&lt;a href="https://lobste.rs/s/rzmnqe/moros_obscure_rust_operating_system">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.reversemode.com/2022/03/viasat-incident-from-speculation-to.html">VIASAT incident: from speculation to technical details&lt;/a>
+(&lt;a href="https://lobste.rs/s/yjujsz/viasat_incident_from_speculation">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-04-02</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-02/</link><pubDate>Sat, 02 Apr 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-02/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://tailscale.com/blog/database-for-2022/">A database for 2022&lt;/a>
 (&lt;a href="https://lobste.rs/s/t5a0et/database_for_2022">comments&lt;/a>)&lt;/p>
