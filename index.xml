@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 03 Apr 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-04-03</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-03/</link><pubDate>Sun, 03 Apr 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-03/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 04 Apr 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-04-04</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-04/</link><pubDate>Mon, 04 Apr 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-04/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://austinhenley.com/blog/11000lines.html">The project with a single 11,000-line code file&lt;/a>
+(&lt;a href="https://lobste.rs/s/wxqcul/project_with_single_11_000_line_code_file">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.brainonfire.net/blog/2022/03/04/understanding-using-xff/">The surprising complexity of interpreting X-Forwarded-For safely&lt;/a>
+(&lt;a href="https://lobste.rs/s/7lfhux/surprising_complexity_interpreting_x">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://hyper.dev/a/how-to-ease-the-production-of-micro-libraries/">How to ease the production of micro libraries?&lt;/a>
+(&lt;a href="https://lobste.rs/s/ebbaed/how_ease_production_micro_libraries">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://codahale.com//the-joy-of-duplexes/">The Joy Of Duplexes&lt;/a>
+(&lt;a href="https://lobste.rs/s/9ssv1p/joy_duplexes">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cprimozic.net/blog/neural-network-experiments-and-visualizations/">Exploring Neural Networks Visually in the Browser&lt;/a>
+(&lt;a href="https://lobste.rs/s/y4iqqc/exploring_neural_networks_visually">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ruby-lang.org/en/news/2022/04/03/ruby-3-2-0-preview1-released/">Ruby 3.2.0 Preview 1 Released&lt;/a>
+(&lt;a href="https://lobste.rs/s/n8nxwp/ruby_3_2_0_preview_1_released">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.nulliq.dev/posts/battleship/">Battleship&lt;/a>
+(&lt;a href="https://lobste.rs/s/br5eys/battleship">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://www.righto.com/2022/04/reverse-engineering-mysterious-univac.html">Reverse-engineering a mysterious Univac computer board&lt;/a>
+(&lt;a href="https://lobste.rs/s/7w17by/reverse_engineering_mysterious_univac">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=Je8lwcUPBys">How 90&amp;rsquo;s dial-up Internet worked, and let&amp;rsquo;s make our own ISP&lt;/a>
+(&lt;a href="https://lobste.rs/s/9bapx4/how_90_s_dial_up_internet_worked_let_s_make">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://verdagon.dev/blog/surprising-weak-refs">Surprising Weak-Ref Implementations: Swift, Obj-C, C++, Rust, and Vale&lt;/a>
+(&lt;a href="https://lobste.rs/s/mngcvg/surprising_weak_ref_implementations">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-04-03</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-03/</link><pubDate>Sun, 03 Apr 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-03/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="http://cliffle.com/blog/rust-mutexes/">Why Rust mutexes look like they do&lt;/a>
 (&lt;a href="https://lobste.rs/s/3xpd1q/why_rust_mutexes_look_like_they_do">comments&lt;/a>)&lt;/p>
