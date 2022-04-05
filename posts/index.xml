@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 04 Apr 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-04-04</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-04/</link><pubDate>Mon, 04 Apr 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-04/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 05 Apr 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-04-05</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-05/</link><pubDate>Tue, 05 Apr 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-05/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://arcan-fe.com/2022/04/02/the-day-of-a-new-command-line-interface-shell/">The Day of a new Command-Line Interface: Shell&lt;/a>
+(&lt;a href="https://lobste.rs/s/eq2dyf/day_new_command_line_interface_shell">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://iliana.fyi/blog/tailscale-auth-and-threat-modeling/">Tailscale’s human-scale networks are still controlled by Google and Microsoft&lt;/a>
+(&lt;a href="https://lobste.rs/s/0m4e52/tailscale_s_human_scale_networks_are">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://direnv.net/">direnv – unclutter your .profile&lt;/a>
+(&lt;a href="https://lobste.rs/s/uevjtl/direnv_unclutter_your_profile">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://stratus3d.com/blog/2022/04/01/function-variable-ambiguity-in-elixir">Function/Variable Ambiguity in Elixir&lt;/a>
+(&lt;a href="https://lobste.rs/s/jjtspl/function_variable_ambiguity_elixir">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">Who&amp;rsquo;s hiring? Q2Y2022&lt;/a>
+(&lt;a href="https://lobste.rs/s/sk0buf/who_s_hiring_q2y2022">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://austinhenley.com/blog/11000lines.html">The project with a single 11,000-line code file&lt;/a>
+(&lt;a href="https://lobste.rs/s/wxqcul/project_with_single_11_000_line_code_file">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/DaveJarvis/keenwrite/releases/tag/2.6.0">KeenWrite 2.6.0&lt;/a>
+(&lt;a href="https://lobste.rs/s/hvk2e5/keenwrite_2_6_0">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.masteringemacs.org/article/tree-sitter-complications-of-parsing-languages">Tree Sitter and the Complications of Parsing Languages&lt;/a>
+(&lt;a href="https://lobste.rs/s/njgitc/tree_sitter_complications_parsing">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://percival.ink/">Percival: Web-based, reactive Datalog notebooks&lt;/a>
+(&lt;a href="https://lobste.rs/s/hmvoci/percival_web_based_reactive_datalog">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://huonw.github.io/blog/2016/04/myths-and-legends-about-integer-overflow-in-rust/">Myths and legends about integer overflow in Rust (2016)&lt;/a>
+(&lt;a href="https://lobste.rs/s/k1zxi1/myths_legends_about_integer_overflow">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-04-04</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-04/</link><pubDate>Mon, 04 Apr 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-04/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://austinhenley.com/blog/11000lines.html">The project with a single 11,000-line code file&lt;/a>
 (&lt;a href="https://lobste.rs/s/wxqcul/project_with_single_11_000_line_code_file">comments&lt;/a>)&lt;/p>
