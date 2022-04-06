@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 05 Apr 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-04-05</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-05/</link><pubDate>Tue, 05 Apr 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-05/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 06 Apr 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-04-06</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-06/</link><pubDate>Wed, 06 Apr 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-06/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://blog.cloudflare.com/pipefail-how-a-missing-shell-option-slowed-cloudflare-down/">PIPEFAIL: How a missing shell option slowed Cloudflare down&lt;/a>
+(&lt;a href="https://lobste.rs/s/5ldmtp/pipefail_how_missing_shell_option_slowed">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://martinheinz.dev/blog/70">Python f-strings Are More Powerful Than You Might Think&lt;/a>
+(&lt;a href="https://lobste.rs/s/inpyn4/python_f_strings_are_more_powerful_than">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.gnu.org/software/emacs/#Releases">Emacs version 28.1 released&lt;/a>
+(&lt;a href="https://lobste.rs/s/umg6hb/emacs_version_28_1_released">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.redditinc.com/blog/how-we-built-rplace/">How We Built r/Place (2017)&lt;/a>
+(&lt;a href="https://lobste.rs/s/tial7p/how_we_built_r_place_2017">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://verdagon.dev/blog/yak-shave-language-engine-game">A Tale of Yak Shaving: Accidentally Making a Language, for an Engine, for a Game&lt;/a>
+(&lt;a href="https://lobste.rs/s/sb0cmh/tale_yak_shaving_accidentally_making">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://mjg59.dreamwidth.org/59353.html">Bearer tokens are just awful&lt;/a>
+(&lt;a href="https://lobste.rs/s/hsey1f/bearer_tokens_are_just_awful">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.warp.dev/">Warp: The terminal for the 21st century&lt;/a>
+(&lt;a href="https://lobste.rs/s/xckbqy/warp_terminal_for_21st_century">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ditto.live/blog/testing-CRDTs-in-rust-from-theory-to-practice">Testing CRDTs in Rust, From Theory to Practice&lt;/a>
+(&lt;a href="https://lobste.rs/s/uzuizm/testing_crdts_rust_from_theory_practice">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://trustworthy.systems/projects/TS/makatea">Makatea: Qubes-like OS on seL4&lt;/a>
+(&lt;a href="https://lobste.rs/s/oigvqv/makatea_qubes_like_os_on_sel4">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://iliana.fyi/blog/tailscale-auth-and-threat-modeling/">Tailscale’s human-scale networks are still controlled by Google and Microsoft&lt;/a>
+(&lt;a href="https://lobste.rs/s/0m4e52/tailscale_s_human_scale_networks_are">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-04-05</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-05/</link><pubDate>Tue, 05 Apr 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-05/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://arcan-fe.com/2022/04/02/the-day-of-a-new-command-line-interface-shell/">The Day of a new Command-Line Interface: Shell&lt;/a>
 (&lt;a href="https://lobste.rs/s/eq2dyf/day_new_command_line_interface_shell">comments&lt;/a>)&lt;/p>
