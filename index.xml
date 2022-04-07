@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 06 Apr 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-04-06</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-06/</link><pubDate>Wed, 06 Apr 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-06/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 07 Apr 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-04-07</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-07/</link><pubDate>Thu, 07 Apr 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-07/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://j3s.sh/thought/my-website-is-one-binary.html">my personal website is one binary&lt;/a>
+(&lt;a href="https://lobste.rs/s/jsr6mk/my_personal_website_is_one_binary">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.cloudflare.com/pipefail-how-a-missing-shell-option-slowed-cloudflare-down/">PIPEFAIL: How a missing shell option slowed Cloudflare down&lt;/a>
+(&lt;a href="https://lobste.rs/s/5ldmtp/pipefail_how_missing_shell_option_slowed">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://interjectedfuture.com/destroyed-at-the-boundary/">Destroyed at the Boundaries&lt;/a>
+(&lt;a href="https://lobste.rs/s/owjgri/destroyed_at_boundaries">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://0pointer.net/blog/running-an-container-off-the-host-usr.html">Running a Container off the Host /usr/&lt;/a>
+(&lt;a href="https://lobste.rs/s/pe4pas/running_container_off_host_usr">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://iansommerville.com/technology/research-impact/">The Underwhelming Impact of Software Engineering Research&lt;/a>
+(&lt;a href="https://lobste.rs/s/2vfofj/underwhelming_impact_software">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://rachelbythebay.com/w/2022/04/05/pipe/">That simple script is still someone&amp;rsquo;s bad day&lt;/a>
+(&lt;a href="https://lobste.rs/s/wl6kem/simple_script_is_still_someone_s_bad_day">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://inspektor.cloud/blog/password-based-authentication-without-tls-using-sasl">password based authentication without TLS using SASL&lt;/a>
+(&lt;a href="https://lobste.rs/s/2c1iwj/password_based_authentication_without">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://zverok.space/blog/2017-10-22-stop-magic.html">Please stop calling it &amp;ldquo;magic&amp;rdquo;&lt;/a>
+(&lt;a href="https://lobste.rs/s/3odol5/please_stop_calling_it_magic">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ayazhafiz.com/articles/22/why-dont-more-languages-offer-flow-typing">Why Don&amp;rsquo;t More Languages Offer Flow Typing?&lt;/a>
+(&lt;a href="https://lobste.rs/s/nga9mu/why_don_t_more_languages_offer_flow_typing">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://martinheinz.dev/blog/70">Python f-strings Are More Powerful Than You Might Think&lt;/a>
+(&lt;a href="https://lobste.rs/s/inpyn4/python_f_strings_are_more_powerful_than">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-04-06</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-06/</link><pubDate>Wed, 06 Apr 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-06/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://blog.cloudflare.com/pipefail-how-a-missing-shell-option-slowed-cloudflare-down/">PIPEFAIL: How a missing shell option slowed Cloudflare down&lt;/a>
 (&lt;a href="https://lobste.rs/s/5ldmtp/pipefail_how_missing_shell_option_slowed">comments&lt;/a>)&lt;/p>
