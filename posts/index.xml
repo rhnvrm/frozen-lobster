@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 07 Apr 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-04-07</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-07/</link><pubDate>Thu, 07 Apr 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-07/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 08 Apr 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-04-08</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-08/</link><pubDate>Fri, 08 Apr 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-08/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://duncanlock.net/blog/2022/04/06/using-windows-after-15-years-on-linux/">Using Windows after 15 years on [desktop] Linux&lt;/a>
+(&lt;a href="https://lobste.rs/s/dnfgez/using_windows_after_15_years_on_desktop">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.rust-lang.org/2022/04/07/Rust-1.60.0.html">Announcing Rust 1.60.0&lt;/a>
+(&lt;a href="https://lobste.rs/s/btxn0i/announcing_rust_1_60_0">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://j3s.sh/thought/my-website-is-one-binary.html">my personal website is one binary&lt;/a>
+(&lt;a href="https://lobste.rs/s/jsr6mk/my_personal_website_is_one_binary">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.wesleyac.com/posts/subdomains-as-identity">Subdomains as identity&lt;/a>
+(&lt;a href="https://lobste.rs/s/50osxy/subdomains_as_identity">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/Exein-io/kepler">Kepler — NIST-based CVE lookup store and API powered by Rust&lt;/a>
+(&lt;a href="https://lobste.rs/s/o4xrjm/kepler_nist_based_cve_lookup_store_api">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://christine.website/blog/nix-flakes-3-2022-04-07">Nix Flakes: Exposing and using NixOS Modules&lt;/a>
+(&lt;a href="https://lobste.rs/s/piv2dy/nix_flakes_exposing_using_nixos_modules">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.andreinc.net/2022/03/15/perfect-hashing-with-java">Hash, displace, and compress: Perfect hashing with Java&lt;/a>
+(&lt;a href="https://lobste.rs/s/itilc0/hash_displace_compress_perfect_hashing">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jany.st/post/2022-04-04-ghostscad-marrying-openscad-and-golang.html">GhostSCAD: Marrying OpenSCAD and Golang&lt;/a>
+(&lt;a href="https://lobste.rs/s/ejavcf/ghostscad_marrying_openscad_golang">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">An FP language which will stand the test of time?&lt;/a>
+(&lt;a href="https://lobste.rs/s/gm2ukd/fp_language_which_will_stand_test_time">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://neovim.discourse.group/t/neovim-0-7-stabilization-period-begins-today-4-2-2022/2259">Neovim 0.7 stabilization period begins today (4/2/2022)&lt;/a>
+(&lt;a href="https://lobste.rs/s/7yotxb/neovim_0_7_stabilization_period_begins">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-04-07</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-07/</link><pubDate>Thu, 07 Apr 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-07/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://j3s.sh/thought/my-website-is-one-binary.html">my personal website is one binary&lt;/a>
 (&lt;a href="https://lobste.rs/s/jsr6mk/my_personal_website_is_one_binary">comments&lt;/a>)&lt;/p>
