@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 08 Apr 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-04-08</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-08/</link><pubDate>Fri, 08 Apr 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-08/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 09 Apr 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-04-09</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-09/</link><pubDate>Sat, 09 Apr 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-09/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://kevincox.ca/2022/04/07/passwords/">Maybe Passwords are the Future&lt;/a>
+(&lt;a href="https://lobste.rs/s/o2mx7q/maybe_passwords_are_future">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.bejarano.io/jira-issues-shortcut/">Find Jira issues faster with this shortcut&lt;/a>
+(&lt;a href="https://lobste.rs/s/mg5stk/find_jira_issues_faster_with_this">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://koen.engineer/russias-certificate-authority-for-sanctioned-organizations-645d61af8ac6">Russia’s certificate authority for sanctioned organizations&lt;/a>
+(&lt;a href="https://lobste.rs/s/jrwjai/russia_s_certificate_authority_for">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://nolanlawson.com/2022/04/08/the-struggle-of-using-native-emoji-on-the-web/">The struggle of using native emoji on the web&lt;/a>
+(&lt;a href="https://lobste.rs/s/p3mvzg/struggle_using_native_emoji_on_web">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/termstandard/colors">Color standards for terminal emulators&lt;/a>
+(&lt;a href="https://lobste.rs/s/1bjyoe/color_standards_for_terminal_emulators">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://matklad.github.io//2021/03/12/goroutines-are-not-significantly-smaller-than-threads.html">Goroutines Are Not Significantly Smaller Than Threads&lt;/a>
+(&lt;a href="https://lobste.rs/s/t0hz8f/goroutines_are_not_significantly">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.epistem.ink/p/takeaways-from-3-years-working-in?s=w">Takeaways From 3 Years Working In Machine Learning&lt;/a>
+(&lt;a href="https://lobste.rs/s/5b0zgj/takeaways_from_3_years_working_machine">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.openssh.com/releasenotes.html">OpenSSH 9.0 Release Notes&lt;/a>
+(&lt;a href="https://lobste.rs/s/fsqsy5/openssh_9_0_release_notes">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://mazzo.li/posts/c-performance-anecdote.html">When &lt;code>static&lt;/code> makes your C code 10 times faster&lt;/a>
+(&lt;a href="https://lobste.rs/s/puknrj/when_static_makes_your_c_code_10_times">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.tug.org/texlive/acquire.html">TeX Live 2022 is available&lt;/a>
+(&lt;a href="https://lobste.rs/s/g85zaj/tex_live_2022_is_available">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-04-08</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-08/</link><pubDate>Fri, 08 Apr 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-08/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://duncanlock.net/blog/2022/04/06/using-windows-after-15-years-on-linux/">Using Windows after 15 years on [desktop] Linux&lt;/a>
 (&lt;a href="https://lobste.rs/s/dnfgez/using_windows_after_15_years_on_desktop">comments&lt;/a>)&lt;/p>
