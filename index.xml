@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 09 Apr 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-04-09</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-09/</link><pubDate>Sat, 09 Apr 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-09/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 10 Apr 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-04-10</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-10/</link><pubDate>Sun, 10 Apr 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-10/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://gavinhoward.com/2022/04/i-believe-zig-has-function-colors/">I Believe Zig Has Function Colors&lt;/a>
+(&lt;a href="https://lobste.rs/s/mw1f3s/i_believe_zig_has_function_colors">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://criticaledtech.com/2022/04/08/what-might-degrowth-computing-look-like/">What might degrowth computing look like?&lt;/a>
+(&lt;a href="https://lobste.rs/s/enip7d/what_might_degrowth_computing_look_like">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tookmund.com/2022/04/importance-of-the-trailing-slash">The Unexpected Importance of the Trailing Slash&lt;/a>
+(&lt;a href="https://lobste.rs/s/yxazic/unexpected_importance_trailing_slash">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.smashingmagazine.com/2022/03/html-attributes-you-never-use/">Those HTML Attributes You Never Use&lt;/a>
+(&lt;a href="https://lobste.rs/s/isovac/those_html_attributes_you_never_use">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.thingsquare.com/blog/articles/rand-may-call-malloc/">You should know: rand() may call malloc()&lt;/a>
+(&lt;a href="https://lobste.rs/s/hzkjpx/you_should_know_rand_may_call_malloc">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://bitspook.in/blog/using-elisp-as-an/">Using ELisp as an HTML templating engine&lt;/a>
+(&lt;a href="https://lobste.rs/s/dwasyj/using_elisp_as_html_templating_engine">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://savo.rocks/posts/starting-your-computer-music-journey-with-clojure-and-overtone-in-emacs/">Starting your Computer Music Journey with Clojure and Overtone in Emacs&lt;/a>
+(&lt;a href="https://lobste.rs/s/0puks2/starting_your_computer_music_journey">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://kevincox.ca/2022/04/07/passwords/">Maybe Passwords are the Future&lt;/a>
+(&lt;a href="https://lobste.rs/s/o2mx7q/maybe_passwords_are_future">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://nolanlawson.com/2022/04/08/the-struggle-of-using-native-emoji-on-the-web/">The struggle of using native emoji on the web&lt;/a>
+(&lt;a href="https://lobste.rs/s/p3mvzg/struggle_using_native_emoji_on_web">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/chaosprint/glicol">Graph-oriented live coding language and audio DSP library written in Rust&lt;/a>
+(&lt;a href="https://lobste.rs/s/tg7kse/graph_oriented_live_coding_language">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-04-09</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-09/</link><pubDate>Sat, 09 Apr 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-09/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://kevincox.ca/2022/04/07/passwords/">Maybe Passwords are the Future&lt;/a>
 (&lt;a href="https://lobste.rs/s/o2mx7q/maybe_passwords_are_future">comments&lt;/a>)&lt;/p>
