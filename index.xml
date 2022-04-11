@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 10 Apr 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-04-10</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-10/</link><pubDate>Sun, 10 Apr 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-10/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 11 Apr 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-04-11</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-11/</link><pubDate>Mon, 11 Apr 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-11/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://packetlost.dev/blog/notes-from-learning-clojure/">Notes from Learning Clojure&lt;/a>
+(&lt;a href="https://lobste.rs/s/buf3to/notes_from_learning_clojure">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ach.srht.site/minipeg">Minipeg - Parser generator for C&lt;/a>
+(&lt;a href="https://lobste.rs/s/jx9npn/minipeg_parser_generator_for_c">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://castel.dev/post/research-workflow/">My Mathematics PhD research workflow: LaTeX notes and instant pdf referencing&lt;/a>
+(&lt;a href="https://lobste.rs/s/ihd5ig/my_mathematics_phd_research_workflow">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://oldvcr.blogspot.com/2022/04/tonight-were-gonna-log-on-like-its-1979.html">Tonight we&amp;rsquo;re gonna log on like it&amp;rsquo;s 1979 (Telenet, Dialcom and The Source)&lt;/a>
+(&lt;a href="https://lobste.rs/s/2sruqu/tonight_we_re_gonna_log_on_like_it_s_1979">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">Projects using Fish shell for scripting?&lt;/a>
+(&lt;a href="https://lobste.rs/s/qmemki/projects_using_fish_shell_for_scripting">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gist.github.com/luqmana/be1af5b64d2cda5a533e3e23a7830b44">Achievement unlocked: rustc segfault&lt;/a>
+(&lt;a href="https://lobste.rs/s/eqekvd/achievement_unlocked_rustc_segfault">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tylerayoung.com/2021/12/02/shooting-yourself-in-the-foot-with-genservers/">Shooting Yourself in the Foot with GenServers&lt;/a>
+(&lt;a href="https://lobste.rs/s/9lyoyp/shooting_yourself_foot_with_genservers">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=JcJSW7Rprio">Harder Drive: Hard drives we didn&amp;rsquo;t want or need&lt;/a>
+(&lt;a href="https://lobste.rs/s/xvlowm/harder_drive_hard_drives_we_didn_t_want">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/DanRuta/xVA-Synth">Open source project for creating voice lines for games using neural speech synthesis&lt;/a>
+(&lt;a href="https://lobste.rs/s/lhqhea/open_source_project_for_creating_voice">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gavinhoward.com/2022/04/i-believe-zig-has-function-colors/">I Believe Zig Has Function Colors&lt;/a>
+(&lt;a href="https://lobste.rs/s/mw1f3s/i_believe_zig_has_function_colors">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-04-10</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-10/</link><pubDate>Sun, 10 Apr 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-10/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://gavinhoward.com/2022/04/i-believe-zig-has-function-colors/">I Believe Zig Has Function Colors&lt;/a>
 (&lt;a href="https://lobste.rs/s/mw1f3s/i_believe_zig_has_function_colors">comments&lt;/a>)&lt;/p>
