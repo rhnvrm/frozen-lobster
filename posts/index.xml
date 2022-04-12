@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 11 Apr 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-04-11</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-11/</link><pubDate>Mon, 11 Apr 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-11/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 12 Apr 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-04-12</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-12/</link><pubDate>Tue, 12 Apr 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-12/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://blog.craftyguy.net/cmdline-help/">-h &amp;ndash;help -help help &amp;ndash;? -? ????&lt;/a>
+(&lt;a href="https://lobste.rs/s/9e7yoy/h_help_help_help">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://josephg.com/blog/node-sandbox/">NodeJS packages don&amp;rsquo;t deserve your trust&lt;/a>
+(&lt;a href="https://lobste.rs/s/ngzszd/nodejs_packages_don_t_deserve_your_trust">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://timkellogg.me/blog/2022/04/11/three-plates">Three Plates&lt;/a>
+(&lt;a href="https://lobste.rs/s/1p9sl4/three_plates">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/xcodebuild/CodeTerminal">CodeTerminal: Cross platform terminal app from Visual Studio Code&lt;/a>
+(&lt;a href="https://lobste.rs/s/a5sbrz/codeterminal_cross_platform_terminal">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://artemis.sh/2022/04/11/package-manager-murder-mystery.html">A System-Witch’s Package Manager Murder Mystery&lt;/a>
+(&lt;a href="https://lobste.rs/s/6ocx5f/system_witch_s_package_manager_murder">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gist.github.com/luqmana/be1af5b64d2cda5a533e3e23a7830b44">Achievement unlocked: rustc segfault&lt;/a>
+(&lt;a href="https://lobste.rs/s/eqekvd/achievement_unlocked_rustc_segfault">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://vale.dev/">The Vale Programming Language&lt;/a>
+(&lt;a href="https://lobste.rs/s/wtaest/vale_programming_language">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://nedbatchelder.com/blog/202204/singleton_is_a_bad_idea.html">Singleton is a bad idea&lt;/a>
+(&lt;a href="https://lobste.rs/s/2nirvr/singleton_is_bad_idea">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this week?&lt;/a>
+(&lt;a href="https://lobste.rs/s/f8yyc9/what_are_you_doing_this_week">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://2ality.com/2022/04/change-array-by-copy.html">ECMAScript proposal “Change Array by copy”: four new non-destructive Array methods&lt;/a>
+(&lt;a href="https://lobste.rs/s/75iuzd/ecmascript_proposal_change_array_by_copy">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-04-11</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-11/</link><pubDate>Mon, 11 Apr 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-11/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://packetlost.dev/blog/notes-from-learning-clojure/">Notes from Learning Clojure&lt;/a>
 (&lt;a href="https://lobste.rs/s/buf3to/notes_from_learning_clojure">comments&lt;/a>)&lt;/p>
