@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 12 Apr 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-04-12</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-12/</link><pubDate>Tue, 12 Apr 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-12/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 13 Apr 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-04-13</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-13/</link><pubDate>Wed, 13 Apr 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-13/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://earthly.dev/blog/golang-streamers/">Watch People Doing the Thing&lt;/a>
+(&lt;a href="https://lobste.rs/s/mls3ve/watch_people_doing_thing">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.craftyguy.net/cmdline-help/">-h &amp;ndash;help -help help &amp;ndash;? -? ????&lt;/a>
+(&lt;a href="https://lobste.rs/s/9e7yoy/h_help_help_help">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/pschanely/contractual-semver">Contractual Semver&lt;/a>
+(&lt;a href="https://lobste.rs/s/vr7m10/contractual_semver">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lofi.limo/blog/building-a-streaming-music-service-with-phoenix-and-elixir">Building a Streaming Music Service with Phoenix and Elixir&lt;/a>
+(&lt;a href="https://lobste.rs/s/brqjad/building_streaming_music_service_with">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lipanski.com/posts/smallest-docker-image-static-website">The smallest Docker image to serve static websites&lt;/a>
+(&lt;a href="https://lobste.rs/s/aqvntj/smallest_docker_image_serve_static">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.joyent.com/blog/a-new-chapter-begins-for-triton-and-smartos">A New Chapter Begins for Triton and SmartOS&lt;/a>
+(&lt;a href="https://lobste.rs/s/jhoah7/new_chapter_begins_for_triton_smartos">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://datastation.multiprocess.io/blog/2022-04-11-sql-parsers.html">Surveying 10+ SQL parser libraries in a few high-level languages&lt;/a>
+(&lt;a href="https://lobste.rs/s/x216bf/surveying_10_sql_parser_libraries_few">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.osau.re/articles/blog_requiem.html">Everything in OCaml, a blog generated and served in OCaml using MirageOS&lt;/a>
+(&lt;a href="https://lobste.rs/s/zuptuc/everything_ocaml_blog_generated_served">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gwolf.org/2022/04/how-is-the-free-firmware-for-the-raspberry-progressing.html">How is the free firmware for the Raspberry progressing?&lt;/a>
+(&lt;a href="https://lobste.rs/s/6dwhha/how_is_free_firmware_for_raspberry">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ralfj.de/blog/2022/04/11/provenance-exposed.html">Pointers Are Complicated III, or: Pointer-integer casts exposed&lt;/a>
+(&lt;a href="https://lobste.rs/s/gw33jk/pointers_are_complicated_iii_pointer">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-04-12</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-12/</link><pubDate>Tue, 12 Apr 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-12/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://blog.craftyguy.net/cmdline-help/">-h &amp;ndash;help -help help &amp;ndash;? -? ????&lt;/a>
 (&lt;a href="https://lobste.rs/s/9e7yoy/h_help_help_help">comments&lt;/a>)&lt;/p>
