@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 13 Apr 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-04-13</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-13/</link><pubDate>Wed, 13 Apr 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-13/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 14 Apr 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-04-14</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-14/</link><pubDate>Thu, 14 Apr 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-14/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.cambus.net/file-transfers-via-the-parallel-port-on-dos-using-laplink/">File transfers via the parallel port on DOS using LapLink&lt;/a>
+(&lt;a href="https://lobste.rs/s/shsjlz/file_transfers_via_parallel_port_on_dos">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cloak.software/blog/rust-on-nails/">Rust on Nails: A full stack architecture for Rust web applications&lt;/a>
+(&lt;a href="https://lobste.rs/s/n6dop3/rust_on_nails_full_stack_architecture_for">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://buttondown.email/hillelwayne/archive/you-can-automate-more-than-you-think/">You can automate more than you think&lt;/a>
+(&lt;a href="https://lobste.rs/s/fvwcln/you_can_automate_more_than_you_think">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ionathan.ch/2022/04/09/angzarr.html">U+237C RIGHT ANGLE WITH DOWNWARDS ZIGZAG ARROW&lt;/a>
+(&lt;a href="https://lobste.rs/s/tmv8x7/u_237c_right_angle_with_downwards_zigzag">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://earthly.dev/blog/golang-streamers/">Watch People Doing the Thing&lt;/a>
+(&lt;a href="https://lobste.rs/s/mls3ve/watch_people_doing_thing">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/racket/racket/pull/4179">Racket gains new build system using tiny Scheme implementation Zuo&lt;/a>
+(&lt;a href="https://lobste.rs/s/ax4iyv/racket_gains_new_build_system_using_tiny">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://guix.gnu.org/en/blog/2022/keeping-ones-home-tidy/">GNU Guix — Keeping one’s home tidy&lt;/a>
+(&lt;a href="https://lobste.rs/s/8zogxs/gnu_guix_keeping_one_s_home_tidy">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/">A list of new(ish) command line tools&lt;/a>
+(&lt;a href="https://lobste.rs/s/q3yeyo/list_new_ish_command_line_tools">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tonsky.me/blog/datascript-2/">Ideas for DataScript 2&lt;/a>
+(&lt;a href="https://lobste.rs/s/kx9xoi/ideas_for_datascript_2">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.jmp.chat/b/2022-computing-call-rates">Computing International Call Rates with a Trie&lt;/a>
+(&lt;a href="https://lobste.rs/s/rchzft/computing_international_call_rates_with">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-04-13</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-13/</link><pubDate>Wed, 13 Apr 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-13/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://earthly.dev/blog/golang-streamers/">Watch People Doing the Thing&lt;/a>
 (&lt;a href="https://lobste.rs/s/mls3ve/watch_people_doing_thing">comments&lt;/a>)&lt;/p>
