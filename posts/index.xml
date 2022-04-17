@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 16 Apr 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-04-16</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-16/</link><pubDate>Sat, 16 Apr 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-16/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 17 Apr 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-04-17</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-17/</link><pubDate>Sun, 17 Apr 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-17/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/ziglang/zig/pull/11442">Zig self-hosted compiler can now build itself&lt;/a>
+(&lt;a href="https://lobste.rs/s/0j45v4/zig_self_hosted_compiler_can_now_build">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://twitter.com/antonmedv/status/1515429017582809090">I rewrote fx (terminal JSON viewer) from nodejs to go&lt;/a>
+(&lt;a href="https://lobste.rs/s/ak23a9/i_rewrote_fx_terminal_json_viewer_from">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://uniqname.medium.com/why-i-avoid-async-await-7be98014b73e">Why I avoid async/await&lt;/a>
+(&lt;a href="https://lobste.rs/s/kasgtb/why_i_avoid_async_await">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.bithole.dev/mcmap.html">A Census of Minecraft Servers&lt;/a>
+(&lt;a href="https://lobste.rs/s/6qmkyg/census_minecraft_servers">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=XFc513MJjos">How to create a new Common Lisp project (with my project generator) [screencast]&lt;/a>
+(&lt;a href="https://lobste.rs/s/69dkvi/how_create_new_common_lisp_project_with_my">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://www.e-basteln.de/computing/papertape/overview/">Self-calibrating Arduino USB paper tape reader&lt;/a>
+(&lt;a href="https://lobste.rs/s/s9mrk3/self_calibrating_arduino_usb_paper_tape">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://macabeus.medium.com/gambiconf-why-do-we-need-a-new-tech-event-4ff3302cf3d">GambiConf — Why do we need a new tech event?&lt;/a>
+(&lt;a href="https://lobste.rs/s/fgsnxr/gambiconf_why_do_we_need_new_tech_event">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://john-millikin.com/stateless-kubernetes-overlay-networks-with-ipv6">Stateless Kubernetes overlay networks with IPv6&lt;/a>
+(&lt;a href="https://lobste.rs/s/jindxi/stateless_kubernetes_overlay_networks">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://freakingrectangle.wordpress.com/2022/04/15/how-to-freaking-hire-great-developers/">How to Freaking Hire Great Developers&lt;/a>
+(&lt;a href="https://lobste.rs/s/fjexls/how_freaking_hire_great_developers">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://www.catb.org/~esr/src/src.html">src - a version-control system for single-file projects by solo developers and authors&lt;/a>
+(&lt;a href="https://lobste.rs/s/mgutn7/src_version_control_system_for_single">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-04-16</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-16/</link><pubDate>Sat, 16 Apr 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-16/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://contrachrome.com/">Contra Chrome&lt;/a>
 (&lt;a href="https://lobste.rs/s/xaihmk/contra_chrome">comments&lt;/a>)&lt;/p>
