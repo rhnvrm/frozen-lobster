@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 17 Apr 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-04-17</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-17/</link><pubDate>Sun, 17 Apr 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-17/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 18 Apr 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-04-18</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-18/</link><pubDate>Mon, 18 Apr 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-18/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://nicole.express/2022/the-center-point-can-not-hold.html">The games Nintendo didn&amp;rsquo;t want you to play: Tengen&lt;/a>
+(&lt;a href="https://lobste.rs/s/wopxjw/games_nintendo_didn_t_want_you_play_tengen">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://mjg59.dreamwidth.org/59479.html">The Freedom Phone is not great at privacy&lt;/a>
+(&lt;a href="https://lobste.rs/s/iv9bjz/freedom_phone_is_not_great_at_privacy">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/Tensegritics/ClojureDart">Clojure Dart&lt;/a>
+(&lt;a href="https://lobste.rs/s/xfijct/clojure_dart">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/warp-tech/warpgate">warpgate: Smart SSH bastion that works with any SSH client&lt;/a>
+(&lt;a href="https://lobste.rs/s/99qbjg/warpgate_smart_ssh_bastion_works_with_any">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/ziglang/zig/pull/11442">Zig self-hosted compiler can now build itself&lt;/a>
+(&lt;a href="https://lobste.rs/s/0j45v4/zig_self_hosted_compiler_can_now_build">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thenumbat.github.io/Exponential-Rotations/">Exponentially Better Rotations&lt;/a>
+(&lt;a href="https://lobste.rs/s/6wmzu2/exponentially_better_rotations">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sigpwned.com/2022/04/16/fundamentals-of-software-optimization-part-i-benchmarking/">Fundamentals of Software Optimization Part I — Benchmarking – data, code and conversation&lt;/a>
+(&lt;a href="https://lobste.rs/s/si4crv/fundamentals_software_optimization">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://twitter.com/antonmedv/status/1515429017582809090">I rewrote fx (terminal JSON viewer) from nodejs to go&lt;/a>
+(&lt;a href="https://lobste.rs/s/ak23a9/i_rewrote_fx_terminal_json_viewer_from">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.heinrichhartmann.com/posts/writing/">Writing for Engineers&lt;/a>
+(&lt;a href="https://lobste.rs/s/6q3w01/writing_for_engineers">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thejavaguy.org/posts/004-new-in-java-18-sws-part-1/">New in Java 18: Simple Web Server&lt;/a>
+(&lt;a href="https://lobste.rs/s/q9n4wl/new_java_18_simple_web_server">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-04-17</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-17/</link><pubDate>Sun, 17 Apr 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-17/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://github.com/ziglang/zig/pull/11442">Zig self-hosted compiler can now build itself&lt;/a>
 (&lt;a href="https://lobste.rs/s/0j45v4/zig_self_hosted_compiler_can_now_build">comments&lt;/a>)&lt;/p>
