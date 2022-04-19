@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 18 Apr 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-04-18</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-18/</link><pubDate>Mon, 18 Apr 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-18/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 19 Apr 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-04-19</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-19/</link><pubDate>Tue, 19 Apr 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-19/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.andreinc.net/2022/04/10/a-blog-that-is-a-single-executable-binary">A blog that is a single executable binary (inspired by j3s)&lt;/a>
+(&lt;a href="https://lobste.rs/s/oj0yi5/blog_is_single_executable_binary">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://catfox.life/2022/04/16/the-musl-preprocessor-debate/">The musl preprocessor debate&lt;/a>
+(&lt;a href="https://lobste.rs/s/osfunr/musl_preprocessor_debate">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/anishathalye/git-remote-dropbox">git-remote-dropbox: A transparent bridge between Git and Dropbox&lt;/a>
+(&lt;a href="https://lobste.rs/s/5qqcev/git_remote_dropbox_transparent_bridge">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pencil.toast.cafe/bunker-labs/a-message-queue-in-shell">A Message Queue in Shell&lt;/a>
+(&lt;a href="https://lobste.rs/s/p2hlkz/message_queue_shell">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.cs.utexas.edu/~ntaylor/blog/proving/">Proving the Coding Interview&lt;/a>
+(&lt;a href="https://lobste.rs/s/v5xvbf/proving_coding_interview">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://quuxplusone.github.io/blog/2022/01/06/memcached-interview/">The best engineering interview question I’ve ever gotten, Part 1&lt;/a>
+(&lt;a href="https://lobste.rs/s/lqbodl/best_engineering_interview_question_i_ve">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://100r.co/site/uxn.html">The Uxn ecosystem is a clean-slate personal computing stack, created to host small tools and games&lt;/a>
+(&lt;a href="https://lobste.rs/s/29crp2/uxn_ecosystem_is_clean_slate_personal">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://fh4ntke.medium.com/hacking-the-university-in-a-few-steps-84e43e3c01a8">Hacking the University in a Few Steps&lt;/a>
+(&lt;a href="https://lobste.rs/s/pxxzxs/hacking_university_few_steps">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://roaringbitmap.org/">Roaring Bitmaps: A better compressed bitset&lt;/a>
+(&lt;a href="https://lobste.rs/s/hwiisl/roaring_bitmaps_better_compressed">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/valeriansaliou/sonic">sonic: Fast, lightweight &amp;amp; schema-less search backend&lt;/a>
+(&lt;a href="https://lobste.rs/s/cklti6/sonic_fast_lightweight_schema_less">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-04-18</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-18/</link><pubDate>Mon, 18 Apr 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-18/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://nicole.express/2022/the-center-point-can-not-hold.html">The games Nintendo didn&amp;rsquo;t want you to play: Tengen&lt;/a>
 (&lt;a href="https://lobste.rs/s/wopxjw/games_nintendo_didn_t_want_you_play_tengen">comments&lt;/a>)&lt;/p>
