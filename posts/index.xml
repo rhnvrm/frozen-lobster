@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 20 Apr 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-04-20</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-20/</link><pubDate>Wed, 20 Apr 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-20/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 21 Apr 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-04-21</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-21/</link><pubDate>Thu, 21 Apr 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-21/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://rachelbythebay.com/w/2022/04/20/rngd/">Debian/Raspbian rngd with -S0 will bite you after a week&lt;/a>
+(&lt;a href="https://lobste.rs/s/3lp6yy/debian_raspbian_rngd_with_s0_will_bite_you">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://paste.sr.ht/~icefox/1dae9fdaf210ca88146190340c0b5b706dbe7808">plan9palette.fnl&lt;/a>
+(&lt;a href="https://lobste.rs/s/7v5wv5/plan9palette_fnl">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/ruby/ruby/pull/5826">Ruby: Rust YJIT&lt;/a>
+(&lt;a href="https://lobste.rs/s/ufaecp/ruby_rust_yjit">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tratt.net/laurie/blog/2022/practising_programming.html">Practising Programming&lt;/a>
+(&lt;a href="https://lobste.rs/s/vb0cc3/practising_programming">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.wezm.net/v2/posts/2022/garage-door-monitor/">Monitoring My Garage Door With a Raspberry Pi, Rust, and a 13Mb Linux System&lt;/a>
+(&lt;a href="https://lobste.rs/s/ygyn3x/monitoring_my_garage_door_with_raspberry">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://techtrickery.com/tearing-out-the-emacs-window-manager.html">Tearing out the Emacs windows manager for tiling window managers&lt;/a>
+(&lt;a href="https://lobste.rs/s/ge7g8x/tearing_out_emacs_windows_manager_for">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tokern.io/blog/open-source-sql-parsers/">Open Source SQL Parsers&lt;/a>
+(&lt;a href="https://lobste.rs/s/ovsofk/open_source_sql_parsers">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/sirwart/secrets">secrets: A command-line tool to prevent committing secret keys into your source code&lt;/a>
+(&lt;a href="https://lobste.rs/s/3or9rj/secrets_command_line_tool_prevent">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://akoutmos.com/post/elixir-shell-scripts/">Writing Shell Scripts Using Elixir&lt;/a>
+(&lt;a href="https://lobste.rs/s/d2if8n/writing_shell_scripts_using_elixir">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/hermitcore/rusty-hermit">RustyHermit - A Rust-based, lightweight unikernel&lt;/a>
+(&lt;a href="https://lobste.rs/s/doqxed/rustyhermit_rust_based_lightweight">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-04-20</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-20/</link><pubDate>Wed, 20 Apr 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-20/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://gist.github.com/Widdershin/98fd4f0e416e8eb2906d11fd1da62984">The absurd complexity of server-side rendering&lt;/a>
 (&lt;a href="https://lobste.rs/s/qfb5qy/absurd_complexity_server_side_rendering">comments&lt;/a>)&lt;/p>
