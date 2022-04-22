@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 21 Apr 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-04-21</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-21/</link><pubDate>Thu, 21 Apr 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-21/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 22 Apr 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-04-22</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-22/</link><pubDate>Fri, 22 Apr 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-22/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/dewyze/vim-tada">Vim Tada - a simple todo manager for vim&lt;/a>
+(&lt;a href="https://lobste.rs/s/rrlcpa/vim_tada_simple_todo_manager_for_vim">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.openbsd.org/71.html">OpenBSD 7.1 Released&lt;/a>
+(&lt;a href="https://lobste.rs/s/urqiej/openbsd_7_1_released">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://flak.tedunangst.com/post/the-three-line-single-binary-compiler-free-blog">the three line single binary compiler free blog&lt;/a>
+(&lt;a href="https://lobste.rs/s/9xsesv/three_line_single_binary_compiler_free">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://metaredux.com/posts/2022/04/21/rubocop-turns-10.html">RuboCop Turns 10&lt;/a>
+(&lt;a href="https://lobste.rs/s/tah9jn/rubocop_turns_10">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://discourse.ubuntu.com/t/jammy-jellyfish-release-notes/24668">Ubuntu 22.04 LTS Release Notes&lt;/a>
+(&lt;a href="https://lobste.rs/s/ryywdt/ubuntu_22_04_lts_release_notes">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://seri.tools/blog/announcing-rust9x/">Rust9x: Compile Rust code for Windows 95, NT and above&lt;/a>
+(&lt;a href="https://lobste.rs/s/vdbxtp/rust9x_compile_rust_code_for_windows_95_nt">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://arxiv.org/abs/2011.13127">Copy-and-Patch Compilation: A fast compilation algorithm for high-level languages and bytecode&lt;/a>
+(&lt;a href="https://lobste.rs/s/f8oxju/copy_patch_compilation_fast_compilation">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.uninformativ.de/blog/postings/2022-04-21/0/POSTING-en.html">Python’s “Type Hints” are a bit of a disappointment to me&lt;/a>
+(&lt;a href="https://lobste.rs/s/uxnepo/python_s_type_hints_are_bit">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jott.live/markdown/js_gc_in_wasm">JavaScript Garbage Collection with WebAssembly is Possible Today&lt;/a>
+(&lt;a href="https://lobste.rs/s/of4zyg/javascript_garbage_collection_with">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://socketsupply.qa/blog/beyond-the-web/">Beyond The Web: Reassembly of the Internet&lt;/a>
+(&lt;a href="https://lobste.rs/s/0drgnc/beyond_web_reassembly_internet">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-04-21</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-21/</link><pubDate>Thu, 21 Apr 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-21/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://rachelbythebay.com/w/2022/04/20/rngd/">Debian/Raspbian rngd with -S0 will bite you after a week&lt;/a>
 (&lt;a href="https://lobste.rs/s/3lp6yy/debian_raspbian_rngd_with_s0_will_bite_you">comments&lt;/a>)&lt;/p>
