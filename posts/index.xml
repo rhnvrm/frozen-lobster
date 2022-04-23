@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 22 Apr 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-04-22</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-22/</link><pubDate>Fri, 22 Apr 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-22/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 23 Apr 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-04-23</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-23/</link><pubDate>Sat, 23 Apr 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-23/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="http://blog.wolfire.com/2022/04/Overgrowth-Open-Source-Announcement">Overgrowth Open Source Announcement&lt;/a>
+(&lt;a href="https://lobste.rs/s/knddyf/overgrowth_open_source_announcement">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jmmv.dev/2022/04/rust-traits-and-dependency-injection.html">Rust traits and dependency injection&lt;/a>
+(&lt;a href="https://lobste.rs/s/yqm4uc/rust_traits_dependency_injection">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this weekend?&lt;/a>
+(&lt;a href="https://lobste.rs/s/rsu2om/what_are_you_doing_this_weekend">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://portalble.cs.brown.edu">Augmented reality apps made hands-on interactive&lt;/a>
+(&lt;a href="https://lobste.rs/s/wqbezj/augmented_reality_apps_made_hands_on">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cloaker.mobi">cloaker.mobi: now encrypts arbitrarily large files in Chrome on desktop&lt;/a>
+(&lt;a href="https://lobste.rs/s/evi40y/cloaker_mobi_now_encrypts_arbitrarily">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/jiacai2050/oh-my-github">Oh My GitHub: a delightful, open source tool for managing your GitHub repositories&lt;/a>
+(&lt;a href="https://lobste.rs/s/edfwtu/oh_my_github_delightful_open_source_tool">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/dewyze/vim-tada">Vim Tada - a simple todo manager for vim&lt;/a>
+(&lt;a href="https://lobste.rs/s/rrlcpa/vim_tada_simple_todo_manager_for_vim">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/lucianmarin/logparser">Logparser: an alternative to GoAccess written in Python&lt;/a>
+(&lt;a href="https://lobste.rs/s/lwe7yx/logparser_alternative_goaccess_written">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://v5.chriskrycho.com/journal/semver-for-ts-in-practice/">SemVer for TS in Practice —real world example of avoiding breaking changes&lt;/a>
+(&lt;a href="https://lobste.rs/s/ljrj0f/semver_for_ts_practice_real_world_example">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://marienraat.nl/blog/posts/hardest-computational-problems/">The hardest computational problems&lt;/a>
+(&lt;a href="https://lobste.rs/s/rtbzsp/hardest_computational_problems">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-04-22</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-22/</link><pubDate>Fri, 22 Apr 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-22/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://github.com/dewyze/vim-tada">Vim Tada - a simple todo manager for vim&lt;/a>
 (&lt;a href="https://lobste.rs/s/rrlcpa/vim_tada_simple_todo_manager_for_vim">comments&lt;/a>)&lt;/p>
