@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 23 Apr 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-04-23</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-23/</link><pubDate>Sat, 23 Apr 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-23/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 24 Apr 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-04-24</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-24/</link><pubDate>Sun, 24 Apr 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-24/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://michael.stapelberg.ch/posts/2022-04-23-fiber7-25gbit-upgrade/">My upgrade to 25 Gbit/s Fiber To The Home&lt;/a>
+(&lt;a href="https://lobste.rs/s/ufctcb/my_upgrade_25_gbit_s_fiber_home">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://element.io/blog/introducing-threads-in-beta/">Element (Matrix) - Introducing Threads in Beta&lt;/a>
+(&lt;a href="https://lobste.rs/s/4tvkqb/element_matrix_introducing_threads_beta">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://balintreczey.hu/blog/firefox-on-ubuntu-22-04-from-deb-not-from-snap/">Firefox on Ubuntu 22.04 from .deb (not from snap)&lt;/a>
+(&lt;a href="https://lobste.rs/s/ay9dfg/firefox_on_ubuntu_22_04_from_deb_not_from">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://quic.ulfheim.net/">The Illustrated QUIC Connection: Every Byte Explained&lt;/a>
+(&lt;a href="https://lobste.rs/s/mk4q3l/illustrated_quic_connection_every_byte">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.andreinc.net/2021/01/20/writing-your-own-linear-algebra-matrix-library-in-c">(2021) Writing your own linear algebra matrix library in C&lt;/a>
+(&lt;a href="https://lobste.rs/s/qov2hr/2021_writing_your_own_linear_algebra">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://raymii.org/s/blog/Existing_GPL_software_for_sale.html">Selling my own GPL software part 3, prior art (existing GPL software for sale)&lt;/a>
+(&lt;a href="https://lobste.rs/s/ep44dj/selling_my_own_gpl_software_part_3_prior">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://mmazzarolo.com/blog/2022-02-14-find-what-javascript-variables-are-leaking-into-the-global-scope/">Find what JavaScript variables are leaking into the global scope&lt;/a>
+(&lt;a href="https://lobste.rs/s/xgtzvn/find_what_javascript_variables_are">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://writing.kemitchell.com/2022/04/22/EULAs-Arent-Inherently-Evil">EULAs Aren&amp;rsquo;t Inherently Evil&lt;/a>
+(&lt;a href="https://lobste.rs/s/tckzah/eulas_aren_t_inherently_evil">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://blog.wolfire.com/2022/04/Overgrowth-Open-Source-Announcement">Overgrowth Open Source Announcement&lt;/a>
+(&lt;a href="https://lobste.rs/s/knddyf/overgrowth_open_source_announcement">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://odilia.app/">Odilia Screen Reader&lt;/a>
+(&lt;a href="https://lobste.rs/s/7zeunn/odilia_screen_reader">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-04-23</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-23/</link><pubDate>Sat, 23 Apr 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-23/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="http://blog.wolfire.com/2022/04/Overgrowth-Open-Source-Announcement">Overgrowth Open Source Announcement&lt;/a>
 (&lt;a href="https://lobste.rs/s/knddyf/overgrowth_open_source_announcement">comments&lt;/a>)&lt;/p>
