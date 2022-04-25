@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 24 Apr 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-04-24</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-24/</link><pubDate>Sun, 24 Apr 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-24/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 25 Apr 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-04-25</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-25/</link><pubDate>Mon, 25 Apr 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-25/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://gleam.run/news/v0.21-introducing-the-gleam-language-server/">Introducing the Gleam language server&lt;/a>
+(&lt;a href="https://lobste.rs/s/4halxf/introducing_gleam_language_server">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://devblogs.microsoft.com/oldnewthing/20220411-00/?p=106456">Now that computers have more than 4MB of memory, can we get seconds on the taskbar?&lt;/a>
+(&lt;a href="https://lobste.rs/s/l7mzzs/now_computers_have_more_than_4mb_memory">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">There should be a tag for “shell”&lt;/a>
+(&lt;a href="https://lobste.rs/s/fwjofs/there_should_be_tag_for_shell">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://twitter.com/marekgibney/status/1518156180085948416">An Ode to Shell Scripts&lt;/a>
+(&lt;a href="https://lobste.rs/s/z9xccy/ode_shell_scripts">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://maskray.me/blog/2022-04-24-pi-static-and-hidden-in-glibc-rtld">PI_STATIC_AND_HIDDEN in glibc rtld&lt;/a>
+(&lt;a href="https://lobste.rs/s/dpp61c/pi_static_hidden_glibc_rtld">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://macabeus.medium.com/reverse-engineering-a-gameboy-advance-game-introduction-ec185bd8e02">Reverse engineering a GameBoy Advance game — Complete Guide&lt;/a>
+(&lt;a href="https://lobste.rs/s/xrfha5/reverse_engineering_gameboy_advance">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://utcc.utoronto.ca/~cks/space/blog/programming/ShellScriptTemptation">The temptation of writing shell scripts, illustrated&lt;/a>
+(&lt;a href="https://lobste.rs/s/tdhixw/temptation_writing_shell_scripts">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.zeditor.app">Zas Editor&lt;/a>
+(&lt;a href="https://lobste.rs/s/rmj8i5/zas_editor">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/janestreet/magic-trace">Magic-trace – High-resolution traces of what a process is doing&lt;/a>
+(&lt;a href="https://lobste.rs/s/qf4huq/magic_trace_high_resolution_traces_what">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://michael.stapelberg.ch/posts/2022-04-23-fiber7-25gbit-upgrade/">My upgrade to 25 Gbit/s Fiber To The Home&lt;/a>
+(&lt;a href="https://lobste.rs/s/ufctcb/my_upgrade_25_gbit_s_fiber_home">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-04-24</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-24/</link><pubDate>Sun, 24 Apr 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-24/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://michael.stapelberg.ch/posts/2022-04-23-fiber7-25gbit-upgrade/">My upgrade to 25 Gbit/s Fiber To The Home&lt;/a>
 (&lt;a href="https://lobste.rs/s/ufctcb/my_upgrade_25_gbit_s_fiber_home">comments&lt;/a>)&lt;/p>
