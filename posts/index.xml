@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 25 Apr 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-04-25</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-25/</link><pubDate>Mon, 25 Apr 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-25/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 26 Apr 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-04-26</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-26/</link><pubDate>Tue, 26 Apr 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-26/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://harelang.org/blog/2022-04-25-announcing-hare/">Announcing the Hare programming language&lt;/a>
+(&lt;a href="https://lobste.rs/s/goq4d8/announcing_hare_programming_language">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gregoryszorc.com/blog/2022/04/25/expanding-apple-ecosystem-access-with-open-source,-multi-platform-code-signing/">Expanding Apple Ecosystem Access with Open Source, Multi Platform Code Signing&lt;/a>
+(&lt;a href="https://lobste.rs/s/8p6hyt/expanding_apple_ecosystem_access_with">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://matklad.github.io//2022/04/25/why-lsp.html">Why LSP?&lt;/a>
+(&lt;a href="https://lobste.rs/s/ihsgt1/why_lsp">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://garnix.io/blog/converting-to-flakes">Nix flakes, and how to convert to them&lt;/a>
+(&lt;a href="https://lobste.rs/s/0qifor/nix_flakes_how_convert_them">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://badkeys.info/">badkeys.info - checking cryptographic keys for known vulnerabilities&lt;/a>
+(&lt;a href="https://lobste.rs/s/3kp86o/badkeys_info_checking_cryptographic">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://christine.website/blog/gonads-2022-04-24">Crimes with Go Generics&lt;/a>
+(&lt;a href="https://lobste.rs/s/co2zad/crimes_with_go_generics">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://t-ravis.com/post/nix/nix-make/">nix-shell, but make it lovely&lt;/a>
+(&lt;a href="https://lobste.rs/s/kgnkey/nix_shell_make_it_lovely">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://users.cecs.anu.edu.au/~steveb/pubs/papers/lxr-pldi-2022.pdf">Low-Latency, High-Throughput Garbage Collection&lt;/a>
+(&lt;a href="https://lobste.rs/s/zav74i/low_latency_high_throughput_garbage">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">Reminder: you can &lt;code>suggest&lt;/code> titles and tags&lt;/a>
+(&lt;a href="https://lobste.rs/s/ke51rx/reminder_you_can_suggest_titles_tags">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this week?&lt;/a>
+(&lt;a href="https://lobste.rs/s/pbvsaw/what_are_you_doing_this_week">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-04-25</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-25/</link><pubDate>Mon, 25 Apr 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-25/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://gleam.run/news/v0.21-introducing-the-gleam-language-server/">Introducing the Gleam language server&lt;/a>
 (&lt;a href="https://lobste.rs/s/4halxf/introducing_gleam_language_server">comments&lt;/a>)&lt;/p>
