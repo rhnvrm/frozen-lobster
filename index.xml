@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 26 Apr 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-04-26</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-26/</link><pubDate>Tue, 26 Apr 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-26/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-04-27</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-27/</link><pubDate>Wed, 27 Apr 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-27/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://input.club/the-problem-with-mechanical-switch-reviews/">The Problem with Mechanical Switch Reviews (2016)&lt;/a>
+(&lt;a href="https://lobste.rs/s/9kn6o2/problem_with_mechanical_switch_reviews">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cacm.acm.org/magazines/2022/5/260357-the-go-programming-language-and-environment/fulltext">The Go Programming Language and Environment&lt;/a>
+(&lt;a href="https://lobste.rs/s/ao6l4s/go_programming_language_environment">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.pzuraq.com/blog/four-eras-of-javascript-frameworks">Four Eras of JavaScript Frameworks&lt;/a>
+(&lt;a href="https://lobste.rs/s/evr6xy/four_eras_javascript_frameworks">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://datastation.multiprocess.io/blog/2022-04-26-event-handler-attributes.html">HTML event handler attributes: down the rabbit hole&lt;/a>
+(&lt;a href="https://lobste.rs/s/rqaz8g/html_event_handler_attributes_down">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/benthosdev/benthos/releases/tag/v4.0.0">Benthos v4.0.0 release&lt;/a>
+(&lt;a href="https://lobste.rs/s/frbrbp/benthos_v4_0_0_release">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://briancallahan.net/blog/20220426.html">Let&amp;rsquo;s try V on OpenBSD&lt;/a>
+(&lt;a href="https://lobste.rs/s/lpfpll/let_s_try_v_on_openbsd">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://furbo.org/2018/03/28/system-fonts-in-css/">System Fonts in CSS&lt;/a>
+(&lt;a href="https://lobste.rs/s/1ig8um/system_fonts_css">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.brimdata.io/blog/introducing-zq/">Introducing zq: an Easier (and Faster) Alternative to jq&lt;/a>
+(&lt;a href="https://lobste.rs/s/uhkwhn/introducing_zq_easier_faster">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lineageos.org/Changelog-26/">LineageOS 19 released&lt;/a>
+(&lt;a href="https://lobste.rs/s/aatqci/lineageos_19_released">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.osau.re/articles/pasteur.html">Pasteur - a zerobin clone in a unikernel&lt;/a>
+(&lt;a href="https://lobste.rs/s/nqrjzs/pasteur_zerobin_clone_unikernel">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-04-26</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-26/</link><pubDate>Tue, 26 Apr 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-26/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://harelang.org/blog/2022-04-25-announcing-hare/">Announcing the Hare programming language&lt;/a>
 (&lt;a href="https://lobste.rs/s/goq4d8/announcing_hare_programming_language">comments&lt;/a>)&lt;/p>
