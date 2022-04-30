@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 29 Apr 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-04-29</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-29/</link><pubDate>Fri, 29 Apr 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-29/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 30 Apr 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-04-30</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-30/</link><pubDate>Sat, 30 Apr 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-30/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://jepsen.io/analyses/redpanda-21.10.1">Jepsen: Redpanda 21.10.1&lt;/a>
+(&lt;a href="https://lobste.rs/s/zrftdn/jepsen_redpanda_21_10_1">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://liliputing.com/2022/04/chonky-palmtop-is-a-diy-portable-linux-computer-with-a-split-keyboard-and-7-inch-display.html">Chonky Palmtop is a DIY portable Linux computer with a split keyboard and 7 inch display&lt;/a>
+(&lt;a href="https://lobste.rs/s/nufe6s/chonky_palmtop_is_diy_portable_linux">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://christine.website/blog/emoji-not-language-2021-07-14">Emoji is not a Language&lt;/a>
+(&lt;a href="https://lobste.rs/s/qntzwe/emoji_is_not_language">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.collabora.com/news-and-blog/news-and-events/pipewire-bluetooth-support-status-update.html">PipeWire: Bluetooth® support status update&lt;/a>
+(&lt;a href="https://lobste.rs/s/yfdjui/pipewire_bluetooth_support_status">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.scylladb.com/2022/04/27/shaving-40-off-googles-b-tree-implementation-with-go-generics/">Shaving 40% Off Google’s B-Tree Implementation with Go Generics&lt;/a>
+(&lt;a href="https://lobste.rs/s/i5xbbj/shaving_40_off_google_s_b_tree">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://actualbudget.com/open-source">Actual is going open-source&lt;/a>
+(&lt;a href="https://lobste.rs/s/knvygv/actual_is_going_open_source">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://brendangregg.com/usemethod.html">The USE Method&lt;/a>
+(&lt;a href="https://lobste.rs/s/rjudg5/use_method">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.orhun.dev/upgrading-rust-jwt/">How hard upgrading a Rust JWT library could be?&lt;/a>
+(&lt;a href="https://lobste.rs/s/p1xoph/how_hard_upgrading_rust_jwt_library_could">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://intfiction.org/t/inform-7-v10-1-0-is-now-open-source/55674">Inform 7 is now open-source&lt;/a>
+(&lt;a href="https://lobste.rs/s/nyruky/inform_7_is_now_open_source">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://forums.swift.org/t/violet-python-vm-written-in-swift/56945">Violet - Python VM written in Swift&lt;/a>
+(&lt;a href="https://lobste.rs/s/b3aroe/violet_python_vm_written_swift">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-04-29</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-29/</link><pubDate>Fri, 29 Apr 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-29/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://pythonspeed.com/articles/python-gil/">When Python can’t thread: a deep-dive into the GIL’s impact&lt;/a>
 (&lt;a href="https://lobste.rs/s/9hj80j/when_python_can_t_thread_deep_dive_into_gil">comments&lt;/a>)&lt;/p>
