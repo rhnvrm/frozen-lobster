@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 30 Apr 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-04-30</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-30/</link><pubDate>Sat, 30 Apr 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-30/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-05-01</title><link>https://frozen-lobster.rohanverma.net/posts/2022-05-01/</link><pubDate>Sun, 01 May 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-05-01/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://christine.website/blog/robocadey-2022-04-30">robocadey: Shitposting as a Service&lt;/a>
+(&lt;a href="https://lobste.rs/s/5hppgp/robocadey_shitposting_as_service">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://utcc.utoronto.ca/~cks/space/blog/web/PlainHTMLAppeal">The appeal of using plain HTML pages&lt;/a>
+(&lt;a href="https://lobste.rs/s/fs8tm0/appeal_using_plain_html_pages">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.plover.com/prog/haskell/sml-defects.html">What was wrong with Standard ML?&lt;/a>
+(&lt;a href="https://lobste.rs/s/tq9dk9/what_was_wrong_with_standard_ml">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://typesanitizer.com/blog/go-experience-report.html">Experience Report: 6 months of Go&lt;/a>
+(&lt;a href="https://lobste.rs/s/d3p8c4/experience_report_6_months_go">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://twitter.com/marekgibney/status/1520451818819670018">Why I like bugs&lt;/a>
+(&lt;a href="https://lobste.rs/s/rvlu7q/why_i_like_bugs">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://rachelbythebay.com/w/2022/04/29/bsd/">Paying a visit to planet BSD&lt;/a>
+(&lt;a href="https://lobste.rs/s/upbaym/paying_visit_planet_bsd">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://iagoleal.com/posts/calculus-symbolic/">Let’s Program a Calculus Student&lt;/a>
+(&lt;a href="https://lobste.rs/s/rp6pj3/let_s_program_calculus_student">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/ChessMax/awesome-programming-languages">List of 140+ programming languages, including smaller, lesser-known and experimental ones&lt;/a>
+(&lt;a href="https://lobste.rs/s/nlifzb/list_140_programming_languages">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://muratbuffalo.blogspot.com/2022/04/anna-key-value-store-for-any-scale.html">Anna: A Key-Value Store For Any Scale&lt;/a>
+(&lt;a href="https://lobste.rs/s/x3y5tm/anna_key_value_store_for_any_scale">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jepsen.io/analyses/redpanda-21.10.1">Jepsen: Redpanda 21.10.1&lt;/a>
+(&lt;a href="https://lobste.rs/s/zrftdn/jepsen_redpanda_21_10_1">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-04-30</title><link>https://frozen-lobster.rohanverma.net/posts/2022-04-30/</link><pubDate>Sat, 30 Apr 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-04-30/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://jepsen.io/analyses/redpanda-21.10.1">Jepsen: Redpanda 21.10.1&lt;/a>
 (&lt;a href="https://lobste.rs/s/zrftdn/jepsen_redpanda_21_10_1">comments&lt;/a>)&lt;/p>
