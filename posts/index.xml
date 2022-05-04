@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 03 May 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-05-03</title><link>https://frozen-lobster.rohanverma.net/posts/2022-05-03/</link><pubDate>Tue, 03 May 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-05-03/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 04 May 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-05-04</title><link>https://frozen-lobster.rohanverma.net/posts/2022-05-04/</link><pubDate>Wed, 04 May 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-05-04/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://harelang.org/blog/2022-05-02-what-is-hares-scope/">Will Hare replace C? Or Rust? Or Zig? Or anything else?&lt;/a>
+(&lt;a href="https://lobste.rs/s/hircc7/will_hare_replace_c_rust_zig_anything_else">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://user-agent.globalcode.info/">User-Agent URI&lt;/a>
+(&lt;a href="https://lobste.rs/s/e5xytk/user_agent_uri">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.devever.net/~hl/mildlydynamic">The Demise of the Mildly Dynamic Website&lt;/a>
+(&lt;a href="https://lobste.rs/s/xqlim2/demise_mildly_dynamic_website">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.scattered-thoughts.net/writing/hytradboi-2022-postmortem/">HYTRADBOI 2022 postmortem&lt;/a>
+(&lt;a href="https://lobste.rs/s/q728au/hytradboi_2022_postmortem">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/mattpocock/ts-error-translator">ts-error-translator: Translate your TypeScript errors into plain English&lt;/a>
+(&lt;a href="https://lobste.rs/s/c1uez2/ts_error_translator_translate_your">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jpmens.net/2022/05/03/one-gotty-per-user/">One gotty(1) Web terminal per user&lt;/a>
+(&lt;a href="https://lobste.rs/s/7n2uka/one_gotty_1_web_terminal_per_user">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://matduggan.com/tips-for-making-kubernetes-yaml-less-annoying/">Don&amp;rsquo;t Write Your Own Kubernetes YAML Generator&lt;/a>
+(&lt;a href="https://lobste.rs/s/qjmgti/don_t_write_your_own_kubernetes_yaml">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://bkardell.com/blog/UAGottaBeKidding.html">UA gotta be kidding&lt;/a>
+(&lt;a href="https://lobste.rs/s/wpxdqi/ua_gotta_be_kidding">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://about.sourcegraph.com/blog/monolith-microservices-migration/">5 key elements of successful monolith-to-microservices migrations&lt;/a>
+(&lt;a href="https://lobste.rs/s/a0k3wx/5_key_elements_successful_monolith">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://newsletter.papersyoumightlove.pl/archive/fearless-concurrency-at-a-discount/">Fearless concurrency at a discount?&lt;/a>
+(&lt;a href="https://lobste.rs/s/tzmzqv/fearless_concurrency_at_discount">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-05-03</title><link>https://frozen-lobster.rohanverma.net/posts/2022-05-03/</link><pubDate>Tue, 03 May 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-05-03/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://www.devever.net/~hl/mildlydynamic">The Demise of the Mildly Dynamic Website&lt;/a>
 (&lt;a href="https://lobste.rs/s/xqlim2/demise_mildly_dynamic_website">comments&lt;/a>)&lt;/p>
