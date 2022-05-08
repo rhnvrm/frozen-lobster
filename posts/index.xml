@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 07 May 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-05-07</title><link>https://frozen-lobster.rohanverma.net/posts/2022-05-07/</link><pubDate>Sat, 07 May 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-05-07/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 08 May 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-05-08</title><link>https://frozen-lobster.rohanverma.net/posts/2022-05-08/</link><pubDate>Sun, 08 May 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-05-08/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/avinassh/cdb">cdb - build your own persistent key value store&lt;/a>
+(&lt;a href="https://lobste.rs/s/cgzat4/cdb_build_your_own_persistent_key_value">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.liw.fi/posts/2022/05/07/unix-cli/">Unix command line conventions over time&lt;/a>
+(&lt;a href="https://lobste.rs/s/jfqkt0/unix_command_line_conventions_over_time">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://dashdash.io/">Superb Linux Documentation&lt;/a>
+(&lt;a href="https://lobste.rs/s/un5vr9/superb_linux_documentation">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://raphlinus.github.io/rust/gui/2022/05/07/ui-architecture.html">Xilem: an architecture for UI in Rust&lt;/a>
+(&lt;a href="https://lobste.rs/s/hyduzg/xilem_architecture_for_ui_rust">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://williamkennedy.ninja/javascript/2022/05/03/in-defence-of-the-single-page-application/">In Defence of the Single Page Application&lt;/a>
+(&lt;a href="https://lobste.rs/s/uimkk0/defence_single_page_application">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://qmacro.org/blog/posts/2022/05/06/converting-strings-to-objects-with-jq/">Converting strings to objects with jq&lt;/a>
+(&lt;a href="https://lobste.rs/s/qi5tge/converting_strings_objects_with_jq">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://doriantaylor.com/the-symbol-management-problem">The Symbol Management Problem&lt;/a>
+(&lt;a href="https://lobste.rs/s/l0euan/symbol_management_problem">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jmmv.dev/2022/05/rust-is-hard-but-does-it-matter.html">Rust is hard, yes, but does it matter?&lt;/a>
+(&lt;a href="https://lobste.rs/s/ksj3ii/rust_is_hard_yes_does_it_matter">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://yoyo-code.com/how-to-stop-synchronous-web-worker/">How to stop synchronous code in a web worker?&lt;/a>
+(&lt;a href="https://lobste.rs/s/u9drla/how_stop_synchronous_code_web_worker">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.assetnote.io/2022/05/06/cloudflare-pages-pt1/">Cloudflare Pages, part 1: The fellowship of the secret&lt;/a>
+(&lt;a href="https://lobste.rs/s/5g9iag/cloudflare_pages_part_1_fellowship">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-05-07</title><link>https://frozen-lobster.rohanverma.net/posts/2022-05-07/</link><pubDate>Sat, 07 May 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-05-07/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://www.matuzo.at/blog/2022/please-stop-disabling-zoom/">Please, stop disabling zoom&lt;/a>
 (&lt;a href="https://lobste.rs/s/1la5u8/please_stop_disabling_zoom">comments&lt;/a>)&lt;/p>
