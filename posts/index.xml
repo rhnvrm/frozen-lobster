@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 09 May 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-05-09</title><link>https://frozen-lobster.rohanverma.net/posts/2022-05-09/</link><pubDate>Mon, 09 May 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-05-09/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 10 May 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-05-10</title><link>https://frozen-lobster.rohanverma.net/posts/2022-05-10/</link><pubDate>Tue, 10 May 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-05-10/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.andreinc.net/2022/05/01/4-integers-are-enough-to-write-a-snake-game">4 integers are enough to write a Snake Game&lt;/a>
+(&lt;a href="https://lobste.rs/s/o80uoz/4_integers_are_enough_write_snake_game">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://antonz.org/generated-columns/">Generated columns in SQLite&lt;/a>
+(&lt;a href="https://lobste.rs/s/d5dc0h/generated_columns_sqlite">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://benhoyt.com/writings/goawk-csv/">Adding CSV support to (Go)AWK&lt;/a>
+(&lt;a href="https://lobste.rs/s/lvd3wz/adding_csv_support_go_awk">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/microsoft/snmalloc/releases/tag/0.6.0">snmalloc 0.6 released, major redesign with security hardening&lt;/a>
+(&lt;a href="https://lobste.rs/s/vnvw1g/snmalloc_0_6_released_major_redesign_with">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.yossarian.net/2022/05/09/A-most-vexing-parse-but-for-Python-packaging">A most vexing parse, but for Python packaging&lt;/a>
+(&lt;a href="https://lobste.rs/s/tkgmxc/most_vexing_parse_for_python_packaging">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this week?&lt;/a>
+(&lt;a href="https://lobste.rs/s/tcqonu/what_are_you_doing_this_week">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.cloudflare.com/workers-open-source-announcement/">The next chapter for Cloudflare Workers: open source&lt;/a>
+(&lt;a href="https://lobste.rs/s/rcrim6/next_chapter_for_cloudflare_workers_open">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://fly.io/blog/all-in-on-sqlite-litestream/">I&amp;rsquo;m All-In on Server-Side SQLite&lt;/a>
+(&lt;a href="https://lobste.rs/s/pb2jp4/i_m_all_on_server_side_sqlite">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://dropbear.sh/blog/elf-patching.html">Adding code to an existing ELF file&lt;/a>
+(&lt;a href="https://lobste.rs/s/yabr7a/adding_code_existing_elf_file">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.haskellforall.com/2022/05/the-golden-rule-of-software.html">The golden rule of software distributions&lt;/a>
+(&lt;a href="https://lobste.rs/s/a4cxom/golden_rule_software_distributions">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-05-09</title><link>https://frozen-lobster.rohanverma.net/posts/2022-05-09/</link><pubDate>Mon, 09 May 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-05-09/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://huy.rocks/everyday/05-08-2022-parsing-recursive-descent-parser">Parsing / Recursive Descent Parser&lt;/a>
 (&lt;a href="https://lobste.rs/s/rb3zjt/parsing_recursive_descent_parser">comments&lt;/a>)&lt;/p>
