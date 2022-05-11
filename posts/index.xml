@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 10 May 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-05-10</title><link>https://frozen-lobster.rohanverma.net/posts/2022-05-10/</link><pubDate>Tue, 10 May 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-05-10/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 11 May 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-05-11</title><link>https://frozen-lobster.rohanverma.net/posts/2022-05-11/</link><pubDate>Wed, 11 May 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-05-11/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://tratt.net/laurie/blog/2022/programming_style_influences.html">Programming Style Influences&lt;/a>
+(&lt;a href="https://lobste.rs/s/tuhlbr/programming_style_influences">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gregoryszorc.com/blog/2022/05/10/announcing-the-pyoxy-python-runner/">Announcing the PyOxy Python Runner&lt;/a>
+(&lt;a href="https://lobste.rs/s/ecqey4/announcing_pyoxy_python_runner">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://fly.io/blog/all-in-on-sqlite-litestream/">I&amp;rsquo;m All-In on Server-Side SQLite&lt;/a>
+(&lt;a href="https://lobste.rs/s/pb2jp4/i_m_all_on_server_side_sqlite">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.rust-lang.org/2022/05/10/malicious-crate-rustdecimal.html">Security advisory: malicious crate rustdecimal&lt;/a>
+(&lt;a href="https://lobste.rs/s/q57bu1/security_advisory_malicious_crate">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://fedoramagazine.org/announcing-fedora-36/">Fedora 36 released&lt;/a>
+(&lt;a href="https://lobste.rs/s/4aylxu/fedora_36_released">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.oilshell.org/blog/2022/05/mycpp.html">Brief Descriptions of a Python to C++ Translator&lt;/a>
+(&lt;a href="https://lobste.rs/s/8plp3q/brief_descriptions_python_c_translator">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://learnbyexample.github.io/python-regex-possessive-quantifier/">Python 3.11: possessive quantifiers and atomic grouping added to re module&lt;/a>
+(&lt;a href="https://lobste.rs/s/qapgfc/python_3_11_possessive_quantifiers">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://haydenjames.io/the-two-generals-problem/">The Two Generals Problem&lt;/a>
+(&lt;a href="https://lobste.rs/s/44ojs5/two_generals_problem">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.andreinc.net/2022/05/01/4-integers-are-enough-to-write-a-snake-game">4 integers are enough to write a Snake Game&lt;/a>
+(&lt;a href="https://lobste.rs/s/o80uoz/4_integers_are_enough_write_snake_game">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.netmeister.org/blog/futurama.html">If Programming Languages Were Futurama Characters&lt;/a>
+(&lt;a href="https://lobste.rs/s/tgyd8r/if_programming_languages_were_futurama">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-05-10</title><link>https://frozen-lobster.rohanverma.net/posts/2022-05-10/</link><pubDate>Tue, 10 May 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-05-10/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://www.andreinc.net/2022/05/01/4-integers-are-enough-to-write-a-snake-game">4 integers are enough to write a Snake Game&lt;/a>
 (&lt;a href="https://lobste.rs/s/o80uoz/4_integers_are_enough_write_snake_game">comments&lt;/a>)&lt;/p>
