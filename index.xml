@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 11 May 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-05-11</title><link>https://frozen-lobster.rohanverma.net/posts/2022-05-11/</link><pubDate>Wed, 11 May 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-05-11/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 12 May 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-05-12</title><link>https://frozen-lobster.rohanverma.net/posts/2022-05-12/</link><pubDate>Thu, 12 May 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-05-12/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://pboyd.io/posts/comma-dash-dot/">The regex [,-.]&lt;/a>
+(&lt;a href="https://lobste.rs/s/h5nhrq/regex">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sporks.space/2022/05/11/my-experience-at-community-college/">My experience at community college&lt;/a>
+(&lt;a href="https://lobste.rs/s/acymc1/my_experience_at_community_college">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.cloudflare.com/introducing-d1/">Announcing D1: our first SQL database&lt;/a>
+(&lt;a href="https://lobste.rs/s/jrolak/announcing_d1_our_first_sql_database">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.phoronix.com/scan.php?page=article&amp;amp;item=nvidia-open-kernel&amp;amp;num=1">NVIDIA Transitioning To Official, Open-Source Linux GPU Kernel Driver - Phoronix&lt;/a>
+(&lt;a href="https://lobste.rs/s/5vdubs/nvidia_transitioning_official_open">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://developer.nvidia.com/blog/nvidia-releases-open-source-gpu-kernel-modules/">NVIDIA Releases Open-Source GPU Kernel Modules&lt;/a>
+(&lt;a href="https://lobste.rs/s/rhcmlf/nvidia_releases_open_source_gpu_kernel">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://charlieharrington.com/surfing-the-gopherspace/">Surfing the Gopherspace&lt;/a>
+(&lt;a href="https://lobste.rs/s/wxazzh/surfing_gopherspace">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://markdoc.io/">Markdoc - Stripe&amp;rsquo;s documentation system is now open-source&lt;/a>
+(&lt;a href="https://lobste.rs/s/errk9j/markdoc_stripe_s_documentation_system_is">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/kspalaiologos/bzip3">bzip3: A better and stronger spiritual successor to BZip2&lt;/a>
+(&lt;a href="https://lobste.rs/s/31bfi8/bzip3_better_stronger_spiritual">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://podman.io/releases/2022/05/09/podman-release-v4.1.0.html">Podman v4.1.0 Released&lt;/a>
+(&lt;a href="https://lobste.rs/s/8y2arj/podman_v4_1_0_released">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://buttondown.email/bhupesh/archive/10-key-lessons-from-my-first-engineering-job/">10 key lessons from my first engineering job&lt;/a>
+(&lt;a href="https://lobste.rs/s/zlefic/10_key_lessons_from_my_first_engineering">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-05-11</title><link>https://frozen-lobster.rohanverma.net/posts/2022-05-11/</link><pubDate>Wed, 11 May 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-05-11/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://tratt.net/laurie/blog/2022/programming_style_influences.html">Programming Style Influences&lt;/a>
 (&lt;a href="https://lobste.rs/s/tuhlbr/programming_style_influences">comments&lt;/a>)&lt;/p>
