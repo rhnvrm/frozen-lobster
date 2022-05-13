@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 12 May 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-05-12</title><link>https://frozen-lobster.rohanverma.net/posts/2022-05-12/</link><pubDate>Thu, 12 May 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-05-12/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 13 May 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-05-13</title><link>https://frozen-lobster.rohanverma.net/posts/2022-05-13/</link><pubDate>Fri, 13 May 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-05-13/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://datastation.multiprocess.io/blog/2022-05-12-sqlite-in-go-with-and-without-cgo.html">SQLite in Go, with and without cgo&lt;/a>
+(&lt;a href="https://lobste.rs/s/jdxhu9/sqlite_go_with_without_cgo">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://medium.com/@katelyngadd/why-i-quit-googles-webassembly-team-and-how-it-made-me-sick-c50ef562ce1">Why I Quit Google&amp;rsquo;s WebAssembly Team, And How It Made Me Sick&lt;/a>
+(&lt;a href="https://lobste.rs/s/edbrbm/why_i_quit_google_s_webassembly_team_how_it">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://christine.website/blog/heroku-devex-2022-05-12">I Miss Heroku&amp;rsquo;s DevEx&lt;/a>
+(&lt;a href="https://lobste.rs/s/mslklq/i_miss_heroku_s_devex">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pboyd.io/posts/comma-dash-dot/">The regex [,-.]&lt;/a>
+(&lt;a href="https://lobste.rs/s/h5nhrq/regex">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://stackoverflow.blog/2022/05/11/stack-overflow-2022-developer-survey-is-open/">The 2022 Developer Survey is now open&lt;/a>
+(&lt;a href="https://lobste.rs/s/zgtt6e/2022_developer_survey_is_now_open">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://xahteiwi.eu/blog/2022/05/10/drizzle/">Drizzle: the most influential software project you’ve (probably) never heard of&lt;/a>
+(&lt;a href="https://lobste.rs/s/kjhwct/drizzle_most_influential_software">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://daniel.haxx.se/blog/2022/05/12/a-tale-of-a-trailing-dot/">A tale of a trailing dot&lt;/a>
+(&lt;a href="https://lobste.rs/s/7b4qgp/tale_trailing_dot">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pythonspeed.com/articles/faster-python-json-parsing/">Faster, more memory-efficient Python JSON parsing with msgspec&lt;/a>
+(&lt;a href="https://lobste.rs/s/sunf8h/faster_more_memory_efficient_python_json">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://developer.nvidia.com/blog/nvidia-releases-open-source-gpu-kernel-modules/">NVIDIA Releases Open-Source GPU Kernel Modules&lt;/a>
+(&lt;a href="https://lobste.rs/s/rhcmlf/nvidia_releases_open_source_gpu_kernel">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.cs.cornell.edu/andru/papers/gallifrey-types/">A Flexible Type System for Fearless Concurrency&lt;/a>
+(&lt;a href="https://lobste.rs/s/otbljx/flexible_type_system_for_fearless">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-05-12</title><link>https://frozen-lobster.rohanverma.net/posts/2022-05-12/</link><pubDate>Thu, 12 May 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-05-12/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://pboyd.io/posts/comma-dash-dot/">The regex [,-.]&lt;/a>
 (&lt;a href="https://lobste.rs/s/h5nhrq/regex">comments&lt;/a>)&lt;/p>
