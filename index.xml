@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 14 May 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-05-14</title><link>https://frozen-lobster.rohanverma.net/posts/2022-05-14/</link><pubDate>Sat, 14 May 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-05-14/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 15 May 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-05-15</title><link>https://frozen-lobster.rohanverma.net/posts/2022-05-15/</link><pubDate>Sun, 15 May 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-05-15/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://michael.stapelberg.ch/posts/2022-05-14-http-and-https-download-25gbit/">25 Gbit/s HTTP and HTTPS download speeds&lt;/a>
+(&lt;a href="https://lobste.rs/s/xdo53i/25_gbit_s_http_https_download_speeds">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://soupault.app/blog/soupault-4.0.0-release">Soupault 4.0.0: as extensible as Jekyll, still statically linked&lt;/a>
+(&lt;a href="https://lobste.rs/s/fhiw9d/soupault_4_0_0_as_extensible_as_jekyll">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ejmastnak.github.io/tutorials/vim-latex/intro.html">Real-time LaTeX Using Vim or Neovim&lt;/a>
+(&lt;a href="https://lobste.rs/s/naepga/real_time_latex_using_vim_neovim">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://nullprogram.com/blog/2022/05/14/">A lock-free, concurrent, generic queue in 32 bits&lt;/a>
+(&lt;a href="https://lobste.rs/s/xzorqx/lock_free_concurrent_generic_queue_32">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.logrocket.com/comparing-rust-supply-chain-safety-tools/">Comparing Rust supply chain safety tools&lt;/a>
+(&lt;a href="https://lobste.rs/s/sqw0j5/comparing_rust_supply_chain_safety_tools">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www3.nd.edu/~dthain/compilerbook/">Introduction to Compilers and Language Design&lt;/a>
+(&lt;a href="https://lobste.rs/s/7ibibb/introduction_compilers_language_design">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://earthly.dev/blog/line-staff/">The Other Kind of Staff Software Engineer&lt;/a>
+(&lt;a href="https://lobste.rs/s/zqylnz/other_kind_staff_software_engineer">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://michaelsalim.co.uk/blog/rust-from-0-to-80-for-js-dev/">Rust from 0 to 80% for JavaScript Developers&lt;/a>
+(&lt;a href="https://lobste.rs/s/vyy6c0/rust_from_0_80_for_javascript_developers">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://segment.com/blog/changing-one-character-improved-app-performance/">Changing one character wildly improved our application&amp;rsquo;s performance&lt;/a>
+(&lt;a href="https://lobste.rs/s/tcvdrp/changing_one_character_wildly_improved">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://doriantaylor.com/the-specificity-gradient">The Specificity Gradient&lt;/a>
+(&lt;a href="https://lobste.rs/s/4sou95/specificity_gradient">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-05-14</title><link>https://frozen-lobster.rohanverma.net/posts/2022-05-14/</link><pubDate>Sat, 14 May 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-05-14/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://earthly.dev/blog/line-staff/">The Other Kind of Staff Software Engineer&lt;/a>
 (&lt;a href="https://lobste.rs/s/zqylnz/other_kind_staff_software_engineer">comments&lt;/a>)&lt;/p>
