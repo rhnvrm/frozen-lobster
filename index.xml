@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 15 May 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-05-15</title><link>https://frozen-lobster.rohanverma.net/posts/2022-05-15/</link><pubDate>Sun, 15 May 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-05-15/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 16 May 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-05-16</title><link>https://frozen-lobster.rohanverma.net/posts/2022-05-16/</link><pubDate>Mon, 16 May 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-05-16/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://kevincox.ca/2022/05/13/wrong-by-default/">Wrong by Default&lt;/a>
+(&lt;a href="https://lobste.rs/s/wiva0m/wrong_by_default">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://christine.website/blog/fly.io-heroku-replacement">Fly.io: the Reclaimer of Heroku&amp;rsquo;s Magic&lt;/a>
+(&lt;a href="https://lobste.rs/s/axnrzk/fly_io_reclaimer_heroku_s_magic">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.kmjn.org/notes/operator_precedence_fortran.html">Operator precedence by textual substitution&lt;/a>
+(&lt;a href="https://lobste.rs/s/gkoanu/operator_precedence_by_textual">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/MrGlockenspiel/activate-linux">The “Activate Windows” watermark ported to Linux&lt;/a>
+(&lt;a href="https://lobste.rs/s/nvtc0q/activate_windows_watermark_ported_linux">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.tbray.org/ongoing/When/202x/2022/05/14/Golang-Generics">Golang Diaries: Generics&lt;/a>
+(&lt;a href="https://lobste.rs/s/z7xxmm/golang_diaries_generics">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thume.ca/2022/05/15/latency-testing-streaming/">Latency testing remote browsing: Why display streaming is hard&lt;/a>
+(&lt;a href="https://lobste.rs/s/9bdkfw/latency_testing_remote_browsing_why">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.freebsd.org/releases/13.1R/relnotes/">FreeBSD 13.1-RELEASE Release Notes&lt;/a>
+(&lt;a href="https://lobste.rs/s/ggzato/freebsd_13_1_release_release_notes">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ales.rocks/notes-on-virtual-threads-and-clojure">The Dawn of Lightweight Concurrency for Java and Clojure&lt;/a>
+(&lt;a href="https://lobste.rs/s/o72iqf/dawn_lightweight_concurrency_for_java">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://maxnagy.com/posts/pigeons/">The overengineered Solution to my Pigeon Problem&lt;/a>
+(&lt;a href="https://lobste.rs/s/rz6oze/overengineered_solution_my_pigeon">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=XNkijakpf9Y">Implementing recoil patterns in FPS games&lt;/a>
+(&lt;a href="https://lobste.rs/s/hmgffd/implementing_recoil_patterns_fps_games">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-05-15</title><link>https://frozen-lobster.rohanverma.net/posts/2022-05-15/</link><pubDate>Sun, 15 May 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-05-15/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://michael.stapelberg.ch/posts/2022-05-14-http-and-https-download-25gbit/">25 Gbit/s HTTP and HTTPS download speeds&lt;/a>
 (&lt;a href="https://lobste.rs/s/xdo53i/25_gbit_s_http_https_download_speeds">comments&lt;/a>)&lt;/p>
