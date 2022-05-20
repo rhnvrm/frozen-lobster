@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 19 May 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-05-19</title><link>https://frozen-lobster.rohanverma.net/posts/2022-05-19/</link><pubDate>Thu, 19 May 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-05-19/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 20 May 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-05-20</title><link>https://frozen-lobster.rohanverma.net/posts/2022-05-20/</link><pubDate>Fri, 20 May 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-05-20/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.bunniestudios.com/blog/?p=6375">Rust: A Critical Retrospective&lt;/a>
+(&lt;a href="https://lobste.rs/s/wiavtb/rust_critical_retrospective">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://bjoernkarmann.dk/occlusion-grotesque">Font carved into tree with growth captured over 5 years&lt;/a>
+(&lt;a href="https://lobste.rs/s/m0fwhd/font_carved_into_tree_with_growth">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://soatok.blog/2022/05/19/guidance-for-choosing-an-elliptic-curve-signature-algorithm-in-2022/">Guidance for Choosing an Elliptic Curve Signature Algorithm in 2022&lt;/a>
+(&lt;a href="https://lobste.rs/s/149acw/guidance_for_choosing_elliptic_curve">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://qmacro.org/blog/posts/2022/05/19/json-object-values-into-csv-with-jq/">JSON object values into CSV with jq&lt;/a>
+(&lt;a href="https://lobste.rs/s/cyfuzp/json_object_values_into_csv_with_jq">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jott.live/html/mm_impl_anim">Fast Matrix Multiplication (Animated)&lt;/a>
+(&lt;a href="https://lobste.rs/s/coxver/fast_matrix_multiplication_animated">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://daniel.haxx.se/blog/2022/05/19/case-insensitive-string-comparisons-in-c/">Case insensitive string comparisons in C&lt;/a>
+(&lt;a href="https://lobste.rs/s/qtbo1n/case_insensitive_string_comparisons_c">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://elijahcaine.me/rust-default-from/">Rust Ergonomics: Default and From&lt;/a>
+(&lt;a href="https://lobste.rs/s/evyoge/rust_ergonomics_default_from">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/erikgrinaker/toydb">toyDB - Distributed SQL database in Rust, written as a learning project&lt;/a>
+(&lt;a href="https://lobste.rs/s/gazquu/toydb_distributed_sql_database_rust">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tdodge.consulting/blog/eshell/background-output-thread">Living The Eshell Dream: A Reduction in Latency From 70 Seconds to 3 Seconds&lt;/a>
+(&lt;a href="https://lobste.rs/s/zd8jh7/living_eshell_dream_reduction_latency">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://queue.acm.org/detail.cfm?id=3526210&amp;amp;doi=10.1145/3526210">Persistence Programming&lt;/a>
+(&lt;a href="https://lobste.rs/s/05ooco/persistence_programming">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-05-19</title><link>https://frozen-lobster.rohanverma.net/posts/2022-05-19/</link><pubDate>Thu, 19 May 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-05-19/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://tdodge.consulting/blog/eshell/background-output-thread">Living The Eshell Dream: A Reduction in Latency From 70 Seconds to 3 Seconds&lt;/a>
 (&lt;a href="https://lobste.rs/s/zd8jh7/living_eshell_dream_reduction_latency">comments&lt;/a>)&lt;/p>
