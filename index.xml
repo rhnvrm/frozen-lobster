@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 20 May 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-05-20</title><link>https://frozen-lobster.rohanverma.net/posts/2022-05-20/</link><pubDate>Fri, 20 May 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-05-20/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 21 May 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-05-21</title><link>https://frozen-lobster.rohanverma.net/posts/2022-05-21/</link><pubDate>Sat, 21 May 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-05-21/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.quantamagazine.org/computing-expert-says-programmers-need-more-math-20220517/">Leslie Lamport interview: How to Write Software With Mathematical Perfection&lt;/a>
+(&lt;a href="https://lobste.rs/s/slsiqa/leslie_lamport_interview_how_write">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this weekend?&lt;/a>
+(&lt;a href="https://lobste.rs/s/8jndcr/what_are_you_doing_this_weekend">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://rachelbythebay.com/w/2022/05/19/priority/">Tasks, lists, and promises&lt;/a>
+(&lt;a href="https://lobste.rs/s/h7v6xg/tasks_lists_promises">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/rochus-keller/Oberon/releases/tag/EH_MVP">Oberon+ exception handling and other new language features&lt;/a>
+(&lt;a href="https://lobste.rs/s/oz6qwj/oberon_exception_handling_other_new">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/golang/go/issues/21498#issuecomment-1132271548">Lightweight anonymous function syntax for Go? (recent activity on proposal from 2017)&lt;/a>
+(&lt;a href="https://lobste.rs/s/fshlr5/lightweight_anonymous_function_syntax">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://awesomekling.github.io/Memory-safety-for-SerenityOS/">Memory safety for SerenityOS&lt;/a>
+(&lt;a href="https://lobste.rs/s/y5eeyh/memory_safety_for_serenityos">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://justine.lol/ftrace/">Logging C Function Calls&lt;/a>
+(&lt;a href="https://lobste.rs/s/21xtqr/logging_c_function_calls">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.bunniestudios.com/blog/?p=6375">Rust: A Critical Retrospective&lt;/a>
+(&lt;a href="https://lobste.rs/s/wiavtb/rust_critical_retrospective">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://evilmartians.com/chronicles/soft-deletion-with-postgresql-but-with-logic-on-the-database">Soft deletion with PostgreSQL: but with logic on the database&lt;/a>
+(&lt;a href="https://lobste.rs/s/kfaauq/soft_deletion_with_postgresql_with_logic">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.rust-lang.org/2022/05/19/Rust-1.61.0.html">Announcing Rust 1.61.0&lt;/a>
+(&lt;a href="https://lobste.rs/s/27mfra/announcing_rust_1_61_0">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-05-20</title><link>https://frozen-lobster.rohanverma.net/posts/2022-05-20/</link><pubDate>Fri, 20 May 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-05-20/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://www.bunniestudios.com/blog/?p=6375">Rust: A Critical Retrospective&lt;/a>
 (&lt;a href="https://lobste.rs/s/wiavtb/rust_critical_retrospective">comments&lt;/a>)&lt;/p>
