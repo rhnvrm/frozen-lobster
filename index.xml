@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 22 May 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-05-22</title><link>https://frozen-lobster.rohanverma.net/posts/2022-05-22/</link><pubDate>Sun, 22 May 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-05-22/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 23 May 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-05-23</title><link>https://frozen-lobster.rohanverma.net/posts/2022-05-23/</link><pubDate>Mon, 23 May 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-05-23/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://dougallj.wordpress.com/2022/05/22/faster-crc32-on-the-apple-m1/">Faster CRC32 on the Apple M1&lt;/a>
+(&lt;a href="https://lobste.rs/s/cdizkt/faster_crc32_on_apple_m1">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">How do you store cables and related gadgets?&lt;/a>
+(&lt;a href="https://lobste.rs/s/fmisrq/how_do_you_store_cables_related_gadgets">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://xania.org/202206/happy-birthday-ce">Happy 10th Birthday Compiler Explorer&lt;/a>
+(&lt;a href="https://lobste.rs/s/ayk5h8/happy_10th_birthday_compiler_explorer">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=8RrQrATnXXY">How I Created the Perfect NES Sound Chip&lt;/a>
+(&lt;a href="https://lobste.rs/s/snjygr/how_i_created_perfect_nes_sound_chip">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.sebastiansylvan.com/post/2014-04-27-flags-are-a-code-smell/">Flags are a code smell (2014)&lt;/a>
+(&lt;a href="https://lobste.rs/s/rmzczi/flags_are_code_smell_2014">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://nolanlawson.com/2022/05/21/the-balance-has-shifted-away-from-spas/">The balance has shifted away from SPAs&lt;/a>
+(&lt;a href="https://lobste.rs/s/ygmcdv/balance_has_shifted_away_from_spas">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://medium.com/@kolluru.nathan/case-studies-in-usb-c-debugging-93cc3e8bbc0c">Case Studies in USB-C™ Debugging - Analog and digital compliance of a PD-enabled charger&lt;/a>
+(&lt;a href="https://lobste.rs/s/mht6vs/case_studies_usb_c_debugging_analog">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://andregarzia.com/2022/05/On-rants-about-laptops-for-developers.html">On rants about laptops for developers&lt;/a>
+(&lt;a href="https://lobste.rs/s/6unjkf/on_rants_about_laptops_for_developers">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://wejn.org/2022/05/understanding-the-nintendo-switch-boot-vulnerabilities/">Understanding the Nintendo Switch secure boot vulnerabilities&lt;/a>
+(&lt;a href="https://lobste.rs/s/kwppxb/understanding_nintendo_switch_secure">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://nschloe.github.io/2022/05/20/math-on-github.html">Math on GitHub: The Good, the Bad and the Ugly&lt;/a>
+(&lt;a href="https://lobste.rs/s/zmc2ik/math_on_github_good_bad_ugly">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-05-22</title><link>https://frozen-lobster.rohanverma.net/posts/2022-05-22/</link><pubDate>Sun, 22 May 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-05-22/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://andregarzia.com/2022/05/On-rants-about-laptops-for-developers.html">On rants about laptops for developers&lt;/a>
 (&lt;a href="https://lobste.rs/s/6unjkf/on_rants_about_laptops_for_developers">comments&lt;/a>)&lt;/p>
