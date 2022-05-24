@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 23 May 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-05-23</title><link>https://frozen-lobster.rohanverma.net/posts/2022-05-23/</link><pubDate>Mon, 23 May 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-05-23/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 24 May 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-05-24</title><link>https://frozen-lobster.rohanverma.net/posts/2022-05-24/</link><pubDate>Tue, 24 May 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-05-24/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://youtrack.jetbrains.com/articles/IDEA-A-156/Main-changes-and-known-issues">Jetbrains editors are getting a redesign&lt;/a>
+(&lt;a href="https://lobste.rs/s/nvqhk9/jetbrains_editors_are_getting_redesign">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://nickgravgaard.com/elastic-tabstops/">Elastic tabstops - a better way to indent and align code&lt;/a>
+(&lt;a href="https://lobste.rs/s/xzfqpy/elastic_tabstops_better_way_indent_align">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.technicalsourcery.net/posts/on-endianness/">On Endianness&lt;/a>
+(&lt;a href="https://lobste.rs/s/a0n98j/on_endianness">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jfmengels.net/virtual-dom-security-patch/">Fixing vulnerabilities in Elm&amp;rsquo;s virtual DOM&lt;/a>
+(&lt;a href="https://lobste.rs/s/cempqs/fixing_vulnerabilities_elm_s_virtual_dom">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=SCj2J3HcEfc">How Zig is used at Uber&lt;/a>
+(&lt;a href="https://lobste.rs/s/l9ghdb/how_zig_is_used_at_uber">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://threkk.medium.com/e08f37511f37?source=friends_link">Escaping a git merge hell&lt;/a>
+(&lt;a href="https://lobste.rs/s/rgr5lj/escaping_git_merge_hell">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this week?&lt;/a>
+(&lt;a href="https://lobste.rs/s/ctlhhi/what_are_you_doing_this_week">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://libera.chat/news/happy-birthday-libera-chat">Happy Birthday, Libera Chat&lt;/a>
+(&lt;a href="https://lobste.rs/s/vrnoyw/happy_birthday_libera_chat">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://flak.tedunangst.com/post/css-vs-webgl-cubes">css vs webgl cubes&lt;/a>
+(&lt;a href="https://lobste.rs/s/d8b7lr/css_vs_webgl_cubes">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pointersgonewild.com/2022/05/23/minimalism-in-programming-language-design/">Minimalism in Programming Language Design&lt;/a>
+(&lt;a href="https://lobste.rs/s/zdtzbs/minimalism_programming_language_design">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-05-23</title><link>https://frozen-lobster.rohanverma.net/posts/2022-05-23/</link><pubDate>Mon, 23 May 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-05-23/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://dougallj.wordpress.com/2022/05/22/faster-crc32-on-the-apple-m1/">Faster CRC32 on the Apple M1&lt;/a>
 (&lt;a href="https://lobste.rs/s/cdizkt/faster_crc32_on_apple_m1">comments&lt;/a>)&lt;/p>
