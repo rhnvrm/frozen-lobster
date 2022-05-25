@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 24 May 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-05-24</title><link>https://frozen-lobster.rohanverma.net/posts/2022-05-24/</link><pubDate>Tue, 24 May 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-05-24/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 25 May 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-05-25</title><link>https://frozen-lobster.rohanverma.net/posts/2022-05-25/</link><pubDate>Wed, 25 May 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-05-25/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://bugs.chromium.org/p/project-zero/issues/detail?id=2254">Zoom: Remote Code Execution with XMPP Stanza Smuggling&lt;/a>
+(&lt;a href="https://lobste.rs/s/rwahze/zoom_remote_code_execution_with_xmpp">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://keunwoo.com/notes/rebooting/">On rebooting: the unreasonable effectiveness of turning computers off and on again&lt;/a>
+(&lt;a href="https://lobste.rs/s/neirrb/on_rebooting_unreasonable">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://www.call-with-current-continuation.org/microfleng/microfleng.html">microFLENG - concurrent logic programming for CP/M, C64 and the &amp;ldquo;uxn&amp;rdquo; VM&lt;/a>
+(&lt;a href="https://lobste.rs/s/cekthr/microfleng_concurrent_logic">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://flak.tedunangst.com/post/the-trouble-with-q-quotes">the trouble with q quotes&lt;/a>
+(&lt;a href="https://lobste.rs/s/u2odpq/trouble_with_q_quotes">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://devblogs.microsoft.com/typescript/announcing-typescript-4-7/">Announcing TypeScript 4.7&lt;/a>
+(&lt;a href="https://lobste.rs/s/g6mboy/announcing_typescript_4_7">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.fpcomplete.com/blog/hidden-dangers-of-ratio/">The Hidden Dangers of Haskell&amp;rsquo;s Ratio Type&lt;/a>
+(&lt;a href="https://lobste.rs/s/fvibdy/hidden_dangers_haskell_s_ratio_type">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.unitedbsd.com/d/722-adventures-with-solaris-114-cbe-pkgsrc-and-nvmm">Adventures with Solaris 11.4 CBE, pkgsrc and NVMM&lt;/a>
+(&lt;a href="https://lobste.rs/s/s7hp4j/adventures_with_solaris_11_4_cbe_pkgsrc">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=SCj2J3HcEfc">How Zig is used at Uber&lt;/a>
+(&lt;a href="https://lobste.rs/s/l9ghdb/how_zig_is_used_at_uber">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tech.marksblogg.com/streets-of-monaco-openstreetmap-postgis-qgis.html">The Streets of Monaco&lt;/a>
+(&lt;a href="https://lobste.rs/s/cd67rg/streets_monaco">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.daemonology.net/blog/2022-05-23-FreeBSD-Graviton-3.html">FreeBSD on AWS Graviton 3&lt;/a>
+(&lt;a href="https://lobste.rs/s/dkp31u/freebsd_on_aws_graviton_3">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-05-24</title><link>https://frozen-lobster.rohanverma.net/posts/2022-05-24/</link><pubDate>Tue, 24 May 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-05-24/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://youtrack.jetbrains.com/articles/IDEA-A-156/Main-changes-and-known-issues">Jetbrains editors are getting a redesign&lt;/a>
 (&lt;a href="https://lobste.rs/s/nvqhk9/jetbrains_editors_are_getting_redesign">comments&lt;/a>)&lt;/p>
