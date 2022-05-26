@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 25 May 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-05-25</title><link>https://frozen-lobster.rohanverma.net/posts/2022-05-25/</link><pubDate>Wed, 25 May 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-05-25/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 26 May 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-05-26</title><link>https://frozen-lobster.rohanverma.net/posts/2022-05-26/</link><pubDate>Thu, 26 May 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-05-26/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://christine.website/blog/we-have-go-2">We Already Have Go 2&lt;/a>
+(&lt;a href="https://lobste.rs/s/uh9qvb/we_already_have_go_2">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.passerine.io/">The Passerine programming language&lt;/a>
+(&lt;a href="https://lobste.rs/s/fvaycc/passerine_programming_language">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://nolanlawson.com/2022/05/25/more-thoughts-on-spas/">More thoughts on SPAs&lt;/a>
+(&lt;a href="https://lobste.rs/s/kqij7z/more_thoughts_on_spas">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://a13xp0p0v.github.io/2022/05/24/pwn-fuchsia.html">A Kernel Hacker Meets Fuchsia OS&lt;/a>
+(&lt;a href="https://lobste.rs/s/wyc0xa/kernel_hacker_meets_fuchsia_os">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/blaze-init/blaze">Blaze: A Rust-based vectorized accelerator to speed up your Spark jobs&lt;/a>
+(&lt;a href="https://lobste.rs/s/sx4quo/blaze_rust_based_vectorized_accelerator">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://keunwoo.com/notes/rebooting/">On rebooting: the unreasonable effectiveness of turning computers off and on again&lt;/a>
+(&lt;a href="https://lobste.rs/s/neirrb/on_rebooting_unreasonable">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://mjtsai.com/blog/2022/05/24/swiftui-in-2022/">SwiftUI in 2022&lt;/a>
+(&lt;a href="https://lobste.rs/s/gwgos8/swiftui_2022">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tacaswell.github.io/think-like-git.html">Think Like Git&lt;/a>
+(&lt;a href="https://lobste.rs/s/h99jzn/think_like_git">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.alexedwards.net/blog/introducing-flow">Flow: A delightfully tiny but powerful HTTP router for Go&lt;/a>
+(&lt;a href="https://lobste.rs/s/usqmcp/flow_delightfully_tiny_powerful_http">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.bleepingcomputer.com/news/security/popular-python-and-php-libraries-hijacked-to-steal-aws-keys/">Popular Python and PHP libraries hijacked to steal AWS keys&lt;/a>
+(&lt;a href="https://lobste.rs/s/okm9rv/popular_python_php_libraries_hijacked">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-05-25</title><link>https://frozen-lobster.rohanverma.net/posts/2022-05-25/</link><pubDate>Wed, 25 May 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-05-25/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://bugs.chromium.org/p/project-zero/issues/detail?id=2254">Zoom: Remote Code Execution with XMPP Stanza Smuggling&lt;/a>
 (&lt;a href="https://lobste.rs/s/rwahze/zoom_remote_code_execution_with_xmpp">comments&lt;/a>)&lt;/p>
