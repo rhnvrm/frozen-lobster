@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 27 May 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-05-27</title><link>https://frozen-lobster.rohanverma.net/posts/2022-05-27/</link><pubDate>Fri, 27 May 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-05-27/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 28 May 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-05-28</title><link>https://frozen-lobster.rohanverma.net/posts/2022-05-28/</link><pubDate>Sat, 28 May 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-05-28/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://bhupesh.me//writing-like-a-pro-with-vale-and-neovim/">Writing like a pro with vale &amp;amp; neovim&lt;/a>
+(&lt;a href="https://lobste.rs/s/7idig8/writing_like_pro_with_vale_neovim">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://twitter.com/KilledByAPixel/status/1517294627996545024">A City in a Bottle&lt;/a>
+(&lt;a href="https://lobste.rs/s/dhnprb/city_bottle">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://rischmann.fr/blog/how-i-built-zig-sqlite">How I built zig-sqlite&lt;/a>
+(&lt;a href="https://lobste.rs/s/vuglb8/how_i_built_zig_sqlite">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/oilshell/oil/wiki/Where-Contributors-Have-Problems">Where Contributors Have Problems with Oil&lt;/a>
+(&lt;a href="https://lobste.rs/s/s5co2f/where_contributors_have_problems_with">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://www.call-with-current-continuation.org/articles/forth.txt">Thoughts on Forth Programming&lt;/a>
+(&lt;a href="https://lobste.rs/s/duwtci/thoughts_on_forth_programming">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://architecturenotes.co/datasette-simon-willison/">Architecture Notes: Datasette&lt;/a>
+(&lt;a href="https://lobste.rs/s/fki4tj/architecture_notes_datasette">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this weekend?&lt;/a>
+(&lt;a href="https://lobste.rs/s/rs4cm2/what_are_you_doing_this_weekend">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://kristoff.it/blog/software-you-can-love/">A Conference About Software You Can Love&lt;/a>
+(&lt;a href="https://lobste.rs/s/rpjv2w/conference_about_software_you_can_love">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.console.dev/on-removing-apis-status-appindicators-in-gnome/">On removing APIs - Linux status bar, GNOME system tray and ElementaryOS AppIndicators&lt;/a>
+(&lt;a href="https://lobste.rs/s/rsjnxz/on_removing_apis_linux_status_bar_gnome">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/soywod/react-pin-field">React PIN Field v3.0.14 released&lt;/a>
+(&lt;a href="https://lobste.rs/s/rseg9n/react_pin_field_v3_0_14_released">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-05-27</title><link>https://frozen-lobster.rohanverma.net/posts/2022-05-27/</link><pubDate>Fri, 27 May 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-05-27/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://bas.codes/posts/python-asterisks">All you need to know about Asterisks in Python&lt;/a>
 (&lt;a href="https://lobste.rs/s/6httkk/all_you_need_know_about_asterisks_python">comments&lt;/a>)&lt;/p>
