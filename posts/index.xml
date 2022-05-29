@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 28 May 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-05-28</title><link>https://frozen-lobster.rohanverma.net/posts/2022-05-28/</link><pubDate>Sat, 28 May 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-05-28/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 29 May 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-05-29</title><link>https://frozen-lobster.rohanverma.net/posts/2022-05-29/</link><pubDate>Sun, 29 May 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-05-29/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://tangledweb.xyz/please-stop-using-grey-text-3d3e71acfca8">Please Stop Using Grey Text&lt;/a>
+(&lt;a href="https://lobste.rs/s/htpdbu/please_stop_using_grey_text">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.bejarano.io/terraform-stateless/">Terraform should have remained stateless&lt;/a>
+(&lt;a href="https://lobste.rs/s/yjyjwl/terraform_should_have_remained">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/abbbi/ssenv">ssenv: Unset all known api token environment variables&lt;/a>
+(&lt;a href="https://lobste.rs/s/8gx4aw/ssenv_unset_all_known_api_token">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://jackkelly.name/blog/archives/2022/05/28/text-mode_games_as_first_haskell_projects">Text-Mode Games as First Haskell Projects&lt;/a>
+(&lt;a href="https://lobste.rs/s/0f9k1y/text_mode_games_as_first_haskell_projects">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">Tag suggestion: &lt;code>sqlite&lt;/code>&lt;/a>
+(&lt;a href="https://lobste.rs/s/xf0h8j/tag_suggestion_sqlite">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/bodil/vgtk">vgtk: A declarative desktop UI framework for Rust built on GTK&lt;/a>
+(&lt;a href="https://lobste.rs/s/nj6lzd/vgtk_declarative_desktop_ui_framework">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://bhupesh.me//writing-like-a-pro-with-vale-and-neovim/">Writing like a pro with vale &amp;amp; neovim&lt;/a>
+(&lt;a href="https://lobste.rs/s/7idig8/writing_like_pro_with_vale_neovim">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/richardartoul/tsdb-layer">Time Series and FoundationDB. Millions of writes/s and 10x compression in under 2,000 lines of Go&lt;/a>
+(&lt;a href="https://lobste.rs/s/furdvb/time_series_foundationdb_millions">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://raymii.org/s/blog/Using_a_Windows_Mobile_2003_PDA_hp_ipaq_in_2022_including_whatsapp.html">Using a Windows Mobile 2003 PDA (HP iPAQ h4350) in 2022, including WhatsApp&lt;/a>
+(&lt;a href="https://lobste.rs/s/kidyun/using_windows_mobile_2003_pda_hp_ipaq">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.dcs.warwick.ac.uk/~hugh/TTM/">The Third Manifesto - a proposed foundation for future database systems&lt;/a>
+(&lt;a href="https://lobste.rs/s/ba02rh/third_manifesto_proposed_foundation_for">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-05-28</title><link>https://frozen-lobster.rohanverma.net/posts/2022-05-28/</link><pubDate>Sat, 28 May 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-05-28/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://bhupesh.me//writing-like-a-pro-with-vale-and-neovim/">Writing like a pro with vale &amp;amp; neovim&lt;/a>
 (&lt;a href="https://lobste.rs/s/7idig8/writing_like_pro_with_vale_neovim">comments&lt;/a>)&lt;/p>
