@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 29 May 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-05-29</title><link>https://frozen-lobster.rohanverma.net/posts/2022-05-29/</link><pubDate>Sun, 29 May 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-05-29/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 30 May 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-05-30</title><link>https://frozen-lobster.rohanverma.net/posts/2022-05-30/</link><pubDate>Mon, 30 May 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-05-30/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://evanhahn.com/a-decade-of-dotfiles/">A decade of dotfiles&lt;/a>
+(&lt;a href="https://lobste.rs/s/v18rge/decade_dotfiles">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://memex.marginalia.nu/log/58-marginalia-open-source.gmi">marginalia.nu goes open source&lt;/a>
+(&lt;a href="https://lobste.rs/s/dbjiaj/marginalia_nu_goes_open_source">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.talospace.com/2022/05/mini-review-clockwork-pi-devterm-r-01.html">Mini-review: The Clockwork Pi DevTerm R-01, or RISC-V on the go&lt;/a>
+(&lt;a href="https://lobste.rs/s/cmtdng/mini_review_clockwork_pi_devterm_r_01_risc">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tom.preston-werner.com/2022/05/23/major-version-numbers-are-not-sacred.html">Major Version Numbers are Not Sacred&lt;/a>
+(&lt;a href="https://lobste.rs/s/76rgnf/major_version_numbers_are_not_sacred">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://nolanlawson.com/2022/05/29/state-is-hard-why-spas-will-persist/">State is hard: why SPAs will persist&lt;/a>
+(&lt;a href="https://lobste.rs/s/3qvgrm/state_is_hard_why_spas_will_persist">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gitlab.com/-/snippets/2335713">Simplifying loading config files in python using dataclasses, dacite and toml&lt;/a>
+(&lt;a href="https://lobste.rs/s/clzmzw/simplifying_loading_config_files_python">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://matklad.github.io//2022/05/29/builder-lite.html">Builder Lite&lt;/a>
+(&lt;a href="https://lobste.rs/s/wvzg3k/builder_lite">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://jackkelly.name/blog/archives/2022/05/28/text-mode_games_as_first_haskell_projects">Text-Mode Games as First Haskell Projects&lt;/a>
+(&lt;a href="https://lobste.rs/s/0f9k1y/text_mode_games_as_first_haskell_projects">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=wpwObdgemoE">Why I wrote my own rsync&lt;/a>
+(&lt;a href="https://lobste.rs/s/xxame0/why_i_wrote_my_own_rsync">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://xosc.org/timemachine.html">Time Machine like Backups on OpenBSD&lt;/a>
+(&lt;a href="https://lobste.rs/s/75w1uj/time_machine_like_backups_on_openbsd">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-05-29</title><link>https://frozen-lobster.rohanverma.net/posts/2022-05-29/</link><pubDate>Sun, 29 May 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-05-29/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://tangledweb.xyz/please-stop-using-grey-text-3d3e71acfca8">Please Stop Using Grey Text&lt;/a>
 (&lt;a href="https://lobste.rs/s/htpdbu/please_stop_using_grey_text">comments&lt;/a>)&lt;/p>
