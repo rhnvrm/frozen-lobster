@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 30 May 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-05-30</title><link>https://frozen-lobster.rohanverma.net/posts/2022-05-30/</link><pubDate>Mon, 30 May 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-05-30/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 31 May 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-05-31</title><link>https://frozen-lobster.rohanverma.net/posts/2022-05-31/</link><pubDate>Tue, 31 May 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-05-31/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://matrix.org/blog/2022/05/30/welcoming-rocket-chat-to-matrix">Welcoming Rocket.Chat to Matrix&lt;/a>
+(&lt;a href="https://lobste.rs/s/9adha2/welcoming_rocket_chat_matrix">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://rtpg.co/2022/05/30/improve-print-based-debugging.html">A Couple Lines To Improve Print-Based Debugging In Loops&lt;/a>
+(&lt;a href="https://lobste.rs/s/r0om8m/couple_lines_improve_print_based">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://eli.thegreenplace.net/2022/rewriting-the-lexer-benchmark-in-rust/">Rewriting the lexer benchmark in Rust&lt;/a>
+(&lt;a href="https://lobste.rs/s/ptguhn/rewriting_lexer_benchmark_rust">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://matduggan.com/programming-in-the/">Programming after Climate Change&lt;/a>
+(&lt;a href="https://lobste.rs/s/pinmrw/programming_after_climate_change">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/dekuNukem/bob_cassette_rewinder/blob/master/README.md">Bob Cassette Rewinder: Hacking Detergent DRM&lt;/a>
+(&lt;a href="https://lobste.rs/s/urfo5x/bob_cassette_rewinder_hacking_detergent">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tom.preston-werner.com/2022/05/23/major-version-numbers-are-not-sacred.html">Major Version Numbers are Not Sacred&lt;/a>
+(&lt;a href="https://lobste.rs/s/76rgnf/major_version_numbers_are_not_sacred">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.jonlu.ca/posts/verizon-rare-numbers?ref=ls">Using Verizon&amp;rsquo;s API to get a vanity phone number with 4 consecutive digits&lt;/a>
+(&lt;a href="https://lobste.rs/s/ivakz5/using_verizon_s_api_get_vanity_phone">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://oldvcr.blogspot.com/2022/05/so-long-home-t1-line-hello-hacking-t1.html">So long, home T1 line; hello, hacking the T1 router&lt;/a>
+(&lt;a href="https://lobste.rs/s/yhmx41/so_long_home_t1_line_hello_hacking_t1">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://bicompact.space/blog/2020/06/20/nix-os-thoughts/">Nix(OS) Thoughts&lt;/a>
+(&lt;a href="https://lobste.rs/s/czqajm/nix_os_thoughts">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://matklad.github.io//2022/05/29/binary-privacy.html">Binary Privacy&lt;/a>
+(&lt;a href="https://lobste.rs/s/81e3gf/binary_privacy">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-05-30</title><link>https://frozen-lobster.rohanverma.net/posts/2022-05-30/</link><pubDate>Mon, 30 May 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-05-30/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://evanhahn.com/a-decade-of-dotfiles/">A decade of dotfiles&lt;/a>
 (&lt;a href="https://lobste.rs/s/v18rge/decade_dotfiles">comments&lt;/a>)&lt;/p>
