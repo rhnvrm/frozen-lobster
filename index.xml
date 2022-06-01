@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 31 May 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-05-31</title><link>https://frozen-lobster.rohanverma.net/posts/2022-05-31/</link><pubDate>Tue, 31 May 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-05-31/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-06-01</title><link>https://frozen-lobster.rohanverma.net/posts/2022-06-01/</link><pubDate>Wed, 01 Jun 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-06-01/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.feistyduck.com/bulletproof-tls-newsletter/issue_89_certificate_transparency_data_is_used_to_compromise_wordpress_before_installation">Certificate Transparency data is used to compromise WordPress before installation&lt;/a>
+(&lt;a href="https://lobste.rs/s/hb5tdl/certificate_transparency_data_is_used">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.haskellforall.com/2022/05/generate-web-forms-from-pure-functions.html">Generate web forms from pure functions&lt;/a>
+(&lt;a href="https://lobste.rs/s/z96etg/generate_web_forms_from_pure_functions">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sethmlarson.dev/blog/people-in-your-software-supply-chain">People in your software supply chain&lt;/a>
+(&lt;a href="https://lobste.rs/s/ngcrf6/people_your_software_supply_chain">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pencil.toast.cafe/hellops/electrifying-ext4">BTRFS can survive acts of God&lt;/a>
+(&lt;a href="https://lobste.rs/s/winbh2/btrfs_can_survive_acts_god">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://asymmetric.github.io/2021/05/31/remote-nix-builder/">Evaluating the security implications of a company-wide Nix remote builder&lt;/a>
+(&lt;a href="https://lobste.rs/s/tsu4fg/evaluating_security_implications">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.mattkeeter.com/blog/2022-05-31-xmodem/">XModem in 2022&lt;/a>
+(&lt;a href="https://lobste.rs/s/env9p0/xmodem_2022">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://nixos.org/blog/announcements.html#nixos-22.05">NixOS 22.05 released&lt;/a>
+(&lt;a href="https://lobste.rs/s/7is9ri/nixos_22_05_released">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://matrix.org/blog/2022/05/30/welcoming-rocket-chat-to-matrix">Welcoming Rocket.Chat to Matrix&lt;/a>
+(&lt;a href="https://lobste.rs/s/9adha2/welcoming_rocket_chat_matrix">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://arstechnica.com/gadgets/2022/05/remembering-apples-newton-30-years-on/">Remembering Apple’s Newton, 30 years on&lt;/a>
+(&lt;a href="https://lobste.rs/s/9y2rrt/remembering_apple_s_newton_30_years_on">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/samber/mo">Monads and popular FP abstractions, based on Go 1.18+ Generics&lt;/a>
+(&lt;a href="https://lobste.rs/s/xk9ade/monads_popular_fp_abstractions_based_on">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-05-31</title><link>https://frozen-lobster.rohanverma.net/posts/2022-05-31/</link><pubDate>Tue, 31 May 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-05-31/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://matrix.org/blog/2022/05/30/welcoming-rocket-chat-to-matrix">Welcoming Rocket.Chat to Matrix&lt;/a>
 (&lt;a href="https://lobste.rs/s/9adha2/welcoming_rocket_chat_matrix">comments&lt;/a>)&lt;/p>
