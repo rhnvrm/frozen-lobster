@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-06-01</title><link>https://frozen-lobster.rohanverma.net/posts/2022-06-01/</link><pubDate>Wed, 01 Jun 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-06-01/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 02 Jun 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-06-02</title><link>https://frozen-lobster.rohanverma.net/posts/2022-06-02/</link><pubDate>Thu, 02 Jun 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-06-02/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://batsov.com/articles/2022/06/01/who-needs-modern-emacs/">Who Needs Modern Emacs?&lt;/a>
+(&lt;a href="https://lobste.rs/s/nkea9j/who_needs_modern_emacs">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://corecursive.com/why-80-columns/">Why still 80 columns?&lt;/a>
+(&lt;a href="https://lobste.rs/s/kofzic/why_still_80_columns">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/WebKit/WebKit/blob/main/Source/bmalloc/libpas/Documentation.md">All About Libpas, Phil&amp;rsquo;s Super Fast Malloc&lt;/a>
+(&lt;a href="https://lobste.rs/s/1vj2rz/all_about_libpas_phil_s_super_fast_malloc">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://twitter.com/jimmyhmiller/status/1531638254264541185?t=jy_vhuBuw1o_O3fXlrUppw&amp;amp;s=19">A Visualizer for Ruby&amp;rsquo;s YJIT&lt;/a>
+(&lt;a href="https://lobste.rs/s/rxbpgg/visualizer_for_ruby_s_yjit">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://kernel.dk/axboe-kr2022.pdf">What’s new with io_uring&lt;/a>
+(&lt;a href="https://lobste.rs/s/lglyjs/what_s_new_with_io_uring">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gitlab.cs.washington.edu/fidelp/frustration">Frustration - Escaping a Turing Tar Pit with Forth&lt;/a>
+(&lt;a href="https://lobste.rs/s/mcgvak/frustration_escaping_turing_tar_pit_with">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://clivethompson.medium.com/programming-isnt-hard-but-it-s-frustrating-6cb740085243">Programming Isn’t Hard — But It’s Frustrating&lt;/a>
+(&lt;a href="https://lobste.rs/s/z4ue6y/programming_isn_t_hard_it_s_frustrating">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.feistyduck.com/bulletproof-tls-newsletter/issue_89_certificate_transparency_data_is_used_to_compromise_wordpress_before_installation">Certificate Transparency data is used to compromise WordPress before installation&lt;/a>
+(&lt;a href="https://lobste.rs/s/hb5tdl/certificate_transparency_data_is_used">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://texdraft.github.io/lisp-compiler/internals.html">The First Lisp Compiler&lt;/a>
+(&lt;a href="https://lobste.rs/s/2zgl5t/first_lisp_compiler">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/mxgmn/MarkovJunior">MarkovJunior: Probabilistic PL based on pattern matching and constraint propagation&lt;/a>
+(&lt;a href="https://lobste.rs/s/a0jhh3/markovjunior_probabilistic_pl_based_on">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-06-01</title><link>https://frozen-lobster.rohanverma.net/posts/2022-06-01/</link><pubDate>Wed, 01 Jun 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-06-01/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://www.feistyduck.com/bulletproof-tls-newsletter/issue_89_certificate_transparency_data_is_used_to_compromise_wordpress_before_installation">Certificate Transparency data is used to compromise WordPress before installation&lt;/a>
 (&lt;a href="https://lobste.rs/s/hb5tdl/certificate_transparency_data_is_used">comments&lt;/a>)&lt;/p>
