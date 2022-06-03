@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 02 Jun 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-06-02</title><link>https://frozen-lobster.rohanverma.net/posts/2022-06-02/</link><pubDate>Thu, 02 Jun 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-06-02/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 03 Jun 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-06-03</title><link>https://frozen-lobster.rohanverma.net/posts/2022-06-03/</link><pubDate>Fri, 03 Jun 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-06-03/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://bert.org/2022/06/02/payphone/">Installing a payphone in my house&lt;/a>
+(&lt;a href="https://lobste.rs/s/wfenbr/installing_payphone_my_house">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://mazzo.li/posts/fast-pipes.html">How fast are Linux pipes anyway?&lt;/a>
+(&lt;a href="https://lobste.rs/s/5dty6n/how_fast_are_linux_pipes_anyway">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/commercial-emacs/commercial-emacs">commercial-emacs/commercial-emacs&lt;/a>
+(&lt;a href="https://lobste.rs/s/xmiywh/commercial_emacs_commercial_emacs">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://stratus3d.com/blog/2022/06/01/the-problem-with-elixirs-with">The Problem With Elixir’s &lt;code>with&lt;/code>&lt;/a>
+(&lt;a href="https://lobste.rs/s/2vywso/problem_with_elixir_s_with">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.adacore.com/a-new-era-for-ada-spark-open-source-community">A New Era For Ada/SPARK Open Source Community&lt;/a>
+(&lt;a href="https://lobste.rs/s/tikh5j/new_era_for_ada_spark_open_source">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.janestreet.com/tech-talks/unboxed-types-for-ocaml/">Unboxed Types for OCaml (2019)&lt;/a>
+(&lt;a href="https://lobste.rs/s/v6xfce/unboxed_types_for_ocaml_2019">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://fasterthanli.me/articles/the-curse-of-strong-typing">The curse of strong typing&lt;/a>
+(&lt;a href="https://lobste.rs/s/omluav/curse_strong_typing">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://itch.io/jam/fennel-game-jam-1/entries">Fennel Language Game Jam 1 Submissions&lt;/a>
+(&lt;a href="https://lobste.rs/s/zppnti/fennel_language_game_jam_1_submissions">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://batsov.com/articles/2022/06/01/who-needs-modern-emacs/">Who Needs Modern Emacs?&lt;/a>
+(&lt;a href="https://lobste.rs/s/nkea9j/who_needs_modern_emacs">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://buf.build/blog/connect-a-better-grpc">Connect: A better gRPC&lt;/a>
+(&lt;a href="https://lobste.rs/s/htwjza/connect_better_grpc">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-06-02</title><link>https://frozen-lobster.rohanverma.net/posts/2022-06-02/</link><pubDate>Thu, 02 Jun 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-06-02/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://batsov.com/articles/2022/06/01/who-needs-modern-emacs/">Who Needs Modern Emacs?&lt;/a>
 (&lt;a href="https://lobste.rs/s/nkea9j/who_needs_modern_emacs">comments&lt;/a>)&lt;/p>
