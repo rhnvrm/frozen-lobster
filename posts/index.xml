@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 03 Jun 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-06-03</title><link>https://frozen-lobster.rohanverma.net/posts/2022-06-03/</link><pubDate>Fri, 03 Jun 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-06-03/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 04 Jun 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-06-04</title><link>https://frozen-lobster.rohanverma.net/posts/2022-06-04/</link><pubDate>Sat, 04 Jun 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-06-04/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.haskellforall.com/2022/06/the-appeal-of-bidirectional-type.html">The appeal of bidirectional type-checking&lt;/a>
+(&lt;a href="https://lobste.rs/s/mhdvzh/appeal_bidirectional_type_checking">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://hirrolot.github.io/posts/rust-is-hard-or-the-misery-of-mainstream-programming.html">Rust Is Hard, Or: The Misery of Mainstream Programming&lt;/a>
+(&lt;a href="https://lobste.rs/s/eojr2v/rust_is_hard_misery_mainstream">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.orhun.dev/take-your-music-offline/">Move away from streaming platforms &amp;amp; take your music offline&lt;/a>
+(&lt;a href="https://lobste.rs/s/n6o6ez/move_away_from_streaming_platforms_take">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://games.greggman.com/game/2022-06-02-western-naming-convensions-wasting-time_md/">How many man years are wasted with western naming convensions?&lt;/a>
+(&lt;a href="https://lobste.rs/s/pzsvqv/how_many_man_years_are_wasted_with_western">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://bert.org/2022/06/02/payphone/">Installing a payphone in my house&lt;/a>
+(&lt;a href="https://lobste.rs/s/wfenbr/installing_payphone_my_house">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.tbray.org/ongoing/When/202x/2022/06/02/Dangerous-Gift">Dangerous Gift&lt;/a>
+(&lt;a href="https://lobste.rs/s/zemzol/dangerous_gift">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this weekend?&lt;/a>
+(&lt;a href="https://lobste.rs/s/vzzxnr/what_are_you_doing_this_weekend">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://itsallaboutthebit.com/async-simple/">(async) Rust doesn&amp;rsquo;t have to be hard&lt;/a>
+(&lt;a href="https://lobste.rs/s/ftktmu/async_rust_doesn_t_have_be_hard">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jimmyhmiller.github.io/editor-experience">My Experience Building an Editor in Rust&lt;/a>
+(&lt;a href="https://lobste.rs/s/fnoqn4/my_experience_building_editor_rust">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/commercial-emacs/commercial-emacs">commercial-emacs&lt;/a>
+(&lt;a href="https://lobste.rs/s/xmiywh/commercial_emacs">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-06-03</title><link>https://frozen-lobster.rohanverma.net/posts/2022-06-03/</link><pubDate>Fri, 03 Jun 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-06-03/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://bert.org/2022/06/02/payphone/">Installing a payphone in my house&lt;/a>
 (&lt;a href="https://lobste.rs/s/wfenbr/installing_payphone_my_house">comments&lt;/a>)&lt;/p>
