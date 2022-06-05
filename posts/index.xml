@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 04 Jun 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-06-04</title><link>https://frozen-lobster.rohanverma.net/posts/2022-06-04/</link><pubDate>Sat, 04 Jun 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-06-04/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 05 Jun 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-06-05</title><link>https://frozen-lobster.rohanverma.net/posts/2022-06-05/</link><pubDate>Sun, 05 Jun 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-06-05/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://threedots.ovh/blog/2022/06/boot-drive-encryption-security-on-windows/">Boot drive encryption security on Windows&lt;/a>
+(&lt;a href="https://lobste.rs/s/ikzqnw/boot_drive_encryption_security_on">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.orhun.dev/take-your-music-offline/">Move away from streaming platforms &amp;amp; take your music offline&lt;/a>
+(&lt;a href="https://lobste.rs/s/n6o6ez/move_away_from_streaming_platforms_take">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://nosleep.page/">Prevent your computer sleeping with a webpage&lt;/a>
+(&lt;a href="https://lobste.rs/s/2ll7vx/prevent_your_computer_sleeping_with">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://spinroot.com/pico/pjw.html">PJW&amp;rsquo;s Face (2018)&lt;/a>
+(&lt;a href="https://lobste.rs/s/0sqdnj/pjw_s_face_2018">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://architecturenotes.co/fallacies-of-distributed-systems/">Architecture Notes: Fallacies of Distributed Systems&lt;/a>
+(&lt;a href="https://lobste.rs/s/i5otro/architecture_notes_fallacies">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.haskellforall.com/2022/06/the-appeal-of-bidirectional-type.html">The appeal of bidirectional type-checking&lt;/a>
+(&lt;a href="https://lobste.rs/s/mhdvzh/appeal_bidirectional_type_checking">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/nathants/aws-rce">adhoc remote execution in aws lambda&lt;/a>
+(&lt;a href="https://lobste.rs/s/dhy6mp/adhoc_remote_execution_aws_lambda">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://itsallaboutthebit.com/async-simple/">(async) Rust doesn&amp;rsquo;t have to be hard&lt;/a>
+(&lt;a href="https://lobste.rs/s/ftktmu/async_rust_doesn_t_have_be_hard">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.iconfactory.com/2022/06/worldwideweb-part-2/">WorldWideWeb, Part II&lt;/a>
+(&lt;a href="https://lobste.rs/s/0mkm7v/worldwideweb_part_ii">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://amoffat.github.io/supertag/">Supertag — A tag-based file system for Linux and MacOS&lt;/a>
+(&lt;a href="https://lobste.rs/s/zw0jqh/supertag_tag_based_file_system_for_linux">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-06-04</title><link>https://frozen-lobster.rohanverma.net/posts/2022-06-04/</link><pubDate>Sat, 04 Jun 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-06-04/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://www.haskellforall.com/2022/06/the-appeal-of-bidirectional-type.html">The appeal of bidirectional type-checking&lt;/a>
 (&lt;a href="https://lobste.rs/s/mhdvzh/appeal_bidirectional_type_checking">comments&lt;/a>)&lt;/p>
