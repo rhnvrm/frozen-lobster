@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 05 Jun 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-06-05</title><link>https://frozen-lobster.rohanverma.net/posts/2022-06-05/</link><pubDate>Sun, 05 Jun 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-06-05/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 06 Jun 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-06-06</title><link>https://frozen-lobster.rohanverma.net/posts/2022-06-06/</link><pubDate>Mon, 06 Jun 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-06-06/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://smoldungeon.com/pixel-art">A beginners guide to pixel art&lt;/a>
+(&lt;a href="https://lobste.rs/s/6oc1b1/beginners_guide_pixel_art">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pboyd.io/posts/screw-ups/">The day I wiped a production database table&lt;/a>
+(&lt;a href="https://lobste.rs/s/bikgmx/day_i_wiped_production_database_table">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://amoffat.github.io/supertag/">Supertag — A tag-based file system for Linux and MacOS&lt;/a>
+(&lt;a href="https://lobste.rs/s/zw0jqh/supertag_tag_based_file_system_for_linux">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://domm.plix.at/perl/2022_06_dockerfile_for_perl_5_36.html">A Dockerfile for Perl 5.36 / Alpine, with working SSL&lt;/a>
+(&lt;a href="https://lobste.rs/s/suqpzg/dockerfile_for_perl_5_36_alpine_with">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.positech.co.uk/cliffsblog/2022/06/05/code-bloat-has-become-astronomical/">Code bloat has become astronomical&lt;/a>
+(&lt;a href="https://lobste.rs/s/2kenav/code_bloat_has_become_astronomical">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.phoronix.com/scan.php?page=news_item&amp;amp;px=Asahi-Linux-First-Triangle">Asahi Linux Celebrates First Triangle On The Apple M1 With Fully Open-Source Driver&lt;/a>
+(&lt;a href="https://lobste.rs/s/cuta5c/asahi_linux_celebrates_first_triangle_on">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.apnic.net/2022/05/24/tcpls-modern-transport-services-with-tcp-and-tls/">TCPLS: Modern Transport Services with TCP and TLS&lt;/a>
+(&lt;a href="https://lobste.rs/s/rggv7d/tcpls_modern_transport_services_with_tcp">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://texteditors.org/cgi-bin/wiki.pl?Twee_Editors">Twee Editors(2005)&lt;/a>
+(&lt;a href="https://lobste.rs/s/rfqjdj/twee_editors_2005">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://dfithian.github.io/2022/06/04/chez-grater.html">Chez Grater - Command line tool for parsing recipe blogs&lt;/a>
+(&lt;a href="https://lobste.rs/s/iivw9t/chez_grater_command_line_tool_for_parsing">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.sstic.org/media/SSTIC2022/SSTIC-actes/an_apple_a_day/SSTIC2022-Slides-an_apple_a_day-benoist-vanderbeken_perigaud.pdf">An Apple a day keeps the exploiter away&lt;/a>
+(&lt;a href="https://lobste.rs/s/pc0ssd/apple_day_keeps_exploiter_away">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-06-05</title><link>https://frozen-lobster.rohanverma.net/posts/2022-06-05/</link><pubDate>Sun, 05 Jun 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-06-05/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://threedots.ovh/blog/2022/06/boot-drive-encryption-security-on-windows/">Boot drive encryption security on Windows&lt;/a>
 (&lt;a href="https://lobste.rs/s/ikzqnw/boot_drive_encryption_security_on">comments&lt;/a>)&lt;/p>
