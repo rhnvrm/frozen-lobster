@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 08 Jun 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-06-08</title><link>https://frozen-lobster.rohanverma.net/posts/2022-06-08/</link><pubDate>Wed, 08 Jun 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-06-08/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 09 Jun 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-06-09</title><link>https://frozen-lobster.rohanverma.net/posts/2022-06-09/</link><pubDate>Thu, 09 Jun 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-06-09/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://github.blog/2022-06-08-sunsetting-atom/">Sunsetting Atom&lt;/a>
+(&lt;a href="https://lobste.rs/s/m1pylv/sunsetting_atom">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lapce.dev/">Open source code editor (in Rust)&lt;/a>
+(&lt;a href="https://lobste.rs/s/cqm0wt/open_source_code_editor_rust">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://katelibc.medium.com/porting-doom-to-a-ux-8cecab02b531">Porting Doom to A/UX&lt;/a>
+(&lt;a href="https://lobste.rs/s/slnsfi/porting_doom_ux">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.swiftbysundell.com/articles/swifts-new-shorthand-optional-unwrapping-syntax">Swift 5.7’s new optional unwrapping syntax&lt;/a>
+(&lt;a href="https://lobste.rs/s/bvizc0/swift_5_7_s_new_optional_unwrapping_syntax">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://siipo.la/blog/whats-the-best-lossless-image-format-comparing-png-webp-avif-and-jpeg-xl">What’s the best lossless image format? PNG, WebP, AVIF, and JPEG XL compared&lt;/a>
+(&lt;a href="https://lobste.rs/s/0tqvkd/what_s_best_lossless_image_format_png_webp">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://devblogs.microsoft.com/oldnewthing/20220608-00/?p=106727">Is there a maximum size for Windows clipboard data? Because I&amp;rsquo;m getting null for something I know should be there&lt;/a>
+(&lt;a href="https://lobste.rs/s/jq07hu/is_there_maximum_size_for_windows">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://conradludgate.com/posts/async-stack">Stacked Futures and why they are impossible&lt;/a>
+(&lt;a href="https://lobste.rs/s/mar5gp/stacked_futures_why_they_are_impossible">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pointersgonewild.com/2022/06/08/typed-vs-untyped-virtual-machines/">Typed vs Untyped Virtual Machines&lt;/a>
+(&lt;a href="https://lobste.rs/s/e140fx/typed_vs_untyped_virtual_machines">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.foxhound.systems/blog/essential-elements-of-high-performance-sql-indexes/">Essential elements of high performance applications: SQL indexes&lt;/a>
+(&lt;a href="https://lobste.rs/s/r1asas/essential_elements_high_performance">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ux.stackexchange.com/questions/125161/is-replacing-icons-with-emoji-a-good-idea">Is replacing icons with emoji a good idea?&lt;/a>
+(&lt;a href="https://lobste.rs/s/hoy1to/is_replacing_icons_with_emoji_good_idea">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-06-08</title><link>https://frozen-lobster.rohanverma.net/posts/2022-06-08/</link><pubDate>Wed, 08 Jun 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-06-08/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://andregarzia.com/2022/06/about-ipads-and-developers.html">About iPads and Developers&lt;/a>
 (&lt;a href="https://lobste.rs/s/fen1at/about_ipads_developers">comments&lt;/a>)&lt;/p>
