@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 10 Jun 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-06-10</title><link>https://frozen-lobster.rohanverma.net/posts/2022-06-10/</link><pubDate>Fri, 10 Jun 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-06-10/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 11 Jun 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-06-11</title><link>https://frozen-lobster.rohanverma.net/posts/2022-06-11/</link><pubDate>Sat, 11 Jun 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-06-11/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="http://lofi.limo/blog/write-html-right">Write HTML Right&lt;/a>
+(&lt;a href="https://lobste.rs/s/bsmrqr/write_html_right">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.facet.net/posts/i-cheated-on-my-microsoft-interview">I Cheated on My Microsoft Interview (2019)&lt;/a>
+(&lt;a href="https://lobste.rs/s/jdbrqv/i_cheated_on_my_microsoft_interview_2019">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.cambus.net/openbsd-folklore-and-share-misc-airport/">OpenBSD folklore and share/misc/airport&lt;/a>
+(&lt;a href="https://lobste.rs/s/mo3awt/openbsd_folklore_share_misc_airport">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://justine.lol/sizetricks/">Size Optimization Tricks&lt;/a>
+(&lt;a href="https://lobste.rs/s/rbdgr2/size_optimization_tricks">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://smallstep.com/blog/if-openssl-were-a-gui/">If OpenSSL were a GUI&lt;/a>
+(&lt;a href="https://lobste.rs/s/faymlu/if_openssl_were_gui">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tip.golang.org/doc/go1.19">Go 1.19 Release Notes (for 1.19beta1)&lt;/a>
+(&lt;a href="https://lobste.rs/s/3cg80n/go_1_19_release_notes_for_1_19beta1">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://leanprover.github.io/functional_programming_in_lean/">Functional Programming in Lean&lt;/a>
+(&lt;a href="https://lobste.rs/s/vn0xlp/functional_programming_lean">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blogs.blackberry.com/en/2022/06/symbiote-a-new-nearly-impossible-to-detect-linux-threat">Symbiote: A New, Nearly-Impossible-to-Detect Linux Threat&lt;/a>
+(&lt;a href="https://lobste.rs/s/ijottt/symbiote_new_nearly_impossible_detect">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this weekend?&lt;/a>
+(&lt;a href="https://lobste.rs/s/z7ckef/what_are_you_doing_this_weekend">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://medium.com/swlh/what-makes-godot-engine-great-for-advance-gui-applications-b1cfb941df3b">Making Advanced GUI Applications with Godot&lt;/a>
+(&lt;a href="https://lobste.rs/s/uka8eq/making_advanced_gui_applications_with">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-06-10</title><link>https://frozen-lobster.rohanverma.net/posts/2022-06-10/</link><pubDate>Fri, 10 Jun 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-06-10/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://nolanlawson.com/2022/06/09/the-collapse-of-complex-software/">The collapse of complex software&lt;/a>
 (&lt;a href="https://lobste.rs/s/by8rfa/collapse_complex_software">comments&lt;/a>)&lt;/p>
