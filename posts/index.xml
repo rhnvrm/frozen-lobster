@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 14 Jun 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-06-14</title><link>https://frozen-lobster.rohanverma.net/posts/2022-06-14/</link><pubDate>Tue, 14 Jun 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-06-14/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 15 Jun 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-06-15</title><link>https://frozen-lobster.rohanverma.net/posts/2022-06-15/</link><pubDate>Wed, 15 Jun 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-06-15/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://blog.mozilla.org/en/products/firefox/firefox-rolls-out-total-cookie-protection-by-default-to-all-users-worldwide/">Firefox Rolls Out Total Cookie Protection By Default To All Users&lt;/a>
+(&lt;a href="https://lobste.rs/s/wrrgqq/firefox_rolls_out_total_cookie">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.hertzbleed.com/">Hertzbleed Attack&lt;/a>
+(&lt;a href="https://lobste.rs/s/rs9tke/hertzbleed_attack">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://earthly.dev/blog/yaml-validate-and-lint-cue-lang/">Validate Your YAML&lt;/a>
+(&lt;a href="https://lobste.rs/s/l5fu8x/validate_your_yaml">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://hacks.mozilla.org/2022/06/everything-is-broken-shipping-rust-minidump-at-mozilla/">Everything Is Broken: Shipping rust-minidump at Mozilla – Part 1&lt;/a>
+(&lt;a href="https://lobste.rs/s/fuue6c/everything_is_broken_shipping_rust">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://myme.no/posts/2022-06-14-nixos-confederation.html">NixOS: Confederation&lt;/a>
+(&lt;a href="https://lobste.rs/s/azzlvx/nixos_confederation">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://solovyov.net/blog/2022/ngrok-for-the-wicked/">ngrok for the wicked, or expose your ports comfortably&lt;/a>
+(&lt;a href="https://lobste.rs/s/6zq9vt/ngrok_for_wicked_expose_your_ports">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://shadowfacts.net/2022/clarus/">Clarus Returns Home&lt;/a>
+(&lt;a href="https://lobste.rs/s/yqv2dp/clarus_returns_home">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sixcolors.com/post/2020/11/quick-tip-enable-touch-id-for-sudo/">Quick Tip: Enable Touch ID for sudo&lt;/a>
+(&lt;a href="https://lobste.rs/s/vbbd9x/quick_tip_enable_touch_id_for_sudo">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://hypirion.com/musings/smaller-static-sites-with-new-formats">Smaller Static Sites with New Formats&lt;/a>
+(&lt;a href="https://lobste.rs/s/ufd2p4/smaller_static_sites_with_new_formats">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://arstechnica.com/information-technology/2022/06/researchers-exploit-new-intel-and-amd-cpu-flaw-to-steal-encryption-keys/">A new vulnerability in Intel and AMD CPUs lets hackers steal encryption keys&lt;/a>
+(&lt;a href="https://lobste.rs/s/4zktlc/new_vulnerability_intel_amd_cpus_lets">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-06-14</title><link>https://frozen-lobster.rohanverma.net/posts/2022-06-14/</link><pubDate>Tue, 14 Jun 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-06-14/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://hypirion.com/musings/smaller-static-sites-with-new-formats">Smaller Static Sites with New Formats&lt;/a>
 (&lt;a href="https://lobste.rs/s/ufd2p4/smaller_static_sites_with_new_formats">comments&lt;/a>)&lt;/p>
