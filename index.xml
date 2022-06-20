@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 19 Jun 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-06-19</title><link>https://frozen-lobster.rohanverma.net/posts/2022-06-19/</link><pubDate>Sun, 19 Jun 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-06-19/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 20 Jun 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-06-20</title><link>https://frozen-lobster.rohanverma.net/posts/2022-06-20/</link><pubDate>Mon, 20 Jun 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-06-20/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://gleam.run/news/gleam-v0.22-released/">v0.22 of Gleam, a type safe language for the Erlang VM, is out&lt;/a>
+(&lt;a href="https://lobste.rs/s/mth53a/v0_22_gleam_type_safe_language_for_erlang">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/smmr-software/mabel">Mabel: a fancy BitTorrent client for the terminal&lt;/a>
+(&lt;a href="https://lobste.rs/s/sas6jh/mabel_fancy_bittorrent_client_for">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://matt-rickard.com/dont-use-kubernetes-yet/">Don&amp;rsquo;t Use Kubernetes, Yet&lt;/a>
+(&lt;a href="https://lobste.rs/s/dohcbi/don_t_use_kubernetes_yet">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://mawfig.github.io/2022/06/18/v-lang-in-2022.html">V Language Review (2022)&lt;/a>
+(&lt;a href="https://lobste.rs/s/hfjlba/v_language_review_2022">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://mmazzarolo.com/blog/2022-06-16-safari-on-ios-can-overlap-multiple-full-screen-videos/">Ouch, Safari on iOS can overlap multiple full-screen videos&lt;/a>
+(&lt;a href="https://lobste.rs/s/atbkhc/ouch_safari_on_ios_can_overlap_multiple">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/Mythra/typeish">typeish: A runtime type checker for bash&amp;hellip;. in bash&lt;/a>
+(&lt;a href="https://lobste.rs/s/jdj1ya/typeish_runtime_type_checker_for_bash">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://trofi.github.io/posts/240-nixpkgs-bootstrap-intro.html">nixpkgs bootstrap intro&lt;/a>
+(&lt;a href="https://lobste.rs/s/b2iekq/nixpkgs_bootstrap_intro">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://reincubate.com/support/how-to/why-are-webcams-bad/">Webcams aren&amp;rsquo;t good enough&lt;/a>
+(&lt;a href="https://lobste.rs/s/fyy572/webcams_aren_t_good_enough">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://vermaden.wordpress.com/2022/06/19/is-freebsd-a-real-unix/">Is FreeBSD a Real UNIX?&lt;/a>
+(&lt;a href="https://lobste.rs/s/l9jyqf/is_freebsd_real_unix">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://note89.github.io/state-of-emergency/">State of emergency! The four ways your state might be wrong&lt;/a>
+(&lt;a href="https://lobste.rs/s/mjsz22/state_emergency_four_ways_your_state">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-06-19</title><link>https://frozen-lobster.rohanverma.net/posts/2022-06-19/</link><pubDate>Sun, 19 Jun 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-06-19/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://mawfig.github.io/2022/06/18/v-lang-in-2022.html">V Language Review (2022)&lt;/a>
 (&lt;a href="https://lobste.rs/s/hfjlba/v_language_review_2022">comments&lt;/a>)&lt;/p>
