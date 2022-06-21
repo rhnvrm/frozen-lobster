@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 20 Jun 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-06-20</title><link>https://frozen-lobster.rohanverma.net/posts/2022-06-20/</link><pubDate>Mon, 20 Jun 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-06-20/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 21 Jun 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-06-21</title><link>https://frozen-lobster.rohanverma.net/posts/2022-06-21/</link><pubDate>Tue, 21 Jun 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-06-21/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://himitsustore.org/">Himitsu: A secret storage manager&lt;/a>
+(&lt;a href="https://lobste.rs/s/lrauvc/himitsu_secret_storage_manager">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://andregarzia.com/2022/05/Old-school-blogging-retro-computers-and-decentralisation.html">Old-school blogging, retro computers, and decentralisation&lt;/a>
+(&lt;a href="https://lobste.rs/s/m5d4xo/old_school_blogging_retro_computers">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://netboot.xyz/docs/">netboot.xyz: your favorite operating systems in one place&lt;/a>
+(&lt;a href="https://lobste.rs/s/j6zzmw/netboot_xyz_your_favorite_operating">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.cambus.net/differences-between-base-and-ports-llvm-in-openbsd/">Differences between base and ports LLVM in OpenBSD&lt;/a>
+(&lt;a href="https://lobste.rs/s/abogna/differences_between_base_ports_llvm">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pythonspeed.com/articles/docker-build-problems-mac/">Why new Macs break your Docker build, and how to fix it&lt;/a>
+(&lt;a href="https://lobste.rs/s/9erk39/why_new_macs_break_your_docker_build_how">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.getrevue.co/profile/shift-happens/issues/the-modifiers-vs-the-keepers-1143187">Keyboards: The modifiers vs. the keepers&lt;/a>
+(&lt;a href="https://lobste.rs/s/x5nk7a/keyboards_modifiers_vs_keepers">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.citusdata.com/blog/2022/06/17/citus-11-goes-fully-open-source/">Citus 11 for Postgres goes fully open source&lt;/a>
+(&lt;a href="https://lobste.rs/s/p8xyox/citus_11_for_postgres_goes_fully_open">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ooni.org/post/2022-quick-look-quic-censorship/">A Quick Look at QUIC Censorship&lt;/a>
+(&lt;a href="https://lobste.rs/s/qdnqqf/quick_look_at_quic_censorship">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://learn.adacore.com/courses/whats-new-in-ada-2022/index.html">What&amp;rsquo;s New in Ada 2022&lt;/a>
+(&lt;a href="https://lobste.rs/s/8fo1v4/what_s_new_ada_2022">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this week?&lt;/a>
+(&lt;a href="https://lobste.rs/s/iadvoc/what_are_you_doing_this_week">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-06-20</title><link>https://frozen-lobster.rohanverma.net/posts/2022-06-20/</link><pubDate>Mon, 20 Jun 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-06-20/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://gleam.run/news/gleam-v0.22-released/">v0.22 of Gleam, a type safe language for the Erlang VM, is out&lt;/a>
 (&lt;a href="https://lobste.rs/s/mth53a/v0_22_gleam_type_safe_language_for_erlang">comments&lt;/a>)&lt;/p>
