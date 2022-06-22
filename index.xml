@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 21 Jun 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-06-21</title><link>https://frozen-lobster.rohanverma.net/posts/2022-06-21/</link><pubDate>Tue, 21 Jun 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-06-21/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 22 Jun 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-06-22</title><link>https://frozen-lobster.rohanverma.net/posts/2022-06-22/</link><pubDate>Wed, 22 Jun 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-06-22/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="http://ane.iki.fi/2022/06/21/beenthere-donethat.html">Been there, done that&lt;/a>
+(&lt;a href="https://lobste.rs/s/nq48ab/been_there_done">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sethmlarson.dev/blog/get-paid-to-contribute-to-urllib3">Get paid to contribute to urllib3&lt;/a>
+(&lt;a href="https://lobste.rs/s/wazha9/get_paid_contribute_urllib3">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes/">A look at search engines with their own indexes&lt;/a>
+(&lt;a href="https://lobste.rs/s/rpyuic/look_at_search_engines_with_their_own">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://til.simonwillison.net/sqlite/one-line-csv-operations">One-liner for running queries against CSV files with SQLite&lt;/a>
+(&lt;a href="https://lobste.rs/s/bjpotm/one_liner_for_running_queries_against_csv">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://mmazzarolo.com/blog/2022-06-19-making-google-search-less-annoying/">How to declutter Google&amp;rsquo;s search results page&lt;/a>
+(&lt;a href="https://lobste.rs/s/ikghaw/how_declutter_google_s_search_results">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://hynek.me/articles/what-to-mock-in-5-mins/">Don’t Mock What You Don’t Own&lt;/a>
+(&lt;a href="https://lobste.rs/s/af7zcl/don_t_mock_what_you_don_t_own">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://anarc.at/blog/2022-06-17-matrix-notes/">Matrix notes&lt;/a>
+(&lt;a href="https://lobste.rs/s/ixa4vr/matrix_notes">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://coder-mike.com/blog/2022/06/11/microvium-is-very-small/">Microvium is very small&lt;/a>
+(&lt;a href="https://lobste.rs/s/6a3me8/microvium_is_very_small">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://len.falken.directory/web/improving-the-plain-text-experience-on-mobile-and-browsers.txt">A journey to improving the plain text experience on mobile and web&lt;/a>
+(&lt;a href="https://lobste.rs/s/8qgbdc/journey_improving_plain_text_experience">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://en.wikipedia.org/wiki/Lavarand">Lavarand - lava lamp-based hardware random number generator&lt;/a>
+(&lt;a href="https://lobste.rs/s/4jegg3/lavarand_lava_lamp_based_hardware_random">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-06-21</title><link>https://frozen-lobster.rohanverma.net/posts/2022-06-21/</link><pubDate>Tue, 21 Jun 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-06-21/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://himitsustore.org/">Himitsu: A secret storage manager&lt;/a>
 (&lt;a href="https://lobste.rs/s/lrauvc/himitsu_secret_storage_manager">comments&lt;/a>)&lt;/p>
