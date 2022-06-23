@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 22 Jun 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-06-22</title><link>https://frozen-lobster.rohanverma.net/posts/2022-06-22/</link><pubDate>Wed, 22 Jun 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-06-22/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 23 Jun 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-06-23</title><link>https://frozen-lobster.rohanverma.net/posts/2022-06-23/</link><pubDate>Thu, 23 Jun 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-06-23/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://discu.eu/weekly/">Weekly newsletter about various topics (Rust, Zig, Compsci, etc.)&lt;/a>
+(&lt;a href="https://lobste.rs/s/xw3rok/weekly_newsletter_about_various_topics">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tailscale.com/blog/tailscale-ssh/">Introducing Tailscale SSH&lt;/a>
+(&lt;a href="https://lobste.rs/s/y9ewni/introducing_tailscale_ssh">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://andreas.scherbaum.la/blog/archives/1116-PostgreSQL-Upgrades-are-hard!.html">PostgreSQL Upgrades are hard&lt;/a>
+(&lt;a href="https://lobste.rs/s/6bidxx/postgresql_upgrades_are_hard">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://chidiwilliams.com/post/crafting-interpreters-a-review/">Crafting Interpreters: A Review&lt;/a>
+(&lt;a href="https://lobste.rs/s/qzegtx/crafting_interpreters_review">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://brntn.me/blog/six-things-i-do-every-time-i-start-a-django-project/">Six things I do every time I start a Django project&lt;/a>
+(&lt;a href="https://lobste.rs/s/irihrd/six_things_i_do_every_time_i_start_django">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.modos.tech/blog/modos-paper-monitor">The Modos Paper Monitor&lt;/a>
+(&lt;a href="https://lobste.rs/s/a6sp5z/modos_paper_monitor">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.sligocki.com//2022/06/21/bb-6-2-t15.html">BB(6, 2) &amp;gt; 10↑↑15&lt;/a>
+(&lt;a href="https://lobste.rs/s/soqumy/bb_6_2_10_15">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.mnot.net/blog/2022/06/22/chromium-only">What would a Chromium-only Web look like?&lt;/a>
+(&lt;a href="https://lobste.rs/s/oqx2oc/what_would_chromium_only_web_look_like">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://nitter.net/bert_hu_bert/status/1539153322321526785">A fun decryption story! (Albanian)&lt;/a>
+(&lt;a href="https://lobste.rs/s/excnrk/fun_decryption_story_albanian">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/datafold/data-diff">data-diff &amp;ndash; compare tables of any size across databases&lt;/a>
+(&lt;a href="https://lobste.rs/s/vvx7i3/data_diff_compare_tables_any_size_across">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-06-22</title><link>https://frozen-lobster.rohanverma.net/posts/2022-06-22/</link><pubDate>Wed, 22 Jun 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-06-22/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="http://ane.iki.fi/2022/06/21/beenthere-donethat.html">Been there, done that&lt;/a>
 (&lt;a href="https://lobste.rs/s/nq48ab/been_there_done">comments&lt;/a>)&lt;/p>
