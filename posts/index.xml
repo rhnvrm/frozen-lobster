@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 23 Jun 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-06-23</title><link>https://frozen-lobster.rohanverma.net/posts/2022-06-23/</link><pubDate>Thu, 23 Jun 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-06-23/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 24 Jun 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-06-24</title><link>https://frozen-lobster.rohanverma.net/posts/2022-06-24/</link><pubDate>Fri, 24 Jun 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-06-24/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://c9x.me/compile/releases.html">QBE 1.0&lt;/a>
+(&lt;a href="https://lobste.rs/s/yqakzf/qbe_1_0">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.phoronix.com/scan.php?page=news_item&amp;amp;px=Rust-For-Linux-5.20-Possible">Linus Torvalds: Rust For The Kernel Could Possibly Be Merged For Linux 5.20&lt;/a>
+(&lt;a href="https://lobste.rs/s/5bxko3/linus_torvalds_rust_for_kernel_could">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.kuon.ch/post/2022-06-22-zig-embed/">Testing Zig for embedded development&lt;/a>
+(&lt;a href="https://lobste.rs/s/unkvtp/testing_zig_for_embedded_development">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://hacks.mozilla.org/2022/06/fuzzing-rust-minidump-for-embarrassment-and-crashes/">Fuzzing rust-minidump for Embarrassment and Crashes – Part 2&lt;/a>
+(&lt;a href="https://lobste.rs/s/jgsegj/fuzzing_rust_minidump_for_embarrassment">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://neosmart.net/blog/2022/prettysize-0-3-release-and-a-weakness-in-rusts-type-system/">Limitations in rust&amp;rsquo;s type system when it comes to supporting commutative mathematical operations&lt;/a>
+(&lt;a href="https://lobste.rs/s/mcxzvw/limitations_rust_s_type_system_when_it">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.pragmaticengineer.com/rfcs-and-design-docs/">Companies Using RFCs or Design Docs and Examples of These&lt;/a>
+(&lt;a href="https://lobste.rs/s/40yog0/companies_using_rfcs_design_docs">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.gibney.org/copilot_vim_docker">Try Copilot in Vim in Docker&lt;/a>
+(&lt;a href="https://lobste.rs/s/vnr8iv/try_copilot_vim_docker">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tailscale.com/blog/tailscale-ssh/">Introducing Tailscale SSH&lt;/a>
+(&lt;a href="https://lobste.rs/s/y9ewni/introducing_tailscale_ssh">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=6oXrz3oRoEg">C2V Demo: Translating DOOM from C to V, building it in under a second and running it&lt;/a>
+(&lt;a href="https://lobste.rs/s/8xqdmi/c2v_demo_translating_doom_from_c_v">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://chidiwilliams.com/post/crafting-interpreters-a-review/">Crafting Interpreters: A Review&lt;/a>
+(&lt;a href="https://lobste.rs/s/qzegtx/crafting_interpreters_review">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-06-23</title><link>https://frozen-lobster.rohanverma.net/posts/2022-06-23/</link><pubDate>Thu, 23 Jun 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-06-23/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://discu.eu/weekly/">Weekly newsletter about various topics (Rust, Zig, Compsci, etc.)&lt;/a>
 (&lt;a href="https://lobste.rs/s/xw3rok/weekly_newsletter_about_various_topics">comments&lt;/a>)&lt;/p>
