@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 24 Jun 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-06-24</title><link>https://frozen-lobster.rohanverma.net/posts/2022-06-24/</link><pubDate>Fri, 24 Jun 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-06-24/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 25 Jun 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-06-25</title><link>https://frozen-lobster.rohanverma.net/posts/2022-06-25/</link><pubDate>Sat, 25 Jun 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-06-25/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.oilshell.org/release/0.11.0/doc/hay.html">Hay Ain&amp;rsquo;t YAML - Custom Languages for Unix Systems&lt;/a>
+(&lt;a href="https://lobste.rs/s/phqsxk/hay_ain_t_yaml_custom_languages_for_unix">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.bejarano.io/sms-phishing/">SMS phishing is way too easy&lt;/a>
+(&lt;a href="https://lobste.rs/s/nca5fc/sms_phishing_is_way_too_easy">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://simonwillison.net/2022/Jun/23/dall-e/">First impressions of DALL-E, generating images from text&lt;/a>
+(&lt;a href="https://lobste.rs/s/kvnlpf/first_impressions_dall_e_generating">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/rui314/mold/releases/tag/v1.3.0">Release mold 1.3.0&lt;/a>
+(&lt;a href="https://lobste.rs/s/lxvwi0/release_mold_1_3_0">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/timvisee/ffsend">ffsend: A fully featured Firefox Send client&lt;/a>
+(&lt;a href="https://lobste.rs/s/zn0cnr/ffsend_fully_featured_firefox_send">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://journal.stuffwithstuff.com/2012/12/19/the-impoliteness-of-overriding-methods/">The Impoliteness of Overriding Methods (2012)&lt;/a>
+(&lt;a href="https://lobste.rs/s/5ddwt2/impoliteness_overriding_methods_2012">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/multiformats/multihash">multihash: Self describing hashes, for future proofing&lt;/a>
+(&lt;a href="https://lobste.rs/s/x23pc9/multihash_self_describing_hashes_for">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://medium.com/the-polyglot-programmer/what-would-sqlite-would-look-like-if-written-in-rust-part-0-4fc192368984">What would SQLite would look like if written in Rust? — Part 0&lt;/a>
+(&lt;a href="https://lobste.rs/s/alhfbl/what_would_sqlite_would_look_like_if">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://fossandcrafts.org/episodes/47-what-is-lisp.html">What Is Lisp? &amp;ndash; FOSS &amp;amp; Crafts podcast episode&lt;/a>
+(&lt;a href="https://lobste.rs/s/s0fhe7/what_is_lisp_foss_crafts_podcast_episode">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this weekend?&lt;/a>
+(&lt;a href="https://lobste.rs/s/zaeazu/what_are_you_doing_this_weekend">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-06-24</title><link>https://frozen-lobster.rohanverma.net/posts/2022-06-24/</link><pubDate>Fri, 24 Jun 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-06-24/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://c9x.me/compile/releases.html">QBE 1.0&lt;/a>
 (&lt;a href="https://lobste.rs/s/yqakzf/qbe_1_0">comments&lt;/a>)&lt;/p>
