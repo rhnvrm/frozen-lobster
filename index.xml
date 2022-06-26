@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 25 Jun 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-06-25</title><link>https://frozen-lobster.rohanverma.net/posts/2022-06-25/</link><pubDate>Sat, 25 Jun 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-06-25/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 26 Jun 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-06-26</title><link>https://frozen-lobster.rohanverma.net/posts/2022-06-26/</link><pubDate>Sun, 26 Jun 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-06-26/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://blog.cyplo.dev/posts/2022/06/legdur/">legdur - keep your legacy durable&lt;/a>
+(&lt;a href="https://lobste.rs/s/klljdd/legdur_keep_your_legacy_durable">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://computeradsfromthepast.substack.com/p/interactive-unix">Interactive UNIX - So Powerful It Can&amp;rsquo;t Be a PC&lt;/a>
+(&lt;a href="https://lobste.rs/s/wghaw3/interactive_unix_so_powerful_it_can_t_be_pc">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://seh.dev/concy0/">Go Patterns - Fanning&lt;/a>
+(&lt;a href="https://lobste.rs/s/zerkmt/go_patterns_fanning">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.tuhs.org/mailman3/hyperkitty/list/tuhs@tuhs.org/message/H2XN5ONL3XAAUFVERXNYKS7QOZAOGBFA/">AT&amp;amp;T lawyer stopped Plan 9 release cd with songs by Lou Reed, Debbie Harry, The Residents, …&lt;/a>
+(&lt;a href="https://lobste.rs/s/t06nko/at_t_lawyer_stopped_plan_9_release_cd_with">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://dangitgit.com/en">Dangit, Git!?&lt;/a>
+(&lt;a href="https://lobste.rs/s/ryaocd/dangit_git">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.oilshell.org/release/0.11.0/doc/hay.html">Hay Ain&amp;rsquo;t YAML - Custom Languages for Unix Systems&lt;/a>
+(&lt;a href="https://lobste.rs/s/phqsxk/hay_ain_t_yaml_custom_languages_for_unix">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://vermaden.wordpress.com/2022/06/25/split-audio-files-into-parts/">Split Audio Files into Parts&lt;/a>
+(&lt;a href="https://lobste.rs/s/7vkmeg/split_audio_files_into_parts">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.espressif.com/en/news/ESP32-C5">ESP32-C5: Espressif’s first Dual-Band Wi-Fi 6 MCU&lt;/a>
+(&lt;a href="https://lobste.rs/s/fqsysf/esp32_c5_espressif_s_first_dual_band_wi_fi_6">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/elesiuta/picosnitch">picosnitch: Monitor Linux network traffic per executable using BPF&lt;/a>
+(&lt;a href="https://lobste.rs/s/5r1xht/picosnitch_monitor_linux_network">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.unitedbsd.com/d/859-ssd-trim-in-netbsd-head-current">SSD TRIM in NetBSD HEAD (-current)&lt;/a>
+(&lt;a href="https://lobste.rs/s/ndljgh/ssd_trim_netbsd_head_current">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-06-25</title><link>https://frozen-lobster.rohanverma.net/posts/2022-06-25/</link><pubDate>Sat, 25 Jun 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-06-25/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://www.oilshell.org/release/0.11.0/doc/hay.html">Hay Ain&amp;rsquo;t YAML - Custom Languages for Unix Systems&lt;/a>
 (&lt;a href="https://lobste.rs/s/phqsxk/hay_ain_t_yaml_custom_languages_for_unix">comments&lt;/a>)&lt;/p>
