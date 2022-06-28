@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 27 Jun 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-06-27</title><link>https://frozen-lobster.rohanverma.net/posts/2022-06-27/</link><pubDate>Mon, 27 Jun 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-06-27/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 28 Jun 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-06-28</title><link>https://frozen-lobster.rohanverma.net/posts/2022-06-28/</link><pubDate>Tue, 28 Jun 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-06-28/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://rhodesmill.org/brandon/2009/commands-with-comma/">Start all of your commands with a comma&lt;/a>
+(&lt;a href="https://lobste.rs/s/vgfqwt/start_all_your_commands_with_comma">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.assured.se/publications/Assured_Mullvad_relay_server_audit_report_2022.pdf">Mullvad VPN relay audit&lt;/a>
+(&lt;a href="https://lobste.rs/s/l3awki/mullvad_vpn_relay_audit">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this week?&lt;/a>
+(&lt;a href="https://lobste.rs/s/1vzkdw/what_are_you_doing_this_week">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://phaazon.net/blog/development-environments">Development Environments&lt;/a>
+(&lt;a href="https://lobste.rs/s/1vnyry/development_environments">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://fedoramagazine.org/accessibility-in-fedora-workstation/">Accessibility in Fedora Workstation&lt;/a>
+(&lt;a href="https://lobste.rs/s/fuvssu/accessibility_fedora_workstation">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://maxdeviant.com/posts/2022/reviving-drop-seven-and-a-half-years-later/">Reviving Drop Seven and a Half Years Later&lt;/a>
+(&lt;a href="https://lobste.rs/s/mcbwfp/reviving_drop_seven_half_years_later">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/prql/prql">PRQL: a modern language for transforming data — a simple, powerful, pipelined SQL replacement&lt;/a>
+(&lt;a href="https://lobste.rs/s/cusrwe/prql_modern_language_for_transforming">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://inspektor.cloud/blog/evaluating-open-policy-agent-in-rust-using-wasm">Evaluating open policy agent in rust using wasm&lt;/a>
+(&lt;a href="https://lobste.rs/s/bwnlsd/evaluating_open_policy_agent_rust_using">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ryanliptak.com/blog/zig-intro-to-check-all-allocation-failures/">An Intro to Zig&amp;rsquo;s checkAllAllocationFailures&lt;/a>
+(&lt;a href="https://lobste.rs/s/wsyxvl/intro_zig_s_checkallallocationfailures">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.blog/2022-06-27-highlights-from-git-2-37/">Highlights from Git 2.37&lt;/a>
+(&lt;a href="https://lobste.rs/s/qo1d7l/highlights_from_git_2_37">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-06-27</title><link>https://frozen-lobster.rohanverma.net/posts/2022-06-27/</link><pubDate>Mon, 27 Jun 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-06-27/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://www.haskellforall.com/2022/06/defaultable-map-applicative-wrapper-for.html">defaultable-map: An Applicative wrapper for Maps&lt;/a>
 (&lt;a href="https://lobste.rs/s/fcbvdo/defaultable_map_applicative_wrapper_for">comments&lt;/a>)&lt;/p>
