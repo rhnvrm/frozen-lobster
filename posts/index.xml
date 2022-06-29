@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 28 Jun 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-06-28</title><link>https://frozen-lobster.rohanverma.net/posts/2022-06-28/</link><pubDate>Tue, 28 Jun 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-06-28/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 29 Jun 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-06-29</title><link>https://frozen-lobster.rohanverma.net/posts/2022-06-29/</link><pubDate>Wed, 29 Jun 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-06-29/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://shkspr.mobi/blog/2022/06/ive-locked-myself-out-of-my-digital-life/">I&amp;rsquo;ve locked myself out of my digital life&lt;/a>
+(&lt;a href="https://lobste.rs/s/tqull2/i_ve_locked_myself_out_my_digital_life">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.vim.org/vim90.php">Vim 9.0 released&lt;/a>
+(&lt;a href="https://lobste.rs/s/wqyinz/vim_9_0_released">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://wiki.alopex.li/QbeNotes">QBE Notes&lt;/a>
+(&lt;a href="https://lobste.rs/s/je3o8m/qbe_notes">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://elligator.org/">Elligator: Hiding cryptographic key exchange as random noise&lt;/a>
+(&lt;a href="https://lobste.rs/s/wj0g3o/elligator_hiding_cryptographic_key">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://prose.nsood.in/implementing-rss">Implementing RSS for my blog (yes, this one!)&lt;/a>
+(&lt;a href="https://lobste.rs/s/lrnqsv/implementing_rss_for_my_blog_yes_this_one">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://rhodesmill.org/brandon/2009/commands-with-comma/">Start all of your commands with a comma&lt;/a>
+(&lt;a href="https://lobste.rs/s/vgfqwt/start_all_your_commands_with_comma">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://deno.com/blog/fresh-is-stable">Fresh: a new full stack web framework for Deno&lt;/a>
+(&lt;a href="https://lobste.rs/s/i8itpn/fresh_new_full_stack_web_framework_for">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/fastify/fastify-dx">Fastify DX now supports Vue, React, Svelte and Solid&lt;/a>
+(&lt;a href="https://lobste.rs/s/8hgwef/fastify_dx_now_supports_vue_react_svelte">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://p1k3.com/2022/6/27/">Aphoristic noodling&lt;/a>
+(&lt;a href="https://lobste.rs/s/i3hdk5/aphoristic_noodling">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://facebookincubator.github.io/clangir/">Clang IR (CIR): a new IR for Clang&lt;/a>
+(&lt;a href="https://lobste.rs/s/sbiat6/clang_ir_cir_new_ir_for_clang">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-06-28</title><link>https://frozen-lobster.rohanverma.net/posts/2022-06-28/</link><pubDate>Tue, 28 Jun 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-06-28/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://rhodesmill.org/brandon/2009/commands-with-comma/">Start all of your commands with a comma&lt;/a>
 (&lt;a href="https://lobste.rs/s/vgfqwt/start_all_your_commands_with_comma">comments&lt;/a>)&lt;/p>
