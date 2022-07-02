@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-07-01</title><link>https://frozen-lobster.rohanverma.net/posts/2022-07-01/</link><pubDate>Fri, 01 Jul 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-07-01/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 02 Jul 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-07-02</title><link>https://frozen-lobster.rohanverma.net/posts/2022-07-02/</link><pubDate>Sat, 02 Jul 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-07-02/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.hillelwayne.com/post/learntla/">Announcing: Learn TLA+&lt;/a>
+(&lt;a href="https://lobste.rs/s/za68nh/announcing_learn_tla">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://icyphox.sh/blog/m575/">The Logitech Ergo M575 trackball&lt;/a>
+(&lt;a href="https://lobste.rs/s/sbh7ae/logitech_ergo_m575_trackball">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sfconservancy.org/GiveUpGitHub/">Give Up GitHub&lt;/a>
+(&lt;a href="https://lobste.rs/s/umicte/give_up_github">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://getpublii.com">Publii: An open source static site generator with a GUI&lt;/a>
+(&lt;a href="https://lobste.rs/s/ccvgfr/publii_open_source_static_site_generator">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://dotat.at/@/2022-07-01-dns-compress.html">A DNS name compression algorithm&lt;/a>
+(&lt;a href="https://lobste.rs/s/hbuwsq/dns_name_compression_algorithm">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pgjones.dev/blog/faster-routing-2022/">Faster routing for Flask &amp;amp; Quart&lt;/a>
+(&lt;a href="https://lobste.rs/s/avqs8p/faster_routing_for_flask_quart">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.rust-lang.org/2022/06/30/Rust-1.62.0.html">Announcing Rust 1.62.0&lt;/a>
+(&lt;a href="https://lobste.rs/s/4vosev/announcing_rust_1_62_0">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.reddit.com/r/ProgrammingLanguages/comments/vofiyv/thoughts_on_infectious_systems_asyncawait_and_pure/">Thoughts on infectious systems: async/await and pure&lt;/a>
+(&lt;a href="https://lobste.rs/s/jnm7jz/thoughts_on_infectious_systems_async">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this weekend?&lt;/a>
+(&lt;a href="https://lobste.rs/s/vplbmh/what_are_you_doing_this_weekend">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ai.facebook.com/blog/democratizing-access-to-large-scale-language-models-with-opt-175b/">Democratizing access to large-scale language models with OPT-175B&lt;/a>
+(&lt;a href="https://lobste.rs/s/zxjbri/democratizing_access_large_scale">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-07-01</title><link>https://frozen-lobster.rohanverma.net/posts/2022-07-01/</link><pubDate>Fri, 01 Jul 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-07-01/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="http://axisofeval.blogspot.com/2011/04/whats-condition-system-and-why-do-you.html">What&amp;rsquo;s a condition system and why do you want one?&lt;/a>
 (&lt;a href="https://lobste.rs/s/q8lz7a/what_s_condition_system_why_do_you_want_one">comments&lt;/a>)&lt;/p>
