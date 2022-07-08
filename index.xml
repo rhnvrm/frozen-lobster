@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 07 Jul 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-07-07</title><link>https://frozen-lobster.rohanverma.net/posts/2022-07-07/</link><pubDate>Thu, 07 Jul 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-07-07/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 08 Jul 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-07-08</title><link>https://frozen-lobster.rohanverma.net/posts/2022-07-08/</link><pubDate>Fri, 08 Jul 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-07-08/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/facundoolano/software-papers/">A curated list of papers for Software Engineers&lt;/a>
+(&lt;a href="https://lobste.rs/s/rssbig/curated_list_papers_for_software">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.reddit.com/r/MechanicalKeyboards/comments/vtlujd/i_built_a_keyboard_pcb_and_wrote_firmware_for_it/">I built a keyboard PCB and wrote firmware for it in Rust&lt;/a>
+(&lt;a href="https://lobste.rs/s/xo2zaq/i_built_keyboard_pcb_wrote_firmware_for_it">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://dev.to/yonkeltron/is-it-time-to-look-past-git-ah4">Is it time to look past Git?&lt;/a>
+(&lt;a href="https://lobste.rs/s/yi97jn/is_it_time_look_past_git">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.causal.app/blog/scaling">Scaling our Spreadsheet Engine from Thousands to Billions of Cells&lt;/a>
+(&lt;a href="https://lobste.rs/s/pcmrfr/scaling_our_spreadsheet_engine_from">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://spritely.institute/static/papers/scheme-primer.html">A Scheme Primer&lt;/a>
+(&lt;a href="https://lobste.rs/s/akvnzg/scheme_primer">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/nickbild/tflite_c64">TensorFlow Lite for Commodore 64&lt;/a>
+(&lt;a href="https://lobste.rs/s/7ukyhq/tensorflow_lite_for_commodore_64">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://garethheyes.co.uk">Pure CSS first person 3D website portfolio without any JavaScript&lt;/a>
+(&lt;a href="https://lobste.rs/s/myqupe/pure_css_first_person_3d_website">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sourcehut.org/blog/2022-07-06-sourcehut-and-irc/">SourceHut is committed to making IRC better&lt;/a>
+(&lt;a href="https://lobste.rs/s/oim6aa/sourcehut_is_committed_making_irc_better">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lists.apache.org/thread/tdf5n7j80lfxdhs2764vn0xmpfodm87s">Apache Commons Configuration insecure interpolation defaults (CVE-2022-33980)&lt;/a>
+(&lt;a href="https://lobste.rs/s/cnncou/apache_commons_configuration_insecure">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pocketbase.io/">PocketBase - Open Source backend in 1 file&lt;/a>
+(&lt;a href="https://lobste.rs/s/ivmzqb/pocketbase_open_source_backend_1_file">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-07-07</title><link>https://frozen-lobster.rohanverma.net/posts/2022-07-07/</link><pubDate>Thu, 07 Jul 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-07-07/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://dev.to/yonkeltron/is-it-time-to-look-past-git-ah4">Is it time to look past Git?&lt;/a>
 (&lt;a href="https://lobste.rs/s/yi97jn/is_it_time_look_past_git">comments&lt;/a>)&lt;/p>
