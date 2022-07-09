@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 08 Jul 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-07-08</title><link>https://frozen-lobster.rohanverma.net/posts/2022-07-08/</link><pubDate>Fri, 08 Jul 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-07-08/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 09 Jul 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-07-09</title><link>https://frozen-lobster.rohanverma.net/posts/2022-07-09/</link><pubDate>Sat, 09 Jul 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-07-09/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://mjg59.dreamwidth.org/59931.html">Lenovo shipping new laptops that only boot Windows by default&lt;/a>
+(&lt;a href="https://lobste.rs/s/6ievva/lenovo_shipping_new_laptops_only_boot">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.carlmjohnson.net/post/2022/golang-119-new-features/">What’s new in Go 1.19?&lt;/a>
+(&lt;a href="https://lobste.rs/s/hlrgc0/what_s_new_go_1_19">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://v5.chriskrycho.com/journal/pleasing-symmetry-in-rust/">A Pleasing Symmetry in Rust : how enums and structs mirror each other&lt;/a>
+(&lt;a href="https://lobste.rs/s/910rhi/pleasing_symmetry_rust_how_enums_structs">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cs.uwaterloo.ca/~plragde/flane/LACI/">Logic and Computation Intertwined&lt;/a>
+(&lt;a href="https://lobste.rs/s/17utvz/logic_computation_intertwined">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://citizen428.net/blog/self-hosting-static-site-openbsd-httpd-relayd/">Self-hosting a static site with OpenBSD, httpd, and relayd&lt;/a>
+(&lt;a href="https://lobste.rs/s/96vrr5/self_hosting_static_site_with_openbsd">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sfconservancy.org/blog/2022/jul/07/microsoft-bans-commerical-open-source-in-app-store/">Microsoft To Ban Commercial Open Source from App Store&lt;/a>
+(&lt;a href="https://lobste.rs/s/d71m5m/microsoft_ban_commercial_open_source">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://linus.dev/posts/trying-real-websites-in-the-serenityos-browser/">Trying Real™ Websites in the SerenityOS Browser&lt;/a>
+(&lt;a href="https://lobste.rs/s/2to1jo/trying_real_websites_serenityos_browser">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this weekend?&lt;/a>
+(&lt;a href="https://lobste.rs/s/1thc0y/what_are_you_doing_this_weekend">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/facundoolano/software-papers/">A curated list of papers for Software Engineers&lt;/a>
+(&lt;a href="https://lobste.rs/s/rssbig/curated_list_papers_for_software">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://vmssoftware.com/about/news/2022-07-08-state-of-the-92-release-ready/">Release of OpenVMS V9.2 for x86 Scheduled for July 14, 2022&lt;/a>
+(&lt;a href="https://lobste.rs/s/pwgwyz/release_openvms_v9_2_for_x86_scheduled_for">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-07-08</title><link>https://frozen-lobster.rohanverma.net/posts/2022-07-08/</link><pubDate>Fri, 08 Jul 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-07-08/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://github.com/facundoolano/software-papers/">A curated list of papers for Software Engineers&lt;/a>
 (&lt;a href="https://lobste.rs/s/rssbig/curated_list_papers_for_software">comments&lt;/a>)&lt;/p>
