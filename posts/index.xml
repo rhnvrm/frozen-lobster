@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 09 Jul 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-07-09</title><link>https://frozen-lobster.rohanverma.net/posts/2022-07-09/</link><pubDate>Sat, 09 Jul 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-07-09/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 10 Jul 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-07-10</title><link>https://frozen-lobster.rohanverma.net/posts/2022-07-10/</link><pubDate>Sun, 10 Jul 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-07-10/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://simonwillison.net/2022/Jul/9/gpt-3-explain-code/">Using GPT-3 to explain how code works&lt;/a>
+(&lt;a href="https://lobste.rs/s/znogyz/using_gpt_3_explain_how_code_works">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://xeiaso.net/blog/spearphishing">Spearphishing: it can happen to you too&lt;/a>
+(&lt;a href="https://lobste.rs/s/bqahhy/spearphishing_it_can_happen_you_too">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://rubyreferences.github.io/rubychanges/evolution.html">Ruby Evolution: a brief list of new significant features 2.0-3.1&lt;/a>
+(&lt;a href="https://lobste.rs/s/hu04e8/ruby_evolution_brief_list_new">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://idiomdrottning.org/a-simple-mess">A simple mess&lt;/a>
+(&lt;a href="https://lobste.rs/s/vrtitv/simple_mess">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://rr-project.org/">rr: lightweight recording &amp;amp; deterministic debugging&lt;/a>
+(&lt;a href="https://lobste.rs/s/rbptw2/rr_lightweight_recording_deterministic">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ayende.com/blog/posts/series/195587-B/implementing-a-file-pager-in-zig">Implementing a File Pager In Zig&lt;/a>
+(&lt;a href="https://lobste.rs/s/uottio/implementing_file_pager_zig">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.carlmjohnson.net/post/2022/golang-119-new-features/">What’s new in Go 1.19?&lt;/a>
+(&lt;a href="https://lobste.rs/s/hlrgc0/what_s_new_go_1_19">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jvns.ca/blog/2022/07/09/monitoring-small-web-services/">Monitoring tiny web services&lt;/a>
+(&lt;a href="https://lobste.rs/s/vdbrqy/monitoring_tiny_web_services">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ravendb.net/articles/re-are-you-sure-you-want-to-use-mmap-in-your-database-management-system">re: Are You Sure You Want to Use MMAP in Your Database Management System?&lt;/a>
+(&lt;a href="https://lobste.rs/s/ltrw2p/re_are_you_sure_you_want_use_mmap_your">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://mjg59.dreamwidth.org/59931.html">Lenovo shipping new laptops that only boot Windows by default&lt;/a>
+(&lt;a href="https://lobste.rs/s/6ievva/lenovo_shipping_new_laptops_only_boot">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-07-09</title><link>https://frozen-lobster.rohanverma.net/posts/2022-07-09/</link><pubDate>Sat, 09 Jul 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-07-09/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://mjg59.dreamwidth.org/59931.html">Lenovo shipping new laptops that only boot Windows by default&lt;/a>
 (&lt;a href="https://lobste.rs/s/6ievva/lenovo_shipping_new_laptops_only_boot">comments&lt;/a>)&lt;/p>
