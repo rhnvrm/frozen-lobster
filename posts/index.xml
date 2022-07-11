@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 10 Jul 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-07-10</title><link>https://frozen-lobster.rohanverma.net/posts/2022-07-10/</link><pubDate>Sun, 10 Jul 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-07-10/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 11 Jul 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-07-11</title><link>https://frozen-lobster.rohanverma.net/posts/2022-07-11/</link><pubDate>Mon, 11 Jul 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-07-11/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://matklad.github.io//2022/07/10/almost-rules.html">Almost Rules&lt;/a>
+(&lt;a href="https://lobste.rs/s/ckntjg/almost_rules">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://plzoo.andrej.com/index.html">The Programming Languages Zoo&lt;/a>
+(&lt;a href="https://lobste.rs/s/jqngt3/programming_languages_zoo">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://reader.tymoon.eu/article/413">An Overview of Kandria&amp;rsquo;s Development with Lisp&lt;/a>
+(&lt;a href="https://lobste.rs/s/g0ptde/overview_kandria_s_development_with_lisp">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://xeiaso.net/blog/spearphishing">Spearphishing: it can happen to you too&lt;/a>
+(&lt;a href="https://lobste.rs/s/bqahhy/spearphishing_it_can_happen_you_too">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://simonwillison.net/2022/Jul/9/gpt-3-explain-code/">Using GPT-3 to explain how code works&lt;/a>
+(&lt;a href="https://lobste.rs/s/znogyz/using_gpt_3_explain_how_code_works">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://podbay.fm/p/oxide-and-friends">Oxide and Friends Podcast&lt;/a>
+(&lt;a href="https://lobste.rs/s/le3w0u/oxide_friends_podcast">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://maskray.me/blog/2022-07-10-riscv-linker-relaxation-in-lld">RISC-V linker relaxation in lld&lt;/a>
+(&lt;a href="https://lobste.rs/s/lf6mhj/risc_v_linker_relaxation_lld">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://crystal-lang.org/2022/07/06/1.5.0-released.html">Crystal 1.5.0 is released&lt;/a>
+(&lt;a href="https://lobste.rs/s/ok9bqh/crystal_1_5_0_is_released">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://brandur.org/fragments/code-database-vs-app">Code in database vs. code in application&lt;/a>
+(&lt;a href="https://lobste.rs/s/mr71g6/code_database_vs_code_application">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.sheshbabu.com/posts/rust-error-handling/">Beginner&amp;rsquo;s guide to Error Handling in Rust&lt;/a>
+(&lt;a href="https://lobste.rs/s/x9yqes/beginner_s_guide_error_handling_rust">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-07-10</title><link>https://frozen-lobster.rohanverma.net/posts/2022-07-10/</link><pubDate>Sun, 10 Jul 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-07-10/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://simonwillison.net/2022/Jul/9/gpt-3-explain-code/">Using GPT-3 to explain how code works&lt;/a>
 (&lt;a href="https://lobste.rs/s/znogyz/using_gpt_3_explain_how_code_works">comments&lt;/a>)&lt;/p>
