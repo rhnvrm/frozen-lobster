@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 11 Jul 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-07-11</title><link>https://frozen-lobster.rohanverma.net/posts/2022-07-11/</link><pubDate>Mon, 11 Jul 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-07-11/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 12 Jul 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-07-12</title><link>https://frozen-lobster.rohanverma.net/posts/2022-07-12/</link><pubDate>Tue, 12 Jul 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-07-12/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://ferd.ca/my-favorite-erlang-container.html">My favorite Erlang Container&lt;/a>
+(&lt;a href="https://lobste.rs/s/gqnzcb/my_favorite_erlang_container">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What you should ask a potential employer&lt;/a>
+(&lt;a href="https://lobste.rs/s/jyl8yr/what_you_should_ask_potential_employer">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ianthehenry.com/posts/delaunay/">Visualizing Delaunay Triangulation&lt;/a>
+(&lt;a href="https://lobste.rs/s/cqwfuy/visualizing_delaunay_triangulation">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.b-list.org/weblog/2022/jul/11/pypi/">Yes, I have opinions on your open source contributions&lt;/a>
+(&lt;a href="https://lobste.rs/s/yi0xed/yes_i_have_opinions_on_your_open_source">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gcc.gnu.org/pipermail/gcc/2022-July/239057.html">GCC Rust approved by GCC Steering Committee&lt;/a>
+(&lt;a href="https://lobste.rs/s/odvpbd/gcc_rust_approved_by_gcc_steering">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://notes.eatonphil.com/implementing-a-jq-clone-in-go.html">Implementing a simple jq clone in Go, and basics of Go memory profiling&lt;/a>
+(&lt;a href="https://lobste.rs/s/yzsu5z/implementing_simple_jq_clone_go_basics_go">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://matklad.github.io//2022/07/10/almost-rules.html">Almost Rules&lt;/a>
+(&lt;a href="https://lobste.rs/s/ckntjg/almost_rules">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://utcc.utoronto.ca/~cks/space/blog/tech/MFAAccountRecoveryDistrust">My distrust of multi-factor authentication&amp;rsquo;s account recovery story&lt;/a>
+(&lt;a href="https://lobste.rs/s/welrdn/my_distrust_multi_factor_authentication">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this week?&lt;/a>
+(&lt;a href="https://lobste.rs/s/ioi72w/what_are_you_doing_this_week">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://liliputing.com/2022/07/up-4000-is-a-raspberry-pi-clone-with-an-x86-processor.html">UP 4000 is a Raspberry Pi Clone with an x86 processor&lt;/a>
+(&lt;a href="https://lobste.rs/s/nwf5n9/up_4000_is_raspberry_pi_clone_with_x86">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-07-11</title><link>https://frozen-lobster.rohanverma.net/posts/2022-07-11/</link><pubDate>Mon, 11 Jul 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-07-11/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://matklad.github.io//2022/07/10/almost-rules.html">Almost Rules&lt;/a>
 (&lt;a href="https://lobste.rs/s/ckntjg/almost_rules">comments&lt;/a>)&lt;/p>
