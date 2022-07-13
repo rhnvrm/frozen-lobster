@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 12 Jul 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-07-12</title><link>https://frozen-lobster.rohanverma.net/posts/2022-07-12/</link><pubDate>Tue, 12 Jul 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-07-12/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 13 Jul 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-07-13</title><link>https://frozen-lobster.rohanverma.net/posts/2022-07-13/</link><pubDate>Wed, 13 Jul 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-07-13/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://citizen428.net/blog/fizzbuzz-in-gnu-make/">FizzBuzz in GNU make&lt;/a>
+(&lt;a href="https://lobste.rs/s/axgnnm/fizzbuzz_gnu_make">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gcc.gnu.org/pipermail/gcc/2022-July/239057.html">GCC Rust approved by GCC Steering Committee&lt;/a>
+(&lt;a href="https://lobste.rs/s/odvpbd/gcc_rust_approved_by_gcc_steering">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.rustprooflabs.com/2022/07/postgres-15-unique-improvement-with-null">Postgres 15 improves UNIQUE and NULL&lt;/a>
+(&lt;a href="https://lobste.rs/s/omusc5/postgres_15_improves_unique_null">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://comsec.ethz.ch/research/microarch/retbleed/">Retbleed: Arbitrary Speculative Code Execution with Return Instructions&lt;/a>
+(&lt;a href="https://lobste.rs/s/rbmacc/retbleed_arbitrary_speculative_code">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sluongng.hashnode.dev/bazel-caching-explained-pt-1-how-bazel-works">How Bazel Works&lt;/a>
+(&lt;a href="https://lobste.rs/s/fqbr7t/how_bazel_works">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pycoders.com/link/9122/upi6aiyjmq">Status of Python 3.11 release&lt;/a>
+(&lt;a href="https://lobste.rs/s/dm4i7i/status_python_3_11_release">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.danlew.net/2022/06/22/maintaining-software-correctness/">Maintaining Software Correctness&lt;/a>
+(&lt;a href="https://lobste.rs/s/kjqmnj/maintaining_software_correctness">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ferd.ca/my-favorite-erlang-container.html">My favorite Erlang Container&lt;/a>
+(&lt;a href="https://lobste.rs/s/gqnzcb/my_favorite_erlang_container">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://vermaden.wordpress.com/2022/07/12/desktop-environments-resource-usage-comparison/">Desktop Environments Resource Usage Comparison&lt;/a>
+(&lt;a href="https://lobste.rs/s/anusje/desktop_environments_resource_usage">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://mirage.io/blog/2022-04-06.vpnkit">How MirageOS Powers Docker Desktop&lt;/a>
+(&lt;a href="https://lobste.rs/s/zb7tgs/how_mirageos_powers_docker_desktop">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-07-12</title><link>https://frozen-lobster.rohanverma.net/posts/2022-07-12/</link><pubDate>Tue, 12 Jul 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-07-12/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://ferd.ca/my-favorite-erlang-container.html">My favorite Erlang Container&lt;/a>
 (&lt;a href="https://lobste.rs/s/gqnzcb/my_favorite_erlang_container">comments&lt;/a>)&lt;/p>
