@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 14 Jul 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-07-14</title><link>https://frozen-lobster.rohanverma.net/posts/2022-07-14/</link><pubDate>Thu, 14 Jul 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-07-14/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 15 Jul 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-07-15</title><link>https://frozen-lobster.rohanverma.net/posts/2022-07-15/</link><pubDate>Fri, 15 Jul 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-07-15/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://justine.lol/pledge/">Porting OpenBSD pledge() to Linux&lt;/a>
+(&lt;a href="https://lobste.rs/s/rnjdx8/porting_openbsd_pledge_linux">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://earthly.dev/blog/programming-language-improvements/">The Slow March of Progress in Programming Language Tooling&lt;/a>
+(&lt;a href="https://lobste.rs/s/qlb7iy/slow_march_progress_programming">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://shkspr.mobi/blog/2022/07/dns-esoterica-why-you-cant-dig-switzerland/">DNS Esoterica - Why you can&amp;rsquo;t dig Switzerland&lt;/a>
+(&lt;a href="https://lobste.rs/s/tu6t3m/dns_esoterica_why_you_can_t_dig">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/rust-lang/rust/issues/84056#issuecomment-1184725924">Chinese numerals and char::is_numeric&lt;/a>
+(&lt;a href="https://lobste.rs/s/sejbag/chinese_numerals_char_is_numeric">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/readme/featured/functional-programming">Functional programming is finally going mainstream&lt;/a>
+(&lt;a href="https://lobste.rs/s/c7rvyk/functional_programming_is_finally_going">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://computeradsfromthepast.substack.com/p/quark-work-juggler">Quark Word Juggler&lt;/a>
+(&lt;a href="https://lobste.rs/s/eld4sn/quark_word_juggler">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.tweag.io/blog/2022-07-14-taming-unix-with-nix/">Nix – taming Unix with functional programming&lt;/a>
+(&lt;a href="https://lobste.rs/s/ynthiw/nix_taming_unix_with_functional">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://concerningquality.com/verification-gap/">The Verification Gap: A Major Hurdle for the Industry Adoption of Formal Methods&lt;/a>
+(&lt;a href="https://lobste.rs/s/wwkdz2/verification_gap_major_hurdle_for">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/LyonSyonII/hunt-rs">hunt-rs: Simplified Find command made with Rust&lt;/a>
+(&lt;a href="https://lobste.rs/s/aejrco/hunt_rs_simplified_find_command_made_with">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://chromeenterprise.google/os/chromeosflex/">ChromeOS Flex released&lt;/a>
+(&lt;a href="https://lobste.rs/s/nshw4u/chromeos_flex_released">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-07-14</title><link>https://frozen-lobster.rohanverma.net/posts/2022-07-14/</link><pubDate>Thu, 14 Jul 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-07-14/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://buttondown.email/hillelwayne/archive/six-programming-languages-id-like-to-see/">Six Programming Languages I&amp;rsquo;d Like to See&lt;/a>
 (&lt;a href="https://lobste.rs/s/gao7dp/six_programming_languages_i_d_like_see">comments&lt;/a>)&lt;/p>
