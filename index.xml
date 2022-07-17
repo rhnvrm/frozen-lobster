@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 16 Jul 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-07-16</title><link>https://frozen-lobster.rohanverma.net/posts/2022-07-16/</link><pubDate>Sat, 16 Jul 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-07-16/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 17 Jul 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-07-17</title><link>https://frozen-lobster.rohanverma.net/posts/2022-07-17/</link><pubDate>Sun, 17 Jul 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-07-17/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://xenodium.com/a-lifehack-for-your-shell/">A lifehack for your shell&lt;/a>
+(&lt;a href="https://lobste.rs/s/qaimmg/lifehack_for_your_shell">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://oldvcr.blogspot.com/2022/07/crypto-ancienne-20-now-brings-tls-13-to.html">Crypto Ancienne 2.0 now brings TLS 1.3 to the Internet of Old Things (except BeOS)&lt;/a>
+(&lt;a href="https://lobste.rs/s/1ziptg/crypto_ancienne_2_0_now_brings_tls_1_3">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://darktheme.club/">The Darktheme Club&lt;/a>
+(&lt;a href="https://lobste.rs/s/2zybze/darktheme_club">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cohost.org/blackle/post/42994-contraption">An interactive mechanical contraption in pure CSS&lt;/a>
+(&lt;a href="https://lobste.rs/s/oe3dbu/interactive_mechanical_contraption">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://syndicate-lang.org/journal/2022/06/03/phone-progress">State of the SqueakPhone&lt;/a>
+(&lt;a href="https://lobste.rs/s/1tpf8t/state_squeakphone">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://raphlinus.github.io/rust/gui/2022/07/15/next-dozen-guis.html">Advice for the next dozen Rust GUIs&lt;/a>
+(&lt;a href="https://lobste.rs/s/kklwv0/advice_for_next_dozen_rust_guis">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://simpleml.com/">SML - The Simple Markup Language&lt;/a>
+(&lt;a href="https://lobste.rs/s/ehsgam/sml_simple_markup_language">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/crev-dev/cargo-crev">cryptographically verifiable code review system for cargo&lt;/a>
+(&lt;a href="https://lobste.rs/s/aohvmw/cryptographically_verifiable_code">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/mortie/jcof">I made JCOF, an object notation which encodes data more efficiently than JSON&lt;/a>
+(&lt;a href="https://lobste.rs/s/5edgkf/i_made_jcof_object_notation_which_encodes">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/jeena/TextEd.app">TextEd: an ultra-lightweight plain-text editor for macOS in under 255kB&lt;/a>
+(&lt;a href="https://lobste.rs/s/qcpofb/texted_ultra_lightweight_plain_text">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-07-16</title><link>https://frozen-lobster.rohanverma.net/posts/2022-07-16/</link><pubDate>Sat, 16 Jul 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-07-16/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://searchhut.org">SearchHut is a curated free software search engine&lt;/a>
 (&lt;a href="https://lobste.rs/s/tpchpw/searchhut_is_curated_free_software">comments&lt;/a>)&lt;/p>
