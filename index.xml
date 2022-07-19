@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 18 Jul 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-07-18</title><link>https://frozen-lobster.rohanverma.net/posts/2022-07-18/</link><pubDate>Mon, 18 Jul 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-07-18/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 19 Jul 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-07-19</title><link>https://frozen-lobster.rohanverma.net/posts/2022-07-19/</link><pubDate>Tue, 19 Jul 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-07-19/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://asahilinux.org/2022/07/july-2022-release/">M2 is here! July 2022 Release &amp;amp; Progress Report&lt;/a>
+(&lt;a href="https://lobste.rs/s/gkpioh/m2_is_here_july_2022_release_progress">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://emacsconf.org/2022/cfp/">EmacsConf 2022 Call for Participation&lt;/a>
+(&lt;a href="https://lobste.rs/s/nsjffd/emacsconf_2022_call_for_participation">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this week?&lt;/a>
+(&lt;a href="https://lobste.rs/s/5zrzdb/what_are_you_doing_this_week">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://buttondown.email/j2kun/archive/monorepos-and-forced-migrations/">Monorepos and Forced Migrations&lt;/a>
+(&lt;a href="https://lobste.rs/s/hco9x2/monorepos_forced_migrations">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://benjamincongdon.me/blog/2022/07/17/In-Praise-of-Stacked-PRs/">In Praise of Stacked PRs&lt;/a>
+(&lt;a href="https://lobste.rs/s/4zjln3/praise_stacked_prs">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.storj.io/blog/lensm">Lensm, A Tool for Viewing Disassembly&lt;/a>
+(&lt;a href="https://lobste.rs/s/r2yeql/lensm_tool_for_viewing_disassembly">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://rethink.synadia.com/episodes/3/">Screencast: Interactive, persistent whiteboards using JavaScript and NATS&lt;/a>
+(&lt;a href="https://lobste.rs/s/yzqkrc/screencast_interactive_persistent">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sluongng.hashnode.dev/bazel-caching-explained-pt-2-bazel-in-memory-cache">Bazel In-Memory Cache&lt;/a>
+(&lt;a href="https://lobste.rs/s/v3yhxw/bazel_memory_cache">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.techradar.com/in/features/ive-started-using-mozilla-firefox-and-now-i-can-never-go-back-to-google-chrome">I&amp;rsquo;ve started using Mozilla Firefox and now I can never go back to Google Chrome&lt;/a>
+(&lt;a href="https://lobste.rs/s/ue2ayh/i_ve_started_using_mozilla_firefox_now_i">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://derw.substack.com/p/designing-an-ml-family-language-on">Designing an ML-family language on top of TypeScript: import and export syntax&lt;/a>
+(&lt;a href="https://lobste.rs/s/nrsudf/designing_ml_family_language_on_top">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-07-18</title><link>https://frozen-lobster.rohanverma.net/posts/2022-07-18/</link><pubDate>Mon, 18 Jul 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-07-18/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://www.techradar.com/in/features/ive-started-using-mozilla-firefox-and-now-i-can-never-go-back-to-google-chrome">I&amp;rsquo;ve started using Mozilla Firefox and now I can never go back to Google Chrome&lt;/a>
 (&lt;a href="https://lobste.rs/s/ue2ayh/i_ve_started_using_mozilla_firefox_now_i">comments&lt;/a>)&lt;/p>
