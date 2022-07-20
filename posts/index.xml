@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 19 Jul 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-07-19</title><link>https://frozen-lobster.rohanverma.net/posts/2022-07-19/</link><pubDate>Tue, 19 Jul 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-07-19/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 20 Jul 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-07-20</title><link>https://frozen-lobster.rohanverma.net/posts/2022-07-20/</link><pubDate>Wed, 20 Jul 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-07-20/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.ghacks.net/2022/07/17/facebook-has-started-to-encrypt-links-to-counter-privacy-improving-url-stripping/">Facebook has started to encrypt links to counter privacy-improving URL stripping&lt;/a>
+(&lt;a href="https://lobste.rs/s/oams64/facebook_has_started_encrypt_links">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://recursion.wtf/posts/rust_schemes/">Elegant and performant recursion in Rust&lt;/a>
+(&lt;a href="https://lobste.rs/s/xfmbxf/elegant_performant_recursion_rust">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/chip-red-pill/MicrocodeDecryptor">Intel Microcode Decryptor&lt;/a>
+(&lt;a href="https://lobste.rs/s/cm0oal/intel_microcode_decryptor">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/carbon-language/carbon-lang">Carbon language specification and documentation&lt;/a>
+(&lt;a href="https://lobste.rs/s/tftkjv/carbon_language_specification">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://brandur.org/soft-deletion">Soft Deletion Probably Isn&amp;rsquo;t Worth It&lt;/a>
+(&lt;a href="https://lobste.rs/s/xryce5/soft_deletion_probably_isn_t_worth_it">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/">How Did REST Come To Mean The Opposite of REST?&lt;/a>
+(&lt;a href="https://lobste.rs/s/qyqwuh/how_did_rest_come_mean_opposite_rest">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/ar-nelson/spartan-schema">Spartan Schema: Ultra-minimal JSON schemas with Typescript inference&lt;/a>
+(&lt;a href="https://lobste.rs/s/axy0d7/spartan_schema_ultra_minimal_json">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.chiselstrike.com/offline-data-access-a-dream-come-true-64362de1a981">Offline data access: a dream come true?&lt;/a>
+(&lt;a href="https://lobste.rs/s/u69kfd/offline_data_access_dream_come_true">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://basalgangster.macgui.com/RetroMacComputing/The_Long_View/Entries/2013/2/17_Macintosh_Common_Lisp.html">Macintosh Common Lisp&lt;/a>
+(&lt;a href="https://lobste.rs/s/dqhfvy/macintosh_common_lisp">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/jgm/djot">djot: A light markup language&lt;/a>
+(&lt;a href="https://lobste.rs/s/uhkasn/djot_light_markup_language">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-07-19</title><link>https://frozen-lobster.rohanverma.net/posts/2022-07-19/</link><pubDate>Tue, 19 Jul 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-07-19/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://asahilinux.org/2022/07/july-2022-release/">M2 is here! July 2022 Release &amp;amp; Progress Report&lt;/a>
 (&lt;a href="https://lobste.rs/s/gkpioh/m2_is_here_july_2022_release_progress">comments&lt;/a>)&lt;/p>
