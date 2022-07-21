@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 20 Jul 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-07-20</title><link>https://frozen-lobster.rohanverma.net/posts/2022-07-20/</link><pubDate>Wed, 20 Jul 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-07-20/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 21 Jul 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-07-21</title><link>https://frozen-lobster.rohanverma.net/posts/2022-07-21/</link><pubDate>Thu, 21 Jul 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-07-21/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://wrongthink.neocities.org/posts/thoughts-after-years-raptor-blackbird/">Thoughts After Three Years With a Raptor Blackbird&lt;/a>
+(&lt;a href="https://lobste.rs/s/xdufi2/thoughts_after_three_years_with_raptor">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/pfusik/cito/blob/master/ci.md">The Ć Programming Language&lt;/a>
+(&lt;a href="https://lobste.rs/s/zp48q6/c_programming_language">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://brandur.org/soft-deletion">Soft Deletion Probably Isn&amp;rsquo;t Worth It&lt;/a>
+(&lt;a href="https://lobste.rs/s/xryce5/soft_deletion_probably_isn_t_worth_it">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://diziet.dreamwidth.org/11840.html">chiark’s skip-skip-cross-up-grade&lt;/a>
+(&lt;a href="https://lobste.rs/s/blhj1m/chiark_s_skip_skip_cross_up_grade">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.jeffgeerling.com/blog/2022/building-fast-all-ssd-nas-on-budget">Building a fast all-SSD NAS (on a budget)&lt;/a>
+(&lt;a href="https://lobste.rs/s/cxqrq9/building_fast_all_ssd_nas_on_budget">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://towardsdatascience.com/you-should-use-this-to-visualize-sql-joins-instead-of-venn-diagrams-ede15f9583fc">Use Checkerboard Diagrams to Visualize Joins Instead of Venn Diagrams&lt;/a>
+(&lt;a href="https://lobste.rs/s/nxwk9h/use_checkerboard_diagrams_visualize">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/no-gravity/git-gc-all-repos.sh">git-gc-all-repos: Script to trigger git garbage collection in all repos&lt;/a>
+(&lt;a href="https://lobste.rs/s/nyhplw/git_gc_all_repos_script_trigger_git">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://recursion.wtf/posts/rust_schemes/">Elegant and performant recursion in Rust&lt;/a>
+(&lt;a href="https://lobste.rs/s/xfmbxf/elegant_performant_recursion_rust">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://hanamirb.org/blog/2022/07/20/announcing-hanami-200beta1/">Hanami v2.0.0.beta1&lt;/a>
+(&lt;a href="https://lobste.rs/s/pitfui/hanami_v2_0_0_beta1">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://brandur.org/small-sharp-tools">Small, Sharp Tools&lt;/a>
+(&lt;a href="https://lobste.rs/s/hxemta/small_sharp_tools">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-07-20</title><link>https://frozen-lobster.rohanverma.net/posts/2022-07-20/</link><pubDate>Wed, 20 Jul 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-07-20/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://www.ghacks.net/2022/07/17/facebook-has-started-to-encrypt-links-to-counter-privacy-improving-url-stripping/">Facebook has started to encrypt links to counter privacy-improving URL stripping&lt;/a>
 (&lt;a href="https://lobste.rs/s/oams64/facebook_has_started_encrypt_links">comments&lt;/a>)&lt;/p>
