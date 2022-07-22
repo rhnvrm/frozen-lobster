@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 21 Jul 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-07-21</title><link>https://frozen-lobster.rohanverma.net/posts/2022-07-21/</link><pubDate>Thu, 21 Jul 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-07-21/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 22 Jul 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-07-22</title><link>https://frozen-lobster.rohanverma.net/posts/2022-07-22/</link><pubDate>Fri, 22 Jul 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-07-22/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://uxdesign.cc/wheres-the-fun-in-accessibility-b78c6b9d280d">Where&amp;rsquo;s the fun in accessibility?&lt;/a>
+(&lt;a href="https://lobste.rs/s/v6tuv7/where_s_fun_accessibility">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://htmx.org/essays/spa-alternative/">An SPA alternative&lt;/a>
+(&lt;a href="https://lobste.rs/s/bjs8hy/spa_alternative">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/juanfont/headscale">headscale: Open source, self-hosted implementation of the Tailscale control server&lt;/a>
+(&lt;a href="https://lobste.rs/s/f0wzzx/headscale_open_source_self_hosted">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://racket.discourse.group/t/summer-lang-party/1128">Summer #lang Party&lt;/a>
+(&lt;a href="https://lobste.rs/s/af64ap/summer_lang_party">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://toastycode.com/besavers/buynow.html">Buy Now: the screensaver (2007)&lt;/a>
+(&lt;a href="https://lobste.rs/s/flgwmz/buy_now_screensaver_2007">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://dev.to/flare/typing-your-way-into-safety-4lek">Typing your way into safety&lt;/a>
+(&lt;a href="https://lobste.rs/s/7ihdf7/typing_your_way_into_safety">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://codersblock.com/blog/star-wars-scene-transition-effects-in-css/">Star Wars Scene Transition Effects in CSS&lt;/a>
+(&lt;a href="https://lobste.rs/s/xnmiav/star_wars_scene_transition_effects_css">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jvns.ca/blog/2022/07/20/pseudoterminals/">What happens when you press a key in your terminal?&lt;/a>
+(&lt;a href="https://lobste.rs/s/3zm22j/what_happens_when_you_press_key_your">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pagefind.app/">Static low-bandwidth search at scale&lt;/a>
+(&lt;a href="https://lobste.rs/s/pvkg80/static_low_bandwidth_search_at_scale">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pythonspeed.com/articles/celery-performance/">Finding performance bottlenecks in Celery tasks&lt;/a>
+(&lt;a href="https://lobste.rs/s/wu94wy/finding_performance_bottlenecks_celery">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-07-21</title><link>https://frozen-lobster.rohanverma.net/posts/2022-07-21/</link><pubDate>Thu, 21 Jul 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-07-21/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://wrongthink.neocities.org/posts/thoughts-after-years-raptor-blackbird/">Thoughts After Three Years With a Raptor Blackbird&lt;/a>
 (&lt;a href="https://lobste.rs/s/xdufi2/thoughts_after_three_years_with_raptor">comments&lt;/a>)&lt;/p>
