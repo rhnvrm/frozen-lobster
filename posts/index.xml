@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 25 Jul 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-07-25</title><link>https://frozen-lobster.rohanverma.net/posts/2022-07-25/</link><pubDate>Mon, 25 Jul 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-07-25/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 26 Jul 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-07-26</title><link>https://frozen-lobster.rohanverma.net/posts/2022-07-26/</link><pubDate>Tue, 26 Jul 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-07-26/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.linkedin.com/posts/onewilshire_so-ive-patched-kde-plasmawayland-under-activity-6951241424117899265-LIMU">So I&amp;rsquo;ve patched KDE Plasma/Wayland under CheriBSD for pure-capability mode. It works&lt;/a>
+(&lt;a href="https://lobste.rs/s/qqlz5l/so_i_ve_patched_kde_plasma_wayland_under">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://engineering.fb.com/2022/07/25/production-engineering/its-time-to-leave-the-leap-second-in-the-past/">It’s time to leave the leap second in the past&lt;/a>
+(&lt;a href="https://lobste.rs/s/fouuou/it_s_time_leave_leap_second_past">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.yossarian.net/2022/07/25/age-encryption-in-python-with-pyrage">age encryption in Python with pyrage&lt;/a>
+(&lt;a href="https://lobste.rs/s/yq11vl/age_encryption_python_with_pyrage">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tratt.net/laurie/blog/2022/whats_the_most_portable_way_to_include_binary_blobs_in_an_executable.html">What&amp;rsquo;s the Most Portable Way to Include Binary Blobs in an Executable?&lt;/a>
+(&lt;a href="https://lobste.rs/s/xhwvur/what_s_most_portable_way_include_binary">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://macoy.me/blog/programming/Sockets">What they don&amp;rsquo;t teach you about sockets&lt;/a>
+(&lt;a href="https://lobste.rs/s/zqm7f1/what_they_don_t_teach_you_about_sockets">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lucasfcosta.com/2022/07/19/finish-what-you-start.html">How finishing what you start makes teams more productive and predictable&lt;/a>
+(&lt;a href="https://lobste.rs/s/5mawh5/how_finishing_what_you_start_makes_teams">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/videogame-hacker/nautilus-png-convert">nautilus-png-convert: An extension for Nautilus to right-click convert images to PNG&lt;/a>
+(&lt;a href="https://lobste.rs/s/jnejk1/nautilus_png_convert_extension_for">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pythonspeed.com/articles/vectorization-python-alternatives/">The limits of Python vectorization as a performance technique&lt;/a>
+(&lt;a href="https://lobste.rs/s/amrraw/limits_python_vectorization_as">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lwn.net/Articles/902410/">Fedora to disallow CC0-licensed code&lt;/a>
+(&lt;a href="https://lobste.rs/s/tyz9lt/fedora_disallow_cc0_licensed_code">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://whileydave.com/2022/06/28/formalising-a-simple-virtual-machine/">Formalising a Simple Virtual Machine&lt;/a>
+(&lt;a href="https://lobste.rs/s/rzhhcz/formalising_simple_virtual_machine">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-07-25</title><link>https://frozen-lobster.rohanverma.net/posts/2022-07-25/</link><pubDate>Mon, 25 Jul 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-07-25/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://medium.com/@ishtiaque/no-code-isnt-scalable-our-learnings-at-finn-going-from-1000-toward-100-000-car-subscriptions-ac98e752fc61">No-code isn’t scalable. Our learnings at FINN going from 1000 toward 100,000 car subscriptions&lt;/a>
 (&lt;a href="https://lobste.rs/s/c9cqee/no_code_isn_t_scalable_our_learnings_at">comments&lt;/a>)&lt;/p>
