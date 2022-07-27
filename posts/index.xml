@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 26 Jul 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-07-26</title><link>https://frozen-lobster.rohanverma.net/posts/2022-07-26/</link><pubDate>Tue, 26 Jul 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-07-26/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 27 Jul 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-07-27</title><link>https://frozen-lobster.rohanverma.net/posts/2022-07-27/</link><pubDate>Wed, 27 Jul 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-07-27/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://docs.google.com/presentation/d/1MosK6LTy_Rr32eF6HKej6UEtf9vBzdbeSF6YPb1_e4A/present">µON: Compact and simple binary encoding, on par (or outperforms) CBOR, MsgPack and UBJSON&lt;/a>
+(&lt;a href="https://lobste.rs/s/a7ougq/on_compact_simple_binary_encoding_on_par">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sethmlarson.dev/blog/help-test-system-trust-stores-in-python">Help us test system trust stores in Python&lt;/a>
+(&lt;a href="https://lobste.rs/s/xhk30c/help_us_test_system_trust_stores_python">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gabrielsieben.tech/2022/07/25/the-power-of-microsoft-pluton-2/">The dangers of Microsoft Pluton&lt;/a>
+(&lt;a href="https://lobste.rs/s/fdguww/dangers_microsoft_pluton">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.chiselstrike.com/notes-from-my-journey-from-rust-to-typescript-9bd9d28141e3">Why ChilselStrike is written in TypeScript&lt;/a>
+(&lt;a href="https://lobste.rs/s/jcctnt/why_chilselstrike_is_written_typescript">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ferrous-systems.com/blog/the-ferrocene-language-specification-is-here/">The Ferrocene Language Specification is here&lt;/a>
+(&lt;a href="https://lobste.rs/s/wjotjb/ferrocene_language_specification_is">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://paedubucher.ch/articles/2022-07-26-git-with-multiple-e-mail-addresses.html">Git with Multiple E-Mail Addresses&lt;/a>
+(&lt;a href="https://lobste.rs/s/7xgrw9/git_with_multiple_e_mail_addresses">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://arstechnica.com/information-technology/2022/07/researchers-unpack-unkillable-uefi-rootkit-that-survives-os-reinstalls/">Discovery of new UEFI rootkit exposes an ugly truth: The attacks are invisible to us&lt;/a>
+(&lt;a href="https://lobste.rs/s/vnpzlb/discovery_new_uefi_rootkit_exposes_ugly">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://qorg11.net/tech_posts/bsd_make.html">Using BSD make&lt;/a>
+(&lt;a href="https://lobste.rs/s/7svvkz/using_bsd_make">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://webdevelopmenthistory.com/1993-cgi-scripts-and-early-server-side-web-programming/">1993: CGI Scripts and Early Server-Side Web Programming&lt;/a>
+(&lt;a href="https://lobste.rs/s/8e0xlv/1993_cgi_scripts_early_server_side_web">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.andres-loeh.de/LambdaPi/LambdaPi.pdf">A tutorial implementation of a dependently typed lambda calculus&lt;/a>
+(&lt;a href="https://lobste.rs/s/dhr7m7/tutorial_implementation_dependently">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-07-26</title><link>https://frozen-lobster.rohanverma.net/posts/2022-07-26/</link><pubDate>Tue, 26 Jul 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-07-26/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://www.linkedin.com/posts/onewilshire_so-ive-patched-kde-plasmawayland-under-activity-6951241424117899265-LIMU">So I&amp;rsquo;ve patched KDE Plasma/Wayland under CheriBSD for pure-capability mode. It works&lt;/a>
 (&lt;a href="https://lobste.rs/s/qqlz5l/so_i_ve_patched_kde_plasma_wayland_under">comments&lt;/a>)&lt;/p>
