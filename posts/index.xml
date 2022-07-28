@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 27 Jul 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-07-27</title><link>https://frozen-lobster.rohanverma.net/posts/2022-07-27/</link><pubDate>Wed, 27 Jul 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-07-27/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 28 Jul 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-07-28</title><link>https://frozen-lobster.rohanverma.net/posts/2022-07-28/</link><pubDate>Thu, 28 Jul 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-07-28/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.tomrenner.com/blog/2022-01-24/does-the-software-industry-learn-">Does the software industry learn?&lt;/a>
+(&lt;a href="https://lobste.rs/s/vdr2i7/does_software_industry_learn">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://dxuuu.xyz/prr.html">Prr: Text-based code review tool for GitHub&lt;/a>
+(&lt;a href="https://lobste.rs/s/3mfvyd/prr_text_based_code_review_tool_for_github">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.rust-lang.org/inside-rust/2022/07/27/keyword-generics.html">Announcing the Keyword Generics Initiative&lt;/a>
+(&lt;a href="https://lobste.rs/s/hyd2sx/announcing_keyword_generics_initiative">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://fly.io/blog/sqlite-internals-btree/">SQLite Internals: Pages &amp;amp; B-trees&lt;/a>
+(&lt;a href="https://lobste.rs/s/5jgaht/sqlite_internals_pages_b_trees">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://portal.mozz.us/gemini/arcanesciences.com/gemlog/22-07-28/">Code Density Compared Between Way Too Many Instruction Sets&lt;/a>
+(&lt;a href="https://lobste.rs/s/d61s5c/code_density_compared_between_way_too">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.computerenhance.com/p/why-isnt-there-a-createprocess-that">Why isn&amp;rsquo;t there a CreateProcess that completely isolates Windows processes?&lt;/a>
+(&lt;a href="https://lobste.rs/s/sqrtxk/why_isn_t_there_createprocess_completely">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://nnethercote.github.io/2022/07/27/twenty-years-of-valgrind.html">Twenty years of Valgrind&lt;/a>
+(&lt;a href="https://lobste.rs/s/at8nbf/twenty_years_valgrind">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://docs.google.com/presentation/d/1MosK6LTy_Rr32eF6HKej6UEtf9vBzdbeSF6YPb1_e4A/present">µON: Compact and simple binary encoding, on par (or outperforms) CBOR, MsgPack and UBJSON&lt;/a>
+(&lt;a href="https://lobste.rs/s/a7ougq/on_compact_simple_binary_encoding_on_par">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://developer.chrome.com/blog/help-css-nesting/">Help pick a syntax for CSS nesting&lt;/a>
+(&lt;a href="https://lobste.rs/s/5hsu3a/help_pick_syntax_for_css_nesting">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://datastation.multiprocess.io/blog/2022-07-25-database-integration-testing.html">Container scheduling strategies for integration testing 14 different databases in Github Actions&lt;/a>
+(&lt;a href="https://lobste.rs/s/z6sdlr/container_scheduling_strategies_for">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-07-27</title><link>https://frozen-lobster.rohanverma.net/posts/2022-07-27/</link><pubDate>Wed, 27 Jul 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-07-27/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://docs.google.com/presentation/d/1MosK6LTy_Rr32eF6HKej6UEtf9vBzdbeSF6YPb1_e4A/present">µON: Compact and simple binary encoding, on par (or outperforms) CBOR, MsgPack and UBJSON&lt;/a>
 (&lt;a href="https://lobste.rs/s/a7ougq/on_compact_simple_binary_encoding_on_par">comments&lt;/a>)&lt;/p>
