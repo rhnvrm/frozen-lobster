@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 28 Jul 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-07-28</title><link>https://frozen-lobster.rohanverma.net/posts/2022-07-28/</link><pubDate>Thu, 28 Jul 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-07-28/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 29 Jul 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-07-29</title><link>https://frozen-lobster.rohanverma.net/posts/2022-07-29/</link><pubDate>Fri, 29 Jul 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-07-29/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/charmbracelet/gum">Gum: a tool for glamorous shell scripts&lt;/a>
+(&lt;a href="https://lobste.rs/s/zpl3xn/gum_tool_for_glamorous_shell_scripts">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://suraj.dev/blog/my-4g-setup-for-working-remotely-from-anywhere">My 4G setup for working remotely from anywhere&lt;/a>
+(&lt;a href="https://lobste.rs/s/qtt4uu/my_4g_setup_for_working_remotely_from">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://stackoverflow.blog/2022/03/03/stop-aggregating-away-the-signal-in-your-data/">Stop aggregating away the signal in your data&lt;/a>
+(&lt;a href="https://lobste.rs/s/9walmw/stop_aggregating_away_signal_your_data">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://recursion.wtf/posts/rust_schemes_2/">Fully generic recursion in Rust&lt;/a>
+(&lt;a href="https://lobste.rs/s/iac4jn/fully_generic_recursion_rust">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.oilshell.org/blog/2022/07/release-0.11.0.html">Oil 0.11.0 - Big Features and Project Changes&lt;/a>
+(&lt;a href="https://lobste.rs/s/1w5gkb/oil_0_11_0_big_features_project_changes">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://portal.mozz.us/gemini/arcanesciences.com/gemlog/22-07-28/">Code Density Compared Between Way Too Many Instruction Sets&lt;/a>
+(&lt;a href="https://lobste.rs/s/d61s5c/code_density_compared_between_way_too">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://mccue.dev/pages/7-27-22-c-errors">The different ways to handle errors in C&lt;/a>
+(&lt;a href="https://lobste.rs/s/8mqgal/different_ways_handle_errors_c">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://www.cofault.com/2022/07/treadmill.html">Treadmill (a &amp;ldquo;real-time&amp;rdquo; in-place garbage collection algorithm)&lt;/a>
+(&lt;a href="https://lobste.rs/s/f2duq6/treadmill_real_time_place_garbage">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://nigeltao.github.io/blog/2020/jsonptr.html">Jsonptr: Using Wuffs’ Memory-Safe, Zero-Allocation JSON Decoder&lt;/a>
+(&lt;a href="https://lobste.rs/s/aa6xgc/jsonptr_using_wuffs_memory_safe_zero">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ahgamut.github.io/2022/07/27/ape-rust-example/">Rust Is Actually Portable&lt;/a>
+(&lt;a href="https://lobste.rs/s/1emenu/rust_is_actually_portable">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-07-28</title><link>https://frozen-lobster.rohanverma.net/posts/2022-07-28/</link><pubDate>Thu, 28 Jul 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-07-28/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://www.tomrenner.com/blog/2022-01-24/does-the-software-industry-learn-">Does the software industry learn?&lt;/a>
 (&lt;a href="https://lobste.rs/s/vdr2i7/does_software_industry_learn">comments&lt;/a>)&lt;/p>
