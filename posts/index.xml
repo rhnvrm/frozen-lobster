@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 29 Jul 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-07-29</title><link>https://frozen-lobster.rohanverma.net/posts/2022-07-29/</link><pubDate>Fri, 29 Jul 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-07-29/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 30 Jul 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-07-30</title><link>https://frozen-lobster.rohanverma.net/posts/2022-07-30/</link><pubDate>Sat, 30 Jul 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-07-30/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.sicpers.info/2022/07/phrases-in-computing-that-might-need-retiring/">Phrases in computing that might need retiring&lt;/a>
+(&lt;a href="https://lobste.rs/s/pz4rqj/phrases_computing_might_need_retiring">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://itnext.io/you-dont-need-microservices-2ad8508b9e27">You Don’t Need Microservices&lt;/a>
+(&lt;a href="https://lobste.rs/s/r2zkcq/you_don_t_need_microservices">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/charmbracelet/gum">Gum: a tool for glamorous shell scripts&lt;/a>
+(&lt;a href="https://lobste.rs/s/zpl3xn/gum_tool_for_glamorous_shell_scripts">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://freakingrectangle.com/2022/04/15/how-to-freaking-hire-great-developers/">How to Freaking Find Great Developers By Having Them Read Code&lt;/a>
+(&lt;a href="https://lobste.rs/s/y59kd4/how_freaking_find_great_developers_by">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this weekend?&lt;/a>
+(&lt;a href="https://lobste.rs/s/bfblpu/what_are_you_doing_this_weekend">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://skerritt.blog/timsort/">Timsort — the fastest sorting algorithm you’ve never heard of&lt;/a>
+(&lt;a href="https://lobste.rs/s/ifqzwu/timsort_fastest_sorting_algorithm_you_ve">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://deno.com/blog/roll-your-own-javascript-runtime">Roll your own JavaScript runtime&lt;/a>
+(&lt;a href="https://lobste.rs/s/nz07je/roll_your_own_javascript_runtime">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://leebriggs.co.uk/blog/2022/07/20/nobody-knows-what-declarative-is">Why does nobody seem to know what imperative and declarative actually mean?&lt;/a>
+(&lt;a href="https://lobste.rs/s/aedphq/why_does_nobody_seem_know_what_imperative">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://hg.sr.ht/~icefox/uri">uri - a silly archive format&lt;/a>
+(&lt;a href="https://lobste.rs/s/vwdntn/uri_silly_archive_format">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://theevilskeleton.gitlab.io/2022/07/28/libadwaita-fixing-usability-problems-on-the-linux-desktop.html">libadwaita: Fixing Usability Problems on the Linux Desktop&lt;/a>
+(&lt;a href="https://lobste.rs/s/dtcpf1/libadwaita_fixing_usability_problems_on">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-07-29</title><link>https://frozen-lobster.rohanverma.net/posts/2022-07-29/</link><pubDate>Fri, 29 Jul 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-07-29/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://github.com/charmbracelet/gum">Gum: a tool for glamorous shell scripts&lt;/a>
 (&lt;a href="https://lobste.rs/s/zpl3xn/gum_tool_for_glamorous_shell_scripts">comments&lt;/a>)&lt;/p>
