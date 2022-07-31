@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 30 Jul 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-07-30</title><link>https://frozen-lobster.rohanverma.net/posts/2022-07-30/</link><pubDate>Sat, 30 Jul 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-07-30/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 31 Jul 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-07-31</title><link>https://frozen-lobster.rohanverma.net/posts/2022-07-31/</link><pubDate>Sun, 31 Jul 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-07-31/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://xenodium.com/an-accentuated-emacs-experiment/">An accentuated Emacs experiment (à la macOS)&lt;/a>
+(&lt;a href="https://lobste.rs/s/vixaop/accentuated_emacs_experiment_la_macos">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://idiomdrottning.org/zshbrev">zshbrev&lt;/a>
+(&lt;a href="https://lobste.rs/s/kov36m/zshbrev">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/losfair/mvsqlite">mvsqlite: Distributed, MVCC SQLite that runs on FoundationDB&lt;/a>
+(&lt;a href="https://lobste.rs/s/ekzneh/mvsqlite_distributed_mvcc_sqlite_runs_on">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://utcc.utoronto.ca/~cks/space/blog/programming/PrintDebuggingAndInfrequentDevs">Print based debugging and infrequent developers&lt;/a>
+(&lt;a href="https://lobste.rs/s/ytsjdc/print_based_debugging_infrequent">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://semantic-domain.blogspot.com/2013/07/what-declarative-languages-are.html?m=1">What Declarative Languages Are (2013)&lt;/a>
+(&lt;a href="https://lobste.rs/s/vrq9ci/what_declarative_languages_are_2013">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://susam.net/blog/lisp-in-vim.html">Lisp in Vim (2019)&lt;/a>
+(&lt;a href="https://lobste.rs/s/iuwdwt/lisp_vim_2019">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://dougallj.wordpress.com/2022/07/30/parallelising-huffman-decoding-and-x86-disassembly-by-synchronising-non-self-synchronising-prefix-codes/">Parallelising Huffman decoding and x86 disassembly by synchronising non-self-synchronising prefix codes&lt;/a>
+(&lt;a href="https://lobste.rs/s/oe0pwn/parallelising_huffman_decoding_x86">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blogs.igalia.com/dpiliaiev/gfxreconstruct-test-mobile-gpus/">Testing Vulkan drivers with games that cannot run on the target device&lt;/a>
+(&lt;a href="https://lobste.rs/s/trj6pd/testing_vulkan_drivers_with_games_cannot">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://itnext.io/you-dont-need-microservices-2ad8508b9e27">You Don’t Need Microservices&lt;/a>
+(&lt;a href="https://lobste.rs/s/r2zkcq/you_don_t_need_microservices">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://dmytrish.net/sljs/">SLJS: A true JS runtime written in rust that compiles to wasm&lt;/a>
+(&lt;a href="https://lobste.rs/s/dqiyrq/sljs_true_js_runtime_written_rust">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-07-30</title><link>https://frozen-lobster.rohanverma.net/posts/2022-07-30/</link><pubDate>Sat, 30 Jul 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-07-30/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://www.sicpers.info/2022/07/phrases-in-computing-that-might-need-retiring/">Phrases in computing that might need retiring&lt;/a>
 (&lt;a href="https://lobste.rs/s/pz4rqj/phrases_computing_might_need_retiring">comments&lt;/a>)&lt;/p>
