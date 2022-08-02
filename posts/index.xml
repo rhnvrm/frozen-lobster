@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-08-01</title><link>https://frozen-lobster.rohanverma.net/posts/2022-08-01/</link><pubDate>Mon, 01 Aug 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-08-01/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 02 Aug 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-08-02</title><link>https://frozen-lobster.rohanverma.net/posts/2022-08-02/</link><pubDate>Tue, 02 Aug 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-08-02/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://wifine.gitlab.io/">Wi-Fine: it is fine to use public Wi-Fi&lt;/a>
+(&lt;a href="https://lobste.rs/s/ljdnnd/wi_fine_it_is_fine_use_public_wi_fi">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.hillelwayne.com/post/python-abc/">Crimes with Python&amp;rsquo;s Pattern Matching&lt;/a>
+(&lt;a href="https://lobste.rs/s/exqimq/crimes_with_python_s_pattern_matching">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://slp.prose.sh/running-microvms-on-m1">Running Linux microVMs on macOS (M1/M2)&lt;/a>
+(&lt;a href="https://lobste.rs/s/8mw8sg/running_linux_microvms_on_macos_m1_m2">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://youtu.be/0uixRE8xlbY">Use flake.nix, not Dockerfile&lt;/a>
+(&lt;a href="https://lobste.rs/s/ilgax7/use_flake_nix_not_dockerfile">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://discuss.ocaml.org/t/reflections-on-my-first-completed-application-in-ocaml/6768">Reflections on my first completed application in OCaml&lt;/a>
+(&lt;a href="https://lobste.rs/s/o5djs1/reflections_on_my_first_completed">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://computeradsfromthepast.substack.com/p/microsofts-xenix">Microsoft&amp;rsquo;s Xenix - Microsoft tries their hand at UNIX&lt;/a>
+(&lt;a href="https://lobste.rs/s/6ge1cy/microsoft_s_xenix_microsoft_tries_their">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://georust.org/">GeoRust&lt;/a>
+(&lt;a href="https://lobste.rs/s/rqnlaj/georust">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tuxphones.com/pine-formula/">The Pine Formula&lt;/a>
+(&lt;a href="https://lobste.rs/s/606cll/pine_formula">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://planetscale.com/blog/the-slotted-counter-pattern">The Slotted Counter Pattern&lt;/a>
+(&lt;a href="https://lobste.rs/s/zqgkrg/slotted_counter_pattern">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this week?&lt;/a>
+(&lt;a href="https://lobste.rs/s/utlely/what_are_you_doing_this_week">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-08-01</title><link>https://frozen-lobster.rohanverma.net/posts/2022-08-01/</link><pubDate>Mon, 01 Aug 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-08-01/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://kevinlawler.com/refcount">Reference Count, Don&amp;rsquo;t Garbage Collect&lt;/a>
 (&lt;a href="https://lobste.rs/s/jhtyqf/reference_count_don_t_garbage_collect">comments&lt;/a>)&lt;/p>
