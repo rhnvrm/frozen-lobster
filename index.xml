@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 02 Aug 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-08-02</title><link>https://frozen-lobster.rohanverma.net/posts/2022-08-02/</link><pubDate>Tue, 02 Aug 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-08-02/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 03 Aug 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-08-03</title><link>https://frozen-lobster.rohanverma.net/posts/2022-08-03/</link><pubDate>Wed, 03 Aug 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-08-03/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://go.dev/doc/go1.19">Go 1.19 Released&lt;/a>
+(&lt;a href="https://lobste.rs/s/ciryc1/go_1_19_released">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://wifine.gitlab.io/">Wi-Fine: it is fine to use public Wi-Fi&lt;/a>
+(&lt;a href="https://lobste.rs/s/ljdnnd/wi_fine_it_is_fine_use_public_wi_fi">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">Crustaceans, what is the best quality Mac laptop?&lt;/a>
+(&lt;a href="https://lobste.rs/s/zi5bmc/crustaceans_what_is_best_quality_mac">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://benhoyt.com/writings/tools-i-use-to-build-my-website/">The tools I use to build my website&lt;/a>
+(&lt;a href="https://lobste.rs/s/p8gpkn/tools_i_use_build_my_website">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.internetingishard.com">Interneting Is Hard&lt;/a>
+(&lt;a href="https://lobste.rs/s/g3r08q/interneting_is_hard">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.hillelwayne.com/post/python-abc/">Crimes with Python&amp;rsquo;s Pattern Matching&lt;/a>
+(&lt;a href="https://lobste.rs/s/exqimq/crimes_with_python_s_pattern_matching">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://docs.google.com/document/d/16B36r0HksR0LqQAGLA1syYCtZvYaVC0hEF2D00ZAd0o/view">C xor C++: Situations where the same code has different meaning in C and C++&lt;/a>
+(&lt;a href="https://lobste.rs/s/x1g8oo/c_xor_c_situations_where_same_code_has">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://buttondown.email/hillelwayne/archive/search-less-browse-more-7595/">Search less, browse more&lt;/a>
+(&lt;a href="https://lobste.rs/s/g4ku0m/search_less_browse_more">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.jackos.io/rust-kernel/rust-for-linux.html">Rust linux kernel development&lt;/a>
+(&lt;a href="https://lobste.rs/s/oefn8h/rust_linux_kernel_development">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/SanderMertens/flecs">flecs: A fast entity component system (ECS) for C &amp;amp; C++&lt;/a>
+(&lt;a href="https://lobste.rs/s/no1kg7/flecs_fast_entity_component_system_ecs">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-08-02</title><link>https://frozen-lobster.rohanverma.net/posts/2022-08-02/</link><pubDate>Tue, 02 Aug 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-08-02/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://wifine.gitlab.io/">Wi-Fine: it is fine to use public Wi-Fi&lt;/a>
 (&lt;a href="https://lobste.rs/s/ljdnnd/wi_fine_it_is_fine_use_public_wi_fi">comments&lt;/a>)&lt;/p>
