@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 03 Aug 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-08-03</title><link>https://frozen-lobster.rohanverma.net/posts/2022-08-03/</link><pubDate>Wed, 03 Aug 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-08-03/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 04 Aug 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-08-04</title><link>https://frozen-lobster.rohanverma.net/posts/2022-08-04/</link><pubDate>Thu, 04 Aug 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-08-04/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://specbranch.com/posts/one-big-server/">Use One Big Server&lt;/a>
+(&lt;a href="https://lobste.rs/s/yimhoy/use_one_big_server">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://mmazzarolo.com/blog/2022-07-30-checking-if-a-javascript-native-function-was-monkey-patched/">Checking if a JavaScript native function is monkey patched&lt;/a>
+(&lt;a href="https://lobste.rs/s/pppun8/checking_if_javascript_native_function">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.jeffgeerling.com/blog/2022/microsoft-still-far-behind-windows-on-arm">Microsoft is still far behind: Windows on ARM&lt;/a>
+(&lt;a href="https://lobste.rs/s/vv5dkg/microsoft_is_still_far_behind_windows_on">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.djangoproject.com/weblog/2022/aug/03/django-41-released/">Django 4.1 released&lt;/a>
+(&lt;a href="https://lobste.rs/s/il3wqk/django_4_1_released">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://adworse.codes/the-curious-case-of-string-slice-3/">The Curious Case of String.slice/3&lt;/a>
+(&lt;a href="https://lobste.rs/s/nqm559/curious_case_string_slice_3">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.textualize.io/blog/posts/7-things-about-terminals">7 things I&amp;rsquo;ve learned building a modern TUI framework&lt;/a>
+(&lt;a href="https://lobste.rs/s/5tsk7e/7_things_i_ve_learned_building_modern_tui">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://zackoverflow.dev/writing/nominal-and-refinement-types-typescript">Unlocking type-safety superpowers in Typescript with nominal and refinement types&lt;/a>
+(&lt;a href="https://lobste.rs/s/lb6a49/unlocking_type_safety_superpowers">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/moyix/fauxpilot">GitHub - moyix/fauxpilot: FauxPilot - an open-source GitHub Copilot server&lt;/a>
+(&lt;a href="https://lobste.rs/s/xycvqg/github_moyix_fauxpilot_fauxpilot_open">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://studio.unfolded.ai/public/eb120377-c715-4630-8a4e-c1b24e6a32f9">Ookla Internet benchmark results around the World&lt;/a>
+(&lt;a href="https://lobste.rs/s/o96nlh/ookla_internet_benchmark_results_around">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://go.dev/doc/go1.19">Go 1.19 Released&lt;/a>
+(&lt;a href="https://lobste.rs/s/ciryc1/go_1_19_released">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-08-03</title><link>https://frozen-lobster.rohanverma.net/posts/2022-08-03/</link><pubDate>Wed, 03 Aug 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-08-03/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://go.dev/doc/go1.19">Go 1.19 Released&lt;/a>
 (&lt;a href="https://lobste.rs/s/ciryc1/go_1_19_released">comments&lt;/a>)&lt;/p>
