@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 04 Aug 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-08-04</title><link>https://frozen-lobster.rohanverma.net/posts/2022-08-04/</link><pubDate>Thu, 04 Aug 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-08-04/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 05 Aug 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-08-05</title><link>https://frozen-lobster.rohanverma.net/posts/2022-08-05/</link><pubDate>Fri, 05 Aug 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-08-05/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://lemon.rip/w/c99-vla-tricks/">C99 doesn&amp;rsquo;t need function bodies, or &amp;lsquo;VLAs are Turing complete&amp;rsquo;&lt;/a>
+(&lt;a href="https://lobste.rs/s/t42qx2/c99_doesn_t_need_function_bodies_vlas_are">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://alinpanaitiu.com/blog/window-switcher-app-store/">A window switcher on the Mac App Store? Is it even possible?&lt;/a>
+(&lt;a href="https://lobste.rs/s/h0ejxo/window_switcher_on_mac_app_store_is_it_even">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://words.filippo.io/dispatches/wide-reduction/">A Wide Reduction Trick&lt;/a>
+(&lt;a href="https://lobste.rs/s/dwi6be/wide_reduction_trick">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://egraphs-good.github.io/">E-graphs for compiler optimisations in Rust&lt;/a>
+(&lt;a href="https://lobste.rs/s/0avsbt/e_graphs_for_compiler_optimisations_rust">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lexfridman.com/john-carmack/">John Carmack: Doom, Quake, VR, AGI, Programming, Video Games, and Rockets&lt;/a>
+(&lt;a href="https://lobste.rs/s/jamrlo/john_carmack_doom_quake_vr_agi">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cj.rs/blog/rust-default-values-for-maintainability/">Rust Default Values for Maintainability&lt;/a>
+(&lt;a href="https://lobste.rs/s/rplaez/rust_default_values_for_maintainability">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://danieljanus.pl/autosummarized-hn/">Autosummarized Hacker News (with GPT-3)&lt;/a>
+(&lt;a href="https://lobste.rs/s/7kyfnr/autosummarized_hacker_news_with_gpt_3">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/Fewnity/Counter-Strike-Nintendo-DS">Counter Strike Demake/Remake on Nintendo DS&lt;/a>
+(&lt;a href="https://lobste.rs/s/zgwshv/counter_strike_demake_remake_on_nintendo">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://memex.marginalia.nu/log/61-botspam-apocalypse.gmi">Botspam Apocalypse&lt;/a>
+(&lt;a href="https://lobste.rs/s/cju6pv/botspam_apocalypse">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sentido-labs.com/en/library/cedro/202106171400/use-embed-c23-today.html">Use #embed from C23 today with the Cedro pre-processor&lt;/a>
+(&lt;a href="https://lobste.rs/s/fcdgya/use_embed_from_c23_today_with_cedro_pre">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-08-04</title><link>https://frozen-lobster.rohanverma.net/posts/2022-08-04/</link><pubDate>Thu, 04 Aug 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-08-04/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://specbranch.com/posts/one-big-server/">Use One Big Server&lt;/a>
 (&lt;a href="https://lobste.rs/s/yimhoy/use_one_big_server">comments&lt;/a>)&lt;/p>
