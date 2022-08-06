@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 05 Aug 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-08-05</title><link>https://frozen-lobster.rohanverma.net/posts/2022-08-05/</link><pubDate>Fri, 05 Aug 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-08-05/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 06 Aug 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-08-06</title><link>https://frozen-lobster.rohanverma.net/posts/2022-08-06/</link><pubDate>Sat, 06 Aug 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-08-06/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://danieljanus.pl/autosummarized-hn/">Autosummarized Hacker News (with GPT-3)&lt;/a>
+(&lt;a href="https://lobste.rs/s/7kyfnr/autosummarized_hacker_news_with_gpt_3">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://easydns.com/blog/2022/08/05/solving-the-fake-twitter-profile-problem-with-dns/">Solving the &amp;ldquo;Fake Twitter Profile&amp;rdquo; Problem using DNS&lt;/a>
+(&lt;a href="https://lobste.rs/s/p7zaaf/solving_fake_twitter_profile_problem">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/golang/go/discussions/54245">Adding a standard iterator interface to Go?&lt;/a>
+(&lt;a href="https://lobste.rs/s/zq9bdp/adding_standard_iterator_interface_go">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thephd.dev/c23-is-coming-here-is-what-is-on-the-menu">C23 is Finished: Here is What is on the Menu&lt;/a>
+(&lt;a href="https://lobste.rs/s/qgbrfj/c23_is_finished_here_is_what_is_on_menu">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/serhack/pdf-diff">pdf-diff - tool for visualizing differences between two pdf files&lt;/a>
+(&lt;a href="https://lobste.rs/s/xakwzu/pdf_diff_tool_for_visualizing">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.rust-lang.org/2022/08/05/nll-by-default.html">Non-lexical lifetimes (NLL) fully stable&lt;/a>
+(&lt;a href="https://lobste.rs/s/s8mce2/non_lexical_lifetimes_nll_fully_stable">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://hack.org/mc/mgr/">The MGR Window System&lt;/a>
+(&lt;a href="https://lobste.rs/s/ddpqvc/mgr_window_system">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://manishearth.github.io/blog/2022/08/03/zero-copy-3-so-zero-its-dot-dot-dot-negative/">So Zero It&amp;rsquo;s &amp;hellip; Negative? (Zero-Copy #3)&lt;/a>
+(&lt;a href="https://lobste.rs/s/6cfal5/so_zero_it_s_negative_zero_copy_3">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cmdarek.com/pages/air-quality-station.html">Air quality station built with Elixir&lt;/a>
+(&lt;a href="https://lobste.rs/s/71rx7c/air_quality_station_built_with_elixir">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this weekend?&lt;/a>
+(&lt;a href="https://lobste.rs/s/8ynhex/what_are_you_doing_this_weekend">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-08-05</title><link>https://frozen-lobster.rohanverma.net/posts/2022-08-05/</link><pubDate>Fri, 05 Aug 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-08-05/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://lemon.rip/w/c99-vla-tricks/">C99 doesn&amp;rsquo;t need function bodies, or &amp;lsquo;VLAs are Turing complete&amp;rsquo;&lt;/a>
 (&lt;a href="https://lobste.rs/s/t42qx2/c99_doesn_t_need_function_bodies_vlas_are">comments&lt;/a>)&lt;/p>
