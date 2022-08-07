@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 06 Aug 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-08-06</title><link>https://frozen-lobster.rohanverma.net/posts/2022-08-06/</link><pubDate>Sat, 06 Aug 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-08-06/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 07 Aug 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-08-07</title><link>https://frozen-lobster.rohanverma.net/posts/2022-08-07/</link><pubDate>Sun, 07 Aug 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-08-07/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://dukope.com/devlogs/papers-please/mobile/">Cramming &amp;lsquo;Papers, Please&amp;rsquo; Onto Phones&lt;/a>
+(&lt;a href="https://lobste.rs/s/uj9szd/cramming_papers_please_onto_phones">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.tweag.io/blog/2022-08-04-tweag-and-nix-future/">Our roadmap for Nix&lt;/a>
+(&lt;a href="https://lobste.rs/s/ejdlej/our_roadmap_for_nix">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://kevinlawler.com/ctrl-c">Why Programmers Can’t Stop Programs With Ctrl-C, but Used to Be Able To, and Why They Should Be Able to Again&lt;/a>
+(&lt;a href="https://lobste.rs/s/bi29lp/why_programmers_can_t_stop_programs_with">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://krystalgamer.github.io/stem-player-emulator/">Kanye West&amp;rsquo;s Stem Player - An engineering disaster&lt;/a>
+(&lt;a href="https://lobste.rs/s/xonjep/kanye_west_s_stem_player_engineering">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lapce.dev/">Lapce code editor&lt;/a>
+(&lt;a href="https://lobste.rs/s/kkiu4k/lapce_code_editor">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.netbsd.org/tnf/entry/netbsd_9_3_released">NetBSD 9.3 released&lt;/a>
+(&lt;a href="https://lobste.rs/s/ukjizn/netbsd_9_3_released">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.cr.yp.to/20220805-nsa.html">NSA, NIST, and post-quantum cryptography&lt;/a>
+(&lt;a href="https://lobste.rs/s/ats96u/nsa_nist_post_quantum_cryptography">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://eli.thegreenplace.net/2011/09/06/stack-frame-layout-on-x86-64">Stack frame layout on x86-64&lt;/a>
+(&lt;a href="https://lobste.rs/s/hkr75z/stack_frame_layout_on_x86_64">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://rust-analyzer.github.io/manual.html#structural-search-and-replace">Rust Analyzer&amp;rsquo;s structural search and replace&lt;/a>
+(&lt;a href="https://lobste.rs/s/8l9be1/rust_analyzer_s_structural_search">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=dQhj5RGtag0">how floating point works&lt;/a>
+(&lt;a href="https://lobste.rs/s/k32mrb/how_floating_point_works">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-08-06</title><link>https://frozen-lobster.rohanverma.net/posts/2022-08-06/</link><pubDate>Sat, 06 Aug 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-08-06/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://danieljanus.pl/autosummarized-hn/">Autosummarized Hacker News (with GPT-3)&lt;/a>
 (&lt;a href="https://lobste.rs/s/7kyfnr/autosummarized_hacker_news_with_gpt_3">comments&lt;/a>)&lt;/p>
