@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 11 Aug 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-08-11</title><link>https://frozen-lobster.rohanverma.net/posts/2022-08-11/</link><pubDate>Thu, 11 Aug 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-08-11/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 12 Aug 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-08-12</title><link>https://frozen-lobster.rohanverma.net/posts/2022-08-12/</link><pubDate>Fri, 12 Aug 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-08-12/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://blog.rust-lang.org/2022/08/11/Rust-1.63.0.html">Announcing Rust 1.63.0&lt;/a>
+(&lt;a href="https://lobste.rs/s/djx0ns/announcing_rust_1_63_0">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://invisv.com/articles/pretty-good-phone-privacy.html">PGPP (Pretty Good Phone Privacy) Beta Launch&lt;/a>
+(&lt;a href="https://lobste.rs/s/u3by7e/pgpp_pretty_good_phone_privacy_beta">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.racket-lang.org/2022/08/racket-v8-6.html">Racket v8.6&lt;/a>
+(&lt;a href="https://lobste.rs/s/mcrzzo/racket_v8_6">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.holovaty.com/writing/framebust-native-apps/">Let websites framebust out of native apps&lt;/a>
+(&lt;a href="https://lobste.rs/s/dusuzt/let_websites_framebust_out_native_apps">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://linguistic-antipatterns.com/">Linguistic Antipatterns catalog&lt;/a>
+(&lt;a href="https://lobste.rs/s/v0rnys/linguistic_antipatterns_catalog">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://krausefx.com/blog/ios-privacy-instagram-and-facebook-can-track-anything-you-do-on-any-website-in-their-in-app-browser">Instagram and Facebook can track anything you do on any website in their in-app browser&lt;/a>
+(&lt;a href="https://lobste.rs/s/oducds/instagram_facebook_can_track_anything">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://greg.molnar.io/blog/a-single-file-rails-application/">A Single file Rails Application&lt;/a>
+(&lt;a href="https://lobste.rs/s/juzxpe/single_file_rails_application">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.mattkeeter.com/blog/2022-08-11-udp/">From Oscilloscope to Wireshark - A UDP Story&lt;/a>
+(&lt;a href="https://lobste.rs/s/efdf8y/from_oscilloscope_wireshark_udp_story">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://muniftanjim.dev/blog/neovim-build-ui-using-nui-nvim/">Neovim - Build UI using nui.nvim&lt;/a>
+(&lt;a href="https://lobste.rs/s/xcyx3q/neovim_build_ui_using_nui_nvim">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://developernote.com/2022/08/qt-signal-is-ten-times-slower-than-a-virtual-function/">Qt signal is ten times slower than a virtual function&lt;/a>
+(&lt;a href="https://lobste.rs/s/wyndra/qt_signal_is_ten_times_slower_than_virtual">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-08-11</title><link>https://frozen-lobster.rohanverma.net/posts/2022-08-11/</link><pubDate>Thu, 11 Aug 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-08-11/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://github.com/GavinMendelGleason/blog/blob/main/entries/semantic_future.md">The Semantic Web is Dead - Long Live the Semantic Web&lt;/a>
 (&lt;a href="https://lobste.rs/s/thc6wv/semantic_web_is_dead_long_live_semantic">comments&lt;/a>)&lt;/p>
