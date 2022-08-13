@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 12 Aug 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-08-12</title><link>https://frozen-lobster.rohanverma.net/posts/2022-08-12/</link><pubDate>Fri, 12 Aug 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-08-12/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 13 Aug 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-08-13</title><link>https://frozen-lobster.rohanverma.net/posts/2022-08-13/</link><pubDate>Sat, 13 Aug 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-08-13/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://buttondown.email/hillelwayne/archive/excel-is-pretty-dang-cool/">Excel is Pretty Dang Cool&lt;/a>
+(&lt;a href="https://lobste.rs/s/vplt6d/excel_is_pretty_dang_cool">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://matt-rickard.com/the-unreasonable-effectiveness-of-makefiles">The Unreasonable Effectiveness of Makefiles&lt;/a>
+(&lt;a href="https://lobste.rs/s/sq9h3p/unreasonable_effectiveness_makefiles">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://massimo-nazaria.github.io/blog/2022/02/10/avoid-spaghetti-code-with-scope-minimization.html">Avoid Spaghetti Code with Scope Minimization&lt;/a>
+(&lt;a href="https://lobste.rs/s/hpfdag/avoid_spaghetti_code_with_scope">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/roc-lang/roc">Roc is a language for making delightful software&lt;/a>
+(&lt;a href="https://lobste.rs/s/vnjt6x/roc_is_language_for_making_delightful">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lapcatsoftware.com/articles/xcrun.html">Why Xcode tools are slow after reboot&lt;/a>
+(&lt;a href="https://lobste.rs/s/qjtmsl/why_xcode_tools_are_slow_after_reboot">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://stratus3d.com/blog/2022/08/11/asdf-performance/">Asdf Performance&lt;/a>
+(&lt;a href="https://lobste.rs/s/kahh2j/asdf_performance">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this weekend?&lt;/a>
+(&lt;a href="https://lobste.rs/s/g6za1g/what_are_you_doing_this_weekend">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.sonatype.com/pypi-package-secretslib-drops-fileless-linux-malware-to-mine-monero">PyPI Package &amp;lsquo;secretslib&amp;rsquo; Drops Fileless Linux Malware to Mine Monero&lt;/a>
+(&lt;a href="https://lobste.rs/s/qsu4gx/pypi_package_secretslib_drops_fileless">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://daniel.haxx.se/blog/2022/08/10/ipfs-and-their-gateways/">IPFS and their gateways&lt;/a>
+(&lt;a href="https://lobste.rs/s/fb5bd1/ipfs_their_gateways">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ricardoanderegg.com/posts/extending-sqlite-with-rust/">Extending SQLite with Rust&lt;/a>
+(&lt;a href="https://lobste.rs/s/aej29d/extending_sqlite_with_rust">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-08-12</title><link>https://frozen-lobster.rohanverma.net/posts/2022-08-12/</link><pubDate>Fri, 12 Aug 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-08-12/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://blog.rust-lang.org/2022/08/11/Rust-1.63.0.html">Announcing Rust 1.63.0&lt;/a>
 (&lt;a href="https://lobste.rs/s/djx0ns/announcing_rust_1_63_0">comments&lt;/a>)&lt;/p>
