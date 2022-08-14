@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 13 Aug 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-08-13</title><link>https://frozen-lobster.rohanverma.net/posts/2022-08-13/</link><pubDate>Sat, 13 Aug 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-08-13/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 14 Aug 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-08-14</title><link>https://frozen-lobster.rohanverma.net/posts/2022-08-14/</link><pubDate>Sun, 14 Aug 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-08-14/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://susam.net/blog/from-xon-xoff-to-forward-incremental-search.html">From XON/XOFF to Forward Incremental Search&lt;/a>
+(&lt;a href="https://lobste.rs/s/ikyan7/from_xon_xoff_forward_incremental_search">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cpp-rendering.io/using-bool-in-c/">Stop using bool in C++ for function parameters&lt;/a>
+(&lt;a href="https://lobste.rs/s/fokqxv/stop_using_bool_c_for_function_parameters">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://buttondown.email/hillelwayne/archive/excel-is-pretty-dang-cool/">Excel is Pretty Dang Cool&lt;/a>
+(&lt;a href="https://lobste.rs/s/vplt6d/excel_is_pretty_dang_cool">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lunduke.substack.com/p/make-linux-look-like-star-trek-lcars">Make Linux look like Star Trek LCARS&lt;/a>
+(&lt;a href="https://lobste.rs/s/zad6za/make_linux_look_like_star_trek_lcars">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gist.github.com/lf94/d8e7d11a24ddad8315d28741e6d6bf2e">Small script to scrub your GitHub&lt;/a>
+(&lt;a href="https://lobste.rs/s/enlwip/small_script_scrub_your_github">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/roc-lang/roc">Roc is a language for making delightful software&lt;/a>
+(&lt;a href="https://lobste.rs/s/vnjt6x/roc_is_language_for_making_delightful">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sector7.computest.nl/post/2022-08-process-injection-breaking-all-macos-security-layers-with-a-single-vulnerability/">Process injection: breaking all macOS security layers with a single vulnerability&lt;/a>
+(&lt;a href="https://lobste.rs/s/jau6n9/process_injection_breaking_all_macos">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pwnedkeys.com/faq.html">pwnedkeys&lt;/a>
+(&lt;a href="https://lobste.rs/s/wmhlbp/pwnedkeys">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://daniel.haxx.se/blog/2022/08/10/ipfs-and-their-gateways/">IPFS and their gateways&lt;/a>
+(&lt;a href="https://lobste.rs/s/fb5bd1/ipfs_their_gateways">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://matt-rickard.com/the-unreasonable-effectiveness-of-makefiles">The Unreasonable Effectiveness of Makefiles&lt;/a>
+(&lt;a href="https://lobste.rs/s/sq9h3p/unreasonable_effectiveness_makefiles">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-08-13</title><link>https://frozen-lobster.rohanverma.net/posts/2022-08-13/</link><pubDate>Sat, 13 Aug 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-08-13/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://buttondown.email/hillelwayne/archive/excel-is-pretty-dang-cool/">Excel is Pretty Dang Cool&lt;/a>
 (&lt;a href="https://lobste.rs/s/vplt6d/excel_is_pretty_dang_cool">comments&lt;/a>)&lt;/p>
