@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 14 Aug 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-08-14</title><link>https://frozen-lobster.rohanverma.net/posts/2022-08-14/</link><pubDate>Sun, 14 Aug 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-08-14/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 15 Aug 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-08-15</title><link>https://frozen-lobster.rohanverma.net/posts/2022-08-15/</link><pubDate>Mon, 15 Aug 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-08-15/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://dev.to/xfbs/passgen-a-password-generator-that-uses-a-regex-like-syntax-to-create-secure-passwords-of-any-shape-2b7f">Passgen: A password generator that uses a regex-like syntax to create secure passwords of any shape&lt;/a>
+(&lt;a href="https://lobste.rs/s/mm5eki/passgen_password_generator_uses_regex">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gist.github.com/lf94/d8e7d11a24ddad8315d28741e6d6bf2e">Small script to scrub your GitHub&lt;/a>
+(&lt;a href="https://lobste.rs/s/enlwip/small_script_scrub_your_github">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/erg-lang/erg">Erg: A Python-compatible statically typed language&lt;/a>
+(&lt;a href="https://lobste.rs/s/dvfrzu/erg_python_compatible_statically_typed">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sdadams.org/blog/introducing-muxfs/">Introducing muxfs &amp;ndash; a mirroring, checksumming, and self-healing filesystem layer for OpenBSD&lt;/a>
+(&lt;a href="https://lobste.rs/s/xddtf5/introducing_muxfs_mirroring">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://brooker.co.za/blog/2022/08/11/backoff.html">What is Backoff For?&lt;/a>
+(&lt;a href="https://lobste.rs/s/h5aqmo/what_is_backoff_for">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://mat.services/posts/gitea-on-fly-io/">diy code hosting with gitea and fly.io&lt;/a>
+(&lt;a href="https://lobste.rs/s/e6gc0i/diy_code_hosting_with_gitea_fly_io">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://nns.ee/blog/2022/08/05/routeros-container-rce.html">Symlinks as mount portals: Abusing container mount points on MikroTik&amp;rsquo;s RouterOS to gain code execution&lt;/a>
+(&lt;a href="https://lobste.rs/s/v9b6fj/symlinks_as_mount_portals_abusing">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.inversecos.com/2022/06/how-to-reverse-engineer-and-patch-ios.html">How to Reverse Engineer and Patch an iOS Application for Beginners: Part I&lt;/a>
+(&lt;a href="https://lobste.rs/s/zablyu/how_reverse_engineer_patch_ios">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://xenodium.com/seamless-command-line-utils/">Seamless command-line utils&lt;/a>
+(&lt;a href="https://lobste.rs/s/zjffcf/seamless_command_line_utils">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://reddit.com/r/linux_gaming/comments/wnuh3u/introducing_horizon_linux/">Introducing Horizon Linux (Switch OS Emulation)&lt;/a>
+(&lt;a href="https://lobste.rs/s/wn5l6v/introducing_horizon_linux_switch_os">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-08-14</title><link>https://frozen-lobster.rohanverma.net/posts/2022-08-14/</link><pubDate>Sun, 14 Aug 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-08-14/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://susam.net/blog/from-xon-xoff-to-forward-incremental-search.html">From XON/XOFF to Forward Incremental Search&lt;/a>
 (&lt;a href="https://lobste.rs/s/ikyan7/from_xon_xoff_forward_incremental_search">comments&lt;/a>)&lt;/p>
