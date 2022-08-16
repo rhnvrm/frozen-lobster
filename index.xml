@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 15 Aug 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-08-15</title><link>https://frozen-lobster.rohanverma.net/posts/2022-08-15/</link><pubDate>Mon, 15 Aug 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-08-15/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 16 Aug 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-08-16</title><link>https://frozen-lobster.rohanverma.net/posts/2022-08-16/</link><pubDate>Tue, 16 Aug 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-08-16/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://jfmengels.net/optimizing-javascript-is-hard/">Optimizing for JavaScript is hard&lt;/a>
+(&lt;a href="https://lobste.rs/s/sdoeyq/optimizing_for_javascript_is_hard">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/LuxLang/lux/releases/tag/0.7.0">Lux 0.7 is out! Lisp for JVM, JavaScript, Python, Ruby and Lua with static types&lt;/a>
+(&lt;a href="https://lobste.rs/s/exirts/lux_0_7_is_out_lisp_for_jvm_javascript">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://matrix.org/blog/2022/08/15/the-matrix-summer-special-2022/">The Matrix Summer Special 2022&lt;/a>
+(&lt;a href="https://lobste.rs/s/yxff0h/matrix_summer_special_2022">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.hiler.eu/win32-the-only-stable-abi/">Win32 Is The Only Stable ABI on Linux&lt;/a>
+(&lt;a href="https://lobste.rs/s/kay3yc/win32_is_only_stable_abi_on_linux">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://hallofdreams.org/posts/hatetris/">Getting the World Record in HATETRIS&lt;/a>
+(&lt;a href="https://lobste.rs/s/jqrqmf/getting_world_record_hatetris">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://healeycodes.com/implementing-bitcask-a-log-structured-hash-table">Implementing Bitcask, a Log-Structured Hash Table&lt;/a>
+(&lt;a href="https://lobste.rs/s/82cgec/implementing_bitcask_log_structured">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://deno.com/blog/changes">Big Changes Ahead for Deno&lt;/a>
+(&lt;a href="https://lobste.rs/s/gmhj3l/big_changes_ahead_for_deno">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this week?&lt;/a>
+(&lt;a href="https://lobste.rs/s/nwgzdp/what_are_you_doing_this_week">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://support.signal.org/hc/en-us/articles/4850133017242">Twilio Incident: What Signal Users Need to Know&lt;/a>
+(&lt;a href="https://lobste.rs/s/zlkmtb/twilio_incident_what_signal_users_need">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://snarky.ca/mvpy-minimum-viable-python/">MVPy: Minimum Viable Python&lt;/a>
+(&lt;a href="https://lobste.rs/s/aihsd2/mvpy_minimum_viable_python">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-08-15</title><link>https://frozen-lobster.rohanverma.net/posts/2022-08-15/</link><pubDate>Mon, 15 Aug 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-08-15/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://dev.to/xfbs/passgen-a-password-generator-that-uses-a-regex-like-syntax-to-create-secure-passwords-of-any-shape-2b7f">Passgen: A password generator that uses a regex-like syntax to create secure passwords of any shape&lt;/a>
 (&lt;a href="https://lobste.rs/s/mm5eki/passgen_password_generator_uses_regex">comments&lt;/a>)&lt;/p>
