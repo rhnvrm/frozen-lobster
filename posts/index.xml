@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 16 Aug 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-08-16</title><link>https://frozen-lobster.rohanverma.net/posts/2022-08-16/</link><pubDate>Tue, 16 Aug 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-08-16/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 17 Aug 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-08-17</title><link>https://frozen-lobster.rohanverma.net/posts/2022-08-17/</link><pubDate>Wed, 17 Aug 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-08-17/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://meribold.org/2022/08/16/same-arch-linux-installation-for-a-decade/">Using the Same Arch Linux Installation for a Decade&lt;/a>
+(&lt;a href="https://lobste.rs/s/wziwmu/using_same_arch_linux_installation_for">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gist.github.com/deadpixi/7047ac40f026503b2dced261f9a1fac2">UUIDv4 in three different array languages&lt;/a>
+(&lt;a href="https://lobste.rs/s/hqhsvv/uuidv4_three_different_array_languages">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.autodidacts.io/what-is-rss/">What is RSS?&lt;/a>
+(&lt;a href="https://lobste.rs/s/sagrjx/what_is_rss">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://people.kernel.org/linusw/rust-in-perspective">Rust in Perspective&lt;/a>
+(&lt;a href="https://lobste.rs/s/kghptx/rust_perspective">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://programmingwithstyle.com/posts/howihackedmycar/">How I Hacked my Car&lt;/a>
+(&lt;a href="https://lobste.rs/s/8sdyrc/how_i_hacked_my_car">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/kellyjonbrazil/jc">kellyjonbrazil/jc: convert the output of command-line tools, files, and strings to JSON, YAML, or Dictionaries&lt;/a>
+(&lt;a href="https://lobste.rs/s/rfhigf/kellyjonbrazil_jc_convert_output">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://devblogs.microsoft.com/dotnet/dotnet-6-is-now-in-ubuntu-2204/">.NET 6 is now in Ubuntu 22.04&lt;/a>
+(&lt;a href="https://lobste.rs/s/tsyqxy/net_6_is_now_ubuntu_22_04">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://matrix.org/blog/2022/08/15/the-matrix-summer-special-2022/">The Matrix Summer Special 2022&lt;/a>
+(&lt;a href="https://lobste.rs/s/yxff0h/matrix_summer_special_2022">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://discord.com/blog/how-discord-supercharges-network-disks-for-extreme-low-latency">How Discord Supercharges Network Disks for Extreme Low Latency&lt;/a>
+(&lt;a href="https://lobste.rs/s/nkwqrn/how_discord_supercharges_network_disks">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/great-houk/mouse-project">great-houk/mouse-project: DIY Gaming Mouse&lt;/a>
+(&lt;a href="https://lobste.rs/s/rq1pid/great_houk_mouse_project_diy_gaming_mouse">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-08-16</title><link>https://frozen-lobster.rohanverma.net/posts/2022-08-16/</link><pubDate>Tue, 16 Aug 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-08-16/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://jfmengels.net/optimizing-javascript-is-hard/">Optimizing for JavaScript is hard&lt;/a>
 (&lt;a href="https://lobste.rs/s/sdoeyq/optimizing_for_javascript_is_hard">comments&lt;/a>)&lt;/p>
