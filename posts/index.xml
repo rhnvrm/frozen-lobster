@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 17 Aug 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-08-17</title><link>https://frozen-lobster.rohanverma.net/posts/2022-08-17/</link><pubDate>Wed, 17 Aug 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-08-17/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 18 Aug 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-08-18</title><link>https://frozen-lobster.rohanverma.net/posts/2022-08-18/</link><pubDate>Thu, 18 Aug 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-08-18/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://blog.brixit.nl/why-i-left-pine64/">Why I left PINE64&lt;/a>
+(&lt;a href="https://lobste.rs/s/56hsi1/why_i_left_pine64">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://buttondown.email/hillelwayne/archive/i-have-complicated-feelings-about-tdd-8403/">I have complicated feelings about TDD&lt;/a>
+(&lt;a href="https://lobste.rs/s/r9xxld/i_have_complicated_feelings_about_tdd">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://metalbear.co/blog/hooking-go-from-rust-hitchhikers-guide-to-the-go-laxy/">Hooking Go from Rust - Hitchhiker’s Guide to the Go-laxy&lt;/a>
+(&lt;a href="https://lobste.rs/s/f6oupd/hooking_go_from_rust_hitchhiker_s_guide_go">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://vez.mrsk.me/freebsd-defaults.html">FreeBSD - a lesson in poor defaults&lt;/a>
+(&lt;a href="https://lobste.rs/s/2xxp8y/freebsd_lesson_poor_defaults">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://spritely.institute/news/blast-off-spritely-institutes-tech-tour.html">A tour of Spritely Institute&amp;rsquo;s tech&lt;/a>
+(&lt;a href="https://lobste.rs/s/ullsqf/tour_spritely_institute_s_tech">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://mikelevins.github.io/posts/2020-12-18-repl-driven/">On REPL-Driven Programming&lt;/a>
+(&lt;a href="https://lobste.rs/s/2z0cyi/on_repl_driven_programming">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://meribold.org/2022/08/16/same-arch-linux-installation-for-a-decade/">Using the Same Arch Linux Installation for a Decade&lt;/a>
+(&lt;a href="https://lobste.rs/s/wziwmu/using_same_arch_linux_installation_for">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jank-lang.org/">jank programming language - Clojure/LLVM/Gradual Typing&lt;/a>
+(&lt;a href="https://lobste.rs/s/jhtyx6/jank_programming_language_clojure_llvm">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://marcellerusu.com/blog/peacock-bind-patterns">Peacock | Bind Patterns&lt;/a>
+(&lt;a href="https://lobste.rs/s/aaxyc0/peacock_bind_patterns">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ravynos.com/">ravynOS – Finesse of macOS. Freedom of FreeBSD&lt;/a>
+(&lt;a href="https://lobste.rs/s/y5gcsy/ravynos_finesse_macos_freedom_freebsd">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-08-17</title><link>https://frozen-lobster.rohanverma.net/posts/2022-08-17/</link><pubDate>Wed, 17 Aug 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-08-17/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://meribold.org/2022/08/16/same-arch-linux-installation-for-a-decade/">Using the Same Arch Linux Installation for a Decade&lt;/a>
 (&lt;a href="https://lobste.rs/s/wziwmu/using_same_arch_linux_installation_for">comments&lt;/a>)&lt;/p>
