@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 19 Aug 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-08-19</title><link>https://frozen-lobster.rohanverma.net/posts/2022-08-19/</link><pubDate>Fri, 19 Aug 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-08-19/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 20 Aug 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-08-20</title><link>https://frozen-lobster.rohanverma.net/posts/2022-08-20/</link><pubDate>Sat, 20 Aug 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-08-20/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://aymericbeaumet.com/developers-please-nurture-your-coding-experience">Developers, please nurture your coding experience&lt;/a>
+(&lt;a href="https://lobste.rs/s/bqzdna/developers_please_nurture_your_coding">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://developer.chrome.com/blog/removing-push/">Removing HTTP/2 Server Push from Chrome&lt;/a>
+(&lt;a href="https://lobste.rs/s/2bpkhf/removing_http_2_server_push_from_chrome">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://nota-lang.org/">The Nota interactive document language&lt;/a>
+(&lt;a href="https://lobste.rs/s/cyx59p/nota_interactive_document_language">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://krausefx.com/blog/announcing-inappbrowsercom-see-what-javascript-commands-get-executed-in-an-in-app-browser">InAppBrowser.com&lt;/a>
+(&lt;a href="https://lobste.rs/s/6vzct5/inappbrowser_com">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/jart/cosmopolitan/releases/tag/2.0">Cosmopolitan v2.0&lt;/a>
+(&lt;a href="https://lobste.rs/s/mxbfdy/cosmopolitan_v2_0">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.theverge.com/2022/8/18/23206110/james-webb-space-telescope-javascript-jwst-instrument-control">The James Webb Space Telescope runs JavaScript, apparently&lt;/a>
+(&lt;a href="https://lobste.rs/s/ex6isy/james_webb_space_telescope_runs">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/parseablehq/parseable">Cloud native log storage and management for Kubernetes&lt;/a>
+(&lt;a href="https://lobste.rs/s/iqjobe/cloud_native_log_storage_management_for">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://daringfireball.net/linked/2022/08/15/ventura-system-settings-tonsky">The Fit and Finish of the All-New System Settings on MacOS 13 Ventura&lt;/a>
+(&lt;a href="https://lobste.rs/s/dttoke/fit_finish_all_new_system_settings_on">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://zdimension.fr/crabs-all-the-way-down/">Crabs All the Way Down: Running Rust on Logic Gates&lt;/a>
+(&lt;a href="https://lobste.rs/s/b6odbq/crabs_all_way_down_running_rust_on_logic">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://natalie-lang.org/">Natalie, a Ruby Dialect&lt;/a>
+(&lt;a href="https://lobste.rs/s/wj5alv/natalie_ruby_dialect">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-08-19</title><link>https://frozen-lobster.rohanverma.net/posts/2022-08-19/</link><pubDate>Fri, 19 Aug 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-08-19/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://devblogs.microsoft.com/oldnewthing/20220816-00/?p=106994">Janet Jackson had the power to crash laptop computers&lt;/a>
 (&lt;a href="https://lobste.rs/s/grnzel/janet_jackson_had_power_crash_laptop">comments&lt;/a>)&lt;/p>
