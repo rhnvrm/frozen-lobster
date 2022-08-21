@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 20 Aug 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-08-20</title><link>https://frozen-lobster.rohanverma.net/posts/2022-08-20/</link><pubDate>Sat, 20 Aug 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-08-20/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 21 Aug 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-08-21</title><link>https://frozen-lobster.rohanverma.net/posts/2022-08-21/</link><pubDate>Sun, 21 Aug 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-08-21/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/ziglang/zig/wiki/Self-Hosted-Compiler-Upgrade-Guide">Zig is now self-hosted by default&lt;/a>
+(&lt;a href="https://lobste.rs/s/vzqivg/zig_is_now_self_hosted_by_default">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.yossarian.net/2022/08/20/Why-dont-we-do-email-verification-in-reverse">Why don&amp;rsquo;t we do email verification in reverse?&lt;/a>
+(&lt;a href="https://lobste.rs/s/mcgyds/why_don_t_we_do_email_verification_reverse">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pijul.org/">The Pijul version control system&lt;/a>
+(&lt;a href="https://lobste.rs/s/fpt0np/pijul_version_control_system">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://practicaltypography.com/">Butterick’s Practical Typography&lt;/a>
+(&lt;a href="https://lobste.rs/s/vkpt83/butterick_s_practical_typography">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://zdimension.fr/how-i-learned-to-stop-worrying-and-love-macros/">How I Learned to Stop Worrying and Love Macros&lt;/a>
+(&lt;a href="https://lobste.rs/s/jpickq/how_i_learned_stop_worrying_love_macros">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://soatok.blog/2022/08/20/cryptographic-agility-and-superior-alternatives/">Cryptographic Agility and Superior Alternatives&lt;/a>
+(&lt;a href="https://lobste.rs/s/fm8hn3/cryptographic_agility_superior">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://mitxela.com/projects/jack_sparrow_compass">Jack Sparrow&amp;rsquo;s Compass&lt;/a>
+(&lt;a href="https://lobste.rs/s/v4lc6g/jack_sparrow_s_compass">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://nota-lang.org/">The Nota interactive document language&lt;/a>
+(&lt;a href="https://lobste.rs/s/cyx59p/nota_interactive_document_language">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/jart/cosmopolitan/releases/tag/2.0">Cosmopolitan v2.0&lt;/a>
+(&lt;a href="https://lobste.rs/s/mxbfdy/cosmopolitan_v2_0">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/onetrueawk/awk/commit/9ebe940cf3c652b0e373634d2aa4a00b8395b636">Brian Kernighan adds Unicode support to Awk&lt;/a>
+(&lt;a href="https://lobste.rs/s/h7ibsf/brian_kernighan_adds_unicode_support_awk">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-08-20</title><link>https://frozen-lobster.rohanverma.net/posts/2022-08-20/</link><pubDate>Sat, 20 Aug 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-08-20/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://aymericbeaumet.com/developers-please-nurture-your-coding-experience">Developers, please nurture your coding experience&lt;/a>
 (&lt;a href="https://lobste.rs/s/bqzdna/developers_please_nurture_your_coding">comments&lt;/a>)&lt;/p>
