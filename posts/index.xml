@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 21 Aug 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-08-21</title><link>https://frozen-lobster.rohanverma.net/posts/2022-08-21/</link><pubDate>Sun, 21 Aug 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-08-21/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 22 Aug 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-08-22</title><link>https://frozen-lobster.rohanverma.net/posts/2022-08-22/</link><pubDate>Mon, 22 Aug 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-08-22/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/stebunovd/blog/blob/master/contents/On-Estimates.md">On Estimates&lt;/a>
+(&lt;a href="https://lobste.rs/s/shapdl/on_estimates">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://simonwillison.net/2022/Aug/21/scotrail/">Hacking around with the ScotRail audio announcements&lt;/a>
+(&lt;a href="https://lobste.rs/s/0ni3p0/hacking_around_with_scotrail_audio">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://datastation.multiprocess.io/blog/2022-08-21-sqlite-limited-builtin-functions.html">SQLite has pretty limited builtin functions&lt;/a>
+(&lt;a href="https://lobste.rs/s/11j0lz/sqlite_has_pretty_limited_builtin">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://flang.llvm.org/docs/">The Flang Compiler (LLVM’s Fortran frontend)&lt;/a>
+(&lt;a href="https://lobste.rs/s/pa8bud/flang_compiler_llvm_s_fortran_frontend">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lukeplant.me.uk/blog/posts/zero-based-indexing-in-the-real-world/">Zero-based indexing in the real world (2013)&lt;/a>
+(&lt;a href="https://lobste.rs/s/erjms1/zero_based_indexing_real_world_2013">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://soatok.blog/2022/08/20/cryptographic-agility-and-superior-alternatives/">Cryptographic Agility and Superior Alternatives&lt;/a>
+(&lt;a href="https://lobste.rs/s/fm8hn3/cryptographic_agility_superior">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://maskray.me/blog/2022-08-21-glibc-and-dt-gnu-hash">glibc and DT_GNU_HASH&lt;/a>
+(&lt;a href="https://lobste.rs/s/wuxngd/glibc_dt_gnu_hash">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/ziglang/zig/wiki/Self-Hosted-Compiler-Upgrade-Guide">Zig is now self-hosted by default&lt;/a>
+(&lt;a href="https://lobste.rs/s/vzqivg/zig_is_now_self_hosted_by_default">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/onetrueawk/awk/commit/9ebe940cf3c652b0e373634d2aa4a00b8395b636">Brian Kernighan adds Unicode support to Awk&lt;/a>
+(&lt;a href="https://lobste.rs/s/h7ibsf/brian_kernighan_adds_unicode_support_awk">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pijul.org/">The Pijul version control system&lt;/a>
+(&lt;a href="https://lobste.rs/s/fpt0np/pijul_version_control_system">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-08-21</title><link>https://frozen-lobster.rohanverma.net/posts/2022-08-21/</link><pubDate>Sun, 21 Aug 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-08-21/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://github.com/ziglang/zig/wiki/Self-Hosted-Compiler-Upgrade-Guide">Zig is now self-hosted by default&lt;/a>
 (&lt;a href="https://lobste.rs/s/vzqivg/zig_is_now_self_hosted_by_default">comments&lt;/a>)&lt;/p>
