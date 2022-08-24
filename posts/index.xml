@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 23 Aug 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-08-23</title><link>https://frozen-lobster.rohanverma.net/posts/2022-08-23/</link><pubDate>Tue, 23 Aug 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-08-23/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 24 Aug 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-08-24</title><link>https://frozen-lobster.rohanverma.net/posts/2022-08-24/</link><pubDate>Wed, 24 Aug 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-08-24/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://notes.eatonphil.com/whats-the-big-deal-about-key-value-databases.html">What&amp;rsquo;s the big deal about embedded key-value databases like RocksDB?&lt;/a>
+(&lt;a href="https://lobste.rs/s/avljlh/what_s_big_deal_about_embedded_key_value">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What helped you grok spreadsheets?&lt;/a>
+(&lt;a href="https://lobste.rs/s/fa1kae/what_helped_you_grok_spreadsheets">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cs-syd.eu/posts/2022-08-22-how-to-deal-with-money-in-software">How to deal with money in software&lt;/a>
+(&lt;a href="https://lobste.rs/s/8kyh5e/how_deal_with_money_software">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://git-scm.com/docs/git-worktree#:~:text=A%20git%20repository%20can%20support,others%20in%20the%20same%20repository.">Use several git branches simultaneously&lt;/a>
+(&lt;a href="https://lobste.rs/s/rdmx4y/use_several_git_branches_simultaneously">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sethmlarson.dev/blog/preparing-for-the-wave-of-open-source-funding">Preparing for the wave of open source funding&lt;/a>
+(&lt;a href="https://lobste.rs/s/ikwovy/preparing_for_wave_open_source_funding">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/shmup/awesome-cosmopolitan">List of Cosmopolitan Libc related resources and projects&lt;/a>
+(&lt;a href="https://lobste.rs/s/s6dlyq/list_cosmopolitan_libc_related">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://buttondown.email/hillelwayne/archive/why-do-arrays-start-at-0/">Why do arrays start at 0?&lt;/a>
+(&lt;a href="https://lobste.rs/s/dyqx2z/why_do_arrays_start_at_0">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://dev.to/iamalnewkirk/introducing-venus-a-new-world-for-perl-5-1mfp">Introducing Venus, a new world and a standard library for Perl 5&lt;/a>
+(&lt;a href="https://lobste.rs/s/upb0fl/introducing_venus_new_world_standard">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tomassetti.me/parsing-sql/">Parsing SQL&lt;/a>
+(&lt;a href="https://lobste.rs/s/25ewke/parsing_sql">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/playlist?list=PLeF8ZihVdpFfttOtsot131byFrDVztt8T">BSDCan 2022 playlist&lt;/a>
+(&lt;a href="https://lobste.rs/s/melfs9/bsdcan_2022_playlist">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-08-23</title><link>https://frozen-lobster.rohanverma.net/posts/2022-08-23/</link><pubDate>Tue, 23 Aug 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-08-23/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://artemis.sh/2022/08/21/this-program-is-illegally-packaged-in-14-distributions.html">This Program is Illegally Packaged in 14 Distributions&lt;/a>
 (&lt;a href="https://lobste.rs/s/sst8cj/this_program_is_illegally_packaged_14">comments&lt;/a>)&lt;/p>
