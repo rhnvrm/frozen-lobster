@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 24 Aug 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-08-24</title><link>https://frozen-lobster.rohanverma.net/posts/2022-08-24/</link><pubDate>Wed, 24 Aug 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-08-24/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 25 Aug 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-08-25</title><link>https://frozen-lobster.rohanverma.net/posts/2022-08-25/</link><pubDate>Thu, 25 Aug 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-08-25/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://github.blog/changelog/2022-08-23-ssh-commit-verification-now-supported/">SSH commit verification now supported&lt;/a>
+(&lt;a href="https://lobste.rs/s/la1vtv/ssh_commit_verification_now_supported">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/cemu-project/Cemu">Cemu, a Wii U emulator, is now Open Source&lt;/a>
+(&lt;a href="https://lobste.rs/s/eodnbq/cemu_wii_u_emulator_is_now_open_source">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lwn.net/SubscriberLink/905164/8c13fabaff641359/">The container orchestrator landscape&lt;/a>
+(&lt;a href="https://lobste.rs/s/8ijio4/container_orchestrator_landscape">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/dvcrn/maskedemail-cli">maskedemail-cli: CLI to create fastmail masked emails&lt;/a>
+(&lt;a href="https://lobste.rs/s/zohgfg/maskedemail_cli_cli_create_fastmail">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://carlosbecker.com/posts/ssh-tips-and-tricks/">SSH Tips and Tricks&lt;/a>
+(&lt;a href="https://lobste.rs/s/jle167/ssh_tips_tricks">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://microsoft.github.io/z3guide/">Online Z3 Guide&lt;/a>
+(&lt;a href="https://lobste.rs/s/4zz9jc/online_z3_guide">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://wingolog.org/archives/2022/08/18/just-in-time-code-generation-within-webassembly">Just-in-time code generation within webassembly&lt;/a>
+(&lt;a href="https://lobste.rs/s/xdlkt6/just_time_code_generation_within">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://yuanchuan.dev/polygon-shapes">Polygon Shapes&lt;/a>
+(&lt;a href="https://lobste.rs/s/wmedn2/polygon_shapes">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.oilshell.org/blog/2022/08/release-0.12.4.html">Oil 0.12.4 - User Feedback&lt;/a>
+(&lt;a href="https://lobste.rs/s/wnixho/oil_0_12_4_user_feedback">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://danwin1210.de/github-ipv6-proxy.php">GitHub IPv6 proxy&lt;/a>
+(&lt;a href="https://lobste.rs/s/ccmw8n/github_ipv6_proxy">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-08-24</title><link>https://frozen-lobster.rohanverma.net/posts/2022-08-24/</link><pubDate>Wed, 24 Aug 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-08-24/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://notes.eatonphil.com/whats-the-big-deal-about-key-value-databases.html">What&amp;rsquo;s the big deal about embedded key-value databases like RocksDB?&lt;/a>
 (&lt;a href="https://lobste.rs/s/avljlh/what_s_big_deal_about_embedded_key_value">comments&lt;/a>)&lt;/p>
