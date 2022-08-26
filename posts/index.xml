@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 25 Aug 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-08-25</title><link>https://frozen-lobster.rohanverma.net/posts/2022-08-25/</link><pubDate>Thu, 25 Aug 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-08-25/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 26 Aug 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-08-26</title><link>https://frozen-lobster.rohanverma.net/posts/2022-08-26/</link><pubDate>Fri, 26 Aug 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-08-26/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://earthly.dev/blog/stop-10x-developer/">Stop saying 10x developer&lt;/a>
+(&lt;a href="https://lobste.rs/s/ezaucv/stop_saying_10x_developer">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/">Why your website should be under 14kb in size&lt;/a>
+(&lt;a href="https://lobste.rs/s/7i7fom/why_your_website_should_be_under_14kb_size">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.heroku.com/next-chapter">Heroku discontinuing free plans&lt;/a>
+(&lt;a href="https://lobste.rs/s/ezzt1v/heroku_discontinuing_free_plans">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://suricrasia.online/iceberg/">The Cursed Computer Iceberg Meme&lt;/a>
+(&lt;a href="https://lobste.rs/s/u2tadf/cursed_computer_iceberg_meme">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sethmlarson.dev/blog/switching-git-back-to-gpg-signing">Switching git back to GPG signing&lt;/a>
+(&lt;a href="https://lobste.rs/s/zdfunz/switching_git_back_gpg_signing">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.autodidacts.io/ghost-private-draft-urls-leaked-via-outlink-referrer-header/">Ghost Private Draft URLs Leaked via Outlink Referrer Header&lt;/a>
+(&lt;a href="https://lobste.rs/s/syg6yo/ghost_private_draft_urls_leaked_via">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.crowdsupply.com/mnt/pocket-reform">MNT Pocket Reform&lt;/a>
+(&lt;a href="https://lobste.rs/s/pp9oay/mnt_pocket_reform">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.aviator.co/stacked-prs-code-changes-as-narrative/">Stacked PRs: Code changes as narrative&lt;/a>
+(&lt;a href="https://lobste.rs/s/iyhrkb/stacked_prs_code_changes_as_narrative">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://boyter.org/posts/the-three-f-s-of-open-source/">The Three F&amp;rsquo;s of Open Source Development&lt;/a>
+(&lt;a href="https://lobste.rs/s/dvgbii/three_f_s_open_source_development">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://earthly.dev/blog/pong-part2/">Building Pong in My Terminal with Go&lt;/a>
+(&lt;a href="https://lobste.rs/s/vbkz7z/building_pong_my_terminal_with_go">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-08-25</title><link>https://frozen-lobster.rohanverma.net/posts/2022-08-25/</link><pubDate>Thu, 25 Aug 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-08-25/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://github.blog/changelog/2022-08-23-ssh-commit-verification-now-supported/">SSH commit verification now supported&lt;/a>
 (&lt;a href="https://lobste.rs/s/la1vtv/ssh_commit_verification_now_supported">comments&lt;/a>)&lt;/p>
