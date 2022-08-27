@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 26 Aug 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-08-26</title><link>https://frozen-lobster.rohanverma.net/posts/2022-08-26/</link><pubDate>Fri, 26 Aug 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-08-26/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 27 Aug 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-08-27</title><link>https://frozen-lobster.rohanverma.net/posts/2022-08-27/</link><pubDate>Sat, 27 Aug 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-08-27/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="">What are you reading this week?&lt;/a>
+(&lt;a href="https://lobste.rs/s/rniebx/what_are_you_reading_this_week">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gist.github.com/reednj/faca61bca9f09f9e1e9462595be2e931">Implementing Multiplication&lt;/a>
+(&lt;a href="https://lobste.rs/s/m0n8gl/implementing_multiplication">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://derw.substack.com/p/all-branches-will-diverge-from-the?sd=pf">All branches will diverge from the stem: from Elm to Derw&lt;/a>
+(&lt;a href="https://lobste.rs/s/alaxca/all_branches_will_diverge_from_stem_from">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.bleepingcomputer.com/news/security/lastpass-developer-systems-hacked-to-steal-source-code/">LastPass developer systems hacked to steal source code&lt;/a>
+(&lt;a href="https://lobste.rs/s/9oq63w/lastpass_developer_systems_hacked_steal">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jakob.space/blog/i-love-my-pinephone.html">I Love My PinePhone&lt;/a>
+(&lt;a href="https://lobste.rs/s/rc85uc/i_love_my_pinephone">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.heroku.com/next-chapter">Heroku discontinuing free plans&lt;/a>
+(&lt;a href="https://lobste.rs/s/ezzt1v/heroku_discontinuing_free_plans">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sunshowers.io/posts/dependencies/">Thinking about dependencies&lt;/a>
+(&lt;a href="https://lobste.rs/s/mzpjbz/thinking_about_dependencies">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this weekend?&lt;/a>
+(&lt;a href="https://lobste.rs/s/cjco9v/what_are_you_doing_this_weekend">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lock.cmpxchg8b.com/symbols.html">Unstripping Stripped Binaries&lt;/a>
+(&lt;a href="https://lobste.rs/s/yvjgof/unstripping_stripped_binaries">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://outerproduct.net/trivial/2022-08-25_unsigned.html">Unsigned comparisons in AVX2/SSE: a quick note&lt;/a>
+(&lt;a href="https://lobste.rs/s/dq69be/unsigned_comparisons_avx2_sse_quick_note">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-08-26</title><link>https://frozen-lobster.rohanverma.net/posts/2022-08-26/</link><pubDate>Fri, 26 Aug 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-08-26/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://earthly.dev/blog/stop-10x-developer/">Stop saying 10x developer&lt;/a>
 (&lt;a href="https://lobste.rs/s/ezaucv/stop_saying_10x_developer">comments&lt;/a>)&lt;/p>
