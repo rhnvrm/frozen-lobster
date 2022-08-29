@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 28 Aug 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-08-28</title><link>https://frozen-lobster.rohanverma.net/posts/2022-08-28/</link><pubDate>Sun, 28 Aug 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-08-28/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 29 Aug 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-08-29</title><link>https://frozen-lobster.rohanverma.net/posts/2022-08-29/</link><pubDate>Mon, 29 Aug 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-08-29/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/volution/kawipiko">kawipiko &amp;ndash; fast static HTTP server using CDB embedded databases&lt;/a>
+(&lt;a href="https://lobste.rs/s/0c85uk/kawipiko_fast_static_http_server_using">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://notes.alinpanaitiu.com/Weird%20monitor%20bugs">Weird monitor bugs people sent me in the last 5 years&lt;/a>
+(&lt;a href="https://lobste.rs/s/bllxll/weird_monitor_bugs_people_sent_me_last_5">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.tomshardware.com/news/30tb-portable-ssd-hits-walmart-for-dollar39-but-stay-away-from-it">30TB Portable SSD Hits Walmart For $39 But Stay Away From It&lt;/a>
+(&lt;a href="https://lobste.rs/s/dyqurb/30tb_portable_ssd_hits_walmart_for_39_stay">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ghettobastler.com/portfolio/3615yt/">3615-YouTube&lt;/a>
+(&lt;a href="https://lobste.rs/s/m8igqv/3615_youtube">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.startifact.com/posts/is-premature-optimization-the-root-of-all-evil/">Is premature optimization the root of all evil?&lt;/a>
+(&lt;a href="https://lobste.rs/s/zpjqdf/is_premature_optimization_root_all_evil">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sercuarc.org/barry-boehm-serc-chief-scientist-emeritus-retires/">Barry W. Boehm: March 16, 1935 – August 20, 2022&lt;/a>
+(&lt;a href="https://lobste.rs/s/0u3sds/barry_w_boehm_march_16_1935_august_20_2022">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://walid.dev/blog/stick-to-tinkering/">Stick to Tinkering&lt;/a>
+(&lt;a href="https://lobste.rs/s/7tzjgv/stick_tinkering">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://hackaday.com/2022/08/27/giant-keyboard-is-just-our-type/">Giant Keyboard Is Just Our Type&lt;/a>
+(&lt;a href="https://lobste.rs/s/hjnpen/giant_keyboard_is_just_our_type">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.haskellforall.com/2022/08/incrementally-package-haskell-program.html">Incrementally package a Haskell program using Nix&lt;/a>
+(&lt;a href="https://lobste.rs/s/apkzag/incrementally_package_haskell_program">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://xcellerator.github.io/posts/tetsuji/">Tetsuji: Remote Code Execution on a GameBoy Colour 22 Years Later&lt;/a>
+(&lt;a href="https://lobste.rs/s/drzxgq/tetsuji_remote_code_execution_on_gameboy">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-08-28</title><link>https://frozen-lobster.rohanverma.net/posts/2022-08-28/</link><pubDate>Sun, 28 Aug 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-08-28/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://michael.stapelberg.ch/posts/2022-08-27-out-of-band-remote-console/">DIY out of band management: remote console server&lt;/a>
 (&lt;a href="https://lobste.rs/s/nxw5lm/diy_out_band_management_remote_console">comments&lt;/a>)&lt;/p>
