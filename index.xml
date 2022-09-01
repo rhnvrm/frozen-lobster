@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 31 Aug 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-08-31</title><link>https://frozen-lobster.rohanverma.net/posts/2022-08-31/</link><pubDate>Wed, 31 Aug 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-08-31/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-09-01</title><link>https://frozen-lobster.rohanverma.net/posts/2022-09-01/</link><pubDate>Thu, 01 Sep 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-09-01/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://9to5google.com/2022/08/30/fuchsia-director-interview-chris-mckillop/">Interview: Fuchsia’s past, present, and future, as told by ex-director Chris McKillop&lt;/a>
+(&lt;a href="https://lobste.rs/s/pnhmv5/interview_fuchsia_s_past_present_future">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://martinheinz.dev/blog/79">You Should Be Using Python&amp;rsquo;s Walrus Operator&lt;/a>
+(&lt;a href="https://lobste.rs/s/0ipjdk/you_should_be_using_python_s_walrus">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.foonathan.net/2022/08/malloc-interface/">malloc() and free() are a bad API&lt;/a>
+(&lt;a href="https://lobste.rs/s/ywsc55/malloc_free_are_bad_api">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tratt.net/laurie/blog/2022/a_week_of_bug_reporting.html">A Week of Bug Reporting&lt;/a>
+(&lt;a href="https://lobste.rs/s/uvxxye/week_bug_reporting">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://arrdem.com/2022/08/31/dotfiles/">Cram; a new dotfile manager&lt;/a>
+(&lt;a href="https://lobste.rs/s/evu4aw/cram_new_dotfile_manager">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://staltz.com/time-till-open-source-alternative.html">Time Till Open Source Alternative&lt;/a>
+(&lt;a href="https://lobste.rs/s/qawxir/time_till_open_source_alternative">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ar.al/2022/08/30/dear-linux-privileged-ports-must-die/">Dear Linux, Privileged Ports Must Die&lt;/a>
+(&lt;a href="https://lobste.rs/s/ejwibq/dear_linux_privileged_ports_must_die">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://beesbuzz.biz/code/439-Falsehoods-programmers-believe-about-email">Falsehoods programmers believe about email&lt;/a>
+(&lt;a href="https://lobste.rs/s/pflgu7/falsehoods_programmers_believe_about">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.kryogenix.org/days/2022/08/31/farmbound-or-how-i-built-an-app-in-2022/">Farmbound, or how I built an app in 2022&lt;/a>
+(&lt;a href="https://lobste.rs/s/p6apmq/farmbound_how_i_built_app_2022">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.robinsloan.com/notes/home-cooked-app/">An app can be a home-cooked meal (2020)&lt;/a>
+(&lt;a href="https://lobste.rs/s/oxmkqj/app_can_be_home_cooked_meal_2020">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-08-31</title><link>https://frozen-lobster.rohanverma.net/posts/2022-08-31/</link><pubDate>Wed, 31 Aug 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-08-31/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://andys.page/posts/how-to-draw/">4.2 Gigabytes, or: How to Draw Anything&lt;/a>
 (&lt;a href="https://lobste.rs/s/skauui/4_2_gigabytes_how_draw_anything">comments&lt;/a>)&lt;/p>
