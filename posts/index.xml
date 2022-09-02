@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-09-01</title><link>https://frozen-lobster.rohanverma.net/posts/2022-09-01/</link><pubDate>Thu, 01 Sep 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-09-01/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 02 Sep 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-09-02</title><link>https://frozen-lobster.rohanverma.net/posts/2022-09-02/</link><pubDate>Fri, 02 Sep 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-09-02/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://medium.com/graalvm/native-minecraft-servers-with-graalvm-native-image-1a3f6a92eb48">Native Minecraft Servers with GraalVM Native Image&lt;/a>
+(&lt;a href="https://lobste.rs/s/s3y4i2/native_minecraft_servers_with_graalvm">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://helix-editor.com/news/release-22-08-highlights/">Helix Release 22.08 Highlights&lt;/a>
+(&lt;a href="https://lobste.rs/s/q8wxrn/helix_release_22_08_highlights">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://asternova.top/x86/index.html">X86 Play By Post&lt;/a>
+(&lt;a href="https://lobste.rs/s/qabrz7/x86_play_by_post">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.trytapioca.com/library-of-assessments">Realistic engineering hiring take-home tests&lt;/a>
+(&lt;a href="https://lobste.rs/s/hhjhvj/realistic_engineering_hiring_take_home">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://elixir-lang.org/blog/2022/09/01/elixir-v1-14-0-released/">Elixir v1.14 released&lt;/a>
+(&lt;a href="https://lobste.rs/s/zbr8we/elixir_v1_14_released">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/chaosprint/glicol/tree/main/rs/bela">You can now design music interaction on Bela board with Glicol syntax&lt;/a>
+(&lt;a href="https://lobste.rs/s/yu9ls0/you_can_now_design_music_interaction_on">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://martinheinz.dev/blog/79">You Should Be Using Python&amp;rsquo;s Walrus Operator&lt;/a>
+(&lt;a href="https://lobste.rs/s/0ipjdk/you_should_be_using_python_s_walrus">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/ahrm/sioyek">Sioyek is a PDF viewer designed for reading research papers and technical books&lt;/a>
+(&lt;a href="https://lobste.rs/s/wahf6q/sioyek_is_pdf_viewer_designed_for_reading">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://simonwillison.net/2022/Sep/1/sqlite-duckdb-paper/">Notes on the SQLite DuckDB paper&lt;/a>
+(&lt;a href="https://lobste.rs/s/e29rsa/notes_on_sqlite_duckdb_paper">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://spectrum.ieee.org/the-rise-of-sql">The Rise of SQL&lt;/a>
+(&lt;a href="https://lobste.rs/s/szvrnh/rise_sql">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-09-01</title><link>https://frozen-lobster.rohanverma.net/posts/2022-09-01/</link><pubDate>Thu, 01 Sep 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-09-01/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://9to5google.com/2022/08/30/fuchsia-director-interview-chris-mckillop/">Interview: Fuchsia’s past, present, and future, as told by ex-director Chris McKillop&lt;/a>
 (&lt;a href="https://lobste.rs/s/pnhmv5/interview_fuchsia_s_past_present_future">comments&lt;/a>)&lt;/p>
