@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 02 Sep 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-09-02</title><link>https://frozen-lobster.rohanverma.net/posts/2022-09-02/</link><pubDate>Fri, 02 Sep 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-09-02/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 03 Sep 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-09-03</title><link>https://frozen-lobster.rohanverma.net/posts/2022-09-03/</link><pubDate>Sat, 03 Sep 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-09-03/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://determinate.systems/posts/we-want-to-make-nix-better">We want to make Nix better&lt;/a>
+(&lt;a href="https://lobste.rs/s/d0lh6w/we_want_make_nix_better">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this weekend?&lt;/a>
+(&lt;a href="https://lobste.rs/s/aim0zm/what_are_you_doing_this_weekend">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://medium.com/@meadowrun/kubernetes-was-never-designed-for-batch-jobs-f59be376a338">Kubernetes Was Never Designed for Batch Jobs&lt;/a>
+(&lt;a href="https://lobste.rs/s/z8gxe6/kubernetes_was_never_designed_for_batch">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://undeadly.org/cgi?action=article;sid=20220902100648">OpenBSD may soon gain further memory protections: immutable userland mappings&lt;/a>
+(&lt;a href="https://lobste.rs/s/fgzrmw/openbsd_may_soon_gain_further_memory">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.collabora.com/news-and-blog/blog/2022/09/02/using-a-raspberry-pi-as-a-bluetooth-speaker-with-pipewire-wireplumber/">Using a Raspberry Pi as a Bluetooth speaker with PipeWire&lt;/a>
+(&lt;a href="https://lobste.rs/s/32ktrt/using_raspberry_pi_as_bluetooth_speaker">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://daniel.haxx.se/blog/2022/09/02/curls-tls-fingerprint/">curl’s TLS fingerprint&lt;/a>
+(&lt;a href="https://lobste.rs/s/jm1f2j/curl_s_tls_fingerprint">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.torproject.org/arti_100_released/">Arti 1.0.0 is released: Our Rust Tor implementation is ready for production use&lt;/a>
+(&lt;a href="https://lobste.rs/s/uilh4l/arti_1_0_0_is_released_our_rust_tor">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://simonwillison.net/2022/Sep/1/sqlite-duckdb-paper/">Notes on the SQLite DuckDB paper&lt;/a>
+(&lt;a href="https://lobste.rs/s/e29rsa/notes_on_sqlite_duckdb_paper">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://diesel.rs/news/2_0_0_release.html">Diesel 2.0.0&lt;/a>
+(&lt;a href="https://lobste.rs/s/mbfupy/diesel_2_0_0">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://research.nccgroup.com/2022/09/01/settlers-of-netlink-exploiting-a-limited-uaf-in-nf_tables-cve-2022-32250/">SETTLERS OF NETLINK: Exploiting a limited UAF in nf_tables (CVE-2022-32250)&lt;/a>
+(&lt;a href="https://lobste.rs/s/sheoeg/settlers_netlink_exploiting_limited_uaf">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-09-02</title><link>https://frozen-lobster.rohanverma.net/posts/2022-09-02/</link><pubDate>Fri, 02 Sep 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-09-02/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://medium.com/graalvm/native-minecraft-servers-with-graalvm-native-image-1a3f6a92eb48">Native Minecraft Servers with GraalVM Native Image&lt;/a>
 (&lt;a href="https://lobste.rs/s/s3y4i2/native_minecraft_servers_with_graalvm">comments&lt;/a>)&lt;/p>
