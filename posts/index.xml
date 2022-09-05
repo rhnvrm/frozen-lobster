@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 04 Sep 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-09-04</title><link>https://frozen-lobster.rohanverma.net/posts/2022-09-04/</link><pubDate>Sun, 04 Sep 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-09-04/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 05 Sep 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-09-05</title><link>https://frozen-lobster.rohanverma.net/posts/2022-09-05/</link><pubDate>Mon, 05 Sep 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-09-05/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/lunatic-solutions/submillisecond">submillisecond web framework&lt;/a>
+(&lt;a href="https://lobste.rs/s/f2xbn0/submillisecond_web_framework">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://mat.services/posts/static-site-with-nix-and-caddy/">hosting a static site on fly.io with nix and caddy&lt;/a>
+(&lt;a href="https://lobste.rs/s/qydlal/hosting_static_site_on_fly_io_with_nix">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.cloudflare.com/kiwifarms-blocked/">Blocking Kiwifarms&lt;/a>
+(&lt;a href="https://lobste.rs/s/ran82n/blocking_kiwifarms">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://oldvcr.blogspot.com/2022/09/what-kim-1-really-needs-is-bubble.html">What the KIM-1 really needs is bubble memory&lt;/a>
+(&lt;a href="https://lobste.rs/s/d9rfpm/what_kim_1_really_needs_is_bubble_memory">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ktkaufman03.github.io/blog/2022/09/04/pakon-reverse-engineering/">Reviving the coolest scanner you&amp;rsquo;ve never heard of &amp;lt;- amazing debugging of a fossilized WinXP driver&lt;/a>
+(&lt;a href="https://lobste.rs/s/hfxics/reviving_coolest_scanner_you_ve_never">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/ocaml-gospel/gospel/blob/main/README.md">GOSPEL: A tool-agnostic formal specification language for OCaml&lt;/a>
+(&lt;a href="https://lobste.rs/s/th2zkx/gospel_tool_agnostic_formal">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://stderr.nl/Blog/Hardware/Thunderbolt/TechnologyOverview.html">USB, Thunderbolt, Displayport &amp;amp; docks&lt;/a>
+(&lt;a href="https://lobste.rs/s/piokkw/usb_thunderbolt_displayport_docks">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://easyperf.net/blog/2022/09/01/Utilizing-Huge-Pages-For-Code">Performance Benefits of Using Huge Pages for Code&lt;/a>
+(&lt;a href="https://lobste.rs/s/rye7kh/performance_benefits_using_huge_pages">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://changelog.complete.org/archives/10421-dead-usb-drives-are-fine-building-a-reliable-sneakernet">Dead USB Drives Are Fine: Building a Reliable Sneakernet&lt;/a>
+(&lt;a href="https://lobste.rs/s/prtnbp/dead_usb_drives_are_fine_building">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.open-std.org/jtc1/sc22/wg9/n424.pdf">Guide for the use of the Ada Ravenscar Profile in high integrity systems&lt;/a>
+(&lt;a href="https://lobste.rs/s/vzc5yt/guide_for_use_ada_ravenscar_profile_high">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-09-04</title><link>https://frozen-lobster.rohanverma.net/posts/2022-09-04/</link><pubDate>Sun, 04 Sep 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-09-04/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://corecursive.com/prison-programming-with-rick-wolter/">From Prison To Programming&lt;/a>
 (&lt;a href="https://lobste.rs/s/td3wwe/from_prison_programming">comments&lt;/a>)&lt;/p>
