@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 05 Sep 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-09-05</title><link>https://frozen-lobster.rohanverma.net/posts/2022-09-05/</link><pubDate>Mon, 05 Sep 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-09-05/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 06 Sep 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-09-06</title><link>https://frozen-lobster.rohanverma.net/posts/2022-09-06/</link><pubDate>Tue, 06 Sep 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-09-06/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://notes.volution.ro/v1/2022/09/notes/b08118d8/">Static site hosting hurdles&lt;/a>
+(&lt;a href="https://lobste.rs/s/8rxdhi/static_site_hosting_hurdles">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cfenollosa.com/blog/after-self-hosting-my-email-for-twenty-three-years-i-have-thrown-in-the-towel-the-oligopoly-has-won.html">After self-hosting my email for twenty-three years I have thrown in the towel&lt;/a>
+(&lt;a href="https://lobste.rs/s/icdrmv/after_self_hosting_my_email_for_twenty">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://xeiaso.net/talks/rustconf-2022-sheer-terror-pam">The Sheer Terror of PAM&lt;/a>
+(&lt;a href="https://lobste.rs/s/2zjute/sheer_terror_pam">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://dmathieu.com/articles/development/no-need-for-metrics/">You most likely don&amp;rsquo;t need metrics&lt;/a>
+(&lt;a href="https://lobste.rs/s/zwhlby/you_most_likely_don_t_need_metrics">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/Sanakan8472/copy-dialog-lunar-lander">Play lunar lander in you windows file copy dialog&lt;/a>
+(&lt;a href="https://lobste.rs/s/sogfza/play_lunar_lander_you_windows_file_copy">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://peppe.rs/posts/curing_a_case_of_git-UX/">Curing A Case Of Git-UX&lt;/a>
+(&lt;a href="https://lobste.rs/s/c4aodh/curing_case_git_ux">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this week?&lt;/a>
+(&lt;a href="https://lobste.rs/s/wtidrg/what_are_you_doing_this_week">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sqlite.org/releaselog/3_39_3.html">SQLite Release 3.39.3&lt;/a>
+(&lt;a href="https://lobste.rs/s/pzlamf/sqlite_release_3_39_3">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://mat.services/posts/static-site-with-nix-and-caddy/">hosting a static site on fly.io with nix and caddy&lt;/a>
+(&lt;a href="https://lobste.rs/s/qydlal/hosting_static_site_on_fly_io_with_nix">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/sd2k/grafana-tokio-console-datasource">Tokio Console Datasource for Grafana&lt;/a>
+(&lt;a href="https://lobste.rs/s/zeupdi/tokio_console_datasource_for_grafana">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-09-05</title><link>https://frozen-lobster.rohanverma.net/posts/2022-09-05/</link><pubDate>Mon, 05 Sep 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-09-05/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://github.com/lunatic-solutions/submillisecond">submillisecond web framework&lt;/a>
 (&lt;a href="https://lobste.rs/s/f2xbn0/submillisecond_web_framework">comments&lt;/a>)&lt;/p>
