@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 08 Sep 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-09-08</title><link>https://frozen-lobster.rohanverma.net/posts/2022-09-08/</link><pubDate>Thu, 08 Sep 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-09-08/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 09 Sep 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-09-09</title><link>https://frozen-lobster.rohanverma.net/posts/2022-09-09/</link><pubDate>Fri, 09 Sep 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-09-09/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://daniel.haxx.se/blog/2022/09/08/http-http-http-http-http-http-http/">http://http://http://@http://http://?http://#http://&lt;/a>
+(&lt;a href="https://lobste.rs/s/vlukqa/http_http_http_http_http_http_http">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/maxpert/marmot">Marmot: A distributed SQLite replication&lt;/a>
+(&lt;a href="https://lobste.rs/s/f9slcf/marmot_distributed_sqlite_replication">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://docs.taichi-lang.org/blog/accelerate-python-code-100x">Accelerate Python code 100x by import taichi as ti&lt;/a>
+(&lt;a href="https://lobste.rs/s/cctijb/accelerate_python_code_100x_by_import">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://matduggan.com/battle-of-the-text-editors/">Reviewing some new Rust text editors&lt;/a>
+(&lt;a href="https://lobste.rs/s/xyexnb/reviewing_some_new_rust_text_editors">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.graplsecurity.com/post/attacking-firecracker">Attacking Firecracker: AWS&amp;rsquo; microVM Monitor Written in Rust&lt;/a>
+(&lt;a href="https://lobste.rs/s/jedoog/attacking_firecracker_aws_microvm">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://prql-lang.org/">PRQL: Pipelined Relational Query Language&lt;/a>
+(&lt;a href="https://lobste.rs/s/dwpmqi/prql_pipelined_relational_query">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://browncs1951x.github.io/static/files/hitchhikersguide.pdf">The Hitchhiker’s Guide to Logical Verification&lt;/a>
+(&lt;a href="https://lobste.rs/s/4qrc57/hitchhiker_s_guide_logical_verification">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://zserge.com/posts/zig-the-small-language/">Zig, the small language&lt;/a>
+(&lt;a href="https://lobste.rs/s/vxjhhl/zig_small_language">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.digitalocean.com/blog/inside-digitaloceans-reserved-ip-rails-migration">Inside DigitalOcean&amp;rsquo;s Reserved IP Rails migration&lt;/a>
+(&lt;a href="https://lobste.rs/s/a4ll6t/inside_digitalocean_s_reserved_ip_rails">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://macoy.me/blog/programming/GitHubMigration">The GitHub migration continues&lt;/a>
+(&lt;a href="https://lobste.rs/s/bnpupx/github_migration_continues">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-09-08</title><link>https://frozen-lobster.rohanverma.net/posts/2022-09-08/</link><pubDate>Thu, 08 Sep 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-09-08/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://matduggan.com/battle-of-the-text-editors/">Reviewing some new Rust text editors&lt;/a>
 (&lt;a href="https://lobste.rs/s/xyexnb/reviewing_some_new_rust_text_editors">comments&lt;/a>)&lt;/p>
