@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 10 Sep 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-09-10</title><link>https://frozen-lobster.rohanverma.net/posts/2022-09-10/</link><pubDate>Sat, 10 Sep 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-09-10/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 11 Sep 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-09-11</title><link>https://frozen-lobster.rohanverma.net/posts/2022-09-11/</link><pubDate>Sun, 11 Sep 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-09-11/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://derw.substack.com/p/the-case-for-building-something-wonderful?sd=pf">The case for building something wonderful alone&lt;/a>
+(&lt;a href="https://lobste.rs/s/usvwgn/case_for_building_something_wonderful">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.heroku.com/neither-self-nor-this-receivers-in-go">Neither self nor this: Receivers in Go&lt;/a>
+(&lt;a href="https://lobste.rs/s/h0adlr/neither_self_nor_this_receivers_go">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.usenix.org/publications/loginonline/transcending-posix-end-era">Transcending POSIX: The End of an Era?&lt;/a>
+(&lt;a href="https://lobste.rs/s/7b5ors/transcending_posix_end_era">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://dev.to/codypotter/the-case-for-self-receivers-in-go-3h7f">The case for &lt;code>self&lt;/code> receivers in Go&lt;/a>
+(&lt;a href="https://lobste.rs/s/c4k0pt/case_for_self_receivers_go">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://computeradsfromthepast.substack.com/p/connectix-quickcam">Connectix QuickCam- the first webcam&lt;/a>
+(&lt;a href="https://lobste.rs/s/ztk1dc/connectix_quickcam_first_webcam">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://lambda-the-ultimate.org/node/5648">Graydon Hoare: 21 compilers and 3 orders of magnitude in 60 minutes&lt;/a>
+(&lt;a href="https://lobste.rs/s/ezfu68/graydon_hoare_21_compilers_3_orders">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://robert.kra.hn/posts/2022-09-09-speeding-up-incremental-rust-compilation-with-dylibs/">Speeding up incremental Rust compilation with dylibs&lt;/a>
+(&lt;a href="https://lobste.rs/s/h4ffpl/speeding_up_incremental_rust">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.hadess.net/2022/08/speeding-up-kernel-testing-loop.html">Speeding up the kernel testing loop&lt;/a>
+(&lt;a href="https://lobste.rs/s/n2nnpj/speeding_up_kernel_testing_loop">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jacobian.org/2022/sep/9/quality-is-systemic/">Quality Is Systemic&lt;/a>
+(&lt;a href="https://lobste.rs/s/vajwiu/quality_is_systemic">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://austingil.com/html-capture-attribute/">TIL: You Can Access A User&amp;rsquo;s Camera with Just HTML&lt;/a>
+(&lt;a href="https://lobste.rs/s/5xqeyx/til_you_can_access_user_s_camera_with_just">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-09-10</title><link>https://frozen-lobster.rohanverma.net/posts/2022-09-10/</link><pubDate>Sat, 10 Sep 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-09-10/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://austingil.com/html-capture-attribute/">TIL: You Can Access A User&amp;rsquo;s Camera with Just HTML&lt;/a>
 (&lt;a href="https://lobste.rs/s/5xqeyx/til_you_can_access_user_s_camera_with_just">comments&lt;/a>)&lt;/p>
