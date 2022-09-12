@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 11 Sep 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-09-11</title><link>https://frozen-lobster.rohanverma.net/posts/2022-09-11/</link><pubDate>Sun, 11 Sep 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-09-11/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 12 Sep 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-09-12</title><link>https://frozen-lobster.rohanverma.net/posts/2022-09-12/</link><pubDate>Mon, 12 Sep 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-09-12/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://git.meli.delivery/meli/meli#meli-github-license-https-img-shields-io-github-license-meli-meli-https-github-com-meli-meli-blob-master-copying-crates-io-https-img-shields-io-crates-v-meli-https-crates-io-crates-meli">meli - a text user interface e-mail client in the terminal, in the spirit of mutt&lt;/a>
+(&lt;a href="https://lobste.rs/s/uzo9pu/meli_text_user_interface_e_mail_client">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/golang/go/discussions/54763">Structured, leveled logging in Go&amp;rsquo;s standard library&lt;/a>
+(&lt;a href="https://lobste.rs/s/schsks/structured_leveled_logging_go_s_standard">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://andydote.co.uk/2022/09/11/uml-isnt-dead/">The reports of UML&amp;rsquo;s death are greatly exaggerated&lt;/a>
+(&lt;a href="https://lobste.rs/s/lrltaj/reports_uml_s_death_are_greatly">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://indieweb.org/POSSE">POSSE: Publish on your Own Site, Syndicate Elsewhere&lt;/a>
+(&lt;a href="https://lobste.rs/s/0liktg/posse_publish_on_your_own_site_syndicate">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://utdemir.com/posts/choosing-cloud-regions.html">Choosing cloud regions for lower latency: A data-driven approach&lt;/a>
+(&lt;a href="https://lobste.rs/s/l2cgvp/choosing_cloud_regions_for_lower_latency">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://codingnest.com/the-little-things-my-radical-opinions-about-unit-tests/">The Little Things: My &amp;ldquo;radical&amp;rdquo; opinions about unit tests&lt;/a>
+(&lt;a href="https://lobste.rs/s/wgswc6/little_things_my_radical_opinions_about">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://monthly-reports.archlinux.page/2022/08/">Arch Linux in August 2022&lt;/a>
+(&lt;a href="https://lobste.rs/s/plfzxr/arch_linux_august_2022">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gist.github.com/lf94/d16b55fa7c79d989e211367a44d1a9cc">Reflecting on personal Ansible usage, I wrote a better alternative for myself in 1 night&lt;/a>
+(&lt;a href="https://lobste.rs/s/kgukmw/reflecting_on_personal_ansible_usage_i">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://contra.com/p/MZLvPAOP-fully-qualified-names-vs-a-jungle-of-imports">Fully qualified names vs a jungle of imports&lt;/a>
+(&lt;a href="https://lobste.rs/s/cn95ol/fully_qualified_names_vs_jungle_imports">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://buttondown.email/hillelwayne/archive/why-uml-really-died/">Why UML &amp;ldquo;Really&amp;rdquo; Died (2021)&lt;/a>
+(&lt;a href="https://lobste.rs/s/fiu6gb/why_uml_really_died_2021">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-09-11</title><link>https://frozen-lobster.rohanverma.net/posts/2022-09-11/</link><pubDate>Sun, 11 Sep 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-09-11/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://derw.substack.com/p/the-case-for-building-something-wonderful?sd=pf">The case for building something wonderful alone&lt;/a>
 (&lt;a href="https://lobste.rs/s/usvwgn/case_for_building_something_wonderful">comments&lt;/a>)&lt;/p>
