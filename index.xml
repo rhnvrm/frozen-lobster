@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 12 Sep 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-09-12</title><link>https://frozen-lobster.rohanverma.net/posts/2022-09-12/</link><pubDate>Mon, 12 Sep 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-09-12/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 13 Sep 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-09-13</title><link>https://frozen-lobster.rohanverma.net/posts/2022-09-13/</link><pubDate>Tue, 13 Sep 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-09-13/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://xeiaso.net/talks/how-my-website-works">My Blog is Hilariously Overengineered to the Point People Think it&amp;rsquo;s a Static Site&lt;/a>
+(&lt;a href="https://lobste.rs/s/5lcybg/my_blog_is_hilariously_overengineered">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://awesomekling.github.io/Ladybird-a-new-cross-platform-browser-project/">Ladybird: A new cross-platform browser project&lt;/a>
+(&lt;a href="https://lobste.rs/s/qnecxx/ladybird_new_cross_platform_browser">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://inko-lang.org/news/inko-0-10-0-released/">Inko 0.10.0: build concurrent software with confidence&lt;/a>
+(&lt;a href="https://lobste.rs/s/way8iy/inko_0_10_0_build_concurrent_software_with">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">Using mutual tls in place of api keys&lt;/a>
+(&lt;a href="https://lobste.rs/s/9f3av9/using_mutual_tls_place_api_keys">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://wiki.alopex.li/WirthEvolution">Wirth Language Evolution&lt;/a>
+(&lt;a href="https://lobste.rs/s/flcjqg/wirth_language_evolution">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://simonwillison.net/2022/Sep/12/prompt-injection/">Prompt injection attacks against GPT-3&lt;/a>
+(&lt;a href="https://lobste.rs/s/g7v4m6/prompt_injection_attacks_against_gpt_3">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/jgbyrne/banzai">banzai: a pure Rust bzip2 encoder&lt;/a>
+(&lt;a href="https://lobste.rs/s/gwgecn/banzai_pure_rust_bzip2_encoder">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://joeduffyblog.com/2016/02/07/the-error-model/">The Error Model [2016]&lt;/a>
+(&lt;a href="https://lobste.rs/s/yukv6q/error_model_2016">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://crypto.stackexchange.com/q/101827">Why do web-services tend to use preshared secret keys for client authentication instead of public keys?&lt;/a>
+(&lt;a href="https://lobste.rs/s/m540h7/why_do_web_services_tend_use_preshared">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this week?&lt;/a>
+(&lt;a href="https://lobste.rs/s/eidzu7/what_are_you_doing_this_week">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-09-12</title><link>https://frozen-lobster.rohanverma.net/posts/2022-09-12/</link><pubDate>Mon, 12 Sep 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-09-12/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://git.meli.delivery/meli/meli#meli-github-license-https-img-shields-io-github-license-meli-meli-https-github-com-meli-meli-blob-master-copying-crates-io-https-img-shields-io-crates-v-meli-https-crates-io-crates-meli">meli - a text user interface e-mail client in the terminal, in the spirit of mutt&lt;/a>
 (&lt;a href="https://lobste.rs/s/uzo9pu/meli_text_user_interface_e_mail_client">comments&lt;/a>)&lt;/p>
