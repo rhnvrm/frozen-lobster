@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 14 Sep 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-09-14</title><link>https://frozen-lobster.rohanverma.net/posts/2022-09-14/</link><pubDate>Wed, 14 Sep 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-09-14/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 15 Sep 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-09-15</title><link>https://frozen-lobster.rohanverma.net/posts/2022-09-15/</link><pubDate>Thu, 15 Sep 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-09-15/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://typefully.com/DanHollick/qr-codes-T7tLlNi">Ever wondered how a QR code works?&lt;/a>
+(&lt;a href="https://lobste.rs/s/fhmeuv/ever_wondered_how_qr_code_works">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gittup.org/tup/">tup: a file-based build system&lt;/a>
+(&lt;a href="https://lobste.rs/s/3fnkyc/tup_file_based_build_system">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lwn.net/Articles/908032/">Unicode 15 released&lt;/a>
+(&lt;a href="https://lobste.rs/s/yjzmsi/unicode_15_released">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.bleepingcomputer.com/news/security/microsoft-teams-stores-auth-tokens-as-cleartext-in-windows-linux-macs/">Microsoft Teams stores auth tokens as cleartext in Windows, Linux, Macs&lt;/a>
+(&lt;a href="https://lobste.rs/s/kjle8u/microsoft_teams_stores_auth_tokens_as">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://earthly.dev/blog/bazel-build/">When to use Bazel?&lt;/a>
+(&lt;a href="https://lobste.rs/s/xus8hc/when_use_bazel">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tvl.fyi/blog/tvix-status-september-22">Tvix Status - September &amp;lsquo;22&lt;/a>
+(&lt;a href="https://lobste.rs/s/pynivl/tvix_status_september_22">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.eldrid.ge/2022/08/12/online-identity-is-complicated/">Tying Real Life Identity to Online Identity Is Complicated&lt;/a>
+(&lt;a href="https://lobste.rs/s/jyd0cr/tying_real_life_identity_online_identity">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://bytecodealliance.org/articles/security-and-correctness-in-wasmtime">Security and Correctness in Wasmtime&lt;/a>
+(&lt;a href="https://lobste.rs/s/ltqdwy/security_correctness_wasmtime">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tably.com/blog/high-performance-analytics">Differential dataflow is the next level of query optimisation&lt;/a>
+(&lt;a href="https://lobste.rs/s/bolgun/differential_dataflow_is_next_level">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://eyeondesign.aiga.org/we-spoke-with-the-last-person-standing-in-the-floppy-disk-business/">We Spoke With the Last Person Standing in the Floppy Disk Business&lt;/a>
+(&lt;a href="https://lobste.rs/s/gkg7gk/we_spoke_with_last_person_standing_floppy">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-09-14</title><link>https://frozen-lobster.rohanverma.net/posts/2022-09-14/</link><pubDate>Wed, 14 Sep 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-09-14/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://earthly.dev/blog/bazel-build/">When to use Bazel?&lt;/a>
 (&lt;a href="https://lobste.rs/s/xus8hc/when_use_bazel">comments&lt;/a>)&lt;/p>
