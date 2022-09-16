@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 15 Sep 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-09-15</title><link>https://frozen-lobster.rohanverma.net/posts/2022-09-15/</link><pubDate>Thu, 15 Sep 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-09-15/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 16 Sep 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-09-16</title><link>https://frozen-lobster.rohanverma.net/posts/2022-09-16/</link><pubDate>Fri, 16 Sep 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-09-16/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://invisv.com/articles/relay.html">Why VPNs are Wrong for Privacy and MPRs are Right&lt;/a>
+(&lt;a href="https://lobste.rs/s/hzxakf/why_vpns_are_wrong_for_privacy_mprs_are">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://bsago.me/posts/that-annoying-shade-of-blue">That annoying shade of blue (2018)&lt;/a>
+(&lt;a href="https://lobste.rs/s/scgsof/annoying_shade_blue_2018">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.boringcactus.com/2021/02/22/can-we-please-move-past-git.html">Can We Please Move Past Git? (2021)&lt;/a>
+(&lt;a href="https://lobste.rs/s/hozl38/can_we_please_move_past_git_2021">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://slint-ui.com/blog/slint-0.3-released-with-platform-api-for-mcu.html">Slint released version 0.3 &amp;ndash; A GUI toolkit written in Rust&lt;/a>
+(&lt;a href="https://lobste.rs/s/nnr2tg/slint_released_version_0_3_gui_toolkit">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://semantic-domain.blogspot.com/2022/09/the-golden-age-of-pl-research.html?m=1">The Golden Age of PL Research&lt;/a>
+(&lt;a href="https://lobste.rs/s/zij3hb/golden_age_pl_research">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thomask.sdf.org/blog/2022/09/15/a-taxonomy-of-hosting-options.html">A taxonomy of hosting options, for personal data security&lt;/a>
+(&lt;a href="https://lobste.rs/s/tjd5xn/taxonomy_hosting_options_for_personal">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://godotengine.org/article/dev-snapshot-godot-4-0-beta-1">The next big step: Godot 4.0 reaches Beta&lt;/a>
+(&lt;a href="https://lobste.rs/s/gc6sbs/next_big_step_godot_4_0_reaches_beta">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.parseable.io/docs/introduction">Think Prometheus, but for logs (not metrics). Simple, efficient log store&lt;/a>
+(&lt;a href="https://lobste.rs/s/m5ctvs/think_prometheus_for_logs_not_metrics">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.drewolson.org/easy-json">Easy JSON in Haskell&lt;/a>
+(&lt;a href="https://lobste.rs/s/xm1b01/easy_json_haskell">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gittup.org/tup/">tup: a file-based build system&lt;/a>
+(&lt;a href="https://lobste.rs/s/3fnkyc/tup_file_based_build_system">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-09-15</title><link>https://frozen-lobster.rohanverma.net/posts/2022-09-15/</link><pubDate>Thu, 15 Sep 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-09-15/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://typefully.com/DanHollick/qr-codes-T7tLlNi">Ever wondered how a QR code works?&lt;/a>
 (&lt;a href="https://lobste.rs/s/fhmeuv/ever_wondered_how_qr_code_works">comments&lt;/a>)&lt;/p>
