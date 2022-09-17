@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 16 Sep 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-09-16</title><link>https://frozen-lobster.rohanverma.net/posts/2022-09-16/</link><pubDate>Fri, 16 Sep 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-09-16/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 17 Sep 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-09-17</title><link>https://frozen-lobster.rohanverma.net/posts/2022-09-17/</link><pubDate>Sat, 17 Sep 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-09-17/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://graphite.rs/">Graphite: Redefining state-of-the-art graphics editing&lt;/a>
+(&lt;a href="https://lobste.rs/s/r2fxge/graphite_redefining_state_art_graphics">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://loganmarchione.com/2022/09/homelab-10-mini-rack-shelves/">Homelab 10&amp;quot; mini-rack shelves&lt;/a>
+(&lt;a href="https://lobste.rs/s/efv9jg/homelab_10_mini_rack_shelves">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ncameron.org/blog/ten-challenges-for-rust/">Ten challenges for Rust&lt;/a>
+(&lt;a href="https://lobste.rs/s/wh7jgy/ten_challenges_for_rust">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.andreinc.net/2022/09/01/patological-input-for-the-java-hash-tables">Building pathological input for Java HashMaps - hash collisions generator&lt;/a>
+(&lt;a href="https://lobste.rs/s/anzqcn/building_pathological_input_for_java">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://betterstack.com/community/guides/logging/zerolog/">A Complete Guide to Logging in Go with Zerolog&lt;/a>
+(&lt;a href="https://lobste.rs/s/mzlbbe/complete_guide_logging_go_with_zerolog">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://swagitda.com/blog/posts/securing-the-supply-chain-of-nothing/">Securing the Supply Chain of Nothing&lt;/a>
+(&lt;a href="https://lobste.rs/s/p40ks6/securing_supply_chain_nothing">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this weekend?&lt;/a>
+(&lt;a href="https://lobste.rs/s/y6hkez/what_are_you_doing_this_weekend">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/rossimo/retrobot">Retrobot: A Discord bot that plays emulated games with friends over chat&lt;/a>
+(&lt;a href="https://lobste.rs/s/vr9xui/retrobot_discord_bot_plays_emulated">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://invisv.com/articles/relay.html">Why VPNs are Wrong for Privacy and MPRs are Right&lt;/a>
+(&lt;a href="https://lobste.rs/s/hzxakf/why_vpns_are_wrong_for_privacy_mprs_are">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://osg.tuhh.de/Advent/">Advent(2) &amp;ndash; The System-Call Advent Calendar&lt;/a>
+(&lt;a href="https://lobste.rs/s/dlieyg/advent_2_system_call_advent_calendar">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-09-16</title><link>https://frozen-lobster.rohanverma.net/posts/2022-09-16/</link><pubDate>Fri, 16 Sep 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-09-16/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://invisv.com/articles/relay.html">Why VPNs are Wrong for Privacy and MPRs are Right&lt;/a>
 (&lt;a href="https://lobste.rs/s/hzxakf/why_vpns_are_wrong_for_privacy_mprs_are">comments&lt;/a>)&lt;/p>
