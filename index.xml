@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 17 Sep 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-09-17</title><link>https://frozen-lobster.rohanverma.net/posts/2022-09-17/</link><pubDate>Sat, 17 Sep 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-09-17/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 18 Sep 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-09-18</title><link>https://frozen-lobster.rohanverma.net/posts/2022-09-18/</link><pubDate>Sun, 18 Sep 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-09-18/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://woodrush.github.io/blog/lambdalisp.html">LambdaLisp - A Lisp Interpreter That Runs on Lambda Calculus&lt;/a>
+(&lt;a href="https://lobste.rs/s/fmbc62/lambdalisp_lisp_interpreter_runs_on">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/hsutter/cppfront">cppfront: A personal experimental C++ Syntax 2 -&amp;gt; Syntax 1 compiler by Herb Sutter&lt;/a>
+(&lt;a href="https://lobste.rs/s/pd3dwi/cppfront_personal_experimental_c_syntax">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://xenodium.com/rm-important-txt-oh-sht/">$ rm Important.txt (uh oh!)&lt;/a>
+(&lt;a href="https://lobste.rs/s/fs78pl/rm_important_txt_uh_oh">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gabrielsieben.tech/2022/07/29/remote-assertion-is-coming-back-how-much-freedom-will-it-take/">Remote attestation is coming back. How much freedom will it take?&lt;/a>
+(&lt;a href="https://lobste.rs/s/jswwph/remote_attestation_is_coming_back_how">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://xeiaso.net/blog/push-2fa-considered-harmful">Push notification two-factor auth considered harmful&lt;/a>
+(&lt;a href="https://lobste.rs/s/hhmnne/push_notification_two_factor_auth">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ncameron.org/blog/ten-challenges-for-rust/">Ten challenges for Rust&lt;/a>
+(&lt;a href="https://lobste.rs/s/wh7jgy/ten_challenges_for_rust">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://simonwillison.net/2022/Sep/17/prompt-injection-more-ai/">You can’t solve AI security problems with more AI&lt;/a>
+(&lt;a href="https://lobste.rs/s/xrt41x/you_can_t_solve_ai_security_problems_with">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.i-dont-care-about-cookies.eu/whats-new/acquisition/">I don&amp;rsquo;t care about cookies acquired by Avast&lt;/a>
+(&lt;a href="https://lobste.rs/s/avfchk/i_don_t_care_about_cookies_acquired_by">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lcamtuf.coredump.cx/photo_basics/">Photography for geeks&lt;/a>
+(&lt;a href="https://lobste.rs/s/3jk4w2/photography_for_geeks">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/bulwarkid/virtual-fido">A Virtual FIDO2 USB Device&lt;/a>
+(&lt;a href="https://lobste.rs/s/4oefml/virtual_fido2_usb_device">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-09-17</title><link>https://frozen-lobster.rohanverma.net/posts/2022-09-17/</link><pubDate>Sat, 17 Sep 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-09-17/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://graphite.rs/">Graphite: Redefining state-of-the-art graphics editing&lt;/a>
 (&lt;a href="https://lobste.rs/s/r2fxge/graphite_redefining_state_art_graphics">comments&lt;/a>)&lt;/p>
