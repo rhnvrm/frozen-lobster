@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 18 Sep 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-09-18</title><link>https://frozen-lobster.rohanverma.net/posts/2022-09-18/</link><pubDate>Sun, 18 Sep 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-09-18/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 19 Sep 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-09-19</title><link>https://frozen-lobster.rohanverma.net/posts/2022-09-19/</link><pubDate>Mon, 19 Sep 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-09-19/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://ada-lang.io/">Ada Programming Language&lt;/a>
+(&lt;a href="https://lobste.rs/s/nwporz/ada_programming_language">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gleam.run/news/gleam-v0.23-released/">v0.23 of Gleam, a type safe language for the Erlang VM, is out&lt;/a>
+(&lt;a href="https://lobste.rs/s/s3n8pw/v0_23_gleam_type_safe_language_for_erlang">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://medium.com/@kris-nova/why-fix-kubernetes-and-systemd-782840e50104">Why fix Kubernetes and Systemd?&lt;/a>
+(&lt;a href="https://lobste.rs/s/dwui6j/why_fix_kubernetes_systemd">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://werat.dev/blog/how-to-debug-deadlocks-in-visual-studio/">How to debug deadlocks in Visual Studio&lt;/a>
+(&lt;a href="https://lobste.rs/s/qtdvpn/how_debug_deadlocks_visual_studio">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://semantic-domain.blogspot.com/2022/03/simple-type-inference-for-system-f.html">Simple Type Inference for System F&lt;/a>
+(&lt;a href="https://lobste.rs/s/9zqqnz/simple_type_inference_for_system_f">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://probablydance.com/2022/09/17/finding-the-second-bug-in-glibcs-condition-variable/">Finding the “Second Bug” in glibc’s Condition Variable&lt;/a>
+(&lt;a href="https://lobste.rs/s/1lusa6/finding_second_bug_glibc_s_condition">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gabrielsieben.tech/2022/07/29/remote-assertion-is-coming-back-how-much-freedom-will-it-take/">Remote attestation is coming back. How much freedom will it take?&lt;/a>
+(&lt;a href="https://lobste.rs/s/jswwph/remote_attestation_is_coming_back_how">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://woodrush.github.io/blog/lambdalisp.html">LambdaLisp - A Lisp Interpreter That Runs on Lambda Calculus&lt;/a>
+(&lt;a href="https://lobste.rs/s/fmbc62/lambdalisp_lisp_interpreter_runs_on">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://developers.redhat.com/articles/2022/09/17/gccs-new-fortification-level">GCC&amp;rsquo;s new fortification level: The gains and costs&lt;/a>
+(&lt;a href="https://lobste.rs/s/vxz0xq/gcc_s_new_fortification_level_gains_costs">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.phoronix.com/news/Linux-LPC2022-io_uring_spawn">Promising io_uring_spawn Announced&lt;/a>
+(&lt;a href="https://lobste.rs/s/slqdnc/promising_io_uring_spawn_announced">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-09-18</title><link>https://frozen-lobster.rohanverma.net/posts/2022-09-18/</link><pubDate>Sun, 18 Sep 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-09-18/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://woodrush.github.io/blog/lambdalisp.html">LambdaLisp - A Lisp Interpreter That Runs on Lambda Calculus&lt;/a>
 (&lt;a href="https://lobste.rs/s/fmbc62/lambdalisp_lisp_interpreter_runs_on">comments&lt;/a>)&lt;/p>
