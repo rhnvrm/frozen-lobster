@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 20 Sep 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-09-20</title><link>https://frozen-lobster.rohanverma.net/posts/2022-09-20/</link><pubDate>Tue, 20 Sep 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-09-20/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 21 Sep 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-09-21</title><link>https://frozen-lobster.rohanverma.net/posts/2022-09-21/</link><pubDate>Wed, 21 Sep 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-09-21/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/jart/cosmopolitan/releases/tag/2.1">Cosmopolitan v2.1&lt;/a>
+(&lt;a href="https://lobste.rs/s/2dtkdo/cosmopolitan_v2_1">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://justine.lol/cosmopolitan/functions.html">Can I Use a System Call?&lt;/a>
+(&lt;a href="https://lobste.rs/s/hdbb22/can_i_use_system_call">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://bytecodealliance.org/articles/wasmtime-1-0-fast-safe-and-production-ready">Wasmtime Reaches 1.0: Fast, Safe and Production Ready&lt;/a>
+(&lt;a href="https://lobste.rs/s/18bmqn/wasmtime_reaches_1_0_fast_safe_production">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://paperless.blog/reproducible-jupyter-notebook-with-nix">Reproducible Jupyter Notebook with Nix&lt;/a>
+(&lt;a href="https://lobste.rs/s/bhfasr/reproducible_jupyter_notebook_with_nix">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://mjg59.dreamwidth.org/61232.html">Handling WebAuthn over remote SSH connections&lt;/a>
+(&lt;a href="https://lobste.rs/s/udyj96/handling_webauthn_over_remote_ssh">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://iliana.fyi/blog/software-supply-chain/">There is no “software supply chain”&lt;/a>
+(&lt;a href="https://lobste.rs/s/pqr1mv/there_is_no_software_supply_chain">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.gtk.org/2022/09/19/inside-the-gtk-font-chooser/">Inside the GTK font chooser&lt;/a>
+(&lt;a href="https://lobste.rs/s/2a7axc/inside_gtk_font_chooser">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.phoronix.com/news/OpenJDK-Java-19-Released">OpenJDK Java 19 Released With RISC-V Linux Port, Foreign Function API&lt;/a>
+(&lt;a href="https://lobste.rs/s/hfycar/openjdk_java_19_released_with_risc_v_linux">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://starai.cs.ucla.edu/papers/ZhangArxiv22.pdf">On the Paradox of Learning to Reason from Data&lt;/a>
+(&lt;a href="https://lobste.rs/s/kos2tq/on_paradox_learning_reason_from_data">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://httptoolkit.tech/blog/cache-your-cors/">Cache your CORS&lt;/a>
+(&lt;a href="https://lobste.rs/s/azgtiy/cache_your_cors">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-09-20</title><link>https://frozen-lobster.rohanverma.net/posts/2022-09-20/</link><pubDate>Tue, 20 Sep 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-09-20/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://iliana.fyi/blog/software-supply-chain/">There is no “software supply chain”&lt;/a>
 (&lt;a href="https://lobste.rs/s/pqr1mv/there_is_no_software_supply_chain">comments&lt;/a>)&lt;/p>
