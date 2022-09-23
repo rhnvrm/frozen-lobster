@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 22 Sep 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-09-22</title><link>https://frozen-lobster.rohanverma.net/posts/2022-09-22/</link><pubDate>Thu, 22 Sep 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-09-22/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 23 Sep 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-09-23</title><link>https://frozen-lobster.rohanverma.net/posts/2022-09-23/</link><pubDate>Fri, 23 Sep 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-09-23/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.scattered-thoughts.net/writing/how-safe-is-zig/">How (memory) safe is zig? (UPDATED)&lt;/a>
+(&lt;a href="https://lobste.rs/s/nw7hsd/how_memory_safe_is_zig_updated">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.rust-lang.org/2022/09/22/Rust-1.64.0.html">Announcing Rust 1.64.0&lt;/a>
+(&lt;a href="https://lobste.rs/s/1k8bvz/announcing_rust_1_64_0">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://devblogs.microsoft.com/commandline/systemd-support-is-now-available-in-wsl/">Systemd support is now available in WSL&lt;/a>
+(&lt;a href="https://lobste.rs/s/feqhez/systemd_support_is_now_available_wsl">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://arcanesciences.com/os2200/">Let&amp;rsquo;s Play OS 2200&lt;/a>
+(&lt;a href="https://lobste.rs/s/dwiwak/let_s_play_os_2200">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/cassiozen/TDungeon">Adventure game that runs in the Typescript type system&lt;/a>
+(&lt;a href="https://lobste.rs/s/tjjg13/adventure_game_runs_typescript_type">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://openai.com/blog/whisper/">Whisper: a general-purpose speech recognition model&lt;/a>
+(&lt;a href="https://lobste.rs/s/gcofe4/whisper_general_purpose_speech">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://fly.io/blog/introducing-litefs/">Introducing LiteFS&lt;/a>
+(&lt;a href="https://lobste.rs/s/niadvn/introducing_litefs">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.informit.com/articles/article.aspx?p=2995357&amp;amp;seqNum=2">Volatility-Based Decomposition&lt;/a>
+(&lt;a href="https://lobste.rs/s/7yz2us/volatility_based_decomposition">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/huytd/lichess-tv">Streaming chess matches from your terminal&lt;/a>
+(&lt;a href="https://lobste.rs/s/ygweit/streaming_chess_matches_from_your">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.tumfatig.net/2022/running-docker-host-openbsd-vmd/">Running a Docker Host under OpenBSD using vmd(8)&lt;/a>
+(&lt;a href="https://lobste.rs/s/ybdisb/running_docker_host_under_openbsd_using">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-09-22</title><link>https://frozen-lobster.rohanverma.net/posts/2022-09-22/</link><pubDate>Thu, 22 Sep 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-09-22/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://fly.io/blog/introducing-litefs/">Introducing LiteFS&lt;/a>
 (&lt;a href="https://lobste.rs/s/niadvn/introducing_litefs">comments&lt;/a>)&lt;/p>
