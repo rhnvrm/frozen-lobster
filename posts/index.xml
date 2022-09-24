@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 23 Sep 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-09-23</title><link>https://frozen-lobster.rohanverma.net/posts/2022-09-23/</link><pubDate>Fri, 23 Sep 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-09-23/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 24 Sep 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-09-24</title><link>https://frozen-lobster.rohanverma.net/posts/2022-09-24/</link><pubDate>Sat, 24 Sep 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-09-24/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://blog.healthchecks.io/2022/09/schedule-cron-job-the-funky-way/">Schedule Cronjob for the First Monday of Every Month, the Funky Way&lt;/a>
+(&lt;a href="https://lobste.rs/s/x4apoq/schedule_cronjob_for_first_monday_every">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/no-gravity/TwitterToNitter">TwitterToNitter. A bookmarklet that makes reading on Twitter easier when not logged in&lt;/a>
+(&lt;a href="https://lobste.rs/s/kbyc5j/twittertonitter_bookmarklet_makes">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://twitter.com/david3141593/status/1573218394358386688">The image in this tweet displays its own MD5 hash&lt;/a>
+(&lt;a href="https://lobste.rs/s/yh4fwl/image_this_tweet_displays_its_own_md5_hash">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1791519">Test crashed - Attempting to connect to non-local address! some-nonexistent-domain-27489274c8927.com&lt;/a>
+(&lt;a href="https://lobste.rs/s/p308tu/test_crashed_attempting_connect_non">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this weekend?&lt;/a>
+(&lt;a href="https://lobste.rs/s/cdorky/what_are_you_doing_this_weekend">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/jzimmerman/langcc">langcc: A Next-Generation Compiler Compiler&lt;/a>
+(&lt;a href="https://lobste.rs/s/rkmmjc/langcc_next_generation_compiler">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/rochus-keller/LeanQt">LeanQt - a stripped-down Qt version easy to build from source and to integrate with an applicati&lt;/a>
+(&lt;a href="https://lobste.rs/s/fgreow/leanqt_stripped_down_qt_version_easy">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://arstechnica.com/?p=1879525">A history of ARM, part 1: Building the first chip&lt;/a>
+(&lt;a href="https://lobste.rs/s/ocozei/history_arm_part_1_building_first_chip">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://smallcultfollowing.com/babysteps/blog/2022/09/22/rust-2024-the-year-of-everywhere/">Rust 2024 the year of everywhere?&lt;/a>
+(&lt;a href="https://lobste.rs/s/cwdyyn/rust_2024_year_everywhere">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://blogs.perl.org/users/saif/2022/09/perls-before-splines.html">Casting Perls before Splines&lt;/a>
+(&lt;a href="https://lobste.rs/s/lfae0x/casting_perls_before_splines">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-09-23</title><link>https://frozen-lobster.rohanverma.net/posts/2022-09-23/</link><pubDate>Fri, 23 Sep 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-09-23/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://www.scattered-thoughts.net/writing/how-safe-is-zig/">How (memory) safe is zig? (UPDATED)&lt;/a>
 (&lt;a href="https://lobste.rs/s/nw7hsd/how_memory_safe_is_zig_updated">comments&lt;/a>)&lt;/p>
