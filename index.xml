@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 30 Sep 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-09-30</title><link>https://frozen-lobster.rohanverma.net/posts/2022-09-30/</link><pubDate>Fri, 30 Sep 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-09-30/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-10-01</title><link>https://frozen-lobster.rohanverma.net/posts/2022-10-01/</link><pubDate>Sat, 01 Oct 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-10-01/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/rubenvannieuwpoort/reals">Reals: a Python library for real-number arithmetic&lt;/a>
+(&lt;a href="https://lobste.rs/s/jsccvt/reals_python_library_for_real_number">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://randomascii.wordpress.com/2022/09/29/why-modern-software-is-slow-windows-voice-recorder/">Why Modern Software is Slow–Windows Voice Recorder&lt;/a>
+(&lt;a href="https://lobste.rs/s/cljjtq/why_modern_software_is_slow_windows_voice">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.pathsensitive.com/2022/09/bet-you-cant-solve-these-9-dependency.html">9 puzzles to convince you you don&amp;rsquo;t understand dependence&lt;/a>
+(&lt;a href="https://lobste.rs/s/qywir0/9_puzzles_convince_you_you_don_t">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.garrensmith.com/designing-data-intensive-applications/">Why I own two copies of Designing Data-Intensive Applications&lt;/a>
+(&lt;a href="https://lobste.rs/s/piki76/why_i_own_two_copies_designing_data">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this weekend?&lt;/a>
+(&lt;a href="https://lobste.rs/s/cugh3v/what_are_you_doing_this_weekend">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/neovim/neovim/releases/tag/v0.8.0">Release Nvim v0.8.0&lt;/a>
+(&lt;a href="https://lobste.rs/s/onbyt4/release_nvim_v0_8_0">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://duckdb.org/2022/09/30/postgres-scanner.html">Querying Postgres Tables Directly From DuckDB&lt;/a>
+(&lt;a href="https://lobste.rs/s/aks2dv/querying_postgres_tables_directly_from">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.rust-lang.org/inside-rust/2022/09/29/announcing-the-rust-style-team.html">Announcing the Rust Style Team&lt;/a>
+(&lt;a href="https://lobste.rs/s/ambqtq/announcing_rust_style_team">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/susam/mathb">MathB.in - Mathematics Pastebin Written in Common Lisp&lt;/a>
+(&lt;a href="https://lobste.rs/s/awvenh/mathb_mathematics_pastebin_written">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://andregarzia.com/2022/09/The-appeal-of-small-computers.html">The appeal of small computers&lt;/a>
+(&lt;a href="https://lobste.rs/s/7i2zkx/appeal_small_computers">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-09-30</title><link>https://frozen-lobster.rohanverma.net/posts/2022-09-30/</link><pubDate>Fri, 30 Sep 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-09-30/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://andregarzia.com/2022/09/The-appeal-of-small-computers.html">The appeal of small computers&lt;/a>
 (&lt;a href="https://lobste.rs/s/7i2zkx/appeal_small_computers">comments&lt;/a>)&lt;/p>
