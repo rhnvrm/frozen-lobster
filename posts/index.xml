@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 02 Oct 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-10-02</title><link>https://frozen-lobster.rohanverma.net/posts/2022-10-02/</link><pubDate>Sun, 02 Oct 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-10-02/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 03 Oct 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-10-03</title><link>https://frozen-lobster.rohanverma.net/posts/2022-10-03/</link><pubDate>Mon, 03 Oct 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-10-03/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://handwritten.blog/2022-10-01-hyperlinks-in-handwriting.html">Hyperlinks in handwriting&lt;/a>
+(&lt;a href="https://lobste.rs/s/yjwgk1/hyperlinks_handwriting">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://catgirl.ai/log/elegy-gnu/">An elegy for GNU and RMS&lt;/a>
+(&lt;a href="https://lobste.rs/s/h3gcbb/elegy_for_gnu_rms">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lucasfcosta.com/2022/10/02/scrum-versus-kanban.html">You don&amp;rsquo;t need Scrum. You just need to do Kanban right&lt;/a>
+(&lt;a href="https://lobste.rs/s/44anuz/you_don_t_need_scrum_you_just_need_do_kanban">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://dev.to/xfbs/writing-a-dns-server-in-rust-1gpn">Writing a DNS Server in Rust&lt;/a>
+(&lt;a href="https://lobste.rs/s/edgyea/writing_dns_server_rust">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.entropy1729.com/setting-up-a-nomad-cluster-on-linux/">Setting up a Nomad cluster on Linux&lt;/a>
+(&lt;a href="https://lobste.rs/s/cy3di6/setting_up_nomad_cluster_on_linux">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.entropy1729.com/the-hunting-of-the-zk-snark/">The hunting of the (zk-) SNARK&lt;/a>
+(&lt;a href="https://lobste.rs/s/dx2d0i/hunting_zk_snark">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.entropy1729.com/how-to-create-your-own-crappy-rsa-as-a-software-developer/">How to create your own crappy RSA as a software developer&lt;/a>
+(&lt;a href="https://lobste.rs/s/pvn3tm/how_create_your_own_crappy_rsa_as_software">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://xeiaso.net/blog/prompt-engineering">Prompt engineering is hard&lt;/a>
+(&lt;a href="https://lobste.rs/s/s9bdid/prompt_engineering_is_hard">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://frontendmastery.com/posts/the-new-wave-of-javascript-web-frameworks/">The new wave of Javascript web frameworks&lt;/a>
+(&lt;a href="https://lobste.rs/s/en6q9r/new_wave_javascript_web_frameworks">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://productionwithscissors.run/2022/09/02/fun-with-freebsd-first-linux-guest/">Fun with FreeBSD: Your First Linux Guest&lt;/a>
+(&lt;a href="https://lobste.rs/s/uiia8u/fun_with_freebsd_your_first_linux_guest">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-10-02</title><link>https://frozen-lobster.rohanverma.net/posts/2022-10-02/</link><pubDate>Sun, 02 Oct 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-10-02/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://xeiaso.net/blog/prompt-engineering">Prompt engineering is hard&lt;/a>
 (&lt;a href="https://lobste.rs/s/s9bdid/prompt_engineering_is_hard">comments&lt;/a>)&lt;/p>
