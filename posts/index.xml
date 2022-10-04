@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 03 Oct 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-10-03</title><link>https://frozen-lobster.rohanverma.net/posts/2022-10-03/</link><pubDate>Mon, 03 Oct 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-10-03/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 04 Oct 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-10-04</title><link>https://frozen-lobster.rohanverma.net/posts/2022-10-04/</link><pubDate>Tue, 04 Oct 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-10-04/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://tratt.net/laurie/blog/2022/uml_my_part_in_its_downfall.html">UML: My Part in its Downfall&lt;/a>
+(&lt;a href="https://lobste.rs/s/0fvkl3/uml_my_part_its_downfall">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://t-ravis.com/post/doc/what_color_is_your_markup/">what color is your markup?&lt;/a>
+(&lt;a href="https://lobste.rs/s/tb84fm/what_color_is_your_markup">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://corecursive.com/android-with-chet-haase/">Android&amp;rsquo;s Unlikely Success&lt;/a>
+(&lt;a href="https://lobste.rs/s/i2redh/android_s_unlikely_success">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://wryun.github.io/es-shell/">es - extensible shell&lt;/a>
+(&lt;a href="https://lobste.rs/s/qjhqmt/es_extensible_shell">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this week?&lt;/a>
+(&lt;a href="https://lobste.rs/s/k7fmte/what_are_you_doing_this_week">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/jamii/hytradboi-jam-2022">Goal: Pass all 4259065 tests in sqlite sqllogictest in 1 week&lt;/a>
+(&lt;a href="https://lobste.rs/s/ij1bzq/goal_pass_all_4259065_tests_sqlite">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sunshowers.io/posts/nextest-and-tokio-1/">How (and why) nextest uses tokio, part 1&lt;/a>
+(&lt;a href="https://lobste.rs/s/gqf2cq/how_why_nextest_uses_tokio_part_1">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://calebhearth.com/association-pollution">Simplify your model code in Rails by avoiding association pollution&lt;/a>
+(&lt;a href="https://lobste.rs/s/iiam3q/simplify_your_model_code_rails_by">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">Windows equivalents for common Mac dev tools&lt;/a>
+(&lt;a href="https://lobste.rs/s/39ecq9/windows_equivalents_for_common_mac_dev">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://studios.ptilouk.net/superfluous-returnz/blog/2022-09-28_compression.html">An efficient image format for SDL&lt;/a>
+(&lt;a href="https://lobste.rs/s/5w1vrn/efficient_image_format_for_sdl">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-10-03</title><link>https://frozen-lobster.rohanverma.net/posts/2022-10-03/</link><pubDate>Mon, 03 Oct 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-10-03/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://handwritten.blog/2022-10-01-hyperlinks-in-handwriting.html">Hyperlinks in handwriting&lt;/a>
 (&lt;a href="https://lobste.rs/s/yjwgk1/hyperlinks_handwriting">comments&lt;/a>)&lt;/p>
