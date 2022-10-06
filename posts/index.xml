@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 05 Oct 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-10-05</title><link>https://frozen-lobster.rohanverma.net/posts/2022-10-05/</link><pubDate>Wed, 05 Oct 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-10-05/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 06 Oct 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-10-06</title><link>https://frozen-lobster.rohanverma.net/posts/2022-10-06/</link><pubDate>Thu, 06 Oct 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-10-06/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://naiveai.hashnode.dev/rust-result-cool">Rust&amp;rsquo;s Result Type is Cool&lt;/a>
+(&lt;a href="https://lobste.rs/s/qtsga5/rust_s_result_type_is_cool">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://dev.to/yawaramin/practical-ocaml-multicore-edition-3gf2">Practical OCaml, Multicore Edition&lt;/a>
+(&lt;a href="https://lobste.rs/s/hxi5so/practical_ocaml_multicore_edition">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://timkellogg.me/blog/2022/10/04/dura">Just commit more&lt;/a>
+(&lt;a href="https://lobste.rs/s/ssz7up/just_commit_more">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lawrencecpaulson.github.io/2022/10/05/Standard_ML.html">Memories: Edinburgh ML to Standard ML&lt;/a>
+(&lt;a href="https://lobste.rs/s/4fcdyg/memories_edinburgh_ml_standard_ml">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://notes.abhinavsarkar.net/2022/just-nix-podman-combo">Just, Nix Shell and Podman are a Killer Combo&lt;/a>
+(&lt;a href="https://lobste.rs/s/eenfdg/just_nix_shell_podman_are_killer_combo">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.cotten.io/that-time-we-burned-down-players-houses-in-ultima-online-7e556618c8f0">That Time We Burned Down Players’ Houses in Ultima Online&lt;/a>
+(&lt;a href="https://lobste.rs/s/2nwwy4/time_we_burned_down_players_houses_ultima">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://dagster.io/blog/skip-kafka-use-postgres-message-queue">Postgres: a better message queue than Kafka?&lt;/a>
+(&lt;a href="https://lobste.rs/s/syv1il/postgres_better_message_queue_than_kafka">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://simonwillison.net/2022/Oct/5/spell-casting/">Is the AI spell-casting metaphor harmful or helpful?&lt;/a>
+(&lt;a href="https://lobste.rs/s/onrvga/is_ai_spell_casting_metaphor_harmful">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=DG-VLezRkYQ">Unsafe Rust is not C&lt;/a>
+(&lt;a href="https://lobste.rs/s/m1zwdn/unsafe_rust_is_not_c">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/biox/shmoji">shmoji - a little shell-based emoji picker&lt;/a>
+(&lt;a href="https://lobste.rs/s/gr2qtf/shmoji_little_shell_based_emoji_picker">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-10-05</title><link>https://frozen-lobster.rohanverma.net/posts/2022-10-05/</link><pubDate>Wed, 05 Oct 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-10-05/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://ipv4.games/">IPv4 Turf War&lt;/a>
 (&lt;a href="https://lobste.rs/s/hpaukh/ipv4_turf_war">comments&lt;/a>)&lt;/p>
