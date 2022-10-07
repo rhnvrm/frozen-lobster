@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 06 Oct 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-10-06</title><link>https://frozen-lobster.rohanverma.net/posts/2022-10-06/</link><pubDate>Thu, 06 Oct 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-10-06/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 07 Oct 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-10-07</title><link>https://frozen-lobster.rohanverma.net/posts/2022-10-07/</link><pubDate>Fri, 07 Oct 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-10-07/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://leaningtech.com/webvm-virtual-machine-with-networking-via-tailscale/">WebVM: Linux Virtualization in WebAssembly with Full Networking via Tailscale&lt;/a>
+(&lt;a href="https://lobste.rs/s/d1awxg/webvm_linux_virtualization_webassembly">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://matklad.github.io/2022/10/06/hard-mode-rust.html">Hard Mode Rust&lt;/a>
+(&lt;a href="https://lobste.rs/s/gmxvun/hard_mode_rust">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://liam-on-linux.dreamwidth.org/87435.html">I&amp;rsquo;ve been playing with OS/2 again &amp;ndash; more on that soon &amp;ndash; but it was doomed from a young age&lt;/a>
+(&lt;a href="https://lobste.rs/s/m4vz4k/i_ve_been_playing_with_os_2_again_more_on">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ifixit.com/News/66194/apples-new-airpods-are-telling-users-to-replace-the-batteries-already-too-bad-thats-impossible">Apple AirPods Pro Are As Unrepairable As Ever&lt;/a>
+(&lt;a href="https://lobste.rs/s/x7hxyq/apple_airpods_pro_are_as_unrepairable_as">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jcs.org/2022/10/02/whisper_writer">BBSing at 300 Bits Per Second&lt;/a>
+(&lt;a href="https://lobste.rs/s/f4my9u/bbsing_at_300_bits_per_second">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cloudplane.org/blog/why-cue">Why We Use CUE (and Not Helm)&lt;/a>
+(&lt;a href="https://lobste.rs/s/n062nd/why_we_use_cue_not_helm">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jackevansevo.github.io/posts/struggles-of-building-an-rss-feed-reader/">The struggles of building a Feed Reader&lt;/a>
+(&lt;a href="https://lobste.rs/s/u6nrj0/struggles_building_feed_reader">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.humprog.org/~stephen/research/papers/kell19unix-personal.pdf">Unix, Plan 9 and the Lurking Smalltalk&lt;/a>
+(&lt;a href="https://lobste.rs/s/c2r1fp/unix_plan_9_lurking_smalltalk">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://naiveai.hashnode.dev/rust-result-cool">Rust&amp;rsquo;s Result Type is Cool&lt;/a>
+(&lt;a href="https://lobste.rs/s/qtsga5/rust_s_result_type_is_cool">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/naver/lispe/wiki/6.15-Programming-is-Greek-to-me...-Literally">Programming is Greek to me&amp;hellip; Literally&lt;/a>
+(&lt;a href="https://lobste.rs/s/rzi6o9/programming_is_greek_me_literally">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-10-06</title><link>https://frozen-lobster.rohanverma.net/posts/2022-10-06/</link><pubDate>Thu, 06 Oct 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-10-06/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://naiveai.hashnode.dev/rust-result-cool">Rust&amp;rsquo;s Result Type is Cool&lt;/a>
 (&lt;a href="https://lobste.rs/s/qtsga5/rust_s_result_type_is_cool">comments&lt;/a>)&lt;/p>
