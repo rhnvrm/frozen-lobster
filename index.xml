@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 09 Oct 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-10-09</title><link>https://frozen-lobster.rohanverma.net/posts/2022-10-09/</link><pubDate>Sun, 09 Oct 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-10-09/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 10 Oct 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-10-10</title><link>https://frozen-lobster.rohanverma.net/posts/2022-10-10/</link><pubDate>Mon, 10 Oct 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-10-10/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://michael.stapelberg.ch/posts/2022-10-09-remote-power-button/">DIY out of band management: remote power button&lt;/a>
+(&lt;a href="https://lobste.rs/s/x4snip/diy_out_band_management_remote_power">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://typesanitizer.com/blog/zig-generics.html">Zig-style generics are not well-suited for most languages&lt;/a>
+(&lt;a href="https://lobste.rs/s/jktewn/zig_style_generics_are_not_well_suited_for">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What sql database isolation level do you run at?&lt;/a>
+(&lt;a href="https://lobste.rs/s/pngfnl/what_sql_database_isolation_level_do_you">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://oldvcr.blogspot.com/2022/10/going-where-beos-netpositive-hasnt-gone.html">Going where BeOS NetPositive hasn&amp;rsquo;t gone before: NetPositive+&lt;/a>
+(&lt;a href="https://lobste.rs/s/aperer/going_where_beos_netpositive_hasn_t_gone">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.macchaffee.com/blog/2022/carrying-capacity/">Know your carrying capacity&lt;/a>
+(&lt;a href="https://lobste.rs/s/np4zbg/know_your_carrying_capacity">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/albertz/python-preloaded">Python Preloaded: Bundle Python executable with preloaded modules&lt;/a>
+(&lt;a href="https://lobste.rs/s/wbdvze/python_preloaded_bundle_python">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://utcc.utoronto.ca/~cks/space/blog/unix/SignalsHowOld">How old various Unix signals are&lt;/a>
+(&lt;a href="https://lobste.rs/s/wd6tjx/how_old_various_unix_signals_are">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://xenodium.com/emacs-reveal-in-finder-dwim-style/">Emacs: Reveal in macOS Finder (DWIM style)&lt;/a>
+(&lt;a href="https://lobste.rs/s/qcpujw/emacs_reveal_macos_finder_dwim_style">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.rfleury.com/p/untangling-lifetimes-the-arena-allocator">Untangling Lifetimes: The Arena Allocator&lt;/a>
+(&lt;a href="https://lobste.rs/s/l5e7oz/untangling_lifetimes_arena_allocator">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tonicframework.dev/">Tonic: A low profile component framework&lt;/a>
+(&lt;a href="https://lobste.rs/s/jae5rf/tonic_low_profile_component_framework">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-10-09</title><link>https://frozen-lobster.rohanverma.net/posts/2022-10-09/</link><pubDate>Sun, 09 Oct 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-10-09/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://austinhenley.com/blog/learnanotherpl.html">Why is it hard to learn another programming language?&lt;/a>
 (&lt;a href="https://lobste.rs/s/gvfpzb/why_is_it_hard_learn_another_programming">comments&lt;/a>)&lt;/p>
