@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 12 Oct 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-10-12</title><link>https://frozen-lobster.rohanverma.net/posts/2022-10-12/</link><pubDate>Wed, 12 Oct 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-10-12/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 13 Oct 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-10-13</title><link>https://frozen-lobster.rohanverma.net/posts/2022-10-13/</link><pubDate>Thu, 13 Oct 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-10-13/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://blog.viraptor.info/post/python-dependency-management-difficulty-is-an-unhelpful-meme">Python dependency management difficulty is an unhelpful meme&lt;/a>
+(&lt;a href="https://lobste.rs/s/q5tvl6/python_dependency_management">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=nGhoZzihbHY">Monads are everywhere&amp;hellip; Maybe that&amp;rsquo;s bad?&lt;/a>
+(&lt;a href="https://lobste.rs/s/h8uevl/monads_are_everywhere_maybe_s_bad">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/divnix/std">std: The Nix Flakes framework for perfectionists with deadlines&lt;/a>
+(&lt;a href="https://lobste.rs/s/zatcrb/std_nix_flakes_framework_for">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lawrencecpaulson.github.io/2022/10/12/verifying-distributed-systems-isabelle.html">Verifying distributed systems with Isabelle/HOL, by Martin Kleppmann&lt;/a>
+(&lt;a href="https://lobste.rs/s/mhduwk/verifying_distributed_systems_with">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lptk.github.io/files/%5Bv6.1%5D%20mlstruct.pdf">MLstruct: Principal Type Inference in a Boolean Algebra of Structural Types&lt;/a>
+(&lt;a href="https://lobste.rs/s/8p6mfu/mlstruct_principal_type_inference">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://xenodium.com/emacs-macos-share-from-dired-dwim-style/">Emacs: macOS sharing (DWIM style)&lt;/a>
+(&lt;a href="https://lobste.rs/s/qga1px/emacs_macos_sharing_dwim_style">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://garnet.codeberg.page/posts/gpu-reversing/">Reverse Engineering a GPU from 2009&lt;/a>
+(&lt;a href="https://lobste.rs/s/lm0ukr/reverse_engineering_gpu_from_2009">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/hydro-project/katara">katara: Synthesize CRDTs from classic data types with verified lifting&lt;/a>
+(&lt;a href="https://lobste.rs/s/yj1rjs/katara_synthesize_crdts_from_classic">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tdarb.org/blog/craigslist-gallery.html">Simplifying the Craigslist Gallery&lt;/a>
+(&lt;a href="https://lobste.rs/s/9taha7/simplifying_craigslist_gallery">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://interconnected.org/home/2022/10/10/servers">I wish my web server were in the corner of my room&lt;/a>
+(&lt;a href="https://lobste.rs/s/ra8vvk/i_wish_my_web_server_were_corner_my_room">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-10-12</title><link>https://frozen-lobster.rohanverma.net/posts/2022-10-12/</link><pubDate>Wed, 12 Oct 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-10-12/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://elm-radio.com/episode/elm-at-a-billion-dollar-company/">Elm at a Billion Dollar Company with Vendr CTO Aaron White&lt;/a>
 (&lt;a href="https://lobste.rs/s/ehqmv2/elm_at_billion_dollar_company_with_vendr">comments&lt;/a>)&lt;/p>
