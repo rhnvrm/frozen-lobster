@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 13 Oct 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-10-13</title><link>https://frozen-lobster.rohanverma.net/posts/2022-10-13/</link><pubDate>Thu, 13 Oct 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-10-13/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 14 Oct 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-10-14</title><link>https://frozen-lobster.rohanverma.net/posts/2022-10-14/</link><pubDate>Fri, 14 Oct 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-10-14/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://determinate.systems/posts/qemu-fix">Make your QEMU 10 times faster with this one weird trick&lt;/a>
+(&lt;a href="https://lobste.rs/s/ezqwux/make_your_qemu_10_times_faster_with_this">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tigerbeetle.com/blog/a-database-without-dynamic-memory/">A Database Without Dynamic Memory Allocation&lt;/a>
+(&lt;a href="https://lobste.rs/s/jcx49z/database_without_dynamic_memory">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.postgresql.org/about/news/postgresql-15-released-2526/">PostgreSQL 15 Released&lt;/a>
+(&lt;a href="https://lobste.rs/s/m0kxdt/postgresql_15_released">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.process-one.net/blog/matrix-protocol-added-to-ejabberd/">Matrix protocol added to ejabberd&lt;/a>
+(&lt;a href="https://lobste.rs/s/motznn/matrix_protocol_added_ejabberd">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gynvael.coldwind.pl/?lang=en&amp;amp;id=754">Hello World under the microscope&lt;/a>
+(&lt;a href="https://lobste.rs/s/9m8xsk/hello_world_under_microscope">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ahelwer.ca/post/2022-10-13-little-typer-ch9/">The Missing Prelude to The Little Typer&amp;rsquo;s Trickiest Chapter&lt;/a>
+(&lt;a href="https://lobste.rs/s/dhpgel/missing_prelude_little_typer_s_trickiest">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://utcc.utoronto.ca/~cks/space/blog/unix/EgrepFgrepStuckWith">We are stuck with egrep and fgrep (unless you like beating people)&lt;/a>
+(&lt;a href="https://lobste.rs/s/vgnnjt/we_are_stuck_with_egrep_fgrep_unless_you">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jacobian.org/2022/oct/13/software-parable/">Is this a parable about software development?&lt;/a>
+(&lt;a href="https://lobste.rs/s/ebjnel/is_this_parable_about_software">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">RacketCon tickets on sale now&lt;/a>
+(&lt;a href="https://lobste.rs/s/kno0ca/racketcon_tickets_on_sale_now">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://iu-parfunc.github.io/gibbon/">Gibbon: a compiler for operating on serialized trees&lt;/a>
+(&lt;a href="https://lobste.rs/s/nwcazu/gibbon_compiler_for_operating_on">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-10-13</title><link>https://frozen-lobster.rohanverma.net/posts/2022-10-13/</link><pubDate>Thu, 13 Oct 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-10-13/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://blog.viraptor.info/post/python-dependency-management-difficulty-is-an-unhelpful-meme">Python dependency management difficulty is an unhelpful meme&lt;/a>
 (&lt;a href="https://lobste.rs/s/q5tvl6/python_dependency_management">comments&lt;/a>)&lt;/p>
