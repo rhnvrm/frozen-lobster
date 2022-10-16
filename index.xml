@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 15 Oct 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-10-15</title><link>https://frozen-lobster.rohanverma.net/posts/2022-10-15/</link><pubDate>Sat, 15 Oct 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-10-15/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 16 Oct 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-10-16</title><link>https://frozen-lobster.rohanverma.net/posts/2022-10-16/</link><pubDate>Sun, 16 Oct 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-10-16/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://htmx.org/essays/a-real-world-react-to-htmx-port/">A Real World React -&amp;gt; htmx Port: 67% reduction in LoC&lt;/a>
+(&lt;a href="https://lobste.rs/s/bmsmbu/real_world_react_htmx_port_67_reduction">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.redblobgames.com/grids/hexagons/">Hexagonal Grids&lt;/a>
+(&lt;a href="https://lobste.rs/s/pbfl35/hexagonal_grids">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://simonwillison.net/2022/Oct/14/automating-screenshots/">Automating screenshots for the Datasette documentation using shot-scraper&lt;/a>
+(&lt;a href="https://lobste.rs/s/xn0fg5/automating_screenshots_for_datasette">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tcher.tech/publications/PhilipTchernavskij_PhDThesis.pdf">Designing and Programming Malleable Software&lt;/a>
+(&lt;a href="https://lobste.rs/s/hukblj/designing_programming_malleable">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.jgc.org/2022/10/pimping-my-casio-with-oddly-specific.html">Pimping my Casio with Oddly Specific Objects&amp;rsquo; alternate motherboard and firmware&lt;/a>
+(&lt;a href="https://lobste.rs/s/6x4ahh/pimping_my_casio_with_oddly_specific">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.willmcgugan.com/blog/tech/post/ceo-just-wants-to-draw-boxes/">Possibly a new way of drawing boxes in the terminal&lt;/a>
+(&lt;a href="https://lobste.rs/s/zzbiii/possibly_new_way_drawing_boxes_terminal">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.karlsutt.com/articles/you-should-not-be-using-aws/">You should not be using AWS. Probably&lt;/a>
+(&lt;a href="https://lobste.rs/s/eibd0s/you_should_not_be_using_aws_probably">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tdarb.org/blog/avoid-featurism.html">Avoiding Featurism&lt;/a>
+(&lt;a href="https://lobste.rs/s/4q62p6/avoiding_featurism">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://utcc.utoronto.ca/~cks/space/blog/linux/SwapPartitionsNoMore">We&amp;rsquo;re moving away from swap partitions on our Linux servers&lt;/a>
+(&lt;a href="https://lobste.rs/s/aabqgu/we_re_moving_away_from_swap_partitions_on">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gavinray97.github.io/blog/io-uring-fixed-bufferpool-zig">Building a high-performance database buffer pool in Zig using io_uring&amp;rsquo;s new fixed-buffer mode&lt;/a>
+(&lt;a href="https://lobste.rs/s/qfjd9z/building_high_performance_database">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-10-15</title><link>https://frozen-lobster.rohanverma.net/posts/2022-10-15/</link><pubDate>Sat, 15 Oct 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-10-15/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://www.karlsutt.com/articles/you-should-not-be-using-aws/">You should not be using AWS. Probably&lt;/a>
 (&lt;a href="https://lobste.rs/s/eibd0s/you_should_not_be_using_aws_probably">comments&lt;/a>)&lt;/p>
