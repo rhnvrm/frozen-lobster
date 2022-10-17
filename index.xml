@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 16 Oct 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-10-16</title><link>https://frozen-lobster.rohanverma.net/posts/2022-10-16/</link><pubDate>Sun, 16 Oct 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-10-16/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 17 Oct 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-10-17</title><link>https://frozen-lobster.rohanverma.net/posts/2022-10-17/</link><pubDate>Mon, 17 Oct 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-10-17/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://arcan-fe.com/2022/10/15/whipping-up-a-new-shell-lashcat9/">Whipping up a new Shell – Lash#Cat9&lt;/a>
+(&lt;a href="https://lobste.rs/s/hpyilg/whipping_up_new_shell_lash_cat9">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://opensource.googleblog.com/2022/10/announcing-kataos-and-sparrow.html">Announcing KataOS and Sparrow&lt;/a>
+(&lt;a href="https://lobste.rs/s/xjriu5/announcing_kataos_sparrow">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://htmx.org/essays/a-real-world-react-to-htmx-port/">A Real World React -&amp;gt; htmx Port: 67% reduction in LoC&lt;/a>
+(&lt;a href="https://lobste.rs/s/bmsmbu/real_world_react_htmx_port_67_reduction">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.isc.org/blogs/isc-dhcp-eol/">ISC DHCP Server has reached EOL&lt;/a>
+(&lt;a href="https://lobste.rs/s/xdjvlh/isc_dhcp_server_has_reached_eol">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://shortcat.app">Shortcat - Universal command palette for your Mac&lt;/a>
+(&lt;a href="https://lobste.rs/s/nyx2ua/shortcat_universal_command_palette_for">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://doi.org/10.48550/arXiv.2210.05189">Neural Networks are Decision Trees&lt;/a>
+(&lt;a href="https://lobste.rs/s/iq21pe/neural_networks_are_decision_trees">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.pine64.org/2022/10/15/october-update-an-ox-no-bull/">Ox64 is a RISC-V Linux-capable SBC for $8, expected in November&lt;/a>
+(&lt;a href="https://lobste.rs/s/se2mqr/ox64_is_risc_v_linux_capable_sbc_for_8">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://samgeo.codes/blog/python-types/">Musings on Python Type Hints&lt;/a>
+(&lt;a href="https://lobste.rs/s/dac5xk/musings_on_python_type_hints">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ctrl.blog/entry/tplink-dns-hijacking.html">TP-Link network equipment hijacks some DNS requests&lt;/a>
+(&lt;a href="https://lobste.rs/s/ytets7/tp_link_network_equipment_hijacks_some">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.johndcook.com/blog/2022/10/10/mcnugget-monoid/">The Chicken McNugget Monoid&lt;/a>
+(&lt;a href="https://lobste.rs/s/vlhm1i/chicken_mcnugget_monoid">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-10-16</title><link>https://frozen-lobster.rohanverma.net/posts/2022-10-16/</link><pubDate>Sun, 16 Oct 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-10-16/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://htmx.org/essays/a-real-world-react-to-htmx-port/">A Real World React -&amp;gt; htmx Port: 67% reduction in LoC&lt;/a>
 (&lt;a href="https://lobste.rs/s/bmsmbu/real_world_react_htmx_port_67_reduction">comments&lt;/a>)&lt;/p>
