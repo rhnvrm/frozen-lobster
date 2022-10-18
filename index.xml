@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 17 Oct 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-10-17</title><link>https://frozen-lobster.rohanverma.net/posts/2022-10-17/</link><pubDate>Mon, 17 Oct 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-10-17/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 18 Oct 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-10-18</title><link>https://frozen-lobster.rohanverma.net/posts/2022-10-18/</link><pubDate>Tue, 18 Oct 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-10-18/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://elisehe.in/2022/10/16/attribute-selectors">The wasted potential of CSS attribute selectors&lt;/a>
+(&lt;a href="https://lobste.rs/s/kfg4uc/wasted_potential_css_attribute">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=c33AZBnRHks">Someone improved my code by 40,832,277,770%&lt;/a>
+(&lt;a href="https://lobste.rs/s/nu8tk9/someone_improved_my_code_by_40_832_277_770">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lukeplant.me.uk/blog/posts/yagni-exceptions/">YAGNI exceptions&lt;/a>
+(&lt;a href="https://lobste.rs/s/quywfp/yagni_exceptions">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://naiveai.hashnode.dev/practical-parsing-nom">Practical Parsing in Rust with nom&lt;/a>
+(&lt;a href="https://lobste.rs/s/mj8smd/practical_parsing_rust_with_nom">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.willett.io/posts/precepts/">How to Build Software like an SRE&lt;/a>
+(&lt;a href="https://lobste.rs/s/gpzy80/how_build_software_like_sre">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://githubcopilotinvestigation.com/">GitHub Copilot investigation&lt;/a>
+(&lt;a href="https://lobste.rs/s/4imnvy/github_copilot_investigation">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://xeiaso.net/talks/wasm-abi">The Go WebAssembly ABI at a Low Level&lt;/a>
+(&lt;a href="https://lobste.rs/s/igk6jx/go_webassembly_abi_at_low_level">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this week?&lt;/a>
+(&lt;a href="https://lobste.rs/s/ubspdt/what_are_you_doing_this_week">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://computeradsfromthepast.substack.com/p/dr-logo">Dr. Logo - The world&amp;rsquo;s best computer teacher&lt;/a>
+(&lt;a href="https://lobste.rs/s/1jgukb/dr_logo_world_s_best_computer_teacher">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://nais.io/blog/posts/elm/">Introducing Elm as a frontend contender&lt;/a>
+(&lt;a href="https://lobste.rs/s/rkgbnt/introducing_elm_as_frontend_contender">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-10-17</title><link>https://frozen-lobster.rohanverma.net/posts/2022-10-17/</link><pubDate>Mon, 17 Oct 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-10-17/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://arcan-fe.com/2022/10/15/whipping-up-a-new-shell-lashcat9/">Whipping up a new Shell – Lash#Cat9&lt;/a>
 (&lt;a href="https://lobste.rs/s/hpyilg/whipping_up_new_shell_lash_cat9">comments&lt;/a>)&lt;/p>
