@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 18 Oct 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-10-18</title><link>https://frozen-lobster.rohanverma.net/posts/2022-10-18/</link><pubDate>Tue, 18 Oct 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-10-18/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 19 Oct 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-10-19</title><link>https://frozen-lobster.rohanverma.net/posts/2022-10-19/</link><pubDate>Wed, 19 Oct 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-10-19/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="">Do you know any good programming games?&lt;/a>
+(&lt;a href="https://lobste.rs/s/i6e0xg/do_you_know_any_good_programming_games">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://play.elevatorsaga.com/">Elevator Saga - the elevator programming game&lt;/a>
+(&lt;a href="https://lobste.rs/s/w1dac5/elevator_saga_elevator_programming_game">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://githubcopilotinvestigation.com/">GitHub Copilot investigation&lt;/a>
+(&lt;a href="https://lobste.rs/s/4imnvy/github_copilot_investigation">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://events.ccc.de/2022/10/18/no-congress-2022/#no-congress-2022-en">No Congress 2022: Looking forward to decentralized alternatives and Camp 2023&lt;/a>
+(&lt;a href="https://lobste.rs/s/s2hgh7/no_congress_2022_looking_forward">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.daemonology.net/blog/2022-10-18-FreeBSD-Firecracker.html">Announcing the FreeBSD/Firecracker platform&lt;/a>
+(&lt;a href="https://lobste.rs/s/bclngd/announcing_freebsd_firecracker">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://bobvanderlinden.me/customizing-packages-in-nix/">Customizing packages in Nix&lt;/a>
+(&lt;a href="https://lobste.rs/s/qgvgxv/customizing_packages_nix">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tsdh.org/posts/2022-08-01-difftastic-diffing-with-magit.html">Difftastic diffing with Magit&lt;/a>
+(&lt;a href="https://lobste.rs/s/bagmec/difftastic_diffing_with_magit">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ciechanow.ski/sound/">Sound&lt;/a>
+(&lt;a href="https://lobste.rs/s/v2fcp4/sound">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cube0x0.github.io/Relaying-YubiKeys/">Relaying YubiKeys&lt;/a>
+(&lt;a href="https://lobste.rs/s/rmwzea/relaying_yubikeys">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.timr.co/slice-of-any-not-slice-of-any/">When is a slice of any not a slice of any?&lt;/a>
+(&lt;a href="https://lobste.rs/s/wto4lv/when_is_slice_any_not_slice_any">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-10-18</title><link>https://frozen-lobster.rohanverma.net/posts/2022-10-18/</link><pubDate>Tue, 18 Oct 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-10-18/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://elisehe.in/2022/10/16/attribute-selectors">The wasted potential of CSS attribute selectors&lt;/a>
 (&lt;a href="https://lobste.rs/s/kfg4uc/wasted_potential_css_attribute">comments&lt;/a>)&lt;/p>
