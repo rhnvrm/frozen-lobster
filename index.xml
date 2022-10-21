@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 20 Oct 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-10-20</title><link>https://frozen-lobster.rohanverma.net/posts/2022-10-20/</link><pubDate>Thu, 20 Oct 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-10-20/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 21 Oct 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-10-21</title><link>https://frozen-lobster.rohanverma.net/posts/2022-10-21/</link><pubDate>Fri, 21 Oct 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-10-21/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://lists.gnu.org/archive/html/emacs-devel/2022-10/msg01609.html">Eglot has landed on master: Emacs now has a built-in LSP client&lt;/a>
+(&lt;a href="https://lobste.rs/s/xcojdk/eglot_has_landed_on_master_emacs_now_has">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.openbsd.org/72.html">OpenBSD 7.2 Release&lt;/a>
+(&lt;a href="https://lobste.rs/s/8majeg/openbsd_7_2_release">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.haskellforall.com/2022/10/what-does-isomorphic-mean-in-haskell.html">What does &amp;ldquo;isomorphic&amp;rdquo; mean (in Haskell)?&lt;/a>
+(&lt;a href="https://lobste.rs/s/qzpy3w/what_does_isomorphic_mean_haskell">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://adguard.com/en/blog/easylist-filter-problem-help.html">EasyList is in trouble and so are many ad blockers&lt;/a>
+(&lt;a href="https://lobste.rs/s/xat33i/easylist_is_trouble_so_are_many_ad">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.oilshell.org/blog/2022/10/garbage-collector.html">Oil 0.12.7 - Garbage Collector Problems&lt;/a>
+(&lt;a href="https://lobste.rs/s/1jcvjk/oil_0_12_7_garbage_collector_problems">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sin-ack.github.io/posts/sycl-talk-20221007/">That Time I Tried Porting Zig to SerenityOS&lt;/a>
+(&lt;a href="https://lobste.rs/s/zon0fi/time_i_tried_porting_zig_serenityos">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://davidbau.com/archives/2010/03/14/the_mystery_of_355113.html">The Mystery of 355/113 (2010)&lt;/a>
+(&lt;a href="https://lobste.rs/s/vojk2t/mystery_355_113_2010">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://matklad.github.io/2022/10/19/why-linux-troubleshooting-advice-sucks.html">Why Linux Troubleshooting Advice Sucks&lt;/a>
+(&lt;a href="https://lobste.rs/s/k4cbht/why_linux_troubleshooting_advice_sucks">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://world.hey.com/dhh/why-we-re-leaving-the-cloud-654b47e0">Why we&amp;rsquo;re leaving the cloud&lt;/a>
+(&lt;a href="https://lobste.rs/s/9b0y0f/why_we_re_leaving_cloud">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://memooo.ooo/posts/is-openstack-losing/">Is OpenStack fighting a lost battle?&lt;/a>
+(&lt;a href="https://lobste.rs/s/ueboqk/is_openstack_fighting_lost_battle">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-10-20</title><link>https://frozen-lobster.rohanverma.net/posts/2022-10-20/</link><pubDate>Thu, 20 Oct 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-10-20/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://matklad.github.io/2022/10/19/why-linux-troubleshooting-advice-sucks.html">Why Linux Troubleshooting Advice Sucks&lt;/a>
 (&lt;a href="https://lobste.rs/s/k4cbht/why_linux_troubleshooting_advice_sucks">comments&lt;/a>)&lt;/p>
