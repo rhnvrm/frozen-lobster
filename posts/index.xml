@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 21 Oct 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-10-21</title><link>https://frozen-lobster.rohanverma.net/posts/2022-10-21/</link><pubDate>Fri, 21 Oct 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-10-21/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 22 Oct 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-10-22</title><link>https://frozen-lobster.rohanverma.net/posts/2022-10-22/</link><pubDate>Sat, 22 Oct 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-10-22/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://linus.schreibt.jetzt/posts/switch-root-dual-boot.html">Back to Ubuntu: Linux dual-boot, but cheaper&lt;/a>
+(&lt;a href="https://lobste.rs/s/e5mivw/back_ubuntu_linux_dual_boot_cheaper">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://matduggan.com/why-are-containers-insecure-by-default/">Stop Optimizing for Tutorials&lt;/a>
+(&lt;a href="https://lobste.rs/s/uhwecb/stop_optimizing_for_tutorials">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for">The HTTP crash course nobody asked for&lt;/a>
+(&lt;a href="https://lobste.rs/s/mf8nkq/http_crash_course_nobody_asked_for">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://synit.org/book/system-layer.html">Breaking Down the System Layer&lt;/a>
+(&lt;a href="https://lobste.rs/s/yojntk/breaking_down_system_layer">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://mouha.be/sha-3-buffer-overflow/">SHA-3 Buffer Overflow&lt;/a>
+(&lt;a href="https://lobste.rs/s/awougm/sha_3_buffer_overflow">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://twitter.com/daveschatz/status/1583342175005220864">How Gas app cut its Redis Engine CPU Utilization by 80%&lt;/a>
+(&lt;a href="https://lobste.rs/s/gzkgho/how_gas_app_cut_its_redis_engine_cpu">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://linusakesson.net/commodordion/index.php">The Commodordion&lt;/a>
+(&lt;a href="https://lobste.rs/s/vyaxdo/commodordion">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lists.gnu.org/archive/html/emacs-devel/2022-10/msg01609.html">Eglot has landed on master: Emacs now has a built-in LSP client&lt;/a>
+(&lt;a href="https://lobste.rs/s/xcojdk/eglot_has_landed_on_master_emacs_now_has">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.jefftk.com/p/deepfake-phishing">Deepfake phishing&lt;/a>
+(&lt;a href="https://lobste.rs/s/nxetk4/deepfake_phishing">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://typefully.com/DanHollick/blending-modes-KrBa0JP">Blending Modes&lt;/a>
+(&lt;a href="https://lobste.rs/s/ubntug/blending_modes">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-10-21</title><link>https://frozen-lobster.rohanverma.net/posts/2022-10-21/</link><pubDate>Fri, 21 Oct 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-10-21/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://lists.gnu.org/archive/html/emacs-devel/2022-10/msg01609.html">Eglot has landed on master: Emacs now has a built-in LSP client&lt;/a>
 (&lt;a href="https://lobste.rs/s/xcojdk/eglot_has_landed_on_master_emacs_now_has">comments&lt;/a>)&lt;/p>
