@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 22 Oct 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-10-22</title><link>https://frozen-lobster.rohanverma.net/posts/2022-10-22/</link><pubDate>Sat, 22 Oct 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-10-22/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 23 Oct 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-10-23</title><link>https://frozen-lobster.rohanverma.net/posts/2022-10-23/</link><pubDate>Sun, 23 Oct 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-10-23/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://ghuntley.com/fracture/">Visual Studio Code is designed to fracture&lt;/a>
+(&lt;a href="https://lobste.rs/s/ka3anc/visual_studio_code_is_designed_fracture">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://nessuent.net/posts/2022-10-22_open2_mode_gotcha.html">A minor gotcha in open(2)&lt;/a>
+(&lt;a href="https://lobste.rs/s/z8f8uc/minor_gotcha_open_2">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://wiki.alopex.li/RiscIn2022">RISC In 2022&lt;/a>
+(&lt;a href="https://lobste.rs/s/fgfxvu/risc_2022">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/JuliaPoo/Artfuscator">Artfuscator: A C compiler targeting an artistically pleasing nightmare for reverse engineers&lt;/a>
+(&lt;a href="https://lobste.rs/s/asqtlx/artfuscator_c_compiler_targeting">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.technologyreview.com/2022/10/21/1062001/spacex-starlink-signals-reverse-engineered-gps/">Starlink signals can be reverse-engineered to work like GPS—whether SpaceX likes it or not&lt;/a>
+(&lt;a href="https://lobste.rs/s/f6yrwp/starlink_signals_can_be_reverse">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.roguelike.club">Roguelike Celebration 2022: a festival about roguelike game design and procedural generation&lt;/a>
+(&lt;a href="https://lobste.rs/s/wk72zq/roguelike_celebration_2022_festival">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://nolanlawson.com/2022/10/22/style-performance-and-concurrent-rendering/">Style performance and concurrent rendering&lt;/a>
+(&lt;a href="https://lobste.rs/s/lsnxys/style_performance_concurrent_rendering">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://youtu.be/aDi50K_Id_k">Nim 2 (NimConf 2022)&lt;/a>
+(&lt;a href="https://lobste.rs/s/dyh8fw/nim_2_nimconf_2022">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://oldvcr.blogspot.com/2022/10/refurb-weekend-powerbook-1400.html">Refurb weekend: PowerBook 1400&lt;/a>
+(&lt;a href="https://lobste.rs/s/filohz/refurb_weekend_powerbook_1400">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://wingolog.org/archives/2022/10/22/the-sticky-mark-bit-algorithm">The sticky mark-bit algorithm&lt;/a>
+(&lt;a href="https://lobste.rs/s/mdkp9f/sticky_mark_bit_algorithm">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-10-22</title><link>https://frozen-lobster.rohanverma.net/posts/2022-10-22/</link><pubDate>Sat, 22 Oct 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-10-22/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://linus.schreibt.jetzt/posts/switch-root-dual-boot.html">Back to Ubuntu: Linux dual-boot, but cheaper&lt;/a>
 (&lt;a href="https://lobste.rs/s/e5mivw/back_ubuntu_linux_dual_boot_cheaper">comments&lt;/a>)&lt;/p>
