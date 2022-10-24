@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 23 Oct 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-10-23</title><link>https://frozen-lobster.rohanverma.net/posts/2022-10-23/</link><pubDate>Sun, 23 Oct 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-10-23/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-10-24</title><link>https://frozen-lobster.rohanverma.net/posts/2022-10-24/</link><pubDate>Mon, 24 Oct 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-10-24/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.textualize.io/blog/posts/textual-0-point-2-point-0">We&amp;rsquo;ve released Textual 0.2.0, a TUI framework for Python&lt;/a>
+(&lt;a href="https://lobste.rs/s/iadsvb/we_ve_released_textual_0_2_0_tui_framework">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ghuntley.com/fracture/">Visual Studio Code is designed to fracture&lt;/a>
+(&lt;a href="https://lobste.rs/s/ka3anc/visual_studio_code_is_designed_fracture">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tomaszs2.medium.com/how-rust-1-64-became-10-20-faster-on-windows-3a8bb5e81d70">How Rust 1.64 Became 10-20% Faster On Windows&lt;/a>
+(&lt;a href="https://lobste.rs/s/5wv4n7/how_rust_1_64_became_10_20_faster_on_windows">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/losvedir/transit-lang-cmp">Programming language comparison by reimplementing the same transit data app&lt;/a>
+(&lt;a href="https://lobste.rs/s/vbkamn/programming_language_comparison_by">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://kracekumar.com/post/bazel-build-system-intro-for-java/">Bazel Build System Introduction for Java&lt;/a>
+(&lt;a href="https://lobste.rs/s/wfp7oa/bazel_build_system_introduction_for_java">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://nicole.express/2022/games-made-in-a-cave.html">A Last Gasp of 2D: The Cave CV1000&lt;/a>
+(&lt;a href="https://lobste.rs/s/9x1nzo/last_gasp_2d_cave_cv1000">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.dedoimedo.com/computers/unity-desktop-2022.html">The Unity desktop in 2022 - A trick of nostalgia or the real deal?&lt;/a>
+(&lt;a href="https://lobste.rs/s/svsxmn/unity_desktop_2022_trick_nostalgia_real">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://usrme.xyz/posts/leveraging-shot-scraper-and-creating-image-diffs/">Leveraging &amp;lsquo;shot-scraper&amp;rsquo; and creating image diffs&lt;/a>
+(&lt;a href="https://lobste.rs/s/33rwoo/leveraging_shot_scraper_creating_image">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/JuliaPoo/Artfuscator">Artfuscator: A C compiler targeting an artistically pleasing nightmare for reverse engineers&lt;/a>
+(&lt;a href="https://lobste.rs/s/asqtlx/artfuscator_c_compiler_targeting">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://nessuent.net/posts/2022-10-22_open2_mode_gotcha.html">A minor gotcha in open(2)&lt;/a>
+(&lt;a href="https://lobste.rs/s/z8f8uc/minor_gotcha_open_2">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-10-23</title><link>https://frozen-lobster.rohanverma.net/posts/2022-10-23/</link><pubDate>Sun, 23 Oct 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-10-23/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://ghuntley.com/fracture/">Visual Studio Code is designed to fracture&lt;/a>
 (&lt;a href="https://lobste.rs/s/ka3anc/visual_studio_code_is_designed_fracture">comments&lt;/a>)&lt;/p>
