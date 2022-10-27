@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 26 Oct 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-10-26</title><link>https://frozen-lobster.rohanverma.net/posts/2022-10-26/</link><pubDate>Wed, 26 Oct 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-10-26/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 27 Oct 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-10-27</title><link>https://frozen-lobster.rohanverma.net/posts/2022-10-27/</link><pubDate>Thu, 27 Oct 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-10-27/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://blog.gitea.io/2022/10/open-source-sustainment-and-the-future-of-gitea/">Open source sustainment and the future of Gitea&lt;/a>
+(&lt;a href="https://lobste.rs/s/jglkoo/open_source_sustainment_future_gitea">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jrsinclair.com/articles/2022/what-if-the-team-hates-my-functional-code/">What if the team hates my functional code?&lt;/a>
+(&lt;a href="https://lobste.rs/s/zshds2/what_if_team_hates_my_functional_code">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://kristoff.it/blog/zig-self-hosted-now-what/">Zig is Self-hosted Now, What&amp;rsquo;s Next?&lt;/a>
+(&lt;a href="https://lobste.rs/s/csax21/zig_is_self_hosted_now_what_s_next">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://turbosrc.org/blog/initial-release.html">Announcing Turbosrc: empowering contributors&lt;/a>
+(&lt;a href="https://lobste.rs/s/oe7vh9/announcing_turbosrc_empowering">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://robertheaton.com/enf/">How to date a recording using background electrical noise&lt;/a>
+(&lt;a href="https://lobste.rs/s/9czcez/how_date_recording_using_background">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://computeradsfromthepast.substack.com/p/phar-lap-frontrunner">Phar Lap FrontRunner - The Winning DOS Desktop for Windows&lt;/a>
+(&lt;a href="https://lobste.rs/s/odqdmg/phar_lap_frontrunner_winning_dos_desktop">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tony-zorman.com/posts/2022-10-22-emacs-potpourri.html">A Potpourri of Emacs Tweaks&lt;/a>
+(&lt;a href="https://lobste.rs/s/vtny4b/potpourri_emacs_tweaks">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gleam.run/news/gleam-v0.24-released/">Gleam v0.24 released with full Elixir support&lt;/a>
+(&lt;a href="https://lobste.rs/s/wjs4a2/gleam_v0_24_released_with_full_elixir">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ntfy.sh/">Zero-cost push notifications to your phone or desktop via PUT/POST&lt;/a>
+(&lt;a href="https://lobste.rs/s/41dq13/zero_cost_push_notifications_your_phone">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://rambo.codes/posts/2022-10-25-sirispy-ios-bug-allowed-apps-to-eavesdrop">SiriSpy - iOS bug allowed apps to eavesdrop on your conversations with Siri&lt;/a>
+(&lt;a href="https://lobste.rs/s/vl7upn/sirispy_ios_bug_allowed_apps_eavesdrop_on">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-10-26</title><link>https://frozen-lobster.rohanverma.net/posts/2022-10-26/</link><pubDate>Wed, 26 Oct 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-10-26/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://kristoff.it/blog/zig-self-hosted-now-what/">Zig is Self-hosted Now, What&amp;rsquo;s Next?&lt;/a>
 (&lt;a href="https://lobste.rs/s/csax21/zig_is_self_hosted_now_what_s_next">comments&lt;/a>)&lt;/p>
