@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 27 Oct 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-10-27</title><link>https://frozen-lobster.rohanverma.net/posts/2022-10-27/</link><pubDate>Thu, 27 Oct 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-10-27/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 28 Oct 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-10-28</title><link>https://frozen-lobster.rohanverma.net/posts/2022-10-28/</link><pubDate>Fri, 28 Oct 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-10-28/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://sharats.me/posts/shell-script-best-practices/">Shell Script Best Practices&lt;/a>
+(&lt;a href="https://lobste.rs/s/knvmr1/shell_script_best_practices">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.mikeperham.com/2022/10/27/introducing-sidekiq-7.0/">Sidekiq 7.0&lt;/a>
+(&lt;a href="https://lobste.rs/s/rq0qy3/sidekiq_7_0">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.m-ou.se/rust-standard/">Do we need a &amp;ldquo;Rust Standard&amp;rdquo;?&lt;/a>
+(&lt;a href="https://lobste.rs/s/feawyf/do_we_need_rust_standard">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://mta.openssl.org/pipermail/openssl-announce/2022-October/000238.html">Upcoming critical OpenSSL CVE&lt;/a>
+(&lt;a href="https://lobste.rs/s/lyofy4/upcoming_critical_openssl_cve">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://quadratic.fm/p/how-meta-microsoft-google-github">How to leverage HTTP conditional requests to build robust REST APIs&lt;/a>
+(&lt;a href="https://lobste.rs/s/rnzyys/how_leverage_http_conditional_requests">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.masteringemacs.org/article/keyboard-shortcuts-every-command-line-hacker-should-know-about-gnu-readline">Keyboard Shortcuts every Command Line Hacker should know about GNU Readline&lt;/a>
+(&lt;a href="https://lobste.rs/s/xooyhy/keyboard_shortcuts_every_command_line">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jrsinclair.com/articles/2022/what-if-the-team-hates-my-functional-code/">What if the team hates my functional code?&lt;/a>
+(&lt;a href="https://lobste.rs/s/zshds2/what_if_team_hates_my_functional_code">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">Recommendations thread: Your favorite sources of raw data (of any type)&lt;/a>
+(&lt;a href="https://lobste.rs/s/5guoty/recommendations_thread_your_favorite">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://eclecticlight.co/2022/01/04/booting-an-m1-mac-from-hardware-to-kexts-1-hardware/">Booting an M1 Mac from hardware to kexts&lt;/a>
+(&lt;a href="https://lobste.rs/s/hfr9se/booting_m1_mac_from_hardware_kexts">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://utcc.utoronto.ca/~cks/space/blog/tech/SecurityItsOurOwnFault">Our computer security problems are our own fault&lt;/a>
+(&lt;a href="https://lobste.rs/s/akwo1d/our_computer_security_problems_are_our">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-10-27</title><link>https://frozen-lobster.rohanverma.net/posts/2022-10-27/</link><pubDate>Thu, 27 Oct 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-10-27/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://blog.gitea.io/2022/10/open-source-sustainment-and-the-future-of-gitea/">Open source sustainment and the future of Gitea&lt;/a>
 (&lt;a href="https://lobste.rs/s/jglkoo/open_source_sustainment_future_gitea">comments&lt;/a>)&lt;/p>
