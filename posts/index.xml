@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 29 Oct 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-10-29</title><link>https://frozen-lobster.rohanverma.net/posts/2022-10-29/</link><pubDate>Sat, 29 Oct 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-10-29/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 30 Oct 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-10-30</title><link>https://frozen-lobster.rohanverma.net/posts/2022-10-30/</link><pubDate>Sun, 30 Oct 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-10-30/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://simonwillison.net/2022/Oct/29/the-perfect-commit/">The Perfect Commit&lt;/a>
+(&lt;a href="https://lobste.rs/s/tgen6r/perfect_commit">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://xeiaso.net/blog/openssl-3.x-secvuln-incoming">You should prepare for the OpenSSL 3.x secvuln&lt;/a>
+(&lt;a href="https://lobste.rs/s/9eas9d/you_should_prepare_for_openssl_3_x_secvuln">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.devever.net/~hl/power9tags">The Talos II, Blackbird POWER9 systems support tagged memory&lt;/a>
+(&lt;a href="https://lobste.rs/s/psisxf/talos_ii_blackbird_power9_systems">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://nedbatchelder.com/blog/202210/ideal_open_source.html">Ideal open source&lt;/a>
+(&lt;a href="https://lobste.rs/s/h72rpu/ideal_open_source">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://scriptedconfiguration.org/">rset(1): configure systems using any scripting language&lt;/a>
+(&lt;a href="https://lobste.rs/s/0ju7yt/rset_1_configure_systems_using_any">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://matduggan.com/passkeys-as-a-tool-for-user-retention/">Passkeys as a tool for user retention&lt;/a>
+(&lt;a href="https://lobste.rs/s/xqv3j3/passkeys_as_tool_for_user_retention">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/Arquivotheca/SunOS-4.1.3">Source code for SunOS 4.1.3&lt;/a>
+(&lt;a href="https://lobste.rs/s/ec45zx/source_code_for_sunos_4_1_3">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gitea-open-letter.coding.social/">An Open Letter to Gitea&lt;/a>
+(&lt;a href="https://lobste.rs/s/wp5nnh/open_letter_gitea">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.autodidacts.io/taxonomy-is-hard/">Taxonomy is Hard&lt;/a>
+(&lt;a href="https://lobste.rs/s/bry0l0/taxonomy_is_hard">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://youtube.com/watch?v=FquNpWdf9vg">The Computer Chronicles - Hypercard (1987)&lt;/a>
+(&lt;a href="https://lobste.rs/s/khshsx/computer_chronicles_hypercard_1987">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-10-29</title><link>https://frozen-lobster.rohanverma.net/posts/2022-10-29/</link><pubDate>Sat, 29 Oct 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-10-29/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://matduggan.com/passkeys-as-a-tool-for-user-retention/">Passkeys as a tool for user retention&lt;/a>
 (&lt;a href="https://lobste.rs/s/xqv3j3/passkeys_as_tool_for_user_retention">comments&lt;/a>)&lt;/p>
