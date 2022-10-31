@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 30 Oct 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-10-30</title><link>https://frozen-lobster.rohanverma.net/posts/2022-10-30/</link><pubDate>Sun, 30 Oct 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-10-30/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 31 Oct 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-10-31</title><link>https://frozen-lobster.rohanverma.net/posts/2022-10-31/</link><pubDate>Mon, 31 Oct 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-10-31/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://oldvcr.blogspot.com/2022/10/if-one-guis-not-enough-for-your-sparc.html">If one GUI&amp;rsquo;s not enough for your SPARC workstation, try four&lt;/a>
+(&lt;a href="https://lobste.rs/s/iaemyl/if_one_gui_s_not_enough_for_your_sparc">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://beyondloom.com/decker/index.html">Decker&lt;/a>
+(&lt;a href="https://lobste.rs/s/sdxq68/decker">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.idris-lang.org/idris-2-version-060-released.html">Idris 2 version 0.6.0 Released&lt;/a>
+(&lt;a href="https://lobste.rs/s/621mue/idris_2_version_0_6_0_released">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/javierhonduco/rbperf">rbperf: A sampling profiler and tracer for Ruby which runs in BPF&lt;/a>
+(&lt;a href="https://lobste.rs/s/1eryiz/rbperf_sampling_profiler_tracer_for_ruby">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://simonwillison.net/2022/Oct/29/the-perfect-commit/">The Perfect Commit&lt;/a>
+(&lt;a href="https://lobste.rs/s/tgen6r/perfect_commit">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.cs.dartmouth.edu/~sws/pubs/ksbk15-draft.pdf">Workarounds to Computer Access in Healthcare Organizations: You Want My Password or a Dead Patient?&lt;/a>
+(&lt;a href="https://lobste.rs/s/uh1hj2/workarounds_computer_access_healthcare">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/SerenityOS/jakt">Jakt Programming Language&lt;/a>
+(&lt;a href="https://lobste.rs/s/m6qaeb/jakt_programming_language">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.thebyteattic.com/p/agon.html">Agon light - low cost open-source 8-bit microcomputer and microcontroller&lt;/a>
+(&lt;a href="https://lobste.rs/s/qxtbfw/agon_light_low_cost_open_source_8_bit">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://vimtricks.com/p/50-useful-vim-commands/">50 Useful Vim Commands&lt;/a>
+(&lt;a href="https://lobste.rs/s/anxhne/50_useful_vim_commands">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://dmitryelj.medium.com/t%C3%A9l%C3%A9tel-the-french-internet-of-the-80s-how-did-it-work-f910666a80c1">Télétel, the French Internet of the 80s — How did it work?&lt;/a>
+(&lt;a href="https://lobste.rs/s/nzzqow/teletel_french_internet_80s_how_did_it">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-10-30</title><link>https://frozen-lobster.rohanverma.net/posts/2022-10-30/</link><pubDate>Sun, 30 Oct 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-10-30/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://simonwillison.net/2022/Oct/29/the-perfect-commit/">The Perfect Commit&lt;/a>
 (&lt;a href="https://lobste.rs/s/tgen6r/perfect_commit">comments&lt;/a>)&lt;/p>
