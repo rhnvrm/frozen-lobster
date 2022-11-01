@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 31 Oct 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-10-31</title><link>https://frozen-lobster.rohanverma.net/posts/2022-10-31/</link><pubDate>Mon, 31 Oct 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-10-31/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 01 Nov 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-11-01</title><link>https://frozen-lobster.rohanverma.net/posts/2022-11-01/</link><pubDate>Tue, 01 Nov 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-11-01/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/ema/pets">A configuration management system for Pets, not Cattle&lt;/a>
+(&lt;a href="https://lobste.rs/s/jc2oru/configuration_management_system_for">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ziglang.org/download/0.10.0/release-notes.html">Zig 0.10.0 Release Notes&lt;/a>
+(&lt;a href="https://lobste.rs/s/gsizcf/zig_0_10_0_release_notes">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://bugs.chromium.org/p/chromium/issues/detail?id=1178058#c84">Google explains why it&amp;rsquo;s removing JPEG XL from the Chromium code base&lt;/a>
+(&lt;a href="https://lobste.rs/s/27hc2m/google_explains_why_it_s_removing_jpeg_xl">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=aEfssFQ1X1M">Synit and SqueakPhone demo&lt;/a>
+(&lt;a href="https://lobste.rs/s/4tlpcf/synit_squeakphone_demo">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sschueller.github.io/posts/wiring-a-home-with-fiber/">Wiring my home with Fiber&lt;/a>
+(&lt;a href="https://lobste.rs/s/dcczib/wiring_my_home_with_fiber">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this week?&lt;/a>
+(&lt;a href="https://lobste.rs/s/aa48tk/what_are_you_doing_this_week">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://batsov.com/articles/2022/10/30/lessons-learned-from-a-hardware-upgrade-gone-wrong/">Lessons Learned from a Hardware Upgrade Gone Wrong&lt;/a>
+(&lt;a href="https://lobste.rs/s/g4f5g3/lessons_learned_from_hardware_upgrade">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">Do you use Nix or equivalent to manage projects and/or systems?&lt;/a>
+(&lt;a href="https://lobste.rs/s/j2b4z2/do_you_use_nix_equivalent_manage_projects">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.dylanamartin.com/2022/10/31/use-newtypes-for-typesafe-data-validation-with-aeson.html">Data validation in Haskell with newtypes, smart constructors, and aeson&lt;/a>
+(&lt;a href="https://lobste.rs/s/ulqssr/data_validation_haskell_with_newtypes">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://matklad.github.io/2022/10/28/elements-of-a-great-markup-language.html">Elements Of a Great Markup Language&lt;/a>
+(&lt;a href="https://lobste.rs/s/cx7wl2/elements_great_markup_language">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-10-31</title><link>https://frozen-lobster.rohanverma.net/posts/2022-10-31/</link><pubDate>Mon, 31 Oct 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-10-31/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://oldvcr.blogspot.com/2022/10/if-one-guis-not-enough-for-your-sparc.html">If one GUI&amp;rsquo;s not enough for your SPARC workstation, try four&lt;/a>
 (&lt;a href="https://lobste.rs/s/iaemyl/if_one_gui_s_not_enough_for_your_sparc">comments&lt;/a>)&lt;/p>
