@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 01 Nov 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-11-01</title><link>https://frozen-lobster.rohanverma.net/posts/2022-11-01/</link><pubDate>Tue, 01 Nov 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-11-01/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 02 Nov 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-11-02</title><link>https://frozen-lobster.rohanverma.net/posts/2022-11-02/</link><pubDate>Wed, 02 Nov 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-11-02/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.openssl.org/news/secadv/20221101.txt">OpenSSL Security Advisory [01 November 2022]&lt;/a>
+(&lt;a href="https://lobste.rs/s/vjemu5/openssl_security_advisory_01_november">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.inkandswitch.com/potluck/">Potluck: Dynamic documents as personal software&lt;/a>
+(&lt;a href="https://lobste.rs/s/ywvjox/potluck_dynamic_documents_as_personal">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://studio.sandspiel.club/">Sandspiel Studio: Cellular Automata Designer&lt;/a>
+(&lt;a href="https://lobste.rs/s/ejb5bl/sandspiel_studio_cellular_automata">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://mta.openssl.org/pipermail/openssl-announce/2022-November/000241.html">OpenSSL version 3.0.7 published&lt;/a>
+(&lt;a href="https://lobste.rs/s/376oeh/openssl_version_3_0_7_published">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://brr.fyi/posts/sms-mfa">SMS Multifactor Authentication in Antarctica&lt;/a>
+(&lt;a href="https://lobste.rs/s/kv3dxl/sms_multifactor_authentication">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://bas.codes/posts/simple-kubernetes">My Simple Kubernetes Setup for Side Projects&lt;/a>
+(&lt;a href="https://lobste.rs/s/4lwaky/my_simple_kubernetes_setup_for_side">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://determinate.systems/posts/nix-github-actions">Streamline your GitHub Actions dependencies using Nix&lt;/a>
+(&lt;a href="https://lobste.rs/s/qbsbcj/streamline_your_github_actions">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/yyx990803/vite-vs-next-turbo-hmr/discussions/8">Is Turbopack really 10x Faster than Vite?&lt;/a>
+(&lt;a href="https://lobste.rs/s/on6ncu/is_turbopack_really_10x_faster_than_vite">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://djot.net">Djot, a Light Markup Language&lt;/a>
+(&lt;a href="https://lobste.rs/s/87hbtd/djot_light_markup_language">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://code.jeremyevans.net/2022-11-01-forcing-sequential-scans-on-postgresql.html">Forcing Sequential Scans on PostgreSQL Using Large Integers&lt;/a>
+(&lt;a href="https://lobste.rs/s/jgl9w2/forcing_sequential_scans_on_postgresql">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-11-01</title><link>https://frozen-lobster.rohanverma.net/posts/2022-11-01/</link><pubDate>Tue, 01 Nov 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-11-01/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://github.com/ema/pets">A configuration management system for Pets, not Cattle&lt;/a>
 (&lt;a href="https://lobste.rs/s/jc2oru/configuration_management_system_for">comments&lt;/a>)&lt;/p>
