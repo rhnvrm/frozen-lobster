@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 03 Nov 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-11-03</title><link>https://frozen-lobster.rohanverma.net/posts/2022-11-03/</link><pubDate>Thu, 03 Nov 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-11-03/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 04 Nov 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-11-04</title><link>https://frozen-lobster.rohanverma.net/posts/2022-11-04/</link><pubDate>Fri, 04 Nov 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-11-04/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://blog.rust-lang.org/2022/11/03/Rust-1.65.0.html">Announcing Rust 1.65.0&lt;/a>
+(&lt;a href="https://lobste.rs/s/qojcz4/announcing_rust_1_65_0">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://githubcopilotlitigation.com">GitHub Copilot litigation&lt;/a>
+(&lt;a href="https://lobste.rs/s/ukgknn/github_copilot_litigation">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cloudinary.com/blog/the-case-for-jpeg-xl">The Case for JPEG XL&lt;/a>
+(&lt;a href="https://lobste.rs/s/ibbboy/case_for_jpeg_xl">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://vgel.me/posts/mmap-arena-alloc/">mmap(1Tb): A Rust arena allocator (ab)using Linux overcommit&lt;/a>
+(&lt;a href="https://lobste.rs/s/zlz6lj/mmap_1tb_rust_arena_allocator_ab_using">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://people.freebsd.org/~gallatin/talks/euro2022.pdf">FreeBSD optimizations used by Netflix to serve video at 800Gb/s from a single server&lt;/a>
+(&lt;a href="https://lobste.rs/s/eeg8zk/freebsd_optimizations_used_by_netflix">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/naver/lispe/wiki/6.16-Why-Lisp">Why Lisp&lt;/a>
+(&lt;a href="https://lobste.rs/s/1nzold/why_lisp">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://code.visualstudio.com/docs/remote/ssh">Developing on Remote Machines using SSH and Visual Studio Code&lt;/a>
+(&lt;a href="https://lobste.rs/s/x1vu8l/developing_on_remote_machines_using_ssh">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.hillelwayne.com/post/strangeloop-22/">Notes on Every Strangeloop 2022 Talk I Attended&lt;/a>
+(&lt;a href="https://lobste.rs/s/2mljml/notes_on_every_strangeloop_2022_talk_i">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://garrit.xyz/posts/2022-11-03-reselling-managed-kubernetes">Reselling Kubernetes&lt;/a>
+(&lt;a href="https://lobste.rs/s/fkrulx/reselling_kubernetes">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://computeradsfromthepast.substack.com/p/the-lemon-sours-surges">The Lemon Sours Surges&lt;/a>
+(&lt;a href="https://lobste.rs/s/vflzn5/lemon_sours_surges">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-11-03</title><link>https://frozen-lobster.rohanverma.net/posts/2022-11-03/</link><pubDate>Thu, 03 Nov 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-11-03/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://www.hillelwayne.com/post/strangeloop-22/">Notes on Every Strangeloop 2022 Talk I Attended&lt;/a>
 (&lt;a href="https://lobste.rs/s/2mljml/notes_on_every_strangeloop_2022_talk_i">comments&lt;/a>)&lt;/p>
