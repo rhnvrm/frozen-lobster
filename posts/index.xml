@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 04 Nov 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-11-04</title><link>https://frozen-lobster.rohanverma.net/posts/2022-11-04/</link><pubDate>Fri, 04 Nov 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-11-04/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 05 Nov 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-11-05</title><link>https://frozen-lobster.rohanverma.net/posts/2022-11-05/</link><pubDate>Sat, 05 Nov 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-11-05/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="http://antirez.com/news/138">In defense of linked lists&lt;/a>
+(&lt;a href="https://lobste.rs/s/kbwb4d/defense_linked_lists">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://githubcopilotlitigation.com">GitHub Copilot litigation&lt;/a>
+(&lt;a href="https://lobste.rs/s/ukgknn/github_copilot_litigation">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.thea.codes/starfish-a-control-board-with-the-rp2040">Creating a pick and place control board with the RP2040&lt;/a>
+(&lt;a href="https://lobste.rs/s/koiyhg/creating_pick_place_control_board_with">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this weekend?&lt;/a>
+(&lt;a href="https://lobste.rs/s/lqgkwt/what_are_you_doing_this_weekend">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://bugzilla.redhat.com/show_bug.cgi?id=2139911">CVE-2022-43995 sudo: heap-based overflow with very small passwords&lt;/a>
+(&lt;a href="https://lobste.rs/s/fh4hku/cve_2022_43995_sudo_heap_based_overflow">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://whynowtech.substack.com/p/nix">Nix (on Nix and Docker and build and packaging systems)&lt;/a>
+(&lt;a href="https://lobste.rs/s/jfjoig/nix_on_nix_docker_build_packaging_systems">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://nix.how/blog/nixcamp-2021-to-2022">Nix.Camp 2021 to 2022&lt;/a>
+(&lt;a href="https://lobste.rs/s/hp2zm0/nix_camp_2021_2022">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://susam.net/blog/programming-with-dos-debugger.html">Programming With DOS Debugger (2003)&lt;/a>
+(&lt;a href="https://lobste.rs/s/qka8b2/programming_with_dos_debugger_2003">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://bernsteinbear.com/blog/cinder-jit-symbolizer/">Writing a symbolizer for the Cinder JIT&lt;/a>
+(&lt;a href="https://lobste.rs/s/snorgb/writing_symbolizer_for_cinder_jit">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.masteringemacs.org/article/securely-generating-totp-tokens-emacs">Securely Generating TOTP tokens with Emacs&lt;/a>
+(&lt;a href="https://lobste.rs/s/18dtmj/securely_generating_totp_tokens_with">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-11-04</title><link>https://frozen-lobster.rohanverma.net/posts/2022-11-04/</link><pubDate>Fri, 04 Nov 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-11-04/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://blog.rust-lang.org/2022/11/03/Rust-1.65.0.html">Announcing Rust 1.65.0&lt;/a>
 (&lt;a href="https://lobste.rs/s/qojcz4/announcing_rust_1_65_0">comments&lt;/a>)&lt;/p>
