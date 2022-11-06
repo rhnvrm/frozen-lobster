@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 05 Nov 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-11-05</title><link>https://frozen-lobster.rohanverma.net/posts/2022-11-05/</link><pubDate>Sat, 05 Nov 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-11-05/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 06 Nov 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-11-06</title><link>https://frozen-lobster.rohanverma.net/posts/2022-11-06/</link><pubDate>Sun, 06 Nov 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-11-06/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://xenodium.com/hey-emacs-where-did-i-take-that-photo/">Hey Emacs, where did I take that photo?&lt;/a>
+(&lt;a href="https://lobste.rs/s/swihmo/hey_emacs_where_did_i_take_photo">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://openwebdocs.org/content/posts/markdown-conversion/">MDN converted to Markdown&lt;/a>
+(&lt;a href="https://lobste.rs/s/wggcjk/mdn_converted_markdown">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/jafarlihi/clex">GitHub - jafarlihi/clex: clex is a simple lexer generator for C&lt;/a>
+(&lt;a href="https://lobste.rs/s/lasyib/github_jafarlihi_clex_clex_is_simple">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://simonhearne.com/2020/network-faster-than-cache/">When Network is Faster than Cache&lt;/a>
+(&lt;a href="https://lobste.rs/s/ggx0zj/when_network_is_faster_than_cache">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://antirez.com/news/138">In defense of linked lists&lt;/a>
+(&lt;a href="https://lobste.rs/s/kbwb4d/defense_linked_lists">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.sqlite.org/howtocorrupt.html">How To Corrupt An SQLite Database File&lt;/a>
+(&lt;a href="https://lobste.rs/s/6xmgoi/how_corrupt_sqlite_database_file">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://matklad.github.io/2022/11/05/accessibility-px-or-rem.html">Accessibility: px or rem?&lt;/a>
+(&lt;a href="https://lobste.rs/s/d0dutz/accessibility_px_rem">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.thea.codes/starfish-a-control-board-with-the-rp2040">Creating a pick and place control board with the RP2040&lt;/a>
+(&lt;a href="https://lobste.rs/s/koiyhg/creating_pick_place_control_board_with">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://susam.net/blog/programming-with-dos-debugger.html">Programming With DOS Debugger (2003)&lt;/a>
+(&lt;a href="https://lobste.rs/s/qka8b2/programming_with_dos_debugger_2003">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">Racket meet-up 5 November at 18:00 UTC&lt;/a>
+(&lt;a href="https://lobste.rs/s/3kpjbb/racket_meet_up_5_november_at_18_00_utc">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-11-05</title><link>https://frozen-lobster.rohanverma.net/posts/2022-11-05/</link><pubDate>Sat, 05 Nov 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-11-05/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="http://antirez.com/news/138">In defense of linked lists&lt;/a>
 (&lt;a href="https://lobste.rs/s/kbwb4d/defense_linked_lists">comments&lt;/a>)&lt;/p>
