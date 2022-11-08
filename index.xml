@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 07 Nov 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-11-07</title><link>https://frozen-lobster.rohanverma.net/posts/2022-11-07/</link><pubDate>Mon, 07 Nov 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-11-07/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 08 Nov 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-11-08</title><link>https://frozen-lobster.rohanverma.net/posts/2022-11-08/</link><pubDate>Tue, 08 Nov 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-11-08/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.mcmillen.dev/sigbovik/">93% of Paint Splatters are Valid Perl Programs (2019)&lt;/a>
+(&lt;a href="https://lobste.rs/s/ivhdd6/93_paint_splatters_are_valid_perl">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this week?&lt;/a>
+(&lt;a href="https://lobste.rs/s/ddnakl/what_are_you_doing_this_week">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://stripe.com/blog/fast-secure-builds-choose-two">Fast builds, secure builds. Choose two&lt;/a>
+(&lt;a href="https://lobste.rs/s/jnp8us/fast_builds_secure_builds_choose_two">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://hypha.coop/dripline/p2p-primer-part-1/">Exploring Alternatives to the Centralized Web&lt;/a>
+(&lt;a href="https://lobste.rs/s/exmdsm/exploring_alternatives_centralized_web">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://opensourceinfra.org/">Open Source Infrastructure&lt;/a>
+(&lt;a href="https://lobste.rs/s/csaqfj/open_source_infrastructure">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://computeradsfromthepast.substack.com/p/the-peach-without-fuzz">The Peach without Fuzz&lt;/a>
+(&lt;a href="https://lobste.rs/s/qekvvy/peach_without_fuzz">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.matecdev.com/posts/why-fortran-still-used.html">5 Reasons Why Fortran is Still Used&lt;/a>
+(&lt;a href="https://lobste.rs/s/o9ngkt/5_reasons_why_fortran_is_still_used">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://www.os2museum.com/wp/undefined-isnt-unpredictable/">Undefined Isn’t Unpredictable&lt;/a>
+(&lt;a href="https://lobste.rs/s/o5tx5a/undefined_isn_t_unpredictable">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://learngenomics.dev/">Introduction to Genomics for Engineers&lt;/a>
+(&lt;a href="https://lobste.rs/s/ykd3vh/introduction_genomics_for_engineers">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://brunoluiz.net/blog/2022/aug/imagewand-privacy-first-image-conversion-experiment-with-golang-and-wasm/">ImageWand: privacy-first image conversion experiment with Golang &amp;amp; WASM&lt;/a>
+(&lt;a href="https://lobste.rs/s/oi4nfj/imagewand_privacy_first_image">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-11-07</title><link>https://frozen-lobster.rohanverma.net/posts/2022-11-07/</link><pubDate>Mon, 07 Nov 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-11-07/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://twitter.com/marekgibney/status/1589315796383453185">Three things to like about the Fediverse&lt;/a>
 (&lt;a href="https://lobste.rs/s/rp1x4f/three_things_like_about_fediverse">comments&lt;/a>)&lt;/p>
