@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 08 Nov 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-11-08</title><link>https://frozen-lobster.rohanverma.net/posts/2022-11-08/</link><pubDate>Tue, 08 Nov 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-11-08/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 09 Nov 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-11-09</title><link>https://frozen-lobster.rohanverma.net/posts/2022-11-09/</link><pubDate>Wed, 09 Nov 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-11-09/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://earthly.dev/blog/chroot/">Containers are chroot with a Marketing Budget&lt;/a>
+(&lt;a href="https://lobste.rs/s/zntiwp/containers_are_chroot_with_marketing">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.trailofbits.com/2022/11/08/sigstore-code-signing-verification-software-supply-chain/">We sign code now&lt;/a>
+(&lt;a href="https://lobste.rs/s/51aey4/we_sign_code_now">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://about.sourcegraph.com/blog/migrating-monaco-codemirror">Migrating from Monaco Editor to CodeMirror&lt;/a>
+(&lt;a href="https://lobste.rs/s/exy6ud/migrating_from_monaco_editor_codemirror">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/cozodb/cozo">Cozo – new Graph DB with Datalog, embedded like SQLite, written in Rust&lt;/a>
+(&lt;a href="https://lobste.rs/s/gcepzn/cozo_new_graph_db_with_datalog_embedded">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.b-list.org/weblog/2022/nov/08/python-311-gotcha/">A Python 3.11 &amp;ldquo;gotcha&amp;rdquo;&lt;/a>
+(&lt;a href="https://lobste.rs/s/tnjs4j/python_3_11_gotcha">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://mochiro.moe/posts/09-meson-raytracer/">A pure-meson ray tracer&lt;/a>
+(&lt;a href="https://lobste.rs/s/zerhjf/pure_meson_ray_tracer">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.dylanamartin.com/2022/11/08/improving-the-aeson-experience.html">Improving the experience of JSON in Haskell with autodocodec and bifunctors&lt;/a>
+(&lt;a href="https://lobste.rs/s/zovrwf/improving_experience_json_haskell_with">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://arxiv.org/pdf/2211.03622.pdf">Do Users Write More Insecure Code with AI Assistants?&lt;/a>
+(&lt;a href="https://lobste.rs/s/mell2s/do_users_write_more_insecure_code_with_ai">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.mcmillen.dev/sigbovik/">93% of Paint Splatters are Valid Perl Programs (2019)&lt;/a>
+(&lt;a href="https://lobste.rs/s/ivhdd6/93_paint_splatters_are_valid_perl">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://coder.com/blog/dedicated-development-environment-for-teaching">Creating a Dedicated Development Environment for Teaching&lt;/a>
+(&lt;a href="https://lobste.rs/s/gpaamc/creating_dedicated_development">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-11-08</title><link>https://frozen-lobster.rohanverma.net/posts/2022-11-08/</link><pubDate>Tue, 08 Nov 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-11-08/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://www.mcmillen.dev/sigbovik/">93% of Paint Splatters are Valid Perl Programs (2019)&lt;/a>
 (&lt;a href="https://lobste.rs/s/ivhdd6/93_paint_splatters_are_valid_perl">comments&lt;/a>)&lt;/p>
