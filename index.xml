@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 09 Nov 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-11-09</title><link>https://frozen-lobster.rohanverma.net/posts/2022-11-09/</link><pubDate>Wed, 09 Nov 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-11-09/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 10 Nov 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-11-10</title><link>https://frozen-lobster.rohanverma.net/posts/2022-11-10/</link><pubDate>Thu, 10 Nov 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-11-10/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="">Ever had a bullshit job?&lt;/a>
+(&lt;a href="https://lobste.rs/s/3omsld/ever_had_bullshit_job">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://dougallj.wordpress.com/2022/11/09/why-is-rosetta-2-fast/">Why is Rosetta 2 fast?&lt;/a>
+(&lt;a href="https://lobste.rs/s/kugi2v/why_is_rosetta_2_fast">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.darklang.com/rescript-tea/">Announcing: Rescript-tea - the Elm Architecture for Rescript&lt;/a>
+(&lt;a href="https://lobste.rs/s/fauofc/announcing_rescript_tea_elm">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://serhack.me/articles/dissecting-reolink-rlc810a-hardware-detailed-view/">Dissecting Reolink RLC-810A Hardware: A Detailed View&lt;/a>
+(&lt;a href="https://lobste.rs/s/ylanli/dissecting_reolink_rlc_810a_hardware">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://earthly.dev/blog/chroot/">Containers are chroot with a Marketing Budget&lt;/a>
+(&lt;a href="https://lobste.rs/s/zntiwp/containers_are_chroot_with_marketing">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.jim-nielsen.com/2022/browsers-json-formdata/">Forms should be postable without JavaScript&lt;/a>
+(&lt;a href="https://lobste.rs/s/wfvpup/forms_should_be_postable_without">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.anaconda.com/blog/pyscript-updates-bytecode-alliance-pyodide-and-micropython">PyScript developments&lt;/a>
+(&lt;a href="https://lobste.rs/s/n69fab/pyscript_developments">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://words.filippo.io/dispatches/certificate-interning/">A GC-Friendly Go Interning Cache&lt;/a>
+(&lt;a href="https://lobste.rs/s/ecrgqb/gc_friendly_go_interning_cache">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://mariusbancila.ro/blog/2022/11/08/three-new-utility-functions-in-cpp23/">Three new utility functions in C++23&lt;/a>
+(&lt;a href="https://lobste.rs/s/stky5h/three_new_utility_functions_c_23">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://arstechnica.com/information-technology/2022/11/redditor-discovers-legendary-1956-computer-in-grandparents-basement/">Redditor discovers legendary 1956 computer in grandparents’ basement&lt;/a>
+(&lt;a href="https://lobste.rs/s/ifcqts/redditor_discovers_legendary_1956">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-11-09</title><link>https://frozen-lobster.rohanverma.net/posts/2022-11-09/</link><pubDate>Wed, 09 Nov 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-11-09/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://earthly.dev/blog/chroot/">Containers are chroot with a Marketing Budget&lt;/a>
 (&lt;a href="https://lobste.rs/s/zntiwp/containers_are_chroot_with_marketing">comments&lt;/a>)&lt;/p>
