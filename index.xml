@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 11 Nov 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-11-11</title><link>https://frozen-lobster.rohanverma.net/posts/2022-11-11/</link><pubDate>Fri, 11 Nov 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-11-11/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 12 Nov 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-11-12</title><link>https://frozen-lobster.rohanverma.net/posts/2022-11-12/</link><pubDate>Sat, 12 Nov 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-11-12/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://blog.freeradical.zone/post/surviving-thriving-through-2022-11-05-meltdown/">Surviving and thriving through the 2022-11-05 meltdown&lt;/a>
+(&lt;a href="https://lobste.rs/s/czknru/surviving_thriving_through_2022_11_05">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this weekend?&lt;/a>
+(&lt;a href="https://lobste.rs/s/il2bcx/what_are_you_doing_this_weekend">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blessed.rs/crates">Blessed.rs — an unofficial guide to the Rust ecosystem&lt;/a>
+(&lt;a href="https://lobste.rs/s/smrik5/blessed_rs_unofficial_guide_rust">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/rochus-keller/LeanQt/releases/tag/2022-11-11">LeanQt - now with cross-platform windows and 2d graphics - on the way to the widgets&lt;/a>
+(&lt;a href="https://lobste.rs/s/u5ql1w/leanqt_now_with_cross_platform_windows_2d">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://hmarr.com/blog/how-stdbuf-works/">How stdbuf works&lt;/a>
+(&lt;a href="https://lobste.rs/s/urnptx/how_stdbuf_works">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://softwaremaniacs.org/blog/2022/11/10/python-trie/en/">Trie in Python&lt;/a>
+(&lt;a href="https://lobste.rs/s/cb4oqs/trie_python">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://nim-lang.org/blog/2022/11/11/a-cost-model-for-nim.html">A cost model for Nim&lt;/a>
+(&lt;a href="https://lobste.rs/s/aucfzc/cost_model_for_nim">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">Distributed bittorrent-like social network?&lt;/a>
+(&lt;a href="https://lobste.rs/s/wzkqos/distributed_bittorrent_like_social">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gasman.zxdemo.org/pharmageddon/">Pharmageddon, a demo for a pharmacy LED sign&lt;/a>
+(&lt;a href="https://lobste.rs/s/hknfo0/pharmageddon_demo_for_pharmacy_led_sign">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://bugs.xdavidhu.me/google/2022/11/10/accidental-70k-google-pixel-lock-screen-bypass/">Accidental $70k Google Pixel Lock Screen Bypass&lt;/a>
+(&lt;a href="https://lobste.rs/s/ny6jjf/accidental_70k_google_pixel_lock_screen">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-11-11</title><link>https://frozen-lobster.rohanverma.net/posts/2022-11-11/</link><pubDate>Fri, 11 Nov 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-11-11/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://bugs.xdavidhu.me/google/2022/11/10/accidental-70k-google-pixel-lock-screen-bypass/">Accidental $70k Google Pixel Lock Screen Bypass&lt;/a>
 (&lt;a href="https://lobste.rs/s/ny6jjf/accidental_70k_google_pixel_lock_screen">comments&lt;/a>)&lt;/p>
