@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 14 Nov 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-11-14</title><link>https://frozen-lobster.rohanverma.net/posts/2022-11-14/</link><pubDate>Mon, 14 Nov 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-11-14/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 15 Nov 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-11-15</title><link>https://frozen-lobster.rohanverma.net/posts/2022-11-15/</link><pubDate>Tue, 15 Nov 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-11-15/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://hmarr.com/blog/go-allocation-hunting/">Making a Go program 42% faster with a one character change&lt;/a>
+(&lt;a href="https://lobste.rs/s/cpbsdp/making_go_program_42_faster_with_one">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://buttondown.email/hillelwayne/archive/why-do-we-call-it-boilerplate-code/">Why do we call it &amp;ldquo;boilerplate code?&amp;rdquo;&lt;/a>
+(&lt;a href="https://lobste.rs/s/wstbnz/why_do_we_call_it_boilerplate_code">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jott.live/markdown/ml_pipes">Machine Learning with Unix Pipes&lt;/a>
+(&lt;a href="https://lobste.rs/s/fbphgg/machine_learning_with_unix_pipes">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.codeberg.org/codeberg-is-moving-and-what-this-means-to-you.html">Codeberg is moving &amp;hellip; and what this means to you&lt;/a>
+(&lt;a href="https://lobste.rs/s/4peaax/codeberg_is_moving_what_this_means_you">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://blogs.perl.org/users/dimitrios_kechagias/2022/11/perl-performance-evolution-over-the-last-decade.html">Perl performance evolution over the last decade&lt;/a>
+(&lt;a href="https://lobste.rs/s/nwz9uf/perl_performance_evolution_over_last">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://johncarlosbaez.wordpress.com/2022/11/12/the-circle-of-fifths/">The Circle of Fifths&lt;/a>
+(&lt;a href="https://lobste.rs/s/hpojf8/circle_fifths">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://justinblank.com/notebooks/performanceoptimizationscanhaveunexpectedlylargeeffectswhencombinedwithcaches.html">Performance Optimizations Can Have Unexpectedly Large Effects When Combined With Caches&lt;/a>
+(&lt;a href="https://lobste.rs/s/sf3vns/performance_optimizations_can_have">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/rui314/mold/releases/tag/v1.7.0">mold 1.7.0 - author seriously considering license change away from open source&lt;/a>
+(&lt;a href="https://lobste.rs/s/kfpwxn/mold_1_7_0_author_seriously_considering">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://deno.com/blog/v1.28">Deno 1.28: Featuring 1.3 Million New Modules&lt;/a>
+(&lt;a href="https://lobste.rs/s/my2jxi/deno_1_28_featuring_1_3_million_new_modules">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What software do you dream about, but do not have time to code yourself?&lt;/a>
+(&lt;a href="https://lobste.rs/s/gjza8a/what_software_do_you_dream_about_do_not">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-11-14</title><link>https://frozen-lobster.rohanverma.net/posts/2022-11-14/</link><pubDate>Mon, 14 Nov 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-11-14/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://github.com/rui314/mold/releases/tag/v1.7.0">mold 1.7.0 - author seriously considering license change away from open source&lt;/a>
 (&lt;a href="https://lobste.rs/s/kfpwxn/mold_1_7_0_author_seriously_considering">comments&lt;/a>)&lt;/p>
