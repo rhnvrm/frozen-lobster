@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 15 Nov 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-11-15</title><link>https://frozen-lobster.rohanverma.net/posts/2022-11-15/</link><pubDate>Tue, 15 Nov 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-11-15/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 16 Nov 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-11-16</title><link>https://frozen-lobster.rohanverma.net/posts/2022-11-16/</link><pubDate>Wed, 16 Nov 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-11-16/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://engineering.fb.com/2022/11/15/open-source/sapling-source-control-scalable/">Sapling: Source control that’s user-friendly and scalable&lt;/a>
+(&lt;a href="https://lobste.rs/s/6jllik/sapling_source_control_s_user_friendly">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://j3s.sh/thought/.io-domains-considered-harmful.html">.io domains considered harmful&lt;/a>
+(&lt;a href="https://lobste.rs/s/5px6cu/io_domains_considered_harmful">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.trailofbits.com/2022/11/15/python-wheels-abi-abi3audit/">ABI compatibility in Python: how hard could it be?&lt;/a>
+(&lt;a href="https://lobste.rs/s/pk94fw/abi_compatibility_python_how_hard_could">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://queue.acm.org/detail.cfm?id=3570920">Split Your Overwhelmed Teams&lt;/a>
+(&lt;a href="https://lobste.rs/s/5flb6a/split_your_overwhelmed_teams">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://portswigger.net/research/stealing-passwords-from-infosec-mastodon-without-bypassing-csp">Stealing passwords from infosec Mastodon - without bypassing CSP&lt;/a>
+(&lt;a href="https://lobste.rs/s/nzkjwp/stealing_passwords_from_infosec">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/jafarlihi/cparse">cparse is an LR(1) parser generator for C&lt;/a>
+(&lt;a href="https://lobste.rs/s/jpfxkz/cparse_is_lr_1_parser_generator_for_c">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tratt.net/laurie/blog/2022/more_evidence_for_problems_in_vm_warmup.html">More Evidence for Problems in VM Warmup&lt;/a>
+(&lt;a href="https://lobste.rs/s/wm1y9a/more_evidence_for_problems_vm_warmup">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pythonspeed.com/articles/concurrency-control/">Who controls parallelism? A disagreement that leads to slower code&lt;/a>
+(&lt;a href="https://lobste.rs/s/n6jdsz/who_controls_parallelism_disagreement">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://computoid.com/posts/Perl-is-Actually-Portable.html">Perl is Actually Portable | Computoid&lt;/a>
+(&lt;a href="https://lobste.rs/s/k9mm26/perl_is_actually_portable_computoid">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://fedoramagazine.org/announcing-fedora-37/">Announcing Fedora Linux 37&lt;/a>
+(&lt;a href="https://lobste.rs/s/zomdi1/announcing_fedora_linux_37">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-11-15</title><link>https://frozen-lobster.rohanverma.net/posts/2022-11-15/</link><pubDate>Tue, 15 Nov 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-11-15/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://hmarr.com/blog/go-allocation-hunting/">Making a Go program 42% faster with a one character change&lt;/a>
 (&lt;a href="https://lobste.rs/s/cpbsdp/making_go_program_42_faster_with_one">comments&lt;/a>)&lt;/p>
