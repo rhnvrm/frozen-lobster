@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 16 Nov 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-11-16</title><link>https://frozen-lobster.rohanverma.net/posts/2022-11-16/</link><pubDate>Wed, 16 Nov 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-11-16/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 17 Nov 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-11-17</title><link>https://frozen-lobster.rohanverma.net/posts/2022-11-17/</link><pubDate>Thu, 17 Nov 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-11-17/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.hillelwayne.com/post/lpl/">Let&amp;rsquo;s Prove Leftpad&lt;/a>
+(&lt;a href="https://lobste.rs/s/u768se/let_s_prove_leftpad">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://contra.com/p/rvYgOWmF-debugging-mysterious-traffic-from-boardman-or">Debugging mysterious traffic from Boardman, OR&lt;/a>
+(&lt;a href="https://lobste.rs/s/iym7eb/debugging_mysterious_traffic_from">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/nathants/mighty-snitch">noticing and preventing network requests should be easy&lt;/a>
+(&lt;a href="https://lobste.rs/s/wfw1cz/noticing_preventing_network_requests">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://joel.tools/codegen/">AI Found a Bug in My Code&lt;/a>
+(&lt;a href="https://lobste.rs/s/e0vx3s/ai_found_bug_my_code">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.brixit.nl/finding-an-sbc/">Finding an SBC&lt;/a>
+(&lt;a href="https://lobste.rs/s/tzpwfk/finding_sbc">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/cshuaimin/ssr.nvim/">cshuaimin/ssr.nvim: Structural search and replace&lt;/a>
+(&lt;a href="https://lobste.rs/s/zi2xbs/cshuaimin_ssr_nvim_structural_search">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://engineering.fb.com/2022/11/15/open-source/sapling-source-control-scalable/">Sapling: Source control that’s user-friendly and scalable&lt;/a>
+(&lt;a href="https://lobste.rs/s/6jllik/sapling_source_control_s_user_friendly">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://0xax.gitbooks.io/linux-insides/content/SysCall/linux-syscall-4.html">How does the Linux kernel run a program&lt;/a>
+(&lt;a href="https://lobste.rs/s/seyqnp/how_does_linux_kernel_run_program">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.greptime.com/blogs/2022-11-15-this-time-for-real">Announcing greptimedb, a scalable time-series database we are working on&lt;/a>
+(&lt;a href="https://lobste.rs/s/mpzj9g/announcing_greptimedb_scalable_time">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://blog.archive.org/2022/11/15/digital-books-wear-out-faster-than-physical-books/">Digital Books wear out faster than Physical Books&lt;/a>
+(&lt;a href="https://lobste.rs/s/vmg6cb/digital_books_wear_out_faster_than">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-11-16</title><link>https://frozen-lobster.rohanverma.net/posts/2022-11-16/</link><pubDate>Wed, 16 Nov 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-11-16/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://engineering.fb.com/2022/11/15/open-source/sapling-source-control-scalable/">Sapling: Source control that’s user-friendly and scalable&lt;/a>
 (&lt;a href="https://lobste.rs/s/6jllik/sapling_source_control_s_user_friendly">comments&lt;/a>)&lt;/p>
