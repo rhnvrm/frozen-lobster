@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 17 Nov 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-11-17</title><link>https://frozen-lobster.rohanverma.net/posts/2022-11-17/</link><pubDate>Thu, 17 Nov 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-11-17/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 18 Nov 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-11-18</title><link>https://frozen-lobster.rohanverma.net/posts/2022-11-18/</link><pubDate>Fri, 18 Nov 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-11-18/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://blog.waleedkhan.name/bringing-revsets-to-git/">Bringing revsets to Git&lt;/a>
+(&lt;a href="https://lobste.rs/s/4lp2pz/bringing_revsets_git">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/jetpack-io/launchpad">Launchpad: deploy on Kubernetes, without any Kubernetes knowledge&lt;/a>
+(&lt;a href="https://lobste.rs/s/alvb7n/launchpad_deploy_on_kubernetes_without">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://daniel.haxx.se/blog/2022/11/17/considering-c99-for-curl/">Considering C99 for curl&lt;/a>
+(&lt;a href="https://lobste.rs/s/yjwbha/considering_c99_for_curl">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://kindelia.org/">Kindelia Foundation&lt;/a>
+(&lt;a href="https://lobste.rs/s/p977tl/kindelia_foundation">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://dotat.at/@/2022-11-17-dns-decompress.html">Faster DNS name decompression&lt;/a>
+(&lt;a href="https://lobste.rs/s/wicg1z/faster_dns_name_decompression">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tomforb.es/infosys-leaked-fulladminaccess-aws-keys-on-pypi-for-over-a-year/">Infosys leaked FullAdminAccess AWS keys on PyPi for over a year&lt;/a>
+(&lt;a href="https://lobste.rs/s/teffwy/infosys_leaked_fulladminaccess_aws_keys">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.sunfishcode.online/is-everything-is-a-file/">Is Everything Is A File?&lt;/a>
+(&lt;a href="https://lobste.rs/s/artq99/is_everything_is_file">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.hillelwayne.com/post/lpl/">Let&amp;rsquo;s Prove Leftpad&lt;/a>
+(&lt;a href="https://lobste.rs/s/u768se/let_s_prove_leftpad">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://zig.news/kristoff/easy-interfaces-with-zig-0100-2hc5">Easy Interfaces with Zig 0.10.0&lt;/a>
+(&lt;a href="https://lobste.rs/s/sygfxw/easy_interfaces_with_zig_0_10_0">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.natalie.ee/posts/building-dynamic-vrchat-world/">Building a Dynamic VRChat World&lt;/a>
+(&lt;a href="https://lobste.rs/s/fgiyt2/building_dynamic_vrchat_world">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-11-17</title><link>https://frozen-lobster.rohanverma.net/posts/2022-11-17/</link><pubDate>Thu, 17 Nov 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-11-17/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://www.hillelwayne.com/post/lpl/">Let&amp;rsquo;s Prove Leftpad&lt;/a>
 (&lt;a href="https://lobste.rs/s/u768se/let_s_prove_leftpad">comments&lt;/a>)&lt;/p>
