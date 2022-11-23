@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 22 Nov 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-11-22</title><link>https://frozen-lobster.rohanverma.net/posts/2022-11-22/</link><pubDate>Tue, 22 Nov 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-11-22/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 23 Nov 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-11-23</title><link>https://frozen-lobster.rohanverma.net/posts/2022-11-23/</link><pubDate>Wed, 23 Nov 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-11-23/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://soatok.blog/2022/11/22/towards-end-to-end-encryption-for-direct-messages-in-the-fediverse/">Towards End-to-End Encryption for Direct Messages in the Fediverse&lt;/a>
+(&lt;a href="https://lobste.rs/s/9uvaqs/towards_end_end_encryption_for_direct">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://matthewtejo.substack.com/p/why-twitter-didnt-go-down-from-a">Why Twitter Didn’t Go Down: From a Real Twitter SRE&lt;/a>
+(&lt;a href="https://lobste.rs/s/4mupjz/why_twitter_didn_t_go_down_from_real">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>[Always use &lt;a href="https://fhur.me/posts/always-use-closed-open-intervals">closed, open) intervals&lt;/a>
+(&lt;a href="https://lobste.rs/s/8i19nz/always_use_closed_open_intervals">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://westling.dev/b/extremely-linear-git">Extremely Linear Git History&lt;/a>
+(&lt;a href="https://lobste.rs/s/ydy5vs/extremely_linear_git_history">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.tweag.io/blog/2022-11-22-wasm-backend-merged-in-ghc/">WebAssembly backend merged into GHC&lt;/a>
+(&lt;a href="https://lobste.rs/s/d2ltiv/webassembly_backend_merged_into_ghc">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sillycross.github.io/2022/11/22/2022-11-22/index.html">Building the fastest Lua interpreter.. automatically&lt;/a>
+(&lt;a href="https://lobste.rs/s/c02xce/building_fastest_lua_interpreter">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://chreke.com/little-languages.html">Little Languages Are The Future Of Programming&lt;/a>
+(&lt;a href="https://lobste.rs/s/tsh7jd/little_languages_are_future_programming">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://liquid-rust.github.io/2022/11/14/introducing-flux/">Flux: Refinement Types for Rust&lt;/a>
+(&lt;a href="https://lobste.rs/s/zuwlbr/flux_refinement_types_for_rust">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://hanamirb.org/blog/2022/11/22/announcing-hanami-200/">Hanami 2.0: Better, Faster, Stronger&lt;/a>
+(&lt;a href="https://lobste.rs/s/85hoo1/hanami_2_0_better_faster_stronger">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://x61.sh/log/2022/09/20220926T143151-openbsd_alpine_k3s_cluster.html">K3s cluster over OpenBSD (vmm(4))&lt;/a>
+(&lt;a href="https://lobste.rs/s/rifpmy/k3s_cluster_over_openbsd_vmm_4">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-11-22</title><link>https://frozen-lobster.rohanverma.net/posts/2022-11-22/</link><pubDate>Tue, 22 Nov 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-11-22/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://chreke.com/little-languages.html">Little Languages Are The Future Of Programming&lt;/a>
 (&lt;a href="https://lobste.rs/s/tsh7jd/little_languages_are_future_programming">comments&lt;/a>)&lt;/p>
