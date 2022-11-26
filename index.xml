@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 25 Nov 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-11-25</title><link>https://frozen-lobster.rohanverma.net/posts/2022-11-25/</link><pubDate>Fri, 25 Nov 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-11-25/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 26 Nov 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-11-26</title><link>https://frozen-lobster.rohanverma.net/posts/2022-11-26/</link><pubDate>Sat, 26 Nov 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-11-26/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://busy-beavers.tigyog.app/rice">Rice&amp;rsquo;s theorem - an interactive tutorial&lt;/a>
+(&lt;a href="https://lobste.rs/s/ywcoiy/rice_s_theorem_interactive_tutorial">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.cloudflare.com/cloudflare-servers-dont-own-ips-anymore/">Cloudflare servers don&amp;rsquo;t own IPs anymore – so how do they connect to the Internet?&lt;/a>
+(&lt;a href="https://lobste.rs/s/tnyhqc/cloudflare_servers_don_t_own_ips_anymore">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/OceanSprint/tesh">TEstable SHell sessions in Markdown&lt;/a>
+(&lt;a href="https://lobste.rs/s/kf6xqi/testable_shell_sessions_markdown">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">How do you backup iOS photos?&lt;/a>
+(&lt;a href="https://lobste.rs/s/qsikwv/how_do_you_backup_ios_photos">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://utcc.utoronto.ca/~cks/space/blog/unix/UnixHistoryMostlyOldNow">Unix History Is Mostly Old Now&lt;/a>
+(&lt;a href="https://lobste.rs/s/httq78/unix_history_is_mostly_old_now">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://go-fed.org/">Go-Fed, comprehensive ActivityPub framework for Go&lt;/a>
+(&lt;a href="https://lobste.rs/s/z647y3/go_fed_comprehensive_activitypub">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://garrit.xyz/posts/2022-11-24-smart-move-google">Smart Move, Google&lt;/a>
+(&lt;a href="https://lobste.rs/s/gyccjr/smart_move_google">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gleam.run/news/v0.25-introducing-use-expressions/">Gleam v0.25 - Introducing use expressions&lt;/a>
+(&lt;a href="https://lobste.rs/s/yxwubn/gleam_v0_25_introducing_use_expressions">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://mandoc.bsd.lv/man/mdoc.7.html">MDOC(7)&lt;/a>
+(&lt;a href="https://lobste.rs/s/qxj8q0/mdoc_7">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gianarb.it/blog/from-ubuntu-to-nixos-history-of-a-mastodon-migration">From Ubuntu to NixOS the story of a mastodon migration&lt;/a>
+(&lt;a href="https://lobste.rs/s/wynvf6/from_ubuntu_nixos_story_mastodon">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-11-25</title><link>https://frozen-lobster.rohanverma.net/posts/2022-11-25/</link><pubDate>Fri, 25 Nov 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-11-25/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://garrit.xyz/posts/2022-11-24-smart-move-google">Smart Move, Google&lt;/a>
 (&lt;a href="https://lobste.rs/s/gyccjr/smart_move_google">comments&lt;/a>)&lt;/p>
