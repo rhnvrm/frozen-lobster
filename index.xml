@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 26 Nov 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-11-26</title><link>https://frozen-lobster.rohanverma.net/posts/2022-11-26/</link><pubDate>Sat, 26 Nov 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-11-26/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 27 Nov 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-11-27</title><link>https://frozen-lobster.rohanverma.net/posts/2022-11-27/</link><pubDate>Sun, 27 Nov 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-11-27/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://benhoyt.com/writings/io-is-no-longer-the-bottleneck/">I/O is no longer the bottleneck&lt;/a>
+(&lt;a href="https://lobste.rs/s/gwamzp/i_o_is_no_longer_bottleneck">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://devenv.sh/blog/2022/11/27/devenv-04">devenv 0.4 - Fast, Declarative, Reproducible, and Composable Developer Environments&lt;/a>
+(&lt;a href="https://lobste.rs/s/bv9dcq/devenv_0_4_fast_declarative_reproducible">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sin-ack.github.io/posts/zigself-actor/">The inner workings of ZigSelf&amp;rsquo;s actor model&lt;/a>
+(&lt;a href="https://lobste.rs/s/oguatb/inner_workings_zigself_s_actor_model">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://boston.conman.org/2022/11/25.1">You can program functionally in any computer language&lt;/a>
+(&lt;a href="https://lobste.rs/s/prwwht/you_can_program_functionally_any">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.techradar.com/news/whatsapp-data-breach-sees-nearly-500-million-user-records-up-for-sale">WhatsApp data breach sees nearly 500 million user records up for sale&lt;/a>
+(&lt;a href="https://lobste.rs/s/mbvrnv/whatsapp_data_breach_sees_nearly_500">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lexfridman.com/guido-van-rossum-2/">Guido van Rossum: Python and the Future of Programming (Lex Fridman Podcast)&lt;/a>
+(&lt;a href="https://lobste.rs/s/qjecvy/guido_van_rossum_python_future">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/osquery/osquery">osquery: SQL powered operating system instrumentation, monitoring, and analytics&lt;/a>
+(&lt;a href="https://lobste.rs/s/ipv7gj/osquery_sql_powered_operating_system">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://len.falken.directory/code/sm2.git/">SuperMemo2 implementation in Zig&lt;/a>
+(&lt;a href="https://lobste.rs/s/qmqwyk/supermemo2_implementation_zig">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://simonwillison.net/2022/Nov/26/productivity/">Coping strategies for the serial project hoarder&lt;/a>
+(&lt;a href="https://lobste.rs/s/7fiajr/coping_strategies_for_serial_project">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://yogthos.net/posts/2022-11-26-nREPL-system-interaction.html">Using nREPL as System Interface&lt;/a>
+(&lt;a href="https://lobste.rs/s/cmoxll/using_nrepl_as_system_interface">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-11-26</title><link>https://frozen-lobster.rohanverma.net/posts/2022-11-26/</link><pubDate>Sat, 26 Nov 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-11-26/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://busy-beavers.tigyog.app/rice">Rice&amp;rsquo;s theorem - an interactive tutorial&lt;/a>
 (&lt;a href="https://lobste.rs/s/ywcoiy/rice_s_theorem_interactive_tutorial">comments&lt;/a>)&lt;/p>
