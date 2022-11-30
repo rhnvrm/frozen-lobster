@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 29 Nov 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-11-29</title><link>https://frozen-lobster.rohanverma.net/posts/2022-11-29/</link><pubDate>Tue, 29 Nov 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-11-29/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 30 Nov 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-11-30</title><link>https://frozen-lobster.rohanverma.net/posts/2022-11-30/</link><pubDate>Wed, 30 Nov 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-11-30/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://buttondown.email/hillelwayne/archive/i-am-disappointed-by-dynamic-typing/">I am disappointed by dynamic typing&lt;/a>
+(&lt;a href="https://lobste.rs/s/yog9fh/i_am_disappointed_by_dynamic_typing">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.phundrak.com/emacs-29-what-can-we-expect/">Emacs 29 is nigh! What can we expect?&lt;/a>
+(&lt;a href="https://lobste.rs/s/h0apsh/emacs_29_is_nigh_what_can_we_expect">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://threedots.tech/post/best-go-framework/">The Best Go framework: no framework?&lt;/a>
+(&lt;a href="https://lobste.rs/s/qcvbxf/best_go_framework_no_framework">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://asahilinux.org/2022/11/tales-of-the-m1-gpu/">Tales of the M1 GPU - Asahi Linux&lt;/a>
+(&lt;a href="https://lobste.rs/s/rxmii0/tales_m1_gpu_asahi_linux">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://stayrelevant.globant.com/en/technology/agile-delivery/active-knowledge-in-software-development/">Active Knowledge in Software Development&lt;/a>
+(&lt;a href="https://lobste.rs/s/at52tk/active_knowledge_software_development">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jakelazaroff.com/words/tailwind-is-a-leaky-abstraction/">Tailwind is a Leaky Abstraction&lt;/a>
+(&lt;a href="https://lobste.rs/s/rcckgp/tailwind_is_leaky_abstraction">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.polarsignals.com/blog/posts/2022/11/29/profiling-without-frame-pointers/">DWARF-based Stack Walking Using eBPF&lt;/a>
+(&lt;a href="https://lobste.rs/s/sizobe/dwarf_based_stack_walking_using_ebpf">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/cnlohr/mini-rv32ima">A tiny C header-only risc-v emulator&lt;/a>
+(&lt;a href="https://lobste.rs/s/4nmxmm/tiny_c_header_only_risc_v_emulator">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://predr.ag/blog/falsehoods-programmers-believe-about-undefined-behavior/">Falsehoods programmers believe about undefined behavior&lt;/a>
+(&lt;a href="https://lobste.rs/s/xz1jen/falsehoods_programmers_believe_about">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.eigenmagic.com/2022/11/29/scaling-mastodon-with-systemd-template-units/">Scaling Mastodon with systemd template units&lt;/a>
+(&lt;a href="https://lobste.rs/s/f3orud/scaling_mastodon_with_systemd_template">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-11-29</title><link>https://frozen-lobster.rohanverma.net/posts/2022-11-29/</link><pubDate>Tue, 29 Nov 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-11-29/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://predr.ag/blog/falsehoods-programmers-believe-about-undefined-behavior/">Falsehoods programmers believe about undefined behavior&lt;/a>
 (&lt;a href="https://lobste.rs/s/xz1jen/falsehoods_programmers_believe_about">comments&lt;/a>)&lt;/p>
