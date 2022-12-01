@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 30 Nov 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-11-30</title><link>https://frozen-lobster.rohanverma.net/posts/2022-11-30/</link><pubDate>Wed, 30 Nov 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-11-30/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-12-01</title><link>https://frozen-lobster.rohanverma.net/posts/2022-12-01/</link><pubDate>Thu, 01 Dec 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-12-01/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://blog.readyset.io/bounds-checks/">How much does Rust&amp;rsquo;s bounds checking actually cost?&lt;/a>
+(&lt;a href="https://lobste.rs/s/u4k7ln/how_much_does_rust_s_bounds_checking">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/sine-fdn/tandem">Tandem – maliciously secure two-party computation engine written in Rust&lt;/a>
+(&lt;a href="https://lobste.rs/s/dqcfeq/tandem_maliciously_secure_two_party">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://natto.dev/@paul/f33b7f5924634fb687a90d85ed03f289">natto.dev - write JavaScript on a 2D canvas&lt;/a>
+(&lt;a href="https://lobste.rs/s/gzr1en/natto_dev_write_javascript_on_2d_canvas">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/NixOS/nixpkgs/releases/tag/22.11">Release 22.11 · NixOS/nixpkgs&lt;/a>
+(&lt;a href="https://lobste.rs/s/gyxq4s/release_22_11_nixos_nixpkgs">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://addons.mozilla.org/en-US/firefox/addon/firefox-translations/">Firefox Translations – Translate websites in your browser without using the cloud&lt;/a>
+(&lt;a href="https://lobste.rs/s/lzns5y/firefox_translations_translate">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://blog.syncpup.com/posts/let-it-crash-under-attack.html">‘Let It Crash’ under attack&lt;/a>
+(&lt;a href="https://lobste.rs/s/8oygyd/let_it_crash_under_attack">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/sepandhaghighi/pyrgg">Python Random Graph Generator - Version 1.3&lt;/a>
+(&lt;a href="https://lobste.rs/s/mvttvj/python_random_graph_generator_version_1_3">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://buttondown.email/hillelwayne/archive/i-am-disappointed-by-dynamic-typing/">I am disappointed by dynamic typing&lt;/a>
+(&lt;a href="https://lobste.rs/s/yog9fh/i_am_disappointed_by_dynamic_typing">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://eli.thegreenplace.net/2013/11/05/how-to-jit-an-introduction">How to JIT&lt;/a>
+(&lt;a href="https://lobste.rs/s/88r0yh/how_jit">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://marvinh.dev/blog/speeding-up-javascript-ecosystem/">Speeding up the JavaScript ecosystem - one library at a time&lt;/a>
+(&lt;a href="https://lobste.rs/s/ayszgp/speeding_up_javascript_ecosystem_one">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-11-30</title><link>https://frozen-lobster.rohanverma.net/posts/2022-11-30/</link><pubDate>Wed, 30 Nov 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-11-30/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://buttondown.email/hillelwayne/archive/i-am-disappointed-by-dynamic-typing/">I am disappointed by dynamic typing&lt;/a>
 (&lt;a href="https://lobste.rs/s/yog9fh/i_am_disappointed_by_dynamic_typing">comments&lt;/a>)&lt;/p>
