@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-12-01</title><link>https://frozen-lobster.rohanverma.net/posts/2022-12-01/</link><pubDate>Thu, 01 Dec 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-12-01/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 02 Dec 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-12-02</title><link>https://frozen-lobster.rohanverma.net/posts/2022-12-02/</link><pubDate>Fri, 02 Dec 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-12-02/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://security.googleblog.com/2022/12/memory-safe-languages-in-android-13.html">Memory Safe Languages in Android 13&lt;/a>
+(&lt;a href="https://lobste.rs/s/s2ridw/memory_safe_languages_android_13">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://adventofcode.com/2022">Advent of Code 2022&lt;/a>
+(&lt;a href="https://lobste.rs/s/hcx5oi/advent_code_2022">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://www.call-with-current-continuation.org/fleng/fleng.html">FLENG Version 12 - A compiler for a concurrent logic programming language&lt;/a>
+(&lt;a href="https://lobste.rs/s/e0gwac/fleng_version_12_compiler_for_concurrent">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.readyset.io/bounds-checks/">How much does Rust&amp;rsquo;s bounds checking actually cost?&lt;/a>
+(&lt;a href="https://lobste.rs/s/u4k7ln/how_much_does_rust_s_bounds_checking">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://arstechnica.com/information-technology/2022/12/my-secret-life-as-an-11-year-old-bbs-sysop/">My secret life as an 11-year-old BBS sysop&lt;/a>
+(&lt;a href="https://lobste.rs/s/eef5lw/my_secret_life_as_11_year_old_bbs_sysop">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://note89.github.io/the-advent-of-code-ai-edition/">AI solves Advent of Code 2022&lt;/a>
+(&lt;a href="https://lobste.rs/s/pzscr9/ai_solves_advent_code_2022">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.jetpack.io/blog/do-repeat-yourself-global-packages-considered-harmful/">Do Repeat Yourself: Global Packages Considered Harmful&lt;/a>
+(&lt;a href="https://lobste.rs/s/hqtcek/do_repeat_yourself_global_packages">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://extism.org/blog/announcing-extism/">Extism: make all software programmable |&lt;/a>
+(&lt;a href="https://lobste.rs/s/fm08m8/extism_make_all_software_programmable">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://typesetinthefuture.com/">Typeset In The Future - Typography and Design in Science Fiction Movies&lt;/a>
+(&lt;a href="https://lobste.rs/s/ujujgy/typeset_future_typography_design">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://osg.tuhh.de/Advent/">Advent(2) &amp;ndash; The System Call Advent Calendar: starts today&lt;/a>
+(&lt;a href="https://lobste.rs/s/k0ygh7/advent_2_system_call_advent_calendar">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-12-01</title><link>https://frozen-lobster.rohanverma.net/posts/2022-12-01/</link><pubDate>Thu, 01 Dec 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-12-01/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://blog.readyset.io/bounds-checks/">How much does Rust&amp;rsquo;s bounds checking actually cost?&lt;/a>
 (&lt;a href="https://lobste.rs/s/u4k7ln/how_much_does_rust_s_bounds_checking">comments&lt;/a>)&lt;/p>
