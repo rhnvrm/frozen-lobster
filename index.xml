@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 03 Dec 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-12-03</title><link>https://frozen-lobster.rohanverma.net/posts/2022-12-03/</link><pubDate>Sat, 03 Dec 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-12-03/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 04 Dec 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-12-04</title><link>https://frozen-lobster.rohanverma.net/posts/2022-12-04/</link><pubDate>Sun, 04 Dec 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-12-04/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="http://rachelbythebay.com/w/2022/12/02/25k/">Twenty five thousand dollars of funny money&lt;/a>
+(&lt;a href="https://lobste.rs/s/tuz3tu/twenty_five_thousand_dollars_funny_money">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://robertheaton.com/gameboy-doctor/">Gameboy Doctor: debug and fix your gameboy emulator&lt;/a>
+(&lt;a href="https://lobste.rs/s/lu89xv/gameboy_doctor_debug_fix_your_gameboy">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://davedelong.com/blog/2022/12/03/adventures-in-advent-of-code/">Adventures in Advent of Code&lt;/a>
+(&lt;a href="https://lobste.rs/s/cur3an/adventures_advent_code">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.vintagecomputing.com/index.php/archives/790/the-ibm-smiley-character-turns-30">Origins of the ASCII Smiley Character (2011)&lt;/a>
+(&lt;a href="https://lobste.rs/s/salvpp/origins_ascii_smiley_character_2011">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://emacsconf.org/2022/">EmacsConf - 2022&lt;/a>
+(&lt;a href="https://lobste.rs/s/r3i3le/emacsconf_2022">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://simonwillison.net/2022/Dec/2/datasette-write-api/">Datasette’s new JSON write API: The first alpha of Datasette 1.0&lt;/a>
+(&lt;a href="https://lobste.rs/s/xm6iqa/datasette_s_new_json_write_api_first_alpha">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/golang/go/issues/53435">Go will add support for wrapping multiple errors in 1.20&lt;/a>
+(&lt;a href="https://lobste.rs/s/mrdhu1/go_will_add_support_for_wrapping_multiple">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ericchiang.github.io/post/tpm-keys/">The Trusted Platform Module Key Hierarchy&lt;/a>
+(&lt;a href="https://lobste.rs/s/x3fxdt/trusted_platform_module_key_hierarchy">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tilde.team/~kiedtl/blog/particles/">Building an ASCII Particle Engine in Janet&lt;/a>
+(&lt;a href="https://lobste.rs/s/63wq0q/building_ascii_particle_engine_janet">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://oldvcr.blogspot.com/2022/12/magic-cap-from-magic-link-to-datarover.html">Magic Cap, from the Magic Link to the DataRover and the stuff in-between&lt;/a>
+(&lt;a href="https://lobste.rs/s/ufwfbw/magic_cap_from_magic_link_datarover_stuff">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-12-03</title><link>https://frozen-lobster.rohanverma.net/posts/2022-12-03/</link><pubDate>Sat, 03 Dec 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-12-03/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://twitter.com/marekgibney/status/1598706464583028736">Looking at the Python documentation can be dangerous&lt;/a>
 (&lt;a href="https://lobste.rs/s/rzoe4i/looking_at_python_documentation_can_be">comments&lt;/a>)&lt;/p>
