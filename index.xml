@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 05 Dec 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-12-05</title><link>https://frozen-lobster.rohanverma.net/posts/2022-12-05/</link><pubDate>Mon, 05 Dec 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-12-05/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 06 Dec 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-12-06</title><link>https://frozen-lobster.rohanverma.net/posts/2022-12-06/</link><pubDate>Tue, 06 Dec 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-12-06/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://dotat.at/@/2022-12-04-leap-seconds.html">An update on leap seconds&lt;/a>
+(&lt;a href="https://lobste.rs/s/qzwjfs/update_on_leap_seconds">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ploum.net/2022-12-03-reinventing-how-we-use-computers.html">Reinventing How We Use Computers&lt;/a>
+(&lt;a href="https://lobste.rs/s/vtmmmi/reinventing_how_we_use_computers">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.thunderbird.net/2022/12/thunderbird-for-android-preview-modern-message-redesign/">Thunderbird For Android Preview: Modern Message Redesign&lt;/a>
+(&lt;a href="https://lobste.rs/s/xj6jn4/thunderbird_for_android_preview_modern">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://driftingin.space/posts/you-might-not-need-a-crdt">You might not need a CRDT&lt;/a>
+(&lt;a href="https://lobste.rs/s/nrtdol/you_might_not_need_crdt">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://invisv.com/articles/zerotrust.html">Why Zero Trust is a Misnomer: the Fallacy of Absolute Trust in Zero Trust Providers&lt;/a>
+(&lt;a href="https://lobste.rs/s/hx6lg0/why_zero_trust_is_misnomer_fallacy">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gist.github.com/Gaelan/cf5ae4a1e9d8d64cb0b732cf3a38e04a">ChatGPT passes the 2022 AP Computer Science A free response section&lt;/a>
+(&lt;a href="https://lobste.rs/s/so5l7i/chatgpt_passes_2022_ap_computer_science">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://robertheaton.com/2018/12/17/wavefunction-collapse-algorithm/">The Wavefunction Collapse Algorithm explained very clearly&lt;/a>
+(&lt;a href="https://lobste.rs/s/qdxxm7/wavefunction_collapse_algorithm">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.theverge.com/2022/12/5/23493932/chatgpt-ai-generated-answers-temporarily-banned-stack-overflow-llms-dangers">AI-generated answers temporarily banned on Stack Overflow&lt;/a>
+(&lt;a href="https://lobste.rs/s/hphtxm/ai_generated_answers_temporarily_banned">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lists.freebsd.org/archives/freebsd-announce/2022-December/000059.html">FreeBSD 12.4-RELEASE Now Available&lt;/a>
+(&lt;a href="https://lobste.rs/s/spydsj/freebsd_12_4_release_now_available">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://users.ics.aalto.fi/tho/stes/step96/hyotyniemi1/">Turing Machines are Recurrent Neural Networks (1996)&lt;/a>
+(&lt;a href="https://lobste.rs/s/4egxj1/turing_machines_are_recurrent_neural">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-12-05</title><link>https://frozen-lobster.rohanverma.net/posts/2022-12-05/</link><pubDate>Mon, 05 Dec 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-12-05/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://gist.github.com/Gaelan/cf5ae4a1e9d8d64cb0b732cf3a38e04a">ChatGPT passes the 2022 AP Computer Science A free response section&lt;/a>
 (&lt;a href="https://lobste.rs/s/so5l7i/chatgpt_passes_2022_ap_computer_science">comments&lt;/a>)&lt;/p>
