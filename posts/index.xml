@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 06 Dec 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-12-06</title><link>https://frozen-lobster.rohanverma.net/posts/2022-12-06/</link><pubDate>Tue, 06 Dec 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-12-06/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 07 Dec 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-12-07</title><link>https://frozen-lobster.rohanverma.net/posts/2022-12-07/</link><pubDate>Wed, 07 Dec 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-12-07/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://adamshaylor.svbtle.com/chatgpt-and-the-viability-of-replacing-humans">ChatGPT and the viability of replacing humans with circus tricks&lt;/a>
+(&lt;a href="https://lobste.rs/s/mi2jyu/chatgpt_viability_replacing_humans_with">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://daniel.haxx.se/blog/2022/12/06/faster-base64-in-curl/">Faster base64 in curl&lt;/a>
+(&lt;a href="https://lobste.rs/s/alseaj/faster_base64_curl">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://x61.sh/log/2022/12/20221205T205745-honk-cli.html">honking from the console like a real honker&lt;/a>
+(&lt;a href="https://lobste.rs/s/ijra26/honking_from_console_like_real_honker">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://utcc.utoronto.ca/~cks/space/blog/linux/CARootStoreTrustProblem">Linux Certificate Authority root stores have a too simple view of &amp;rsquo;trust&amp;rsquo;&lt;/a>
+(&lt;a href="https://lobste.rs/s/yf6bbc/linux_certificate_authority_root_stores">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.redhat.com/sysadmin/fzf-linux-fuzzy-finder">Find anything you need with fzf, the Linux fuzzy finder tool&lt;/a>
+(&lt;a href="https://lobste.rs/s/x9mztx/find_anything_you_need_with_fzf_linux">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lisp-journey.gitlab.io/blog/debugging-lisp-fix-and-resume-a-program-from-any-point-in-stack/">Debugging Lisp: in CL we can resume a program from any point in the stack&lt;/a>
+(&lt;a href="https://lobste.rs/s/auu3eo/debugging_lisp_cl_we_can_resume_program">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cohost.org/ecn/post/498568-windows-and-root-ca">Windows and Root CA Certificates&lt;/a>
+(&lt;a href="https://lobste.rs/s/mnkidm/windows_root_ca_certificates">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://computeradsfromthepast.substack.com/p/mini-connectix-color-quickcam">Mini: Connectix Color QuickCam&lt;/a>
+(&lt;a href="https://lobste.rs/s/i0l4th/mini_connectix_color_quickcam">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://spectrum.ieee.org/the-inside-story-of-texas-instruments-biggest-blunder-the-tms9900-microprocessor">The Inside Story of Texas Instruments’ Biggest Blunder: The TMS9900 Microprocessor&lt;/a>
+(&lt;a href="https://lobste.rs/s/qfgafv/inside_story_texas_instruments_biggest">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://countercomplex.blogspot.com/2011/10/algorithmic-symphonies-from-one-line-of.html">Algorithmic symphonies from one line of code &amp;ndash; how and why? [2011]&lt;/a>
+(&lt;a href="https://lobste.rs/s/cimsee/algorithmic_symphonies_from_one_line">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-12-06</title><link>https://frozen-lobster.rohanverma.net/posts/2022-12-06/</link><pubDate>Tue, 06 Dec 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-12-06/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://dotat.at/@/2022-12-04-leap-seconds.html">An update on leap seconds&lt;/a>
 (&lt;a href="https://lobste.rs/s/qzwjfs/update_on_leap_seconds">comments&lt;/a>)&lt;/p>
