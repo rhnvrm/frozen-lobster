@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 07 Dec 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-12-07</title><link>https://frozen-lobster.rohanverma.net/posts/2022-12-07/</link><pubDate>Wed, 07 Dec 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-12-07/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 08 Dec 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-12-08</title><link>https://frozen-lobster.rohanverma.net/posts/2022-12-08/</link><pubDate>Thu, 08 Dec 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-12-08/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://helix-editor.com/news/release-22-12-highlights/">Helix Release 22.12 Highlights&lt;/a>
+(&lt;a href="https://lobste.rs/s/fe2kkg/helix_release_22_12_highlights">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://hanukkah.bluebird.sh/">Hanukkah of Data: 8 data puzzles&lt;/a>
+(&lt;a href="https://lobste.rs/s/zo5ndo/hanukkah_data_8_data_puzzles">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://linus.schreibt.jetzt/posts/booting-nixos.html">How can I boot NixOS? Let me count the ways&lt;/a>
+(&lt;a href="https://lobste.rs/s/zc3qbe/how_can_i_boot_nixos_let_me_count_ways">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://asahilinux.org/2022/12/gpu-drivers-now-in-asahi-linux/">Apple GPU drivers now in Asahi Linux&lt;/a>
+(&lt;a href="https://lobste.rs/s/zsntfa/apple_gpu_drivers_now_asahi_linux">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://adamshaylor.svbtle.com/chatgpt-and-the-viability-of-replacing-humans">ChatGPT and the viability of replacing humans with circus tricks&lt;/a>
+(&lt;a href="https://lobste.rs/s/mi2jyu/chatgpt_viability_replacing_humans_with">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/datafold/data-diff">data-diff - Efficiently diff tables in or across SQL databases&lt;/a>
+(&lt;a href="https://lobste.rs/s/5xrzpi/data_diff_efficiently_diff_tables_across">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://andrealeopardi.com/posts/get-rid-of-your-old-database-migrations/">Get Rid of Your Old Database Migrations&lt;/a>
+(&lt;a href="https://lobste.rs/s/qlwzhn/get_rid_your_old_database_migrations">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://arstechnica.com/gadgets/2022/12/apple-adds-end-to-end-encryption-to-icloud-device-backups-and-more/">Apple adds end-to-end encryption to more categories&lt;/a>
+(&lt;a href="https://lobste.rs/s/iqcs0n/apple_adds_end_end_encryption_more">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://simplex.chat/">SimpleX Chat: private and secure messenger without any user IDs (not even random)&lt;/a>
+(&lt;a href="https://lobste.rs/s/fzljek/simplex_chat_private_secure_messenger">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jsoneditoronline.org/indepth/parse/why-does-json-parse-corrupt-large-numbers/">Why does JSON.parse corrupt large numbers and how to solve this?&lt;/a>
+(&lt;a href="https://lobste.rs/s/angsgr/why_does_json_parse_corrupt_large_numbers">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-12-07</title><link>https://frozen-lobster.rohanverma.net/posts/2022-12-07/</link><pubDate>Wed, 07 Dec 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-12-07/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://adamshaylor.svbtle.com/chatgpt-and-the-viability-of-replacing-humans">ChatGPT and the viability of replacing humans with circus tricks&lt;/a>
 (&lt;a href="https://lobste.rs/s/mi2jyu/chatgpt_viability_replacing_humans_with">comments&lt;/a>)&lt;/p>
