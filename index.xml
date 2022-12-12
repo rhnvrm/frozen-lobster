@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 11 Dec 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-12-11</title><link>https://frozen-lobster.rohanverma.net/posts/2022-12-11/</link><pubDate>Sun, 11 Dec 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-12-11/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 12 Dec 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-12-12</title><link>https://frozen-lobster.rohanverma.net/posts/2022-12-12/</link><pubDate>Mon, 12 Dec 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-12-12/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://simon.peytonjones.org/assets/pdfs/verse-conf.pdf">The Verse Calculus: a Core Calculus for Functional Logic Programming&lt;/a>
+(&lt;a href="https://lobste.rs/s/neochc/verse_calculus_core_calculus_for">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://adminhacks.com/broken-IPv6.html">IPv6 Internet Is Broken&lt;/a>
+(&lt;a href="https://lobste.rs/s/wvl3in/ipv6_internet_is_broken">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://blog.pkh.me/p/38-porting-oklab-colorspace-to-integer-arithmetic.html">Porting OkLab colorspace to integer arithmetic&lt;/a>
+(&lt;a href="https://lobste.rs/s/xcbeth/porting_oklab_colorspace_integer">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lukas.zapletalovi.com/posts/2022/wrapping-multiple-errors/">New in Go 1.20: wrapping multiple errors&lt;/a>
+(&lt;a href="https://lobste.rs/s/y3kk8n/new_go_1_20_wrapping_multiple_errors">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/nalgeon/sqlean">SQLean: The ultimate set of SQLite extensions&lt;/a>
+(&lt;a href="https://lobste.rs/s/xtgvgp/sqlean_ultimate_set_sqlite_extensions">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lcamtuf.substack.com/p/you-should-write-more">You should write more&lt;/a>
+(&lt;a href="https://lobste.rs/s/fdjsmk/you_should_write_more">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://notesbylex.com/disputing-a-parking-fine-with-chatgpt.html">Disputing A Parking Fine with ChatGPT&lt;/a>
+(&lt;a href="https://lobste.rs/s/umi2m0/disputing_parking_fine_with_chatgpt">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cs.brown.edu/people/bgreenma/resources/talks/g-rcon-2020.pdf">Shallow Typed Racket&lt;/a>
+(&lt;a href="https://lobste.rs/s/3rvawz/shallow_typed_racket">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://yuzu-emu.org/entry/yuzu-progress-report-nov-2022/">Yuzu Progress Report November 2022&lt;/a>
+(&lt;a href="https://lobste.rs/s/93odsg/yuzu_progress_report_november_2022">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ittavern.com/getting-started-with-tmux/">Getting started with tmux&lt;/a>
+(&lt;a href="https://lobste.rs/s/hgt1a2/getting_started_with_tmux">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-12-11</title><link>https://frozen-lobster.rohanverma.net/posts/2022-12-11/</link><pubDate>Sun, 11 Dec 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-12-11/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://ijmacd.github.io/rfc3339-iso8601/">RFC 3339 vs ISO 8601&lt;/a>
 (&lt;a href="https://lobste.rs/s/ug2dm4/rfc_3339_vs_iso_8601">comments&lt;/a>)&lt;/p>
