@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 14 Dec 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-12-14</title><link>https://frozen-lobster.rohanverma.net/posts/2022-12-14/</link><pubDate>Wed, 14 Dec 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-12-14/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 15 Dec 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-12-15</title><link>https://frozen-lobster.rohanverma.net/posts/2022-12-15/</link><pubDate>Thu, 15 Dec 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-12-15/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://daniel.haxx.se/blog/2022/12/14/idn-is-crazy/">IDN is crazy&lt;/a>
+(&lt;a href="https://lobste.rs/s/dkiosk/idn_is_crazy">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ittavern.com/ssh-server-hardening/">SSH server hardening&lt;/a>
+(&lt;a href="https://lobste.rs/s/eslfxr/ssh_server_hardening">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://muhammadraza.me/2022/data-oneliners/">Using Commandline To Process CSV files&lt;/a>
+(&lt;a href="https://lobste.rs/s/oq78jm/using_commandline_process_csv_files">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gcc.gnu.org/pipermail/gcc-patches/2022-December/608387.html">Rust front-end merged to GCC master&lt;/a>
+(&lt;a href="https://lobste.rs/s/qxuriw/rust_front_end_merged_gcc_master">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tfos.co/p/rebuild-social-media/">How to rebuild social media on top of RSS&lt;/a>
+(&lt;a href="https://lobste.rs/s/izkbzk/how_rebuild_social_media_on_top_rss">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://naiveai.hashnode.dev/protocols-as-practice-projects">Protocols As Practice Projects: Or, Why RFCs aren&amp;rsquo;t (that) scary&lt;/a>
+(&lt;a href="https://lobste.rs/s/spiw5g/protocols_as_practice_projects_why_rfcs">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tailscale.com/kb/1230/tailnet-lock-whitepaper/">Tailnet lock white paper&lt;/a>
+(&lt;a href="https://lobste.rs/s/fiinse/tailnet_lock_white_paper">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://aatishb.com/patterncollider/">Pattern Collider&lt;/a>
+(&lt;a href="https://lobste.rs/s/knf8e2/pattern_collider">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.getrevue.co/profile/jackjack/issues/a-native-internet-protocol-for-social-media-1503112">a native internet protocol for social media&lt;/a>
+(&lt;a href="https://lobste.rs/s/sqilk6/native_internet_protocol_for_social">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/betaveros/noulith/">Noulith: a new programming language&lt;/a>
+(&lt;a href="https://lobste.rs/s/h1bm09/noulith_new_programming_language">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-12-14</title><link>https://frozen-lobster.rohanverma.net/posts/2022-12-14/</link><pubDate>Wed, 14 Dec 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-12-14/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://github.com/betaveros/noulith/">Noulith: a new programming language&lt;/a>
 (&lt;a href="https://lobste.rs/s/h1bm09/noulith_new_programming_language">comments&lt;/a>)&lt;/p>
