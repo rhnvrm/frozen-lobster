@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 15 Dec 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-12-15</title><link>https://frozen-lobster.rohanverma.net/posts/2022-12-15/</link><pubDate>Thu, 15 Dec 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-12-15/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 16 Dec 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-12-16</title><link>https://frozen-lobster.rohanverma.net/posts/2022-12-16/</link><pubDate>Fri, 16 Dec 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-12-16/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://jack.wrenn.fyi/blog/deflect/">Native Reflection in Rust&lt;/a>
+(&lt;a href="https://lobste.rs/s/dixbti/native_reflection_rust">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://usrme.xyz/posts/why-i-moved-away-from-poetry-for-python/">Why I moved away from Poetry for Python&lt;/a>
+(&lt;a href="https://lobste.rs/s/rllajn/why_i_moved_away_from_poetry_for_python">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://man.sr.ht/~icefox/garnet/generics.md">Garnet: The Generics Problem&lt;/a>
+(&lt;a href="https://lobste.rs/s/hot5by/garnet_generics_problem">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://busy-beavers.tigyog.app/proofs-about-programs">Proofs about programs - an interactive tutorial&lt;/a>
+(&lt;a href="https://lobste.rs/s/yequwk/proofs_about_programs_interactive">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.rust-lang.org/2022/12/15/Rust-1.66.0.html">Announcing Rust 1.66.0&lt;/a>
+(&lt;a href="https://lobste.rs/s/vbku9l/announcing_rust_1_66_0">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://susam.net/club/trip-to-prime-number-theorem.html">Our Trip to Prime Number Theorem&lt;/a>
+(&lt;a href="https://lobste.rs/s/g0h68c/our_trip_prime_number_theorem">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gist.github.com/graninas/22ab535d2913311e47a742c70f1d2f2b">What killed Haskell, could kill Rust, too&lt;/a>
+(&lt;a href="https://lobste.rs/s/pkobeh/what_killed_haskell_could_kill_rust_too">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://garnix.io/blog/nix-caching-ci">Nix, Caching, and CIs&lt;/a>
+(&lt;a href="https://lobste.rs/s/n6nigc/nix_caching_cis">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://austinhenley.com/blog/morechallengingprojects.html">More challenging projects every programmer should try&lt;/a>
+(&lt;a href="https://lobste.rs/s/hmayss/more_challenging_projects_every">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.reddit.com/r/qutebrowser/comments/zm0x5c/happy_9th_birthday_qutebrowser/">Happy 9th birthday, qutebrowser&lt;/a>
+(&lt;a href="https://lobste.rs/s/rowhfx/happy_9th_birthday_qutebrowser">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-12-15</title><link>https://frozen-lobster.rohanverma.net/posts/2022-12-15/</link><pubDate>Thu, 15 Dec 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-12-15/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://daniel.haxx.se/blog/2022/12/14/idn-is-crazy/">IDN is crazy&lt;/a>
 (&lt;a href="https://lobste.rs/s/dkiosk/idn_is_crazy">comments&lt;/a>)&lt;/p>
