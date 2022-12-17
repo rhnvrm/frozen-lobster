@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 16 Dec 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-12-16</title><link>https://frozen-lobster.rohanverma.net/posts/2022-12-16/</link><pubDate>Fri, 16 Dec 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-12-16/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 17 Dec 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-12-17</title><link>https://frozen-lobster.rohanverma.net/posts/2022-12-17/</link><pubDate>Sat, 17 Dec 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-12-17/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://discuss.ocaml.org/t/ocaml-5-0-0-is-out/10974">OCaml 5.0.0 (with multicore and effects) is out&lt;/a>
+(&lt;a href="https://lobste.rs/s/dpp19k/ocaml_5_0_0_with_multicore_effects_is_out">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://fabiensanglard.net/a_linux_evening/index.html">A Linux evening (Thunderbolt musings)&lt;/a>
+(&lt;a href="https://lobste.rs/s/p7iaq6/linux_evening_thunderbolt_musings">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/rochus-keller/LeanQt/releases/tag/2022-12-16">LeanQt: Widgets are ready - in time for the holidays&lt;/a>
+(&lt;a href="https://lobste.rs/s/wsga9i/leanqt_widgets_are_ready_time_for">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">Your favorite timeless &amp;ldquo;technical books&amp;rdquo;?&lt;/a>
+(&lt;a href="https://lobste.rs/s/blfhr3/your_favorite_timeless_technical_books">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://davesmithhayes.com/posts/2022/12/project-requirements/">Project Requirements: Why They Matter&lt;/a>
+(&lt;a href="https://lobste.rs/s/kjzufj/project_requirements_why_they_matter">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://usrme.xyz/posts/why-i-moved-away-from-poetry-for-python/">Why I moved away from Poetry for Python&lt;/a>
+(&lt;a href="https://lobste.rs/s/rllajn/why_i_moved_away_from_poetry_for_python">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this weekend?&lt;/a>
+(&lt;a href="https://lobste.rs/s/yxoovg/what_are_you_doing_this_weekend">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://death.andgravity.com/pwned">How I almost failed to search a 37 GB text file in under 1 millisecond&lt;/a>
+(&lt;a href="https://lobste.rs/s/xqseeq/how_i_almost_failed_search_37_gb_text_file">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://reasoning.page/compilers/hindley-milner-rust/">Hindley-Milner type inference (in Rust)&lt;/a>
+(&lt;a href="https://lobste.rs/s/nshprk/hindley_milner_type_inference_rust">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tcc.lovebyte.party">Tiny Code Christmas 2022&lt;/a>
+(&lt;a href="https://lobste.rs/s/3sqmxu/tiny_code_christmas_2022">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-12-16</title><link>https://frozen-lobster.rohanverma.net/posts/2022-12-16/</link><pubDate>Fri, 16 Dec 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-12-16/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://jack.wrenn.fyi/blog/deflect/">Native Reflection in Rust&lt;/a>
 (&lt;a href="https://lobste.rs/s/dixbti/native_reflection_rust">comments&lt;/a>)&lt;/p>
