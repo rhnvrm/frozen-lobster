@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 18 Dec 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-12-18</title><link>https://frozen-lobster.rohanverma.net/posts/2022-12-18/</link><pubDate>Sun, 18 Dec 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-12-18/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 19 Dec 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-12-19</title><link>https://frozen-lobster.rohanverma.net/posts/2022-12-19/</link><pubDate>Mon, 19 Dec 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-12-19/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://yogthos.net/posts/2022-12-18-StructuringClojureApplications.html">Structuring Clojure Applications&lt;/a>
+(&lt;a href="https://lobste.rs/s/4h42vn/structuring_clojure_applications">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.nmattia.com/posts/2022-12-18-lockfile-trick-package-npm-project-with-nix.html">Lockfile trick: Package an npm project with Nix in 20 lines&lt;/a>
+(&lt;a href="https://lobste.rs/s/btnml1/lockfile_trick_package_npm_project_with">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://nullprogram.com/blog/2022/12/18/">QOI is now my favorite asset format&lt;/a>
+(&lt;a href="https://lobste.rs/s/wy1vyr/qoi_is_now_my_favorite_asset_format">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://emacssurvey.org/results/3425413930">Emacs User Survey - 2022 - Results&lt;/a>
+(&lt;a href="https://lobste.rs/s/eaoa7p/emacs_user_survey_2022_results">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://koka-lang.github.io/koka/doc/book.html">The Koka Programming Language&lt;/a>
+(&lt;a href="https://lobste.rs/s/iau4ra/koka_programming_language">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://imihajlov.tk/blog/posts/eth-to-spi/">Ethernet transceiver&lt;/a>
+(&lt;a href="https://lobste.rs/s/tifp2y/ethernet_transceiver">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://xenodium.com/emacs-ffmpeg-and-macos-alias-commands/">Emacs: ffmpeg and macOS aliasing commands&lt;/a>
+(&lt;a href="https://lobste.rs/s/kzr2mw/emacs_ffmpeg_macos_aliasing_commands">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://honeyryderchuck.gitlab.io/rodauth-oauth/rdoc/files/doc/release_notes/1_0_0_md.html">rodauth-oauth 1.0.0 - an OpenID certified toolkit for building OAuth and OpenID Connect providers&lt;/a>
+(&lt;a href="https://lobste.rs/s/rvs4xq/rodauth_oauth_1_0_0_openid_certified">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://www.uruk.org/emu/Taos.html">TAOS Operating System&lt;/a>
+(&lt;a href="https://lobste.rs/s/bqdupq/taos_operating_system">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://oldvcr.blogspot.com/2022/12/a-minor-memorial-for-leo-laporte-on.html">A minor memorial for Leo Laporte on terrestrial AM radio&lt;/a>
+(&lt;a href="https://lobste.rs/s/cpgrka/minor_memorial_for_leo_laporte_on">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-12-18</title><link>https://frozen-lobster.rohanverma.net/posts/2022-12-18/</link><pubDate>Sun, 18 Dec 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-12-18/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://www.devever.net/~hl/acme-caa-live">Let&amp;rsquo;s Encrypt now supports ACME-CAA: closing the DV loophole&lt;/a>
 (&lt;a href="https://lobste.rs/s/j9scg2/let_s_encrypt_now_supports_acme_caa">comments&lt;/a>)&lt;/p>
