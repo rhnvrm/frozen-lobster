@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 19 Dec 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-12-19</title><link>https://frozen-lobster.rohanverma.net/posts/2022-12-19/</link><pubDate>Mon, 19 Dec 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-12-19/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 20 Dec 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-12-20</title><link>https://frozen-lobster.rohanverma.net/posts/2022-12-20/</link><pubDate>Tue, 20 Dec 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-12-20/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://git.icyphox.sh/legit">legit—web frontend for git&lt;/a>
+(&lt;a href="https://lobste.rs/s/trcln1/legit_web_frontend_for_git">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sheep.horse/2022/12/pixel_accurate_atkinson_dithering_for_images_in_ht.html">Pixel Accurate Atkinson Dithering for Images in HTML&lt;/a>
+(&lt;a href="https://lobste.rs/s/iq1ej4/pixel_accurate_atkinson_dithering_for">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://aggressivelyparaphrasing.me/2022/12/12/why-does-my-low-traffic-wordpress-blog-http-503-service-unavailable-when-i-click-around-using-firefox-on-iphone/">Why does my blog HTTP 503 Service Unavailable when I click around using Firefox on iPhone?&lt;/a>
+(&lt;a href="https://lobste.rs/s/cmraf6/why_does_my_blog_http_503_service">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://guix.gnu.org/en/blog/2022/gnu-guix-1.4.0-released/">GNU Guix 1.4.0 has released&lt;/a>
+(&lt;a href="https://lobste.rs/s/ssepal/gnu_guix_1_4_0_has_released">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.gwern.net/Computers">How Many Computers Are In Your Computer?&lt;/a>
+(&lt;a href="https://lobste.rs/s/tqdv2m/how_many_computers_are_your_computer">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gleam.run/news/developer-survey-2022-results/">Gleam developer survey 2022 results&lt;/a>
+(&lt;a href="https://lobste.rs/s/2onxhu/gleam_developer_survey_2022_results">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.b-list.org/weblog/2022/dec/19/boring-python-code-quality/">Boring Python: code quality&lt;/a>
+(&lt;a href="https://lobste.rs/s/eima6i/boring_python_code_quality">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://dmitryfrank.com/articles/treating_email_more_like_a_password_manager">Treating Email More Like a Password Manager&lt;/a>
+(&lt;a href="https://lobste.rs/s/tcgsea/treating_email_more_like_password">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this week?&lt;/a>
+(&lt;a href="https://lobste.rs/s/evg4zc/what_are_you_doing_this_week">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/open-pdf-sign/open-pdf-sign">Digitally sign PDF files from your commandline - open-pdf-sign&lt;/a>
+(&lt;a href="https://lobste.rs/s/mu5vau/digitally_sign_pdf_files_from_your">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-12-19</title><link>https://frozen-lobster.rohanverma.net/posts/2022-12-19/</link><pubDate>Mon, 19 Dec 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-12-19/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://yogthos.net/posts/2022-12-18-StructuringClojureApplications.html">Structuring Clojure Applications&lt;/a>
 (&lt;a href="https://lobste.rs/s/4h42vn/structuring_clojure_applications">comments&lt;/a>)&lt;/p>
