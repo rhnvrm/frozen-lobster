@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 20 Dec 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-12-20</title><link>https://frozen-lobster.rohanverma.net/posts/2022-12-20/</link><pubDate>Tue, 20 Dec 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-12-20/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 21 Dec 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-12-21</title><link>https://frozen-lobster.rohanverma.net/posts/2022-12-21/</link><pubDate>Wed, 21 Dec 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-12-21/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://raku-advent.blog/2022/12/20/sigils/">Sigils are an underappreciated programming technology&lt;/a>
+(&lt;a href="https://lobste.rs/s/kljjlc/sigils_are_underappreciated">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://speakerdeck.com/evacchi/dr-futamuras-projection-machine-from-interpreters-to-compilers-through-a-marvelous-device">Dr. Futamura&amp;rsquo;s Projection Machine: From Interpreters to Compilers through a Marvelous Device&lt;/a>
+(&lt;a href="https://lobste.rs/s/vtx6yf/dr_futamura_s_projection_machine_from">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://zverok.space/blog/2022-12-20-pattern-matching.html">What not to forget when implementing a pattern-matching in Ruby for custom objects&lt;/a>
+(&lt;a href="https://lobste.rs/s/aejjgw/what_not_forget_when_implementing">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">Fellow crustaceans, 2023 will be the year of ${TECHNOLOGY}&lt;/a>
+(&lt;a href="https://lobste.rs/s/ef3rhw/fellow_crustaceans_2023_will_be_year">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://maskray.me/blog/2022-12-18-control-flow-integrity">Control-flow integrity&lt;/a>
+(&lt;a href="https://lobste.rs/s/tkaei3/control_flow_integrity">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://vgel.me/posts/donut/">Signed distance functions in 46 lines of Python&lt;/a>
+(&lt;a href="https://lobste.rs/s/xm27la/signed_distance_functions_46_lines">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://blog.netbsd.org/tnf/entry/netbsd_10_0_beta_available">NetBSD 10.0 BETA available&lt;/a>
+(&lt;a href="https://lobste.rs/s/qosmgk/netbsd_10_0_beta_available">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.infoq.com/articles/unit-tests-testing-pyramid/">An Ode to Unit Tests: In Defense of the Testing Pyramid&lt;/a>
+(&lt;a href="https://lobste.rs/s/mw6kr3/ode_unit_tests_defense_testing_pyramid">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tafc.space/qna/the-topologists-world-map/">The topologist&amp;rsquo;s world map&lt;/a>
+(&lt;a href="https://lobste.rs/s/y3rvpu/topologist_s_world_map">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sheep.horse/2022/12/pixel_accurate_atkinson_dithering_for_images_in_ht.html">Pixel Accurate Atkinson Dithering for Images in HTML&lt;/a>
+(&lt;a href="https://lobste.rs/s/iq1ej4/pixel_accurate_atkinson_dithering_for">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-12-20</title><link>https://frozen-lobster.rohanverma.net/posts/2022-12-20/</link><pubDate>Tue, 20 Dec 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-12-20/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://git.icyphox.sh/legit">legit—web frontend for git&lt;/a>
 (&lt;a href="https://lobste.rs/s/trcln1/legit_web_frontend_for_git">comments&lt;/a>)&lt;/p>
