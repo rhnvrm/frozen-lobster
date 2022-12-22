@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 21 Dec 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-12-21</title><link>https://frozen-lobster.rohanverma.net/posts/2022-12-21/</link><pubDate>Wed, 21 Dec 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-12-21/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 22 Dec 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-12-22</title><link>https://frozen-lobster.rohanverma.net/posts/2022-12-22/</link><pubDate>Thu, 22 Dec 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-12-22/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://beluga.social">A free Twitter-like app for iOS that uses S3-compatible services as the backend&lt;/a>
+(&lt;a href="https://lobste.rs/s/hvvf7a/free_twitter_like_app_for_ios_uses_s3">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://determinate.systems/posts/nix-on-the-steam-deck">Nix on the Steam Deck&lt;/a>
+(&lt;a href="https://lobste.rs/s/egw5oh/nix_on_steam_deck">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://soatok.blog/2022/12/21/extending-the-aes-gcm-nonce-without-nightmare-fuel/">Extending the AES-GCM Nonce Without Nightmare Fuel&lt;/a>
+(&lt;a href="https://lobste.rs/s/qa2i75/extending_aes_gcm_nonce_without">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/Kindelia/Kind">Kindelia/Kind: A next-gen functional language&lt;/a>
+(&lt;a href="https://lobste.rs/s/22yudo/kindelia_kind_next_gen_functional">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://wasimlorgat.com/tils/how-to-share-terminal-demos-as-razor-sharp-animated-svg.html">How to share terminal demos as razor-sharp animated SVG&lt;/a>
+(&lt;a href="https://lobste.rs/s/48gelt/how_share_terminal_demos_as_razor_sharp">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://austinhenley.com/blog/challengingalgorithms.html">Challenging algorithms and data structures every programmer should try&lt;/a>
+(&lt;a href="https://lobste.rs/s/x8y89j/challenging_algorithms_data_structures">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://dolphin-emu.org/blog/2022/12/21/dolphin-progress-report-september-october-november-2022/">Dolphin Progress Report: September, October, and November 2022&lt;/a>
+(&lt;a href="https://lobste.rs/s/bjjy2e/dolphin_progress_report_september">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.tablix.org/~avian/blog/archives/2022/08/saving_power_on_an_esp8266_web_server_using_delays/">Saving power on an ESP8266 web server using delays&lt;/a>
+(&lt;a href="https://lobste.rs/s/5tgzov/saving_power_on_esp8266_web_server_using">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://vgel.me/posts/donut/">Signed distance functions in 46 lines of Python&lt;/a>
+(&lt;a href="https://lobste.rs/s/xm27la/signed_distance_functions_46_lines">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://raku-advent.blog/2022/12/20/sigils/">Sigils are an underappreciated programming technology&lt;/a>
+(&lt;a href="https://lobste.rs/s/kljjlc/sigils_are_underappreciated">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-12-21</title><link>https://frozen-lobster.rohanverma.net/posts/2022-12-21/</link><pubDate>Wed, 21 Dec 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-12-21/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://raku-advent.blog/2022/12/20/sigils/">Sigils are an underappreciated programming technology&lt;/a>
 (&lt;a href="https://lobste.rs/s/kljjlc/sigils_are_underappreciated">comments&lt;/a>)&lt;/p>
