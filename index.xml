@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 22 Dec 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-12-22</title><link>https://frozen-lobster.rohanverma.net/posts/2022-12-22/</link><pubDate>Thu, 22 Dec 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-12-22/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 23 Dec 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-12-23</title><link>https://frozen-lobster.rohanverma.net/posts/2022-12-23/</link><pubDate>Fri, 23 Dec 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-12-23/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://determinate.systems/posts/nix-on-the-steam-deck">Nix on the Steam Deck&lt;/a>
+(&lt;a href="https://lobste.rs/s/egw5oh/nix_on_steam_deck">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://halestrom.net/darksleep/blog/049_imapcopy/">Moving emails accounts to a new host, imapcopy with actual encryption&lt;/a>
+(&lt;a href="https://lobste.rs/s/hte4uj/moving_emails_accounts_new_host_imapcopy">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://google.github.io/comprehensive-rust/">Comprehensive Rust Guide from Google&lt;/a>
+(&lt;a href="https://lobste.rs/s/gbkwsu/comprehensive_rust_guide_from_google">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://austinhenley.com/blog/challengingalgorithms.html">Challenging algorithms and data structures every programmer should try&lt;/a>
+(&lt;a href="https://lobste.rs/s/x8y89j/challenging_algorithms_data_structures">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://nim-lang.org/blog/2022/12/21/version-20-rc.html">Nim version 2.0.0 release candidate&lt;/a>
+(&lt;a href="https://lobste.rs/s/xyhepu/nim_version_2_0_0_release_candidate">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://futhark-lang.org/blog/2022-12-22-literate-audio.html">Generating audio with literate Futhark&lt;/a>
+(&lt;a href="https://lobste.rs/s/lqfump/generating_audio_with_literate_futhark">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tomatotree.tv/?r=lbstr">Better UI to find the next TV show to watch using Rotten Tomatoes&lt;/a>
+(&lt;a href="https://lobste.rs/s/dmlak6/better_ui_find_next_tv_show_watch_using">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://beluga.social">A free Twitter-like app for iOS that uses S3-compatible services as the backend&lt;/a>
+(&lt;a href="https://lobste.rs/s/hvvf7a/free_twitter_like_app_for_ios_uses_s3">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://www.lispology.com/show?47N8">A minimal GIF decoder&lt;/a>
+(&lt;a href="https://lobste.rs/s/9x1r4b/minimal_gif_decoder">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://devenv.sh/blog/2022/12/22/devenv-05/">devenv.sh v0.5&lt;/a>
+(&lt;a href="https://lobste.rs/s/i1okih/devenv_sh_v0_5">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-12-22</title><link>https://frozen-lobster.rohanverma.net/posts/2022-12-22/</link><pubDate>Thu, 22 Dec 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-12-22/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://beluga.social">A free Twitter-like app for iOS that uses S3-compatible services as the backend&lt;/a>
 (&lt;a href="https://lobste.rs/s/hvvf7a/free_twitter_like_app_for_ios_uses_s3">comments&lt;/a>)&lt;/p>
