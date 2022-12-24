@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 23 Dec 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-12-23</title><link>https://frozen-lobster.rohanverma.net/posts/2022-12-23/</link><pubDate>Fri, 23 Dec 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-12-23/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 24 Dec 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-12-24</title><link>https://frozen-lobster.rohanverma.net/posts/2022-12-24/</link><pubDate>Sat, 24 Dec 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-12-24/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.haiku-os.org/news/2022-12-23_haiku_r1_beta4/">Haiku R1/beta4 has been released&lt;/a>
+(&lt;a href="https://lobste.rs/s/xf162v/haiku_r1_beta4_has_been_released">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.lastpass.com/2022/12/notice-of-recent-security-incident/">Notice of Recent Security Incident&lt;/a>
+(&lt;a href="https://lobste.rs/s/ezx10k/notice_recent_security_incident">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://nullpt.rs/reverse-engineering-tiktok-vm-1">Reverse Engineering Tiktok&amp;rsquo;s VM Obfuscation&lt;/a>
+(&lt;a href="https://lobste.rs/s/m7chku/reverse_engineering_tiktok_s_vm">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tomscii.sig7.se/2022/12/A-bottle-of-light">A bottle of light&lt;/a>
+(&lt;a href="https://lobste.rs/s/sav5fo/bottle_light">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://susam.net/club/mastering-emacs/">Mastering Emacs Book Club&lt;/a>
+(&lt;a href="https://lobste.rs/s/7muzke/mastering_emacs_book_club">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">Happy Holidays, Crustaceans&lt;/a>
+(&lt;a href="https://lobste.rs/s/0q8v2t/happy_holidays_crustaceans">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this weekend?&lt;/a>
+(&lt;a href="https://lobste.rs/s/gf45bd/what_are_you_doing_this_weekend">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What more recent developments in PLT could be useful in languages targeting much older/limited hardw&lt;/a>
+(&lt;a href="https://lobste.rs/s/su2dgi/what_more_recent_developments_plt_could">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://iwp9.org/">9th International Workshop on Plan 9&lt;/a>
+(&lt;a href="https://lobste.rs/s/frp5jv/9th_international_workshop_on_plan_9">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://dev.to/geoffreycopin/build-a-custom-javascript-linter-in-5-minutes-4a1j">Build a custom Javascript linter in 5 minutes&lt;/a>
+(&lt;a href="https://lobste.rs/s/f9txjq/build_custom_javascript_linter_5_minutes">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-12-23</title><link>https://frozen-lobster.rohanverma.net/posts/2022-12-23/</link><pubDate>Fri, 23 Dec 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-12-23/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://determinate.systems/posts/nix-on-the-steam-deck">Nix on the Steam Deck&lt;/a>
 (&lt;a href="https://lobste.rs/s/egw5oh/nix_on_steam_deck">comments&lt;/a>)&lt;/p>
