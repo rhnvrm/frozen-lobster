@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 25 Dec 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-12-25</title><link>https://frozen-lobster.rohanverma.net/posts/2022-12-25/</link><pubDate>Sun, 25 Dec 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-12-25/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 26 Dec 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-12-26</title><link>https://frozen-lobster.rohanverma.net/posts/2022-12-26/</link><pubDate>Mon, 26 Dec 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-12-26/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.ruby-lang.org/en/news/2022/12/25/ruby-3-2-0-released/">Ruby 3.2.0 Released&lt;/a>
+(&lt;a href="https://lobste.rs/s/wqobdc/ruby_3_2_0_released">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.rust-lang.org/inside-rust/2022/04/19/imposter-syndrome.html">Imposter Syndrome&lt;/a>
+(&lt;a href="https://lobste.rs/s/5vttqr/imposter_syndrome">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://markuta.com/cracking-lastpass-vaults/">Cracking encrypted Lastpass vaults&lt;/a>
+(&lt;a href="https://lobste.rs/s/rx6n5g/cracking_encrypted_lastpass_vaults">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://remy.grunblatt.org/nix-and-nixos-my-pain-points.html">Nix and NixOS, my pain points&lt;/a>
+(&lt;a href="https://lobste.rs/s/7trk9v/nix_nixos_my_pain_points">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://katafrakt.me/2022/12/25/ruby-extension-zig/">Long story short: I wrote a Ruby extension in Zig&lt;/a>
+(&lt;a href="https://lobste.rs/s/ouxi1c/long_story_short_i_wrote_ruby_extension">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.solnic.dev/p/benchmarking-ruby-32-with-yjit">Benchmarking Ruby 3.2 with YJIT&lt;/a>
+(&lt;a href="https://lobste.rs/s/rxp6sq/benchmarking_ruby_3_2_with_yjit">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://matrix.org/blog/2022/12/25/the-matrix-holiday-update-2022">The Matrix Holiday Update 2022&lt;/a>
+(&lt;a href="https://lobste.rs/s/tpp3i6/matrix_holiday_update_2022">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://x11cp.org/">The X11 Conservancy Project&lt;/a>
+(&lt;a href="https://lobste.rs/s/v8vx0r/x11_conservancy_project">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.lockedinspace.com/posts/001.html">General guidance when working as a cloud engineer&lt;/a>
+(&lt;a href="https://lobste.rs/s/r5yctg/general_guidance_when_working_as_cloud">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lwn.net/Articles/917280/">The return of lazy imports for Python&lt;/a>
+(&lt;a href="https://lobste.rs/s/fyghyd/return_lazy_imports_for_python">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-12-25</title><link>https://frozen-lobster.rohanverma.net/posts/2022-12-25/</link><pubDate>Sun, 25 Dec 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-12-25/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://blog.orhun.dev/open-source-grindset/">Open Source Grindset Explained&lt;/a>
 (&lt;a href="https://lobste.rs/s/q6qy6r/open_source_grindset_explained">comments&lt;/a>)&lt;/p>
