@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 26 Dec 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-12-26</title><link>https://frozen-lobster.rohanverma.net/posts/2022-12-26/</link><pubDate>Mon, 26 Dec 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-12-26/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 27 Dec 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-12-27</title><link>https://frozen-lobster.rohanverma.net/posts/2022-12-27/</link><pubDate>Tue, 27 Dec 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-12-27/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.justingarrison.com/blog/year-of-linux-desktop/">2022 was the year of Linux on the Desktop&lt;/a>
+(&lt;a href="https://lobste.rs/s/9tu4e7/2022_was_year_linux_on_desktop">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this week?&lt;/a>
+(&lt;a href="https://lobste.rs/s/bpogx0/what_are_you_doing_this_week">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://vincent.bernat.ch/en/blog/2022-cdktf-nixos">Managing infrastructure with Terraform, CDKTF, and NixOS&lt;/a>
+(&lt;a href="https://lobste.rs/s/2wuc9q/managing_infrastructure_with_terraform">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/jafarlihi/cparse">cparse now supports LALR(1) - simple parser generator for C&lt;/a>
+(&lt;a href="https://lobste.rs/s/u3w37e/cparse_now_supports_lalr_1_simple_parser">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://billwadge.com/2022/12/24/50-years-of-wow-i-lived-through-5-decades-of-computing-milestones/">I lived through 5 decades of computing milestones&lt;/a>
+(&lt;a href="https://lobste.rs/s/s1cnj3/i_lived_through_5_decades_computing">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=7hdJQkn8rtA">Critical Program Reading (1975)&lt;/a>
+(&lt;a href="https://lobste.rs/s/bk9sqg/critical_program_reading_1975">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://hypermedia.systems/">Building Hypermedia Systems&lt;/a>
+(&lt;a href="https://lobste.rs/s/wyshlv/building_hypermedia_systems">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.codeberg.org/how-blocklists-prevent-the-internet-to-be-decentralized-and-safe.html">How blocklists prevent the internet to be decentralized – and safe&lt;/a>
+(&lt;a href="https://lobste.rs/s/dxn7i0/how_blocklists_prevent_internet_be">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.rust-lang.org/inside-rust/2022/04/19/imposter-syndrome.html">Imposter Syndrome&lt;/a>
+(&lt;a href="https://lobste.rs/s/5vttqr/imposter_syndrome">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://remy.grunblatt.org/nix-and-nixos-my-pain-points.html">Nix and NixOS, my pain points&lt;/a>
+(&lt;a href="https://lobste.rs/s/7trk9v/nix_nixos_my_pain_points">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-12-26</title><link>https://frozen-lobster.rohanverma.net/posts/2022-12-26/</link><pubDate>Mon, 26 Dec 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-12-26/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://www.ruby-lang.org/en/news/2022/12/25/ruby-3-2-0-released/">Ruby 3.2.0 Released&lt;/a>
 (&lt;a href="https://lobste.rs/s/wqobdc/ruby_3_2_0_released">comments&lt;/a>)&lt;/p>
