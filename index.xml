@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 28 Dec 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-12-28</title><link>https://frozen-lobster.rohanverma.net/posts/2022-12-28/</link><pubDate>Wed, 28 Dec 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-12-28/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 29 Dec 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-12-29</title><link>https://frozen-lobster.rohanverma.net/posts/2022-12-29/</link><pubDate>Thu, 29 Dec 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-12-29/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/biox/pa">pa - a simple password manager based on age&lt;/a>
+(&lt;a href="https://lobste.rs/s/m7efzy/pa_simple_password_manager_based_on_age">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cohost.org/offset---cyan/post/728975-the-zen-of-forth">the zen of forth&lt;/a>
+(&lt;a href="https://lobste.rs/s/shvfr8/zen_forth">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://words.filippo.io/dispatches/passage/">My age+YubiKeys Password Management Solution&lt;/a>
+(&lt;a href="https://lobste.rs/s/pufzbe/my_age_yubikeys_password_management">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tools.suckless.org/lchat/">lchat 1.0 - suckless ii chat frontend&lt;/a>
+(&lt;a href="https://lobste.rs/s/ierrtn/lchat_1_0_suckless_ii_chat_frontend">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://matt.might.net/articles/26-languages-part1/">26 languages in 25 days: Strategy, tactics, logistics&lt;/a>
+(&lt;a href="https://lobste.rs/s/sh9bkn/26_languages_25_days_strategy_tactics">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.synthtopia.com/content/2022/12/27/jean-michel-jarres-classic-oxygene-4-recreated-with-19kb-of-javascript/">Jean-Michel Jarre’s Classic ‘Oxygene 4’ Recreated With 19KB Of Javascript&lt;/a>
+(&lt;a href="https://lobste.rs/s/ym9adv/jean_michel_jarre_s_classic_oxygene_4">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.yossarian.net/2022/12/28/ReDoS-vulnerabilities-and-misaligned-incentives">ReDoS &amp;ldquo;vulnerabilities&amp;rdquo; and misaligned incentives&lt;/a>
+(&lt;a href="https://lobste.rs/s/1u22xo/redos_vulnerabilities_misaligned">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://emiruz.com/post/2022-12-28-composable-sql/">SQL + M4 = Composable SQL&lt;/a>
+(&lt;a href="https://lobste.rs/s/fhyh6l/sql_m4_composable_sql">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.arewewebyet.org/">Are we web yet? Yes, and it&amp;rsquo;s freaking fast&lt;/a>
+(&lt;a href="https://lobste.rs/s/pnm993/are_we_web_yet_yes_it_s_freaking_fast">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://bvnf.space/blog/008-sudo-make-install.html">sudo make install&lt;/a>
+(&lt;a href="https://lobste.rs/s/ve7vp5/sudo_make_install">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-12-28</title><link>https://frozen-lobster.rohanverma.net/posts/2022-12-28/</link><pubDate>Wed, 28 Dec 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-12-28/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://utcc.utoronto.ca/~cks/space/blog/programming/RustIsInevitable">More use of Rust is inevitable in open source software&lt;/a>
 (&lt;a href="https://lobste.rs/s/cd8mty/more_use_rust_is_inevitable_open_source">comments&lt;/a>)&lt;/p>
