@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 29 Dec 2022 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-12-29</title><link>https://frozen-lobster.rohanverma.net/posts/2022-12-29/</link><pubDate>Thu, 29 Dec 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-12-29/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 30 Dec 2022 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2022-12-30</title><link>https://frozen-lobster.rohanverma.net/posts/2022-12-30/</link><pubDate>Fri, 30 Dec 2022 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-12-30/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://downrightnifty.me/blog/2022/12/26/hacking-google-home.html">Turning Google smart speakers into wiretaps for $100k&lt;/a>
+(&lt;a href="https://lobste.rs/s/6e7clu/turning_google_smart_speakers_into">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://soatok.blog/2022/12/29/what-we-do-in-the-etc-shadow-cryptography-with-passwords/">What We Do in the /etc/shadow – Cryptography with Passwords&lt;/a>
+(&lt;a href="https://lobste.rs/s/ifw4i3/what_we_do_etc_shadow_cryptography_with">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jott.live/markdown/images_as_emoji">Over-Engineering an Emoji Webcam Filter with a Neural Network&lt;/a>
+(&lt;a href="https://lobste.rs/s/y4ng4u/over_engineering_emoji_webcam_filter">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://withinboredom.info/blog/2022/12/29/golang-is-evil-on-shitty-networks/">Golang is evil on shitty networks&lt;/a>
+(&lt;a href="https://lobste.rs/s/xdre9p/golang_is_evil_on_shitty_networks">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tarides.com/blog/2022-12-27-love-rust-then-ocaml-s-new-eio-library-is-for-you">Love Rust? Then OCaml&amp;rsquo;s New Eio Library is for You&lt;/a>
+(&lt;a href="https://lobste.rs/s/8u6hbc/love_rust_then_ocaml_s_new_eio_library_is">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.arewewebyet.org/">Are we web yet? Yes, and it&amp;rsquo;s freaking fast&lt;/a>
+(&lt;a href="https://lobste.rs/s/pnm993/are_we_web_yet_yes_it_s_freaking_fast">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/pta2002/nixvim">NixVim: Configure Neovim with Nix&lt;/a>
+(&lt;a href="https://lobste.rs/s/iuohwc/nixvim_configure_neovim_with_nix">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://hackaday.com/2022/12/28/decentralized-chaos-in-germany/">Decentralized Chaos In Germany&lt;/a>
+(&lt;a href="https://lobste.rs/s/cy4qx8/decentralized_chaos_germany">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tools.suckless.org/lchat/">lchat 1.0 - suckless ii chat frontend&lt;/a>
+(&lt;a href="https://lobste.rs/s/ierrtn/lchat_1_0_suckless_ii_chat_frontend">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://brntn.me/blog/django-up-actions/">Deploying Django apps with Github Actions and Django Up&lt;/a>
+(&lt;a href="https://lobste.rs/s/avcvds/deploying_django_apps_with_github">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2022-12-29</title><link>https://frozen-lobster.rohanverma.net/posts/2022-12-29/</link><pubDate>Thu, 29 Dec 2022 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2022-12-29/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://github.com/biox/pa">pa - a simple password manager based on age&lt;/a>
 (&lt;a href="https://lobste.rs/s/m7efzy/pa_simple_password_manager_based_on_age">comments&lt;/a>)&lt;/p>
