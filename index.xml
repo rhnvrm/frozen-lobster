@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 03 Jan 2023 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-01-03</title><link>https://frozen-lobster.rohanverma.net/posts/2023-01-03/</link><pubDate>Tue, 03 Jan 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-01-03/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 04 Jan 2023 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-01-04</title><link>https://frozen-lobster.rohanverma.net/posts/2023-01-04/</link><pubDate>Wed, 04 Jan 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-01-04/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://utcc.utoronto.ca/~cks/space/blog/python/DebianNoMorePython2">Debian has removed Python 2 from its next version&lt;/a>
+(&lt;a href="https://lobste.rs/s/jcvjh3/debian_has_removed_python_2_from_its_next">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.orhun.dev/zero-deps-random-in-rust/">Zero-dependency random number generation in Rust&lt;/a>
+(&lt;a href="https://lobste.rs/s/9lfkmv/zero_dependency_random_number">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ntietz.com/blog/confusing-rust-lifetime-elision/">A confusing lifetime error related to Rust&amp;rsquo;s lifetime elision&lt;/a>
+(&lt;a href="https://lobste.rs/s/uslf4h/confusing_lifetime_error_related_rust_s">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blogs.newardassociates.com/blog/2023/you-want-modules-not-microservices.html">You Want Modules, Not Microservices&lt;/a>
+(&lt;a href="https://lobste.rs/s/p01m42/you_want_modules_not_microservices">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">Who&amp;rsquo;s Hiring? Q1Y2023&lt;/a>
+(&lt;a href="https://lobste.rs/s/gxszoc/who_s_hiring_q1y2023">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://flattened.net/">bflat - C# as you know it but with Go-inspired tooling&lt;/a>
+(&lt;a href="https://lobste.rs/s/99hlhq/bflat_c_as_you_know_it_with_go_inspired">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://100r.co/site/weathering_software_winter.html">weathering software winter&lt;/a>
+(&lt;a href="https://lobste.rs/s/6fktsk/weathering_software_winter">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://borretti.me/article/introducing-austral">Introducing Austral: A Systems Language with Linear Types and Capabilities&lt;/a>
+(&lt;a href="https://lobste.rs/s/zz7qij/introducing_austral_systems_language">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://dev.to/asterite/incremental-compilation-for-crystal-part-1-414k">Incremental compilation for Crystal - Part 1&lt;/a>
+(&lt;a href="https://lobste.rs/s/xu9atj/incremental_compilation_for_crystal">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.bitsaboutmoney.com/archive/the-infrastructure-behind-atms/">The infrastructure behind ATMs&lt;/a>
+(&lt;a href="https://lobste.rs/s/ez1shl/infrastructure_behind_atms">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2023-01-03</title><link>https://frozen-lobster.rohanverma.net/posts/2023-01-03/</link><pubDate>Tue, 03 Jan 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-01-03/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://ntdotdev.wordpress.com/2023/01/01/state-of-the-windows-how-many-layers-of-ui-inconsistencies-are-in-windows-11/">How many layers of UI inconsistencies are in Windows 11?&lt;/a>
 (&lt;a href="https://lobste.rs/s/hmgqii/how_many_layers_ui_inconsistencies_are">comments&lt;/a>)&lt;/p>
