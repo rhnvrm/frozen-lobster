@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 04 Jan 2023 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-01-04</title><link>https://frozen-lobster.rohanverma.net/posts/2023-01-04/</link><pubDate>Wed, 04 Jan 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-01-04/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 05 Jan 2023 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-01-05</title><link>https://frozen-lobster.rohanverma.net/posts/2023-01-05/</link><pubDate>Thu, 05 Jan 2023 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-01-05/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/adhocteam/pushup">First public release of Pushup: a new compiler for making web apps in Go&lt;/a>
+(&lt;a href="https://lobste.rs/s/cwkbyg/first_public_release_pushup_new_compiler">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sethmlarson.dev/urllib3-in-2022">urllib3 raised $26,000 and shipped v2.0 in 2022&lt;/a>
+(&lt;a href="https://lobste.rs/s/6t8yhi/urllib3_raised_26_000_shipped_v2_0_2022">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/gorilla/#gorilla-toolkit">The Gorilla Toolkit is now no longer actively maintained&lt;/a>
+(&lt;a href="https://lobste.rs/s/2zktbl/gorilla_toolkit_is_now_no_longer_actively">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jack.wrenn.fyi/blog/2022-retrospective/">Oh the Crates You&amp;rsquo;ll Go! A 2022 Retrospective&lt;/a>
+(&lt;a href="https://lobste.rs/s/7zlss7/oh_crates_you_ll_go_2022_retrospective">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://fly.io/blog/wal-mode-in-litefs/">WAL Mode in LiteFS&lt;/a>
+(&lt;a href="https://lobste.rs/s/jxoxfn/wal_mode_litefs">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.synacktiv.com/publications/escaping-from-bhyve.html">Escaping from bhyve&lt;/a>
+(&lt;a href="https://lobste.rs/s/dcutfk/escaping_from_bhyve">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://rahul.gopinath.org/post/2022/07/02/generalized-ll-parser/">Generalized LL (GLL) Parser&lt;/a>
+(&lt;a href="https://lobste.rs/s/xl1nyb/generalized_ll_gll_parser">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://rachelbythebay.com/w/2023/01/03/ssl/">Why I still have an old-school cert on my https site&lt;/a>
+(&lt;a href="https://lobste.rs/s/ii98um/why_i_still_have_old_school_cert_on_my_https">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://bford.info/2023/01/02/matchertext/">Matchertext: an escape route from language-embedding hell?&lt;/a>
+(&lt;a href="https://lobste.rs/s/9ttq0x/matchertext_escape_route_from_language">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lyonwj.com/blog/making-sense-of-geospatial-data-with-knowledge-graphs-neo4j">Spatial Search Functionality With Neo4j&lt;/a>
+(&lt;a href="https://lobste.rs/s/jdrde3/spatial_search_functionality_with_neo4j">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2023-01-04</title><link>https://frozen-lobster.rohanverma.net/posts/2023-01-04/</link><pubDate>Wed, 04 Jan 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-01-04/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://utcc.utoronto.ca/~cks/space/blog/python/DebianNoMorePython2">Debian has removed Python 2 from its next version&lt;/a>
 (&lt;a href="https://lobste.rs/s/jcvjh3/debian_has_removed_python_2_from_its_next">comments&lt;/a>)&lt;/p>
