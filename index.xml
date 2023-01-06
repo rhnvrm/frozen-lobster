@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 05 Jan 2023 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-01-05</title><link>https://frozen-lobster.rohanverma.net/posts/2023-01-05/</link><pubDate>Thu, 05 Jan 2023 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-01-05/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 06 Jan 2023 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-01-06</title><link>https://frozen-lobster.rohanverma.net/posts/2023-01-06/</link><pubDate>Fri, 06 Jan 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-01-06/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://buttondown.email/hillelwayne/archive/microfeatures-id-like-to-see-in-more-languages/">Microfeatures I&amp;rsquo;d like to see in more languages&lt;/a>
+(&lt;a href="https://lobste.rs/s/ilmbgu/microfeatures_i_d_like_see_more_languages">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tildegit.org/lucic71/dissertation/src/branch/master/TSW/tsw.pdf">[Proposal] Analysis of Speedup Gain of Undefined Behavior Optimizations in OpenBSD&lt;/a>
+(&lt;a href="https://lobste.rs/s/b820uv/proposal_analysis_speedup_gain">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://barf.bt.ht/">barf - an extremely minimal blog generator&lt;/a>
+(&lt;a href="https://lobste.rs/s/oeimp0/barf_extremely_minimal_blog_generator">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lists.eatonphil.com/compilers-and-interpreters.html">Favorite compiler and interpreter resources&lt;/a>
+(&lt;a href="https://lobste.rs/s/9kp1z4/favorite_compiler_interpreter">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://circleci.com/blog/january-4-2023-security-alert/">CircleCI security alert: Rotate any secrets stored in&lt;/a>
+(&lt;a href="https://lobste.rs/s/qivzfa/circleci_security_alert_rotate_any">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/adhocteam/pushup">First public release of Pushup: a new compiler for making web apps in Go&lt;/a>
+(&lt;a href="https://lobste.rs/s/cwkbyg/first_public_release_pushup_new_compiler">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/isene/xrpn">Introducing: XRPN - the eXtensible RPN programming language&lt;/a>
+(&lt;a href="https://lobste.rs/s/glbrv5/introducing_xrpn_extensible_rpn">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://words.filippo.io/dispatches/go-1-20-cryptography/">Go 1.20 Cryptography&lt;/a>
+(&lt;a href="https://lobste.rs/s/7zyudk/go_1_20_cryptography">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jott.live/markdown/1.5tflop_m1">How to Get 1.5 TFlops of FP32 Performance on a Single M1 CPU Core&lt;/a>
+(&lt;a href="https://lobste.rs/s/akhaba/how_get_1_5_tflops_fp32_performance_on">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tokio.rs/blog/2023-01-03-announcing-turmoil">Announcing turmoil | Tokio - An asynchronous Rust runtime&lt;/a>
+(&lt;a href="https://lobste.rs/s/ky4gmr/announcing_turmoil_tokio_asynchronous">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2023-01-05</title><link>https://frozen-lobster.rohanverma.net/posts/2023-01-05/</link><pubDate>Thu, 05 Jan 2023 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-01-05/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://github.com/adhocteam/pushup">First public release of Pushup: a new compiler for making web apps in Go&lt;/a>
 (&lt;a href="https://lobste.rs/s/cwkbyg/first_public_release_pushup_new_compiler">comments&lt;/a>)&lt;/p>
