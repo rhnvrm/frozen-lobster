@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 07 Jan 2023 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-01-07</title><link>https://frozen-lobster.rohanverma.net/posts/2023-01-07/</link><pubDate>Sat, 07 Jan 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-01-07/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 08 Jan 2023 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-01-08</title><link>https://frozen-lobster.rohanverma.net/posts/2023-01-08/</link><pubDate>Sun, 08 Jan 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-01-08/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://thume.ca/2023/01/02/one-machine-twitter/">Production Twitter on One Machine: 100Gbps NICs and NVMe are fast&lt;/a>
+(&lt;a href="https://lobste.rs/s/umatgz/production_twitter_on_one_machine">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://blog.syncpup.com/posts/cgi-wtf.html">CGI WTF&lt;/a>
+(&lt;a href="https://lobste.rs/s/hvtkrp/cgi_wtf">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://borretti.me/article/brief-defense-of-xml">A Brief Defense of XML&lt;/a>
+(&lt;a href="https://lobste.rs/s/rqzikj/brief_defense_xml">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/jafarlihi/connmap">connmap now works with all DE/WM! Desktop widget that shows your TCP peers on world map&lt;/a>
+(&lt;a href="https://lobste.rs/s/nmhcye/connmap_now_works_with_all_de_wm_desktop">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.notamonadtutorial.com/verifiable-encryption-using-zero-knowledge-proofs/">Verifiable AES: encryption using zero-knowledge proofs&lt;/a>
+(&lt;a href="https://lobste.rs/s/mcvrlm/verifiable_aes_encryption_using_zero">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.devever.net/~hl/gatekeeper">Memoirs from the old web: The GateKeeper access control system&lt;/a>
+(&lt;a href="https://lobste.rs/s/rxsnhz/memoirs_from_old_web_gatekeeper_access">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://guix.gnu.org/en/blog/2023/the-filesystem-hierarchy-standard-comes-to-guix-containers/">The Filesystem Hierarchy Standard Comes to Guix Containers&lt;/a>
+(&lt;a href="https://lobste.rs/s/3nowoc/filesystem_hierarchy_standard_comes">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">“RSS” feed without separate XML?&lt;/a>
+(&lt;a href="https://lobste.rs/s/d5nlru/rss_feed_without_separate_xml">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://oldvcr.blogspot.com/2023/01/maclynx-beta-4-now-with-scrollbars-and.html">MacLynx beta 4: now with scrollbars and dialogue boxes&lt;/a>
+(&lt;a href="https://lobste.rs/s/sw42nv/maclynx_beta_4_now_with_scrollbars">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ottertune.com/blog/2022-databases-retrospective/">Databases in 2022: A Year in Review&lt;/a>
+(&lt;a href="https://lobste.rs/s/pl7kmc/databases_2022_year_review">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2023-01-07</title><link>https://frozen-lobster.rohanverma.net/posts/2023-01-07/</link><pubDate>Sat, 07 Jan 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-01-07/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://buttondown.email/hillelwayne/archive/microfeatures-id-like-to-see-in-more-languages/">Microfeatures I&amp;rsquo;d like to see in more languages&lt;/a>
 (&lt;a href="https://lobste.rs/s/ilmbgu/microfeatures_i_d_like_see_more_languages">comments&lt;/a>)&lt;/p>
