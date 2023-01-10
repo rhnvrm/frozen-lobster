@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 09 Jan 2023 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-01-09</title><link>https://frozen-lobster.rohanverma.net/posts/2023-01-09/</link><pubDate>Mon, 09 Jan 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-01-09/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 10 Jan 2023 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-01-10</title><link>https://frozen-lobster.rohanverma.net/posts/2023-01-10/</link><pubDate>Tue, 10 Jan 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-01-10/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://sourcehut.org/blog/2023-01-09-gomodulemirror/">SourceHut will blacklist the Go module mirror&lt;/a>
+(&lt;a href="https://lobste.rs/s/ag0slu/sourcehut_will_blacklist_go_module">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What was the best CS paper you read in 2022?&lt;/a>
+(&lt;a href="https://lobste.rs/s/tjlmjr/what_was_best_cs_paper_you_read_2022">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.jez.io/making-sorbet-more-incremental/">Making Sorbet more incremental&lt;/a>
+(&lt;a href="https://lobste.rs/s/krl8gl/making_sorbet_more_incremental">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.kchung.co/taking-over-a-dead-iot-company/">Taking over a Dead IoT Company&lt;/a>
+(&lt;a href="https://lobste.rs/s/jugyxo/taking_over_dead_iot_company">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.carlmjohnson.net/post/2023/golang-120-language-changes/">What’s New in Go 1.20, Part I: Language Changes&lt;/a>
+(&lt;a href="https://lobste.rs/s/w0vntp/what_s_new_go_1_20_part_i_language_changes">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://skiqqy.xyz/">Man page as a curriculum vitae&lt;/a>
+(&lt;a href="https://lobste.rs/s/mnqppx/man_page_as_curriculum_vitae">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://felixcrux.com/blog/feeds-the-only-civilised-way-to-read-online">Feeds: The Only Civilised Way to Read Online&lt;/a>
+(&lt;a href="https://lobste.rs/s/gbvwcr/feeds_only_civilised_way_read_online">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://breakingthe3ma.app/">Three Lessons from Threema: Analysis of a Secure Messenger&lt;/a>
+(&lt;a href="https://lobste.rs/s/y9uzyx/three_lessons_from_threema_analysis">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://datasette.io/tutorials/spatialite">Building a location to time zone API with SpatiaLite and Datasette&lt;/a>
+(&lt;a href="https://lobste.rs/s/53zhxm/building_location_time_zone_api_with">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/rougier/book-mode">A clean interface for org files (Emacs)&lt;/a>
+(&lt;a href="https://lobste.rs/s/227mqp/clean_interface_for_org_files_emacs">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2023-01-09</title><link>https://frozen-lobster.rohanverma.net/posts/2023-01-09/</link><pubDate>Mon, 09 Jan 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-01-09/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="">What are you planning to learn in 2023?&lt;/a>
 (&lt;a href="https://lobste.rs/s/akgoai/what_are_you_planning_learn_2023">comments&lt;/a>)&lt;/p>
