@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 10 Jan 2023 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-01-10</title><link>https://frozen-lobster.rohanverma.net/posts/2023-01-10/</link><pubDate>Tue, 10 Jan 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-01-10/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 11 Jan 2023 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-01-11</title><link>https://frozen-lobster.rohanverma.net/posts/2023-01-11/</link><pubDate>Wed, 11 Jan 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-01-11/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://brianmckenna.org/blog/architecture_code">Architecture diagrams should be code&lt;/a>
+(&lt;a href="https://lobste.rs/s/i40mos/architecture_diagrams_should_be_code">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://val.packett.cool/blog/ergonice/">Yet another keyboard post, or, introducing ErgoNICE&lt;/a>
+(&lt;a href="https://lobste.rs/s/qi9z5m/yet_another_keyboard_post_introducing">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://peps.python.org/pep-0703/">PEP 703 – Making the Global Interpreter Lock Optional in CPython&lt;/a>
+(&lt;a href="https://lobste.rs/s/nob4vg/pep_703_making_global_interpreter_lock">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pgrs.net/2023/01/10/ulid-identifiers-and-ulid-tools-website/">ULID Identifiers and ULID Tools Website&lt;/a>
+(&lt;a href="https://lobste.rs/s/qk1xrx/ulid_identifiers_ulid_tools_website">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tratt.net/laurie/blog/2023/compiled_and_interpreted_languages_two_ways_of_saying_tomato.html">Compiled and Interpreted Languages: Two Ways of Saying Tomato&lt;/a>
+(&lt;a href="https://lobste.rs/s/evkxyk/compiled_interpreted_languages_two_ways">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sourcehut.org/blog/2023-01-09-gomodulemirror/">SourceHut will blacklist the Go module mirror&lt;/a>
+(&lt;a href="https://lobste.rs/s/ag0slu/sourcehut_will_blacklist_go_module">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/kusumi/netbsd_hammer2">HAMMER2 file system for NetBSD&lt;/a>
+(&lt;a href="https://lobste.rs/s/glsdjh/hammer2_file_system_for_netbsd">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://seclists.org/oss-sec/2023/q1/13">CVE-2022-46176: Cargo does not check SSH host keys&lt;/a>
+(&lt;a href="https://lobste.rs/s/rwwglc/cve_2022_46176_cargo_does_not_check_ssh">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lucasfcosta.com/2022/09/15/deadlines.html">Why deadlines are pointless and what to do instead&lt;/a>
+(&lt;a href="https://lobste.rs/s/b1lenj/why_deadlines_are_pointless_what_do">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://hynek.me/articles/macos-dyld-env/">Surprising Consequences of macOS’s Environment Variable Sanitization&lt;/a>
+(&lt;a href="https://lobste.rs/s/hkyhzc/surprising_consequences_macos_s">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2023-01-10</title><link>https://frozen-lobster.rohanverma.net/posts/2023-01-10/</link><pubDate>Tue, 10 Jan 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-01-10/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://sourcehut.org/blog/2023-01-09-gomodulemirror/">SourceHut will blacklist the Go module mirror&lt;/a>
 (&lt;a href="https://lobste.rs/s/ag0slu/sourcehut_will_blacklist_go_module">comments&lt;/a>)&lt;/p>
