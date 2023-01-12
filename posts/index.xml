@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 11 Jan 2023 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-01-11</title><link>https://frozen-lobster.rohanverma.net/posts/2023-01-11/</link><pubDate>Wed, 11 Jan 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-01-11/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 12 Jan 2023 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-01-12</title><link>https://frozen-lobster.rohanverma.net/posts/2023-01-12/</link><pubDate>Thu, 12 Jan 2023 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-01-12/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://daniel.haxx.se/blog/2023/01/08/copyright-without-years/">Copyright without years&lt;/a>
+(&lt;a href="https://lobste.rs/s/kgggfe/copyright_without_years">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://findthatmeme.com/blog/2023/01/08/image-stacks-and-iphone-racks-building-an-internet-scale-meme-search-engine-Qzrz7V6T.html">Image Stacks and iPhone Racks - Building an Internet Scale Meme Search Engine&lt;/a>
+(&lt;a href="https://lobste.rs/s/lu2a3d/image_stacks_iphone_racks_building">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://renato.athaydes.com/posts/unison-revolution.html">A look at Unison: a revolutionary programming language&lt;/a>
+(&lt;a href="https://lobste.rs/s/lqcb9z/look_at_unison_revolutionary">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/martinrue/cadet">I wrote a library for creating basic HTTP-RPC servers in Go&lt;/a>
+(&lt;a href="https://lobste.rs/s/gy7lve/i_wrote_library_for_creating_basic_http">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/nkanaev/yarr">yarr: yet another rss reader&lt;/a>
+(&lt;a href="https://lobste.rs/s/23hvae/yarr_yet_another_rss_reader">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=xrIjfIjssLE">Erlang: The Movie&lt;/a>
+(&lt;a href="https://lobste.rs/s/oickpy/erlang_movie">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://val.packett.cool/blog/ergonice/">Yet another keyboard post, or, introducing ErgoNICE&lt;/a>
+(&lt;a href="https://lobste.rs/s/qi9z5m/yet_another_keyboard_post_introducing">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pgrs.net/2023/01/10/ulid-identifiers-and-ulid-tools-website/">ULID Identifiers and ULID Tools Website&lt;/a>
+(&lt;a href="https://lobste.rs/s/qk1xrx/ulid_identifiers_ulid_tools_website">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://brianmckenna.org/blog/architecture_code">Architecture diagrams should be code&lt;/a>
+(&lt;a href="https://lobste.rs/s/i40mos/architecture_diagrams_should_be_code">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What password schemes do you consider to be &amp;ldquo;memorable&amp;rdquo;?&lt;/a>
+(&lt;a href="https://lobste.rs/s/g5ypwf/what_password_schemes_do_you_consider_be">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2023-01-11</title><link>https://frozen-lobster.rohanverma.net/posts/2023-01-11/</link><pubDate>Wed, 11 Jan 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-01-11/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://brianmckenna.org/blog/architecture_code">Architecture diagrams should be code&lt;/a>
 (&lt;a href="https://lobste.rs/s/i40mos/architecture_diagrams_should_be_code">comments&lt;/a>)&lt;/p>
