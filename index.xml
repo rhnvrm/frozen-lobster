@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 12 Jan 2023 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-01-12</title><link>https://frozen-lobster.rohanverma.net/posts/2023-01-12/</link><pubDate>Thu, 12 Jan 2023 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-01-12/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 13 Jan 2023 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-01-13</title><link>https://frozen-lobster.rohanverma.net/posts/2023-01-13/</link><pubDate>Fri, 13 Jan 2023 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-01-13/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://pythonspeed.com/articles/polars-memory-pandas/">Why Polars uses less memory than Pandas&lt;/a>
+(&lt;a href="https://lobste.rs/s/ouogwa/why_polars_uses_less_memory_than_pandas">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ahelwer.ca/post/2023-01-11-tree-sitter-tlaplus/">Writing a TLA⁺ tree-sitter grammar: my foray into free software&lt;/a>
+(&lt;a href="https://lobste.rs/s/mkljqw/writing_tla_tree_sitter_grammar_my_foray">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.zephray.me/post/grayscale_lcd/">Grayscale on 1-bit LCDs (2022)&lt;/a>
+(&lt;a href="https://lobste.rs/s/0m4vlt/grayscale_on_1_bit_lcds_2022">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://vladimir.varank.in/notes/2023/01/go-runtime-vs-cfs-quota/">The Go runtime isn&amp;rsquo;t aware of CFS quotas&lt;/a>
+(&lt;a href="https://lobste.rs/s/kinyxv/go_runtime_isn_t_aware_cfs_quotas">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/open-duelyst/duelyst">Turn-based strategy card game Duelyst open-sourced&lt;/a>
+(&lt;a href="https://lobste.rs/s/zdorpb/turn_based_strategy_card_game_duelyst">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://rosszurowski.com/log/2022/makefiles">Makefiles for Web Work&lt;/a>
+(&lt;a href="https://lobste.rs/s/3pkpq8/makefiles_for_web_work">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.cambus.net/netbsd-ascii-flag-for-the-bootloader/">NetBSD ASCII flag for the bootloader&lt;/a>
+(&lt;a href="https://lobste.rs/s/mpb2ht/netbsd_ascii_flag_for_bootloader">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://shopify.engineering/overhauling-shopify-cli-for-a-better-developer-experience">From Ruby to Node: Overhauling Shopify’s CLI for a Better Developer Experience&lt;/a>
+(&lt;a href="https://lobste.rs/s/hblgzj/from_ruby_node_overhauling_shopify_s_cli">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://daniel.haxx.se/blog/2023/01/08/copyright-without-years/">Copyright without years&lt;/a>
+(&lt;a href="https://lobste.rs/s/kgggfe/copyright_without_years">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.cs.tufts.edu/~nr/c--/">C&amp;ndash; (2008)&lt;/a>
+(&lt;a href="https://lobste.rs/s/g0dq6j/c_2008">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2023-01-12</title><link>https://frozen-lobster.rohanverma.net/posts/2023-01-12/</link><pubDate>Thu, 12 Jan 2023 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-01-12/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://daniel.haxx.se/blog/2023/01/08/copyright-without-years/">Copyright without years&lt;/a>
 (&lt;a href="https://lobste.rs/s/kgggfe/copyright_without_years">comments&lt;/a>)&lt;/p>
