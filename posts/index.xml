@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 13 Jan 2023 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-01-13</title><link>https://frozen-lobster.rohanverma.net/posts/2023-01-13/</link><pubDate>Fri, 13 Jan 2023 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-01-13/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 14 Jan 2023 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-01-14</title><link>https://frozen-lobster.rohanverma.net/posts/2023-01-14/</link><pubDate>Sat, 14 Jan 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-01-14/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/cloudflare/wildebeest">cloudflare/wildebeest: Wildebeest is an ActivityPub and Mastodon-compatible server&lt;/a>
+(&lt;a href="https://lobste.rs/s/1ouczs/cloudflare_wildebeest_wildebeest_is">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://elizarov.medium.com/types-are-moving-to-the-right-22c0ef31dd4a">Types are moving to the right&lt;/a>
+(&lt;a href="https://lobste.rs/s/yymnmm/types_are_moving_right">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.podman.io/2023/01/systemd-socket-activation-lesson-learned/">systemd socket activation lesson learned&lt;/a>
+(&lt;a href="https://lobste.rs/s/lhukga/systemd_socket_activation_lesson">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.trailofbits.com/2023/01/13/sigstore-python/">Announcing a stable release of sigstore-python&lt;/a>
+(&lt;a href="https://lobste.rs/s/chg27h/announcing_stable_release_sigstore">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://security.googleblog.com/2023/01/supporting-use-of-rust-in-chromium.html">Supporting the Use of Rust in the Chromium Project&lt;/a>
+(&lt;a href="https://lobste.rs/s/8saj7d/supporting_use_rust_chromium_project">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.maxcountryman.com/articles/grow-in-public">Grow In Public&lt;/a>
+(&lt;a href="https://lobste.rs/s/wisazv/grow_public">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jvns.ca/blog/2023/01/13/examples-of-floating-point-problems/">Examples of floating point problems&lt;/a>
+(&lt;a href="https://lobste.rs/s/uwsl94/examples_floating_point_problems">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.geeklan.co.uk/?p=2982">Ubuntu 22.10 on Sipeed Lichee Risc-V board&lt;/a>
+(&lt;a href="https://lobste.rs/s/hobf3e/ubuntu_22_10_on_sipeed_lichee_risc_v_board">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://simonwillison.net/2023/Jan/13/semantic-search-answers/">Semantic search answers: Q&amp;amp;A against documentation with GPT3 + OpenAI embeddings&lt;/a>
+(&lt;a href="https://lobste.rs/s/4tignc/semantic_search_answers_q_against">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pythonspeed.com/articles/polars-memory-pandas/">Why Polars uses less memory than Pandas&lt;/a>
+(&lt;a href="https://lobste.rs/s/ouogwa/why_polars_uses_less_memory_than_pandas">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2023-01-13</title><link>https://frozen-lobster.rohanverma.net/posts/2023-01-13/</link><pubDate>Fri, 13 Jan 2023 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-01-13/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://pythonspeed.com/articles/polars-memory-pandas/">Why Polars uses less memory than Pandas&lt;/a>
 (&lt;a href="https://lobste.rs/s/ouogwa/why_polars_uses_less_memory_than_pandas">comments&lt;/a>)&lt;/p>
