@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 14 Jan 2023 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-01-14</title><link>https://frozen-lobster.rohanverma.net/posts/2023-01-14/</link><pubDate>Sat, 14 Jan 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-01-14/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 15 Jan 2023 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-01-15</title><link>https://frozen-lobster.rohanverma.net/posts/2023-01-15/</link><pubDate>Sun, 15 Jan 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-01-15/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://hoho.com/posts/your-stack-is-not-the-product/">Your tech stack is not the product&lt;/a>
+(&lt;a href="https://lobste.rs/s/hjopwl/your_tech_stack_is_not_product">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this weekend?&lt;/a>
+(&lt;a href="https://lobste.rs/s/3eyfgm/what_are_you_doing_this_weekend">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.information-superhighway.net/what-the-hell-is-forth">What the hell is Forth?&lt;/a>
+(&lt;a href="https://lobste.rs/s/doghrl/what_hell_is_forth">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.revolutionanalytics.com/2014/01/the-fourier-transform-explained-in-one-sentence.html">The Fourier Transform, explained in one sentence&lt;/a>
+(&lt;a href="https://lobste.rs/s/l3cl30/fourier_transform_explained_one">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">Good theory books you would recommend?&lt;/a>
+(&lt;a href="https://lobste.rs/s/wbwtgm/good_theory_books_you_would_recommend">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.bigmessowires.com/2023/01/11/atari-2600-hardware-design-making-something-out-of-almost-nothing/">Atari 2600 Hardware Design: Making Something out of (Almost) Nothing&lt;/a>
+(&lt;a href="https://lobste.rs/s/hsxsjx/atari_2600_hardware_design_making">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.youmu.moe/posts/finding-nice-md5s-using-rust/">Finding Nice MD5s Using Rust&lt;/a>
+(&lt;a href="https://lobste.rs/s/hg98u2/finding_nice_md5s_using_rust">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://frederik-braun.com/origins-sites-and-other-terminologies.html">Origins, Sites and other Terminologies&lt;/a>
+(&lt;a href="https://lobste.rs/s/o1znh7/origins_sites_other_terminologies">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lwn.net/SubscriberLink/919426/38b2b5aaacc9bba0/">Formalizing f-strings&lt;/a>
+(&lt;a href="https://lobste.rs/s/uokq9i/formalizing_f_strings">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://memex.marginalia.nu/log/64-hundred-million.gmi">(2022) Marginalia&amp;rsquo;s [Search] Index Reaches 100,000,000 Documents&lt;/a>
+(&lt;a href="https://lobste.rs/s/ubdmwb/2022_marginalia_s_search_index_reaches">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2023-01-14</title><link>https://frozen-lobster.rohanverma.net/posts/2023-01-14/</link><pubDate>Sat, 14 Jan 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-01-14/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://github.com/cloudflare/wildebeest">cloudflare/wildebeest: Wildebeest is an ActivityPub and Mastodon-compatible server&lt;/a>
 (&lt;a href="https://lobste.rs/s/1ouczs/cloudflare_wildebeest_wildebeest_is">comments&lt;/a>)&lt;/p>
