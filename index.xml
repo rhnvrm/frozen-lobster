@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 15 Jan 2023 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-01-15</title><link>https://frozen-lobster.rohanverma.net/posts/2023-01-15/</link><pubDate>Sun, 15 Jan 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-01-15/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 16 Jan 2023 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-01-16</title><link>https://frozen-lobster.rohanverma.net/posts/2023-01-16/</link><pubDate>Mon, 16 Jan 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-01-16/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.devever.net/~hl/stringtemplates">Producing HTML using string templates has always been the wrong solution&lt;/a>
+(&lt;a href="https://lobste.rs/s/j4ajfo/producing_html_using_string_templates">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://mort.coffee/home/fast-interpreters/">Faster virtual machines: Speeding up programming language execution&lt;/a>
+(&lt;a href="https://lobste.rs/s/cczkdj/faster_virtual_machines_speeding_up">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jackevansevo.github.io/revisiting-kde.html">Revisiting KDE&lt;/a>
+(&lt;a href="https://lobste.rs/s/brrrc8/revisiting_kde">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://oldvcr.blogspot.com/2023/01/saic-galaxy-1100-pre-cde-vue-of-pa-risc.html">SAIC Galaxy 1100: a pre-CDE VUE of the PA-RISC with a security clearance&lt;/a>
+(&lt;a href="https://lobste.rs/s/a6aomj/saic_galaxy_1100_pre_cde_vue_pa_risc_with">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=zlWqpRTgXBg">Thoughts on Zig&lt;/a>
+(&lt;a href="https://lobste.rs/s/5tx54f/thoughts_on_zig">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://neilkakkar.com/test-database-connection-django.html">How to simulate a broken database connection for testing in Django&lt;/a>
+(&lt;a href="https://lobste.rs/s/t0hd2c/how_simulate_broken_database_connection">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.gibney.org/bookmarklet_editor">My Bookmarklet Editor&lt;/a>
+(&lt;a href="https://lobste.rs/s/3jgneb/my_bookmarklet_editor">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://mo-nomz.herokuapp.com/">Nomz Meal Planner - Skip the life story&lt;/a>
+(&lt;a href="https://lobste.rs/s/e0jmyj/nomz_meal_planner_skip_life_story">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://michael.stapelberg.ch/posts/2023-01-15-gokrazy-instance-centric-config/">gokrazy: instance-centric configuration released&lt;/a>
+(&lt;a href="https://lobste.rs/s/2lm5d4/gokrazy_instance_centric_configuration">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://chriswarrick.com/blog/2023/01/15/how-to-improve-python-packaging/">How to improve Python packaging, or why 14 tools are at least 12 too many&lt;/a>
+(&lt;a href="https://lobste.rs/s/gzi3vk/how_improve_python_packaging_why_14_tools">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2023-01-15</title><link>https://frozen-lobster.rohanverma.net/posts/2023-01-15/</link><pubDate>Sun, 15 Jan 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-01-15/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://hoho.com/posts/your-stack-is-not-the-product/">Your tech stack is not the product&lt;/a>
 (&lt;a href="https://lobste.rs/s/hjopwl/your_tech_stack_is_not_product">comments&lt;/a>)&lt;/p>
