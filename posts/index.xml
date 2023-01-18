@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 17 Jan 2023 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-01-17</title><link>https://frozen-lobster.rohanverma.net/posts/2023-01-17/</link><pubDate>Tue, 17 Jan 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-01-17/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 18 Jan 2023 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-01-18</title><link>https://frozen-lobster.rohanverma.net/posts/2023-01-18/</link><pubDate>Wed, 18 Jan 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-01-18/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://tratt.net/laurie/blog/2023/why_we_need_to_know_lr_and_recursive_descent_parsing_techniques.html">Why We Need to Know LR and Recursive Descent Parsing Techniques&lt;/a>
+(&lt;a href="https://lobste.rs/s/oq54qt/why_we_need_know_lr_recursive_descent">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">Lobsters Battlestations and Screenshots (2023)&lt;/a>
+(&lt;a href="https://lobste.rs/s/wkeaed/lobsters_battlestations_screenshots">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/rust-lang/rfcs/pull/3355#issuecomment-1385713351">EcmaScript spec is ready-to-use interpreter. It is attribute affix grammar. It is PLT paradise&lt;/a>
+(&lt;a href="https://lobste.rs/s/ylzyde/ecmascript_spec_is_ready_use_interpreter">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.carlmjohnson.net/post/2023/golang-120-arenas-errors-responsecontroller/">Major standard library changes in Go 1.20&lt;/a>
+(&lt;a href="https://lobste.rs/s/kj74hc/major_standard_library_changes_go_1_20">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://coredumped.dev/2023/01/17/design-of-emacs-in-rust/">Design of Emacs in Rust&lt;/a>
+(&lt;a href="https://lobste.rs/s/whnubn/design_emacs_rust">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ocamlpro.com/blog/2023_01_02_ocaml_distribution">The Growth of the OCaml Distribution&lt;/a>
+(&lt;a href="https://lobste.rs/s/etyxgs/growth_ocaml_distribution">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.dziban.net/coroutines/">Small VMs &amp;amp; Coroutines&lt;/a>
+(&lt;a href="https://lobste.rs/s/jrp9gv/small_vms_coroutines">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://servo.org/blog/2023/01/16/servo-2023/">Servo to Advance in 2023&lt;/a>
+(&lt;a href="https://lobste.rs/s/yvkxmt/servo_advance_2023">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://shopify.engineering/ruby-yjit-is-production-ready">Ruby 3.2’s YJIT is Production-Ready&lt;/a>
+(&lt;a href="https://lobste.rs/s/rnhcte/ruby_3_2_s_yjit_is_production_ready">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://shnatsel.medium.com/how-to-avoid-bounds-checks-in-rust-without-unsafe-f65e618b4c1e">How to avoid bounds checks in Rust (without unsafe!)&lt;/a>
+(&lt;a href="https://lobste.rs/s/yibs3k/how_avoid_bounds_checks_rust_without">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2023-01-17</title><link>https://frozen-lobster.rohanverma.net/posts/2023-01-17/</link><pubDate>Tue, 17 Jan 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-01-17/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://servo.org/blog/2023/01/16/servo-2023/">Servo to Advance in 2023&lt;/a>
 (&lt;a href="https://lobste.rs/s/yvkxmt/servo_advance_2023">comments&lt;/a>)&lt;/p>
