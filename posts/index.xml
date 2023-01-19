@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 18 Jan 2023 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-01-18</title><link>https://frozen-lobster.rohanverma.net/posts/2023-01-18/</link><pubDate>Wed, 18 Jan 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-01-18/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 19 Jan 2023 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-01-19</title><link>https://frozen-lobster.rohanverma.net/posts/2023-01-19/</link><pubDate>Thu, 19 Jan 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-01-19/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://nullprogram.com/blog/2023/01/18/">u-config: a new, lean pkg-config clone&lt;/a>
+(&lt;a href="https://lobste.rs/s/jc0dse/u_config_new_lean_pkg_config_clone">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/SuperDisk/tar.pl">tar creator+extractor in ~100 lines of prolog&lt;/a>
+(&lt;a href="https://lobste.rs/s/xhbbm7/tar_creator_extractor_100_lines_prolog">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.user.tu-berlin.de/laurmaedje/programmable-markup-language-for-typesetting.pdf">Typst: A Programmable Markup Language for Typesetting&lt;/a>
+(&lt;a href="https://lobste.rs/s/zd8b6p/typst_programmable_markup_language_for">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://rauljordan.com/rust-concepts-i-wish-i-learned-earlier/">Rust concepts I wish I learned earlier&lt;/a>
+(&lt;a href="https://lobste.rs/s/nbszc8/rust_concepts_i_wish_i_learned_earlier">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://brntn.me/blog/open-source-python-ci/">An open source Python project CI pipeline&lt;/a>
+(&lt;a href="https://lobste.rs/s/9t7qtu/open_source_python_project_ci_pipeline">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://soegaard.github.io/blog/metapict/">The Metapict Blog&lt;/a>
+(&lt;a href="https://lobste.rs/s/ld11sh/metapict_blog">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.dziban.net/coroutines/">Small VMs &amp;amp; Coroutines&lt;/a>
+(&lt;a href="https://lobste.rs/s/jrp9gv/small_vms_coroutines">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://hynek.me/articles/why-i-like-nox/">Why I Like Nox&lt;/a>
+(&lt;a href="https://lobste.rs/s/983b6p/why_i_like_nox">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thonny.org/">Thonny, Python IDE for beginners&lt;/a>
+(&lt;a href="https://lobste.rs/s/jsduqt/thonny_python_ide_for_beginners">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://danielbmarkham.com/the-biggest-problem-in-real-world-computer-programming/">The Biggest Problem In Real-World Computer Programming&lt;/a>
+(&lt;a href="https://lobste.rs/s/qtmwny/biggest_problem_real_world_computer">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2023-01-18</title><link>https://frozen-lobster.rohanverma.net/posts/2023-01-18/</link><pubDate>Wed, 18 Jan 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-01-18/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://tratt.net/laurie/blog/2023/why_we_need_to_know_lr_and_recursive_descent_parsing_techniques.html">Why We Need to Know LR and Recursive Descent Parsing Techniques&lt;/a>
 (&lt;a href="https://lobste.rs/s/oq54qt/why_we_need_know_lr_recursive_descent">comments&lt;/a>)&lt;/p>
