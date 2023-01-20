@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 19 Jan 2023 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-01-19</title><link>https://frozen-lobster.rohanverma.net/posts/2023-01-19/</link><pubDate>Thu, 19 Jan 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-01-19/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 20 Jan 2023 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-01-20</title><link>https://frozen-lobster.rohanverma.net/posts/2023-01-20/</link><pubDate>Fri, 20 Jan 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-01-20/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://gleam.run/news/v0.26-incremental-compilation-and-deno/">Gleam v0.26 released featuring incremental compilation and Deno runtime support&lt;/a>
+(&lt;a href="https://lobste.rs/s/epwdiz/gleam_v0_26_released_featuring">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pandoc.org/releases.html#pandoc-3.0-2023-01-18">Pandoc 3.0 released&lt;/a>
+(&lt;a href="https://lobste.rs/s/akic3m/pandoc_3_0_released">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pythonspeed.com/articles/cython-limitations/">Some reasons to avoid Cython&lt;/a>
+(&lt;a href="https://lobste.rs/s/chuql4/some_reasons_avoid_cython">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://neilmadden.blog/2023/01/18/a-few-programming-language-features-id-like-to-see/">A few programming language features I’d like to see&lt;/a>
+(&lt;a href="https://lobste.rs/s/z96yzi/few_programming_language_features_i_d">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://twitchard.github.io/posts/2023-01-18-unicycles.html">Take your pragmatism for a unicycle ride&lt;/a>
+(&lt;a href="https://lobste.rs/s/wdeoob/take_your_pragmatism_for_unicycle_ride">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://computerhistory.org/blog/the-lisa-apples-most-influential-failure/">Apple Lisa source code released&lt;/a>
+(&lt;a href="https://lobste.rs/s/l1qxl1/apple_lisa_source_code_released">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lists.debian.org/debian-devel-announce/2023/01/msg00004.html">Debian Bookworm freeze started&lt;/a>
+(&lt;a href="https://lobste.rs/s/2ueslk/debian_bookworm_freeze_started">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.evanjones.ca/hugepages-are-a-good-idea.html">Huge Pages are a Good Idea&lt;/a>
+(&lt;a href="https://lobste.rs/s/hwf01p/huge_pages_are_good_idea">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sheep.horse/2023/1/improved_web_component_for_pixel-accurate_atkinson.html">Improved Web Component for Pixel-Accurate Atkinson Dithered Images&lt;/a>
+(&lt;a href="https://lobste.rs/s/otzvj2/improved_web_component_for_pixel">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://buttondown.email/hillelwayne/archive/funny-programming-languages/">Funny programming languages&lt;/a>
+(&lt;a href="https://lobste.rs/s/71zcqk/funny_programming_languages">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2023-01-19</title><link>https://frozen-lobster.rohanverma.net/posts/2023-01-19/</link><pubDate>Thu, 19 Jan 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-01-19/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://nullprogram.com/blog/2023/01/18/">u-config: a new, lean pkg-config clone&lt;/a>
 (&lt;a href="https://lobste.rs/s/jc0dse/u_config_new_lean_pkg_config_clone">comments&lt;/a>)&lt;/p>
