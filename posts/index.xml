@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 20 Jan 2023 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-01-20</title><link>https://frozen-lobster.rohanverma.net/posts/2023-01-20/</link><pubDate>Fri, 20 Jan 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-01-20/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 21 Jan 2023 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-01-21</title><link>https://frozen-lobster.rohanverma.net/posts/2023-01-21/</link><pubDate>Sat, 21 Jan 2023 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-01-21/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://xeiaso.net/blog/%F0%9F%A5%BA">the best sudo replacement&lt;/a>
+(&lt;a href="https://lobste.rs/s/njrjkz/best_sudo_replacement">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://alinpanaitiu.com/blog/turn-off-macbook-display-clamshell/">Reverse engineering the MacBook clamshell mode&lt;/a>
+(&lt;a href="https://lobste.rs/s/4wcoy5/reverse_engineering_macbook_clamshell">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.linkedin.com/pulse/importance-licenses-how-affect-community-trust-your-product-wildner/">The importance of licenses, and how they affect community trust and your product&lt;/a>
+(&lt;a href="https://lobste.rs/s/g93qvt/importance_licenses_how_they_affect">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.yoshuawuyts.com/rust-should-own-its-debugger-experience/">Rust should own its debugger experience&lt;/a>
+(&lt;a href="https://lobste.rs/s/6v4xuv/rust_should_own_its_debugger_experience">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://maia.crimew.gay/posts/how-to-hack-an-airline/">how to completely own an airline in 3 easy steps&lt;/a>
+(&lt;a href="https://lobste.rs/s/ns4mzp/how_completely_own_airline_3_easy_steps">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://zimbatm.com/notes/the-nixos-settings-option-when-and-how-to-use-it">The NixOS “settings” option: when and how to use it&lt;/a>
+(&lt;a href="https://lobste.rs/s/aja2hg/nixos_settings_option_when_how_use_it">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this weekend?&lt;/a>
+(&lt;a href="https://lobste.rs/s/rosukz/what_are_you_doing_this_weekend">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://smallcultfollowing.com/babysteps/blog/2023/01/20/rust-in-2023-growing-up/">Rust in 2023: Growing up&lt;/a>
+(&lt;a href="https://lobste.rs/s/5wggqy/rust_2023_growing_up">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.supergoodcode.com/get-dumber/">Get Dumber&lt;/a>
+(&lt;a href="https://lobste.rs/s/9fwfus/get_dumber">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pythonspeed.com/articles/cython-limitations/">Some reasons to avoid Cython&lt;/a>
+(&lt;a href="https://lobste.rs/s/chuql4/some_reasons_avoid_cython">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2023-01-20</title><link>https://frozen-lobster.rohanverma.net/posts/2023-01-20/</link><pubDate>Fri, 20 Jan 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-01-20/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://gleam.run/news/v0.26-incremental-compilation-and-deno/">Gleam v0.26 released featuring incremental compilation and Deno runtime support&lt;/a>
 (&lt;a href="https://lobste.rs/s/epwdiz/gleam_v0_26_released_featuring">comments&lt;/a>)&lt;/p>
