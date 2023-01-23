@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 22 Jan 2023 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-01-22</title><link>https://frozen-lobster.rohanverma.net/posts/2023-01-22/</link><pubDate>Sun, 22 Jan 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-01-22/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 23 Jan 2023 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-01-23</title><link>https://frozen-lobster.rohanverma.net/posts/2023-01-23/</link><pubDate>Mon, 23 Jan 2023 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-01-23/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://discuss.python.org/t/announce-pybi-and-posy/23021">Pybi and Posy&lt;/a>
+(&lt;a href="https://lobste.rs/s/j9gr9z/pybi_posy">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://initialcommit.com/blog/git-sim">Git-Sim: Visually simulate Git operations in your own repos with a single terminal command&lt;/a>
+(&lt;a href="https://lobste.rs/s/6p9pg2/git_sim_visually_simulate_git_operations">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://twitter.com/turbolent/status/1617231570573873152">Rust on Mac OS 9&lt;/a>
+(&lt;a href="https://lobste.rs/s/b8tqih/rust_on_mac_os_9">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://weare.guru/office-life-in-the-1980s-vintage-photos/">Office life in the 1980s&lt;/a>
+(&lt;a href="https://lobste.rs/s/64adco/office_life_1980s">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lwn.net/SubscriberLink/920158/313ec4305df220bb/">Nolibc: a minimal C-library replacement shipped with the kernel&lt;/a>
+(&lt;a href="https://lobste.rs/s/xyolwk/nolibc_minimal_c_library_replacement">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pyjarrett.github.io/programming-with-ada/clearing-the-air.html">Clearing the Air - Programming with Ada&lt;/a>
+(&lt;a href="https://lobste.rs/s/9jsh7c/clearing_air_programming_with_ada">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://bas.codes/posts/aws-architecture-overengineering">Understanding AWS Services for Modern Cloud Architectures by Overengineering &amp;ldquo;Hello World&amp;rdquo;&lt;/a>
+(&lt;a href="https://lobste.rs/s/tafwcf/understanding_aws_services_for_modern">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://soatok.blog/2023/01/21/how-you-respond-to-security-researchers-says-everything-about-you/">How You Respond to Security Researchers Says Everything About You&lt;/a>
+(&lt;a href="https://lobste.rs/s/qjuqpi/how_you_respond_security_researchers">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www2.bearblog.dev/non-annoying/">nice sites&lt;/a>
+(&lt;a href="https://lobste.rs/s/k7dz5z/nice_sites">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://myme.no/posts/2023-01-22-git-commands-you-do-not-need.html">Git Commands You Probably Do Not Need&lt;/a>
+(&lt;a href="https://lobste.rs/s/58raub/git_commands_you_probably_do_not_need">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2023-01-22</title><link>https://frozen-lobster.rohanverma.net/posts/2023-01-22/</link><pubDate>Sun, 22 Jan 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-01-22/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://soatok.blog/2023/01/21/how-you-respond-to-security-researchers-says-everything-about-you/">How You Respond to Security Researchers Says Everything About You&lt;/a>
 (&lt;a href="https://lobste.rs/s/qjuqpi/how_you_respond_security_researchers">comments&lt;/a>)&lt;/p>
