@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 24 Jan 2023 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-01-24</title><link>https://frozen-lobster.rohanverma.net/posts/2023-01-24/</link><pubDate>Tue, 24 Jan 2023 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-01-24/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 25 Jan 2023 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-01-25</title><link>https://frozen-lobster.rohanverma.net/posts/2023-01-25/</link><pubDate>Wed, 25 Jan 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-01-25/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://two-wrongs.com/build-vs-buy">Build vs. Buy&lt;/a>
+(&lt;a href="https://lobste.rs/s/yubtob/build_vs_buy">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://xeiaso.net/blog/jsx-quasi-quoting">JSX is quasi-quoting&lt;/a>
+(&lt;a href="https://lobste.rs/s/sighdg/jsx_is_quasi_quoting">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://metalbear.co/blog/fun-with-macoss-sip/">Fun with macOS&amp;rsquo;s SIP&lt;/a>
+(&lt;a href="https://lobste.rs/s/mjb8ye/fun_with_macos_s_sip">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ariadne.space/2023/01/24/pkgconf-cve-2023-24056-and-disinformation/">pkgconf, CVE-2023-24056 and disinformation&lt;/a>
+(&lt;a href="https://lobste.rs/s/u2fln8/pkgconf_cve_2023_24056_disinformation">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://determinate.systems/posts/zero-to-nix">Introducing: Zero to Nix&lt;/a>
+(&lt;a href="https://lobste.rs/s/kf3xym/introducing_zero_nix">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://fromdevtodev.com/what-to-blog-developer">I don&amp;rsquo;t know what to write on my blog - developer&lt;/a>
+(&lt;a href="https://lobste.rs/s/vg1pp2/i_don_t_know_what_write_on_my_blog_developer">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://litchipi.github.io/infosec/2023/01/24/git-code-audit-viewed-as-rust-programmer.html">The Git source code audit, viewed as a Rust programmer&lt;/a>
+(&lt;a href="https://lobste.rs/s/los0cf/git_source_code_audit_viewed_as_rust">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.orhun.dev/packaging-rust-for-npm/">Packaging Rust Applications for the NPM Registry&lt;/a>
+(&lt;a href="https://lobste.rs/s/nhqnlo/packaging_rust_applications_for_npm">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://palant.info/2023/01/23/bitwarden-design-flaw-server-side-iterations/">Bitwarden design flaw: Server side iterations&lt;/a>
+(&lt;a href="https://lobste.rs/s/x9ltvp/bitwarden_design_flaw_server_side">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.jeffgeerling.com/blog/2023/hyperscale-your-homelab-compute-blade-arrives">Hyperscale in your Homelab: The Compute Blade arrives&lt;/a>
+(&lt;a href="https://lobste.rs/s/oeipso/hyperscale_your_homelab_compute_blade">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2023-01-24</title><link>https://frozen-lobster.rohanverma.net/posts/2023-01-24/</link><pubDate>Tue, 24 Jan 2023 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-01-24/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://determinate.systems/posts/zero-to-nix">Introducing: Zero to Nix&lt;/a>
 (&lt;a href="https://lobste.rs/s/kf3xym/introducing_zero_nix">comments&lt;/a>)&lt;/p>
