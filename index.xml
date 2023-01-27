@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 26 Jan 2023 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-01-26</title><link>https://frozen-lobster.rohanverma.net/posts/2023-01-26/</link><pubDate>Thu, 26 Jan 2023 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-01-26/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 27 Jan 2023 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-01-27</title><link>https://frozen-lobster.rohanverma.net/posts/2023-01-27/</link><pubDate>Fri, 27 Jan 2023 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-01-27/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/sylver-dev/sylver-cli">I made a multi-language programmable linter&lt;/a>
+(&lt;a href="https://lobste.rs/s/pyrmyn/i_made_multi_language_programmable">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://predr.ag/blog/some-rust-breaking-changes-do-not-require-major-version/">Some Rust breaking changes don&amp;rsquo;t require a major version&lt;/a>
+(&lt;a href="https://lobste.rs/s/pvwcvo/some_rust_breaking_changes_don_t_require">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tratt.net/laurie/blog/2023/distinguishing_an_interpreter_from_a_compiler.html">Distinguishing an Interpreter from a Compiler&lt;/a>
+(&lt;a href="https://lobste.rs/s/r1ozz9/distinguishing_interpreter_from">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://steveklabnik.com/writing/too-many-words-about-rusts-function-syntax">Too many words about Rust&amp;rsquo;s function syntax&lt;/a>
+(&lt;a href="https://lobste.rs/s/tkplxs/too_many_words_about_rust_s_function">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.nature.com/articles/d41586-023-00185-z">What time is it on the Moon?&lt;/a>
+(&lt;a href="https://lobste.rs/s/jegtpx/what_time_is_it_on_moon">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://datavirke.dk/posts/fallible-missing-rust-error-handling/">Fallible - The Lost Sibling of Result and Option&lt;/a>
+(&lt;a href="https://lobste.rs/s/8mnx1e/fallible_lost_sibling_result_option">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://quitesimple.org/page/fun-gentoo-shuffle-rop-gadgets">Fun with Gentoo: Why don&amp;rsquo;t we just shuffle those ROP gadgets away?&lt;/a>
+(&lt;a href="https://lobste.rs/s/hy3j43/fun_with_gentoo_why_don_t_we_just_shuffle">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pcbarina.fit.vutbr.cz/">Convergence verification of the Collatz problem&lt;/a>
+(&lt;a href="https://lobste.rs/s/2dwnx4/convergence_verification_collatz">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/matthiasmullie/post-to-email">Post to email: supporting contact forms for static websites&lt;/a>
+(&lt;a href="https://lobste.rs/s/mbchar/post_email_supporting_contact_forms_for">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://hynek.me/til/copyright-years/">You Can Stop Updating Copyright Attribution Years&lt;/a>
+(&lt;a href="https://lobste.rs/s/buyrkp/you_can_stop_updating_copyright">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2023-01-26</title><link>https://frozen-lobster.rohanverma.net/posts/2023-01-26/</link><pubDate>Thu, 26 Jan 2023 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-01-26/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://hynek.me/til/copyright-years/">You Can Stop Updating Copyright Attribution Years&lt;/a>
 (&lt;a href="https://lobste.rs/s/buyrkp/you_can_stop_updating_copyright">comments&lt;/a>)&lt;/p>
