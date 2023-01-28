@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 27 Jan 2023 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-01-27</title><link>https://frozen-lobster.rohanverma.net/posts/2023-01-27/</link><pubDate>Fri, 27 Jan 2023 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-01-27/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 28 Jan 2023 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-01-28</title><link>https://frozen-lobster.rohanverma.net/posts/2023-01-28/</link><pubDate>Sat, 28 Jan 2023 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-01-28/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://cyberscript.dev/">Cyber is a new language for fast, efficient, and concurrent scripting&lt;/a>
+(&lt;a href="https://lobste.rs/s/v8edeu/cyber_is_new_language_for_fast_efficient">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/stevana/armstrong-distributed-systems/blob/main/docs/erlang-is-not-about.md">Erlang&amp;rsquo;s not about lightweight processes and message passing&lt;/a>
+(&lt;a href="https://lobste.rs/s/7dguth/erlang_s_not_about_lightweight_processes">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://austinhenley.com/blog/naturallanguageui.html">Natural language is the lazy user interface&lt;/a>
+(&lt;a href="https://lobste.rs/s/h3ypje/natural_language_is_lazy_user_interface">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.devever.net/~hl/sip-victory">Netheads vs. bellheads redux: the strange victory of SIP over the telephone network&lt;/a>
+(&lt;a href="https://lobste.rs/s/ny6nqf/netheads_vs_bellheads_redux_strange">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.salkosuo.net/2015/10/22/elite-for-emacs.html">Elite for Emacs&lt;/a>
+(&lt;a href="https://lobste.rs/s/doaopo/elite_for_emacs">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.stackaid.us/blog/using-sourcegraph-to-discovery-non-npm-js-projects">Using Sourcegraph to discover non-NPM JS projects&lt;/a>
+(&lt;a href="https://lobste.rs/s/8fbsxz/using_sourcegraph_discover_non_npm_js">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.darklang.com/darklang-release-9/">Darklang Release 9&lt;/a>
+(&lt;a href="https://lobste.rs/s/6few0w/darklang_release_9">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this weekend?&lt;/a>
+(&lt;a href="https://lobste.rs/s/8pgekl/what_are_you_doing_this_weekend">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.waleedkhan.name/tracing-rust-cli-apps/">Using &lt;code>tracing&lt;/code> with Rust CLI applications&lt;/a>
+(&lt;a href="https://lobste.rs/s/ox9je5/using_tracing_with_rust_cli_applications">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://predr.ag/blog/some-rust-breaking-changes-do-not-require-major-version/">Some Rust breaking changes don&amp;rsquo;t require a major version&lt;/a>
+(&lt;a href="https://lobste.rs/s/pvwcvo/some_rust_breaking_changes_don_t_require">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2023-01-27</title><link>https://frozen-lobster.rohanverma.net/posts/2023-01-27/</link><pubDate>Fri, 27 Jan 2023 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-01-27/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://github.com/sylver-dev/sylver-cli">I made a multi-language programmable linter&lt;/a>
 (&lt;a href="https://lobste.rs/s/pyrmyn/i_made_multi_language_programmable">comments&lt;/a>)&lt;/p>
