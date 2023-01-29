@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 28 Jan 2023 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-01-28</title><link>https://frozen-lobster.rohanverma.net/posts/2023-01-28/</link><pubDate>Sat, 28 Jan 2023 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-01-28/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 29 Jan 2023 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-01-29</title><link>https://frozen-lobster.rohanverma.net/posts/2023-01-29/</link><pubDate>Sun, 29 Jan 2023 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-01-29/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://gilslotd.com/blog/features_id_postgresql">Features I&amp;rsquo;d like in PostgreSQL&lt;/a>
+(&lt;a href="https://lobste.rs/s/s8vphc/features_i_d_like_postgresql">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.winehq.org/announce/8.0">What&amp;rsquo;s new in Wine 8.0&lt;/a>
+(&lt;a href="https://lobste.rs/s/oybbrm/what_s_new_wine_8_0">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://matklad.github.io/2023/01/26/rusts-ugly-syntax.html">Rust&amp;rsquo;s Ugly Syntax&lt;/a>
+(&lt;a href="https://lobste.rs/s/tn9gho/rust_s_ugly_syntax">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://linuxjedi.co.uk/2023/01/28/adventures-with-a-working-pentium-iii-motherboard/">Adventures with a “working” Pentium III Motherboard&lt;/a>
+(&lt;a href="https://lobste.rs/s/ip9fvh/adventures_with_working_pentium_iii">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://skilldrick.github.io/easy6502/">Easy 6502, an assembly language tutorial (2015)&lt;/a>
+(&lt;a href="https://lobste.rs/s/fhmhcy/easy_6502_assembly_language_tutorial">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.maxcountryman.com/articles/delivering-value-with-platform-engineering">Delivering Value with Platform Engineering&lt;/a>
+(&lt;a href="https://lobste.rs/s/jctau3/delivering_value_with_platform">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://quuxplusone.github.io/blog/2023/01/27/sinkerator/">Simple C++20 input and output iterators&lt;/a>
+(&lt;a href="https://lobste.rs/s/wxypb2/simple_c_20_input_output_iterators">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://austinhenley.com/blog/naturallanguageui.html">Natural language is the lazy user interface&lt;/a>
+(&lt;a href="https://lobste.rs/s/h3ypje/natural_language_is_lazy_user_interface">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/stevana/armstrong-distributed-systems/blob/main/docs/erlang-is-not-about.md">Erlang&amp;rsquo;s not about lightweight processes and message passing&lt;/a>
+(&lt;a href="https://lobste.rs/s/7dguth/erlang_s_not_about_lightweight_processes">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://calebhearth.com/l/this-gem-is-mentionable">This Gem is Mentionable&lt;/a>
+(&lt;a href="https://lobste.rs/s/txbtbu/this_gem_is_mentionable">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2023-01-28</title><link>https://frozen-lobster.rohanverma.net/posts/2023-01-28/</link><pubDate>Sat, 28 Jan 2023 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-01-28/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://cyberscript.dev/">Cyber is a new language for fast, efficient, and concurrent scripting&lt;/a>
 (&lt;a href="https://lobste.rs/s/v8edeu/cyber_is_new_language_for_fast_efficient">comments&lt;/a>)&lt;/p>
