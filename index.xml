@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 02 Feb 2023 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-02-02</title><link>https://frozen-lobster.rohanverma.net/posts/2023-02-02/</link><pubDate>Thu, 02 Feb 2023 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-02-02/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 03 Feb 2023 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-02-03</title><link>https://frozen-lobster.rohanverma.net/posts/2023-02-03/</link><pubDate>Fri, 03 Feb 2023 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-02-03/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://utcc.utoronto.ca/~cks/space/blog/programming/CAsAbstractMachine">C was not created as an abstract machine&lt;/a>
+(&lt;a href="https://lobste.rs/s/cnuxq6/c_was_not_created_as_abstract_machine">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/Skepfyr/little-loadshedder">A Rust hyper/tower load shedding service based on Little’s Law&lt;/a>
+(&lt;a href="https://lobste.rs/s/ejv4ta/rust_hyper_tower_load_shedding_service">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://corecursive.com/shipping-graphing-calculator/">Shipping Graphing Calculator&lt;/a>
+(&lt;a href="https://lobste.rs/s/5b8zqy/shipping_graphing_calculator">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://fly.io/blog/carving-the-scheduler-out-of-our-orchestrator/">Carving The Scheduler Out Of Our Orchestrator&lt;/a>
+(&lt;a href="https://lobste.rs/s/bl77or/carving_scheduler_out_our_orchestrator">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/fiberplane/autometrics-rs">autometrics: add metrics to any Rust function &amp;amp; jump to the Prometheus chart directly from your IDE&lt;/a>
+(&lt;a href="https://lobste.rs/s/u5rggv/autometrics_add_metrics_any_rust">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/antonmedv/expr/releases/tag/v1.11.0">Expr (Go expression language) releases v1.11&lt;/a>
+(&lt;a href="https://lobste.rs/s/oygfwh/expr_go_expression_language_releases_v1">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://fy.blackhats.net.au/blog/html/2023/02/02/how_hype_will_turn_your_security_key_into_junk.html">How Hype Will Turn Your Security Key Into Junk&lt;/a>
+(&lt;a href="https://lobste.rs/s/zvrtsw/how_hype_will_turn_your_security_key_into">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://charlieharrington.com/your-favorite-homepage-as-a-gif/">Creating GIFs of homepages with the Wayback Machine&lt;/a>
+(&lt;a href="https://lobste.rs/s/65sngv/creating_gifs_homepages_with_wayback">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.masteringemacs.org/article/combobulate-structured-movement-editing-treesitter">Combobulate: Structured Movement and Editing with Tree-Sitter&lt;/a>
+(&lt;a href="https://lobste.rs/s/fc6ara/combobulate_structured_movement">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lwn.net/SubscriberLink/921787/949cf79f2599f734/">Git archive generation meets Hyrum&amp;rsquo;s law&lt;/a>
+(&lt;a href="https://lobste.rs/s/4jjhzd/git_archive_generation_meets_hyrum_s_law">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2023-02-02</title><link>https://frozen-lobster.rohanverma.net/posts/2023-02-02/</link><pubDate>Thu, 02 Feb 2023 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-02-02/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://lukeplant.me.uk/blog/posts/pythons-disappointing-superpowers/">Python&amp;rsquo;s “Disappointing” Superpowers&lt;/a>
 (&lt;a href="https://lobste.rs/s/9w7ylg/python_s_disappointing_superpowers">comments&lt;/a>)&lt;/p>
