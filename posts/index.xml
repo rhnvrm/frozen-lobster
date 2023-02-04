@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 03 Feb 2023 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-02-03</title><link>https://frozen-lobster.rohanverma.net/posts/2023-02-03/</link><pubDate>Fri, 03 Feb 2023 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-02-03/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 04 Feb 2023 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-02-04</title><link>https://frozen-lobster.rohanverma.net/posts/2023-02-04/</link><pubDate>Sat, 04 Feb 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-02-04/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.devever.net/~hl/logindenial">Against risk-based authentication (or, why I wouldn&amp;rsquo;t trust Google Cloud)&lt;/a>
+(&lt;a href="https://lobste.rs/s/dhuqtl/against_risk_based_authentication_why_i">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://eta.st/2023/01/31/rail-tickets.html">Reversing UK mobile rail tickets&lt;/a>
+(&lt;a href="https://lobste.rs/s/fyhpyn/reversing_uk_mobile_rail_tickets">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.scryer.pl">Scryer Prolog&lt;/a>
+(&lt;a href="https://lobste.rs/s/wk4i9r/scryer_prolog">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://spritely.institute/news/guile-on-web-assembly-project-underway.html">Spritely Institute launches Guile Scheme -&amp;gt; WASM direct compilation project&lt;/a>
+(&lt;a href="https://lobste.rs/s/fmxp81/spritely_institute_launches_guile">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://words.filippo.io/full-time-maintainer/">I’m Now a Full-Time Professional Open Source Maintainer&lt;/a>
+(&lt;a href="https://lobste.rs/s/g6jkeu/i_m_now_full_time_professional_open_source">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://htmx.org/essays/hypermedia-clients/">Hypermedia Clients&lt;/a>
+(&lt;a href="https://lobste.rs/s/nsnzb5/hypermedia_clients">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://calebhearth.com/l/decree">The Decree Design Pattern&lt;/a>
+(&lt;a href="https://lobste.rs/s/mfszwo/decree_design_pattern">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://sadh.life/post/cursed-for/">How I added C-style for-loops to Python&lt;/a>
+(&lt;a href="https://lobste.rs/s/xtzrwc/how_i_added_c_style_for_loops_python">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this weekend?&lt;/a>
+(&lt;a href="https://lobste.rs/s/zttreu/what_are_you_doing_this_weekend">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thephd.dev/c-undefined-behavior-and-the-sledgehammer-guideline">Undefined behavior, and the Sledgehammer Principle&lt;/a>
+(&lt;a href="https://lobste.rs/s/3xywhq/undefined_behavior_sledgehammer">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2023-02-03</title><link>https://frozen-lobster.rohanverma.net/posts/2023-02-03/</link><pubDate>Fri, 03 Feb 2023 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-02-03/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://utcc.utoronto.ca/~cks/space/blog/programming/CAsAbstractMachine">C was not created as an abstract machine&lt;/a>
 (&lt;a href="https://lobste.rs/s/cnuxq6/c_was_not_created_as_abstract_machine">comments&lt;/a>)&lt;/p>
