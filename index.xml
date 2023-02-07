@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 06 Feb 2023 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-02-06</title><link>https://frozen-lobster.rohanverma.net/posts/2023-02-06/</link><pubDate>Mon, 06 Feb 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-02-06/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 07 Feb 2023 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-02-07</title><link>https://frozen-lobster.rohanverma.net/posts/2023-02-07/</link><pubDate>Tue, 07 Feb 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-02-07/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://avi.im/blag/2023/refactoring-python/">It is becoming difficult for me to be productive in Python&lt;/a>
+(&lt;a href="https://lobste.rs/s/rpchmh/it_is_becoming_difficult_for_me_be">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pluralistic.net/2023/02/02/nonbinary-families/">Netflix wants to chop down your family tree&lt;/a>
+(&lt;a href="https://lobste.rs/s/0zqbao/netflix_wants_chop_down_your_family_tree">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.microsoft.com/en-us/research/publication/cheriot-rethinking-security-for-low-cost-embedded-systems/">CHERIoT: Rethinking security for low-cost embedded systems&lt;/a>
+(&lt;a href="https://lobste.rs/s/haorfd/cheriot_rethinking_security_for_low_cost">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.blog/2023-02-06-the-technology-behind-githubs-new-code-search/">The technology behind GitHub’s new code search&lt;/a>
+(&lt;a href="https://lobste.rs/s/lcazfn/technology_behind_github_s_new_code">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.openttd.org/news/2023/02/05/openttd-13-0">OpenTTD 13.0 released&lt;/a>
+(&lt;a href="https://lobste.rs/s/iiridj/openttd_13_0_released">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pdx.su/blog/2023-02-05-asciidoc-and-markdown/">I wish Asciidoc was more popular&lt;/a>
+(&lt;a href="https://lobste.rs/s/vc8tmx/i_wish_asciidoc_was_more_popular">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">Other cryptographic agents outside &lt;code>ssh-agent&lt;/code> / &lt;code>gpg-agent&lt;/code>?&lt;/a>
+(&lt;a href="https://lobste.rs/s/oasqtt/other_cryptographic_agents_outside_ssh">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://mypy-lang.blogspot.com/2023/02/mypy-10-released.html">Mypy 1.0 Released&lt;/a>
+(&lt;a href="https://lobste.rs/s/rjkntp/mypy_1_0_released">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/snej/smol_world">smol_world: Compact garbage-collected heap and JSON-like object model&lt;/a>
+(&lt;a href="https://lobste.rs/s/jexsmk/smol_world_compact_garbage_collected">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.carrot.blog/posts/2023/01/self-hosting-mastodon-aws-nomad/">Self-hosting Mastodon on AWS using Nomad&lt;/a>
+(&lt;a href="https://lobste.rs/s/i98vi1/self_hosting_mastodon_on_aws_using_nomad">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2023-02-06</title><link>https://frozen-lobster.rohanverma.net/posts/2023-02-06/</link><pubDate>Mon, 06 Feb 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-02-06/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://github.com/snej/smol_world">smol_world: Compact garbage-collected heap and JSON-like object model&lt;/a>
 (&lt;a href="https://lobste.rs/s/jexsmk/smol_world_compact_garbage_collected">comments&lt;/a>)&lt;/p>
