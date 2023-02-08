@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 07 Feb 2023 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-02-07</title><link>https://frozen-lobster.rohanverma.net/posts/2023-02-07/</link><pubDate>Tue, 07 Feb 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-02-07/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 08 Feb 2023 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-02-08</title><link>https://frozen-lobster.rohanverma.net/posts/2023-02-08/</link><pubDate>Wed, 08 Feb 2023 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-02-08/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.dns0.eu/">The European public DNS that makes your Internet safer&lt;/a>
+(&lt;a href="https://lobste.rs/s/4dmusr/european_public_dns_makes_your_internet">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://predr.ag/blog/speeding-up-rust-semver-checking-by-over-2000x/">Speeding up Rust semver-checking by over 2000x&lt;/a>
+(&lt;a href="https://lobste.rs/s/t4ssxd/speeding_up_rust_semver_checking_by_over">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ahelwer.ca/post/2023-02-07-cpp-bugs-sanitized/">Can sanitizers find the two bugs I wrote in C++?&lt;/a>
+(&lt;a href="https://lobste.rs/s/ieqvjt/can_sanitizers_find_two_bugs_i_wrote_c">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://matt-rickard.com/docker-without-docker">Docker Without Docker&lt;/a>
+(&lt;a href="https://lobste.rs/s/7jpp4z/docker_without_docker">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://wingolog.org/archives/2023/02/07/whippet-towards-a-new-local-maximum">whippet: towards a new local maximum&lt;/a>
+(&lt;a href="https://lobste.rs/s/zivvw7/whippet_towards_new_local_maximum">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ntietz.com/blog/rust-references-vs-pointers/">What&amp;rsquo;s the difference between references and pointers in Rust?&lt;/a>
+(&lt;a href="https://lobste.rs/s/u2rvqe/what_s_difference_between_references">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.cnx-software.com/2023/02/07/the-wi-r-protocol-relies-on-body-for-data-communication-consumes-up-to-100x-less-than-bluetooth/">The Wi-R protocol relies on body for data communication, consumes up to 100x less than Bluetooth&lt;/a>
+(&lt;a href="https://lobste.rs/s/csz0vp/wi_r_protocol_relies_on_body_for_data">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://avi.im/blag/2023/refactoring-python/">It is becoming difficult for me to be productive in Python&lt;/a>
+(&lt;a href="https://lobste.rs/s/rpchmh/it_is_becoming_difficult_for_me_be">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://anthonyhobday.com/sideprojects/saferules/">Visual design rules you can safely follow every time&lt;/a>
+(&lt;a href="https://lobste.rs/s/mvdjrs/visual_design_rules_you_can_safely_follow">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://motherduck.com/blog/big-data-is-dead/">Big Data is Dead&lt;/a>
+(&lt;a href="https://lobste.rs/s/z5bq6f/big_data_is_dead">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2023-02-07</title><link>https://frozen-lobster.rohanverma.net/posts/2023-02-07/</link><pubDate>Tue, 07 Feb 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-02-07/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://avi.im/blag/2023/refactoring-python/">It is becoming difficult for me to be productive in Python&lt;/a>
 (&lt;a href="https://lobste.rs/s/rpchmh/it_is_becoming_difficult_for_me_be">comments&lt;/a>)&lt;/p>
