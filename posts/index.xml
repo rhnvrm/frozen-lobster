@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 09 Feb 2023 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-02-09</title><link>https://frozen-lobster.rohanverma.net/posts/2023-02-09/</link><pubDate>Thu, 09 Feb 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-02-09/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 10 Feb 2023 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-02-10</title><link>https://frozen-lobster.rohanverma.net/posts/2023-02-10/</link><pubDate>Fri, 10 Feb 2023 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-02-10/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://maximullaris.com/bilingual_books.html">Create bilingual books yourself&lt;/a>
+(&lt;a href="https://lobste.rs/s/g3rhqr/create_bilingual_books_yourself">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ufried.com/blog/continuous_amnesia_issue/">The continuous amnesia issue&lt;/a>
+(&lt;a href="https://lobste.rs/s/wnbmjg/continuous_amnesia_issue">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.thunderbird.net/2023/02/the-future-of-thunderbird-why-were-rebuilding-from-the-ground-up/">Why We&amp;rsquo;re Rebuilding The Thunderbird Interface From Scratch&lt;/a>
+(&lt;a href="https://lobste.rs/s/oixlpx/why_we_re_rebuilding_thunderbird">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/tomekw/hikari-cp#clickhouse-example">Using ClickHouse with Clojure&lt;/a>
+(&lt;a href="https://lobste.rs/s/n8ener/using_clickhouse_with_clojure">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.blog/changelog/2023-02-08-pull-request-merge-queue-public-beta/">Pull request merge queue (public beta)&lt;/a>
+(&lt;a href="https://lobste.rs/s/ahrvcj/pull_request_merge_queue_public_beta">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://zverok.space/blog/2023-02-07-changelog2023.html">Participating in programming language&amp;rsquo;s evolution during interesting times&lt;/a>
+(&lt;a href="https://lobste.rs/s/4dq6ap/participating_programming_language_s">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://www.ittc.ku.edu/~heechul/papers/palloc-rtas2014.pdf">PALLOC: DRAM Bank-Aware Memory Allocator for Performance Isolation on Multicore Platforms&lt;/a>
+(&lt;a href="https://lobste.rs/s/y61nzw/palloc_dram_bank_aware_memory_allocator">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jaywhy13.hashnode.dev/cascading-failures-and-the-impossibility-of-scheduling-team-lunches">Cascading failures and the impossibility of scheduling team lunches&lt;/a>
+(&lt;a href="https://lobste.rs/s/zsotib/cascading_failures_impossibility">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jvns.ca/blog/2023/02/08/why-does-0-1-plus-0-2-equal-0-30000000000000004/">Why does 0.1 + 0.2 = 0.30000000000000004?&lt;/a>
+(&lt;a href="https://lobste.rs/s/knrjzs/why_does_0_1_0_2_0_30000000000000004">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jub0bs.com/posts/2023-02-08-fearless-cors/">Fearless CORS: a design philosophy for CORS middleware libraries (and a Go implementation)&lt;/a>
+(&lt;a href="https://lobste.rs/s/jvo4iy/fearless_cors_design_philosophy_for_cors">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2023-02-09</title><link>https://frozen-lobster.rohanverma.net/posts/2023-02-09/</link><pubDate>Thu, 09 Feb 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-02-09/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://borretti.me/article/shells-are-two-things">Shells are Two Things&lt;/a>
 (&lt;a href="https://lobste.rs/s/sqtnxf/shells_are_two_things">comments&lt;/a>)&lt;/p>
