@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 10 Feb 2023 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-02-10</title><link>https://frozen-lobster.rohanverma.net/posts/2023-02-10/</link><pubDate>Fri, 10 Feb 2023 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-02-10/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 11 Feb 2023 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-02-11</title><link>https://frozen-lobster.rohanverma.net/posts/2023-02-11/</link><pubDate>Sat, 11 Feb 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-02-11/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://matklad.github.io/2023/02/10/how-a-zig-ide-could-work.html">How a Zig IDE Could Work&lt;/a>
+(&lt;a href="https://lobste.rs/s/tbcief/how_zig_ide_could_work">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.matuzo.at/blog/2023/single-page-applications-criticism/">Why I&amp;rsquo;m not the biggest fan of Single Page Applications&lt;/a>
+(&lt;a href="https://lobste.rs/s/gigsbb/why_i_m_not_biggest_fan_single_page">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this weekend?&lt;/a>
+(&lt;a href="https://lobste.rs/s/dikmbr/what_are_you_doing_this_weekend">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://paperless.blog/we-need-programming-mentors">We need programming mentors&lt;/a>
+(&lt;a href="https://lobste.rs/s/jugmcq/we_need_programming_mentors">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web">ChatGPT Is a Blurry JPEG of the Web&lt;/a>
+(&lt;a href="https://lobste.rs/s/9xa8m5/chatgpt_is_blurry_jpeg_web">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://youtu.be/vRqRQ7hYxjk">The Cube Keyboard&lt;/a>
+(&lt;a href="https://lobste.rs/s/ik77i4/cube_keyboard">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://memex.marginalia.nu/log/73-new-approach-to-ranking.gmi">A new approach to domain ranking&lt;/a>
+(&lt;a href="https://lobste.rs/s/5ffqfm/new_approach_domain_ranking">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://about.sourcegraph.com/blog/building-conc-better-structured-concurrency-for-go">Building conc: Better structured concurrency for Go&lt;/a>
+(&lt;a href="https://lobste.rs/s/ofhisc/building_conc_better_structured">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lwn.net/Articles/922951/">A GCC COBOL status report&lt;/a>
+(&lt;a href="https://lobste.rs/s/7bbahz/gcc_cobol_status_report">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ufried.com/blog/continuous_amnesia_issue/">The continuous amnesia issue&lt;/a>
+(&lt;a href="https://lobste.rs/s/wnbmjg/continuous_amnesia_issue">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2023-02-10</title><link>https://frozen-lobster.rohanverma.net/posts/2023-02-10/</link><pubDate>Fri, 10 Feb 2023 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-02-10/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://maximullaris.com/bilingual_books.html">Create bilingual books yourself&lt;/a>
 (&lt;a href="https://lobste.rs/s/g3rhqr/create_bilingual_books_yourself">comments&lt;/a>)&lt;/p>
