@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 11 Feb 2023 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-02-11</title><link>https://frozen-lobster.rohanverma.net/posts/2023-02-11/</link><pubDate>Sat, 11 Feb 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-02-11/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 12 Feb 2023 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-02-12</title><link>https://frozen-lobster.rohanverma.net/posts/2023-02-12/</link><pubDate>Sun, 12 Feb 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-02-12/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://nullprogram.com/blog/2023/02/11/">A review of the C standard library in practice&lt;/a>
+(&lt;a href="https://lobste.rs/s/v9luyg/review_c_standard_library_practice">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cme.h-its.org/exelixis/pubs/JanThesis.pdf">Is there a Correlation between the Use of Swearwords and Code Quality in Open Source Code?&lt;/a>
+(&lt;a href="https://lobste.rs/s/wxlql2/is_there_correlation_between_use">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cq.mtc.dev">I’m an introvert – made an app to help maintain connections with people&lt;/a>
+(&lt;a href="https://lobste.rs/s/pnjbff/i_m_introvert_made_app_help_maintain">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://abhinavsarkar.net/posts/implementing-co-3/">Implementing Co, a Small Language With Coroutines #3: Adding Coroutines&lt;/a>
+(&lt;a href="https://lobste.rs/s/sotg8z/implementing_co_small_language_with">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://chaos.social/@epilys/109848156900317663">Including screenshots to git commit messages to show visual changes of features / bug fixes&lt;/a>
+(&lt;a href="https://lobste.rs/s/v7yslc/including_screenshots_git_commit">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/mvdan/gofumpt">gofumpt: A stricter gofmt&lt;/a>
+(&lt;a href="https://lobste.rs/s/x2ijwj/gofumpt_stricter_gofmt">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://earthly.dev/blog/creating-and-hosting-your-own-deb-packages-and-apt-repo/">Creating and hosting your own DEB packages and apt repo&lt;/a>
+(&lt;a href="https://lobste.rs/s/d55kdf/creating_hosting_your_own_deb_packages">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://textual.textualize.io/blog/2023/02/11/the-heisenbug-lurking-in-your-async-code/">The Heisenbug lurking in your Python async code&lt;/a>
+(&lt;a href="https://lobste.rs/s/vqttsw/heisenbug_lurking_your_python_async_code">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.yossarian.net/2023/02/11/The-unsafe-language-doom-principle">The unsafe language doom principle&lt;/a>
+(&lt;a href="https://lobste.rs/s/lalmzo/unsafe_language_doom_principle">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/Voultapher/sort-research-rs/blob/main/writeup/glidesort_perf_analysis/text.md">A performance analysis of five stable sort algorithms (two are novel/new)&lt;/a>
+(&lt;a href="https://lobste.rs/s/ttbchy/performance_analysis_five_stable_sort">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2023-02-11</title><link>https://frozen-lobster.rohanverma.net/posts/2023-02-11/</link><pubDate>Sat, 11 Feb 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-02-11/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://matklad.github.io/2023/02/10/how-a-zig-ide-could-work.html">How a Zig IDE Could Work&lt;/a>
 (&lt;a href="https://lobste.rs/s/tbcief/how_zig_ide_could_work">comments&lt;/a>)&lt;/p>
