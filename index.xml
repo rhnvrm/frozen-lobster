@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 13 Feb 2023 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-02-13</title><link>https://frozen-lobster.rohanverma.net/posts/2023-02-13/</link><pubDate>Mon, 13 Feb 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-02-13/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 14 Feb 2023 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-02-14</title><link>https://frozen-lobster.rohanverma.net/posts/2023-02-14/</link><pubDate>Tue, 14 Feb 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-02-14/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://derw.substack.com/p/whatever-happened-to-elm-anyway">Whatever happened to Elm, anyway?&lt;/a>
+(&lt;a href="https://lobste.rs/s/ftqp21/whatever_happened_elm_anyway">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://fosdem.org/2023/schedule/event/matrix20/">Matrix 2.0: How we&amp;rsquo;re making Matrix go voom&lt;/a>
+(&lt;a href="https://lobste.rs/s/por5qw/matrix_2_0_how_we_re_making_matrix_go_voom">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://fasterthanli.me/articles/the-bottom-emoji-breaks-rust-analyzer">The bottom emoji breaks rust-analyzer&lt;/a>
+(&lt;a href="https://lobste.rs/s/hjyll4/bottom_emoji_breaks_rust_analyzer">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://matklad.github.io/2023/02/12/a-love-letter-to-deno.html">A love letter to Deno&lt;/a>
+(&lt;a href="https://lobste.rs/s/7thgsy/love_letter_deno">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://emnudge.dev/blog/perfect-rgb-regex/">Writing The Perfect RGB Regex And Failing&lt;/a>
+(&lt;a href="https://lobste.rs/s/jvzg1g/writing_perfect_rgb_regex_failing">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://vimeo.com/798469951">I implemented a code notebook for datalog queries&lt;/a>
+(&lt;a href="https://lobste.rs/s/r5emt3/i_implemented_code_notebook_for_datalog">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.brightball.com/articles/the-time-i-accidentally-ended-up-combating-fraud-for-a-year">The Time I Accidentally Ended Up Combating Fraud for a Year&lt;/a>
+(&lt;a href="https://lobste.rs/s/i1kfoo/time_i_accidentally_ended_up_combating">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://noncombatant.org/2023/02/12/int-size-t/">size_t Is Not int&lt;/a>
+(&lt;a href="https://lobste.rs/s/entnir/size_t_is_not_int">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/hellux/jotdown">jotdown: A Djot parser library&lt;/a>
+(&lt;a href="https://lobste.rs/s/jwmyni/jotdown_djot_parser_library">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.jabperf.com/my-fear-of-commitment-to-the-1st-cpu-core/">My Fear of Commitment to the 1st CPU Core&lt;/a>
+(&lt;a href="https://lobste.rs/s/joehtw/my_fear_commitment_1st_cpu_core">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2023-02-13</title><link>https://frozen-lobster.rohanverma.net/posts/2023-02-13/</link><pubDate>Mon, 13 Feb 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-02-13/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://www.maxcountryman.com/articles/is-deno-ready-for-primetime">Is Deno Ready for Primetime?&lt;/a>
 (&lt;a href="https://lobste.rs/s/rmmhb3/is_deno_ready_for_primetime">comments&lt;/a>)&lt;/p>
