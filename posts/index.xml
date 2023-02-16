@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 15 Feb 2023 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-02-15</title><link>https://frozen-lobster.rohanverma.net/posts/2023-02-15/</link><pubDate>Wed, 15 Feb 2023 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-02-15/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 16 Feb 2023 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-02-16</title><link>https://frozen-lobster.rohanverma.net/posts/2023-02-16/</link><pubDate>Thu, 16 Feb 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-02-16/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://mmapped.blog/posts/15-when-rust-hurts.html">When Rust hurts&lt;/a>
+(&lt;a href="https://lobste.rs/s/pd8rr8/when_rust_hurts">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/soywod/himalaya/releases/tag/v0.7.0">Himalaya, the CLI email client: v0.7.0 released&lt;/a>
+(&lt;a href="https://lobste.rs/s/svnjss/himalaya_cli_email_client_v0_7_0_released">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://mrkaran.dev/posts/structured-logging-in-go-with-slog/">Structured logging in Go with slog&lt;/a>
+(&lt;a href="https://lobste.rs/s/hdwu80/structured_logging_go_with_slog">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://dev.to/omnigres/what-happens-if-you-put-http-server-inside-postgres-33kd">What happens if you put HTTP server inside Postgres?&lt;/a>
+(&lt;a href="https://lobste.rs/s/39ao1j/what_happens_if_you_put_http_server_inside">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://seldo.com/posts/the_case_for_frameworks">React is popular for rational reasons despite being bad for performance&lt;/a>
+(&lt;a href="https://lobste.rs/s/n2kovg/react_is_popular_for_rational_reasons">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://codepengu.in/chat_gpt/">ChatGPT passes the Turing Test — now what?&lt;/a>
+(&lt;a href="https://lobste.rs/s/h3axjq/chatgpt_passes_turing_test_now_what">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://scottaaronson.blog/?p=1720">The Scientific Case for P != NP (2014)&lt;/a>
+(&lt;a href="https://lobste.rs/s/4hjdbe/scientific_case_for_p_np_2014">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.timhutt.co.uk/curl-vulnerabilities-rust/">Would Rust secure cURL? (2021)&lt;/a>
+(&lt;a href="https://lobste.rs/s/iimhg2/would_rust_secure_curl_2021">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ounapuu.ee/posts/2023/02/15/shrinkflation/">Shrinkflation, SanDisk style&lt;/a>
+(&lt;a href="https://lobste.rs/s/9jlcg6/shrinkflation_sandisk_style">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">Recommended external USB fingerprint scanner?&lt;/a>
+(&lt;a href="https://lobste.rs/s/fw54dt/recommended_external_usb_fingerprint">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2023-02-15</title><link>https://frozen-lobster.rohanverma.net/posts/2023-02-15/</link><pubDate>Wed, 15 Feb 2023 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-02-15/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://github.com/zloirock/core-js/blob/master/docs/2023-02-14-so-whats-next.md">core-js: So, what&amp;rsquo;s next?&lt;/a>
 (&lt;a href="https://lobste.rs/s/ebsvig/core_js_so_what_s_next">comments&lt;/a>)&lt;/p>
