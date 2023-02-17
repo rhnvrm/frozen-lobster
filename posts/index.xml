@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 16 Feb 2023 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-02-16</title><link>https://frozen-lobster.rohanverma.net/posts/2023-02-16/</link><pubDate>Thu, 16 Feb 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-02-16/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 17 Feb 2023 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-02-17</title><link>https://frozen-lobster.rohanverma.net/posts/2023-02-17/</link><pubDate>Fri, 17 Feb 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-02-17/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.markround.com/blog/2023/02/13/haiku-package-management/">Haiku Package Management&lt;/a>
+(&lt;a href="https://lobste.rs/s/j9decl/haiku_package_management">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tratt.net/laurie/blog/2023/why_arent_programming_language_specifications_comprehensive.html">Why Aren&amp;rsquo;t Programming Language Specifications Comprehensive?&lt;/a>
+(&lt;a href="https://lobste.rs/s/nd9h3b/why_aren_t_programming_language">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pierre.equoy.fr/blog/posts/2023/02/a-promising-mess/">A promising mess&lt;/a>
+(&lt;a href="https://lobste.rs/s/iehpq1/promising_mess">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://buttondown.email/hillelwayne/archive/programming-ais-worry-me/">Programming AIs worry me&lt;/a>
+(&lt;a href="https://lobste.rs/s/qbb7bw/programming_ais_worry_me">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://brew.sh/2023/02/16/homebrew-4.0.0/">Homebrew 4.0.0&lt;/a>
+(&lt;a href="https://lobste.rs/s/wehogg/homebrew_4_0_0">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">Worst password requirements you&amp;rsquo;ve seen&lt;/a>
+(&lt;a href="https://lobste.rs/s/voevrr/worst_password_requirements_you_ve_seen">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/acaloiaro/neoq">Show: Background job processing without Redis&lt;/a>
+(&lt;a href="https://lobste.rs/s/kzbekd/show_background_job_processing_without">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://en.wikipedia.org/wiki/Intel_iAPX_432#Architecture">Intel iAPX 432 Architecture&lt;/a>
+(&lt;a href="https://lobste.rs/s/pxop8d/intel_iapx_432_architecture">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://mitpress.mit.edu/9780262546379/the-little-learner/">The Little Learner&lt;/a>
+(&lt;a href="https://lobste.rs/s/ydhcqa/little_learner">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/soywod/himalaya/releases/tag/v0.7.0">Himalaya, the CLI email client: v0.7.0 released&lt;/a>
+(&lt;a href="https://lobste.rs/s/svnjss/himalaya_cli_email_client_v0_7_0_released">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2023-02-16</title><link>https://frozen-lobster.rohanverma.net/posts/2023-02-16/</link><pubDate>Thu, 16 Feb 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-02-16/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://mmapped.blog/posts/15-when-rust-hurts.html">When Rust hurts&lt;/a>
 (&lt;a href="https://lobste.rs/s/pd8rr8/when_rust_hurts">comments&lt;/a>)&lt;/p>
