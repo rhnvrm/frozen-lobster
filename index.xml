@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 19 Feb 2023 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-02-19</title><link>https://frozen-lobster.rohanverma.net/posts/2023-02-19/</link><pubDate>Sun, 19 Feb 2023 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-02-19/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 20 Feb 2023 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-02-20</title><link>https://frozen-lobster.rohanverma.net/posts/2023-02-20/</link><pubDate>Mon, 20 Feb 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-02-20/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://geoff.tuxpup.com/posts/psa_docker_edits_firewall_rules/">I just learned: Docker edits firewall rules for you&lt;/a>
+(&lt;a href="https://lobste.rs/s/avddoq/i_just_learned_docker_edits_firewall">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://write.as/quad/how-i-give-formal-written-feedback">How I give formal written feedback&lt;/a>
+(&lt;a href="https://lobste.rs/s/oy8s2t/how_i_give_formal_written_feedback">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://arstechnica.com/information-technology/2023/02/man-beats-machine-at-go-in-human-victory-over-ai/">Man beats machine at Go in human victory over AI&lt;/a>
+(&lt;a href="https://lobste.rs/s/zhhzui/man_beats_machine_at_go_human_victory_over">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://animaomnium.github.io/what-austral-proves/">What Austral Proves&lt;/a>
+(&lt;a href="https://lobste.rs/s/t4ifza/what_austral_proves">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://zig.news/andrewrk/multi-object-for-loops-data-oriented-design-41ob">Multi-Object For Loops + Struct-Of-Arrays&lt;/a>
+(&lt;a href="https://lobste.rs/s/abgxcg/multi_object_for_loops_struct_arrays">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://berthub.eu/articles/posts/optimizing-optimizing-400-percent-speedup/">Optimizing optimizing: some insights that led to a 400% speedup of PowerDNS (2016)&lt;/a>
+(&lt;a href="https://lobste.rs/s/0yzs2g/optimizing_optimizing_some_insights_led">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://andy-bell.co.uk/my-favourite-3-lines-of-css/">My favourite 3 lines of CSS&lt;/a>
+(&lt;a href="https://lobste.rs/s/zojypf/my_favourite_3_lines_css">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.joren.ga/less-known-c">Few lesser known tricks, quirks and features of C&lt;/a>
+(&lt;a href="https://lobste.rs/s/if8osu/few_lesser_known_tricks_quirks_features_c">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://aaka.sh/posts/20230129-bgp-at-home.html">&amp;ldquo;BGP at home&amp;rdquo;: getting a DIA circuit installed at home&lt;/a>
+(&lt;a href="https://lobste.rs/s/kufbwo/bgp_at_home_getting_dia_circuit_installed">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/DvorakDwarf/Infinite-Storage-Glitch">Infinite-Storage-Glitch: store arbitrary files on YouTube by converting them to video&lt;/a>
+(&lt;a href="https://lobste.rs/s/ylb4ro/infinite_storage_glitch_store_arbitrary">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2023-02-19</title><link>https://frozen-lobster.rohanverma.net/posts/2023-02-19/</link><pubDate>Sun, 19 Feb 2023 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-02-19/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://mode80.github.io/7-langs-in-12-months.html">I learned 7 different programming languages so you don&amp;rsquo;t have to&lt;/a>
 (&lt;a href="https://lobste.rs/s/zrb6vm/i_learned_7_different_programming">comments&lt;/a>)&lt;/p>
