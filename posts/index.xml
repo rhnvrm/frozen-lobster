@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 24 Feb 2023 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-02-24</title><link>https://frozen-lobster.rohanverma.net/posts/2023-02-24/</link><pubDate>Fri, 24 Feb 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-02-24/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 25 Feb 2023 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-02-25</title><link>https://frozen-lobster.rohanverma.net/posts/2023-02-25/</link><pubDate>Sat, 25 Feb 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-02-25/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.maxcountryman.com/articles/let-it-fail">Let It Fail&lt;/a>
+(&lt;a href="https://lobste.rs/s/rrki46/let_it_fail">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://easylang.online/easyprogramming/">Programming Is Easier Than You Think&lt;/a>
+(&lt;a href="https://lobste.rs/s/cz8pke/programming_is_easier_than_you_think">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://queue.acm.org/detail.cfm?id=3570921">The Elephant in the Room - It&amp;rsquo;s time to get the POSIX elephant off our necks&lt;/a>
+(&lt;a href="https://lobste.rs/s/ws2n6z/elephant_room_it_s_time_get_posix_elephant">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://boldlygo.tech/posts/2023-02-24-best-book-to-learn-go-in-2023/">What is the Best Book to Learn Go in 2023?&lt;/a>
+(&lt;a href="https://lobste.rs/s/y0bzrq/what_is_best_book_learn_go_2023">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://research.swtch.com/telemetry-opt-in">research!rsc: Opting In to Transparent Telemetry&lt;/a>
+(&lt;a href="https://lobste.rs/s/xxcfje/research_rsc_opting_transparent">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://werat.dev/blog/pretty-rust-backtraces-in-raw-terminal-mode/">Pretty Rust backtraces in raw terminal mode&lt;/a>
+(&lt;a href="https://lobste.rs/s/sdh7y9/pretty_rust_backtraces_raw_terminal_mode">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://joeduffyblog.com/2015/11/03/blogging-about-midori/">Blogging about Midori (2015)&lt;/a>
+(&lt;a href="https://lobste.rs/s/efetph/blogging_about_midori_2015">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this weekend?&lt;/a>
+(&lt;a href="https://lobste.rs/s/ltf1il/what_are_you_doing_this_weekend">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://boston.conman.org/2023/02/23.1">A breakdown of the triple-star pointer&lt;/a>
+(&lt;a href="https://lobste.rs/s/cuaeby/breakdown_triple_star_pointer">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ahelwer.ca/post/2018-02-13-z3-firewall/">Checking Firewall Equivalence with Z3 (2018)&lt;/a>
+(&lt;a href="https://lobste.rs/s/nehquh/checking_firewall_equivalence_with_z3">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2023-02-24</title><link>https://frozen-lobster.rohanverma.net/posts/2023-02-24/</link><pubDate>Fri, 24 Feb 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-02-24/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="http://len.falken.directory/web/makefile.txt">Makefile &amp;gt; websh*tconfig.json.js&lt;/a>
 (&lt;a href="https://lobste.rs/s/mtw9kb/makefile_websh_tconfig_json_js">comments&lt;/a>)&lt;/p>
