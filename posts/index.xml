@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 25 Feb 2023 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-02-25</title><link>https://frozen-lobster.rohanverma.net/posts/2023-02-25/</link><pubDate>Sat, 25 Feb 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-02-25/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 26 Feb 2023 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-02-26</title><link>https://frozen-lobster.rohanverma.net/posts/2023-02-26/</link><pubDate>Sun, 26 Feb 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-02-26/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/jdxcode/rtx/">rtx: Runtime Executor (asdf rust clone)&lt;/a>
+(&lt;a href="https://lobste.rs/s/z1oxpp/rtx_runtime_executor_asdf_rust_clone">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://twi.github.io/blog/making-go-telemetry-opt-in-is-a-mistake.html">Making Go telemetry opt-in is a mistake&lt;/a>
+(&lt;a href="https://lobste.rs/s/eyjoiw/making_go_telemetry_opt_is_mistake">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://discourse.haskell.org/t/haskell-playground-is-live-at-play-haskell-org/5869">Haskell Playground is live at play.haskell.org&lt;/a>
+(&lt;a href="https://lobste.rs/s/aryuyw/haskell_playground_is_live_at_play">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://git.sr.ht/~timetoplatypus/recfile">Go bindings for GNU Recutils&lt;/a>
+(&lt;a href="https://lobste.rs/s/yfbmlf/go_bindings_for_gnu_recutils">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tendril.blog/@snej/log2/133/">It’s a smol_world: thoughts and lessons&lt;/a>
+(&lt;a href="https://lobste.rs/s/igud1r/it_s_smol_world_thoughts_lessons">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://boston.conman.org/2023/02/24.1">A branchless segment of code to generate a printable hexadecimal value&lt;/a>
+(&lt;a href="https://lobste.rs/s/b1zoek/branchless_segment_code_generate">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pointersgonewild.com/2023/02/24/building-a-minimalistic-virtual-machine/">Building a Minimalistic Virtual Machine&lt;/a>
+(&lt;a href="https://lobste.rs/s/hc7bk7/building_minimalistic_virtual_machine">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/dineshgowda24/tic-tac-toe">Tic Tac Toe implementation over network&lt;/a>
+(&lt;a href="https://lobste.rs/s/ytoq99/tic_tac_toe_implementation_over_network">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://ratfactor.com/forth/forth_talk_2023.html">Dave&amp;rsquo;s Forth Talk 2023&lt;/a>
+(&lt;a href="https://lobste.rs/s/ea86a2/dave_s_forth_talk_2023">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gist.github.com/Hirrolot/27e6b02a051df333811a23b97c375196">How to implement dependent types in 80 lines of code&lt;/a>
+(&lt;a href="https://lobste.rs/s/ub7co8/how_implement_dependent_types_80_lines">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2023-02-25</title><link>https://frozen-lobster.rohanverma.net/posts/2023-02-25/</link><pubDate>Sat, 25 Feb 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-02-25/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://www.maxcountryman.com/articles/let-it-fail">Let It Fail&lt;/a>
 (&lt;a href="https://lobste.rs/s/rrki46/let_it_fail">comments&lt;/a>)&lt;/p>
