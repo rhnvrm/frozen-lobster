@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 27 Feb 2023 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-02-27</title><link>https://frozen-lobster.rohanverma.net/posts/2023-02-27/</link><pubDate>Mon, 27 Feb 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-02-27/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 28 Feb 2023 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-02-28</title><link>https://frozen-lobster.rohanverma.net/posts/2023-02-28/</link><pubDate>Tue, 28 Feb 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-02-28/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://determinate.systems/posts/determinate-nix-installer">Introducing the Determinate Nix Installer&lt;/a>
+(&lt;a href="https://lobste.rs/s/tu7kjz/introducing_determinate_nix_installer">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://kristoff.it/blog/zig-multi-sequence-for-loops/">Zig&amp;rsquo;s Curious Multi-Sequence For Loops&lt;/a>
+(&lt;a href="https://lobste.rs/s/ihf30a/zig_s_curious_multi_sequence_for_loops">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://bert.org/2023/02/27/recreating-ansi-art-from-a-screenshot/">Recreating ANSI Art from a screenshot&lt;/a>
+(&lt;a href="https://lobste.rs/s/jl9iex/recreating_ansi_art_from_screenshot">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://geeklaunch.io/blog/nothing-in-rust/">Nothing in Rust&lt;/a>
+(&lt;a href="https://lobste.rs/s/ecsspe/nothing_rust">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this week?&lt;/a>
+(&lt;a href="https://lobste.rs/s/wcblau/what_are_you_doing_this_week">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://wiki.alopex.li/HelixNotes">Helix Notes&lt;/a>
+(&lt;a href="https://lobste.rs/s/nvoikx/helix_notes">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ondergetekende.nl/vanity-rsa-public-key.html">Vanity RSA public key&lt;/a>
+(&lt;a href="https://lobste.rs/s/bnkjvt/vanity_rsa_public_key">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/Kav-K/GPT3Discord">Better AI-search than BingGPT, in Discord (+ document indexing)&lt;/a>
+(&lt;a href="https://lobste.rs/s/ussoxu/better_ai_search_than_binggpt_discord">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">Do you use a dead man&amp;rsquo;s switch?&lt;/a>
+(&lt;a href="https://lobste.rs/s/sidr8v/do_you_use_dead_man_s_switch">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/gvergnaud/hotscript">hotscript: Type-level madness&lt;/a>
+(&lt;a href="https://lobste.rs/s/oxvhod/hotscript_type_level_madness">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2023-02-27</title><link>https://frozen-lobster.rohanverma.net/posts/2023-02-27/</link><pubDate>Mon, 27 Feb 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-02-27/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://wiki.alopex.li/HelixNotes">Helix Notes&lt;/a>
 (&lt;a href="https://lobste.rs/s/nvoikx/helix_notes">comments&lt;/a>)&lt;/p>
