@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 28 Feb 2023 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-02-28</title><link>https://frozen-lobster.rohanverma.net/posts/2023-02-28/</link><pubDate>Tue, 28 Feb 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-02-28/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 01 Mar 2023 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-03-01</title><link>https://frozen-lobster.rohanverma.net/posts/2023-03-01/</link><pubDate>Wed, 01 Mar 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-03-01/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://msrc.microsoft.com/blog/2023/02/first-steps-in-cheriot-security-research/">First steps in CHERIoT Security Research&lt;/a>
+(&lt;a href="https://lobste.rs/s/3pxs5a/first_steps_cheriot_security_research">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.schneier.com/blog/archives/2023/02/banning-tiktok.html">Banning TikTok&lt;/a>
+(&lt;a href="https://lobste.rs/s/aoqhe3/banning_tiktok">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tinkering.xyz/nix-docs/">Nix journey part 0: Learning and reference materials&lt;/a>
+(&lt;a href="https://lobste.rs/s/zwgwrw/nix_journey_part_0_learning_reference">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.computerenhance.com/p/clean-code-horrible-performance">&amp;ldquo;Clean&amp;rdquo; Code, Horrible Performance&lt;/a>
+(&lt;a href="https://lobste.rs/s/7yd1id/clean_code_horrible_performance">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/trytouca/trytouca">A better alternative to snapshot testing&lt;/a>
+(&lt;a href="https://lobste.rs/s/djupbt/better_alternative_snapshot_testing">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://evanhahn.com/the-lone-developer-problem/">The lone developer problem&lt;/a>
+(&lt;a href="https://lobste.rs/s/v5klic/lone_developer_problem">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://determinate.systems/posts/determinate-nix-installer">Introducing the Determinate Nix Installer&lt;/a>
+(&lt;a href="https://lobste.rs/s/tu7kjz/introducing_determinate_nix_installer">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://new.pythonforengineers.com/blog/best-command-line-tools-ive-played-with/">The Most Useful Command Line Tools&lt;/a>
+(&lt;a href="https://lobste.rs/s/ba76la/most_useful_command_line_tools">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://maskray.me/blog/2023-02-26-linker-notes-on-power-isa">Linker notes on Power ISA&lt;/a>
+(&lt;a href="https://lobste.rs/s/biarxf/linker_notes_on_power_isa">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://venam.nixers.net/blog/unix/2023/02/28/access_control.html">A Compendium of Access Control on Unix-Like OSes&lt;/a>
+(&lt;a href="https://lobste.rs/s/efsbod/compendium_access_control_on_unix_like">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2023-02-28</title><link>https://frozen-lobster.rohanverma.net/posts/2023-02-28/</link><pubDate>Tue, 28 Feb 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-02-28/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://determinate.systems/posts/determinate-nix-installer">Introducing the Determinate Nix Installer&lt;/a>
 (&lt;a href="https://lobste.rs/s/tu7kjz/introducing_determinate_nix_installer">comments&lt;/a>)&lt;/p>
