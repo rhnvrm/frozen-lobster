@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 01 Mar 2023 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-03-01</title><link>https://frozen-lobster.rohanverma.net/posts/2023-03-01/</link><pubDate>Wed, 01 Mar 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-03-01/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 02 Mar 2023 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-03-02</title><link>https://frozen-lobster.rohanverma.net/posts/2023-03-02/</link><pubDate>Thu, 02 Mar 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-03-02/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www2.lib.uchicago.edu/keith/emacs/">Use GNU Emacs&lt;/a>
+(&lt;a href="https://lobste.rs/s/tmhk3n/use_gnu_emacs">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jvns.ca/blog/2023/02/28/some-notes-on-using-nix/">Some notes on using nix&lt;/a>
+(&lt;a href="https://lobste.rs/s/eru89e/some_notes_on_using_nix">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://soatok.blog/2023/03/01/database-cryptography-fur-the-rest-of-us/">Database Cryptography Fur the Rest of Us&lt;/a>
+(&lt;a href="https://lobste.rs/s/px3ovv/database_cryptography_fur_rest_us">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gleam.run/news/v0.27-hello-panic-goodbye-try/">Gleam v0.27 - Hello panic, goodbye try&lt;/a>
+(&lt;a href="https://lobste.rs/s/0ibswc/gleam_v0_27_hello_panic_goodbye_try">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://paul.totterman.name/posts/ssh-pki-web-pki/">SSH PKI on top of Web PKI&lt;/a>
+(&lt;a href="https://lobste.rs/s/nuotnj/ssh_pki_on_top_web_pki">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://godotengine.org/article/godot-4-0-sets-sail/">Godot 4.0 sets sail&lt;/a>
+(&lt;a href="https://lobste.rs/s/4gk4db/godot_4_0_sets_sail">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://concerningquality.com/logical-time-determinism/">Logical Time and Deterministic Execution&lt;/a>
+(&lt;a href="https://lobste.rs/s/hntujl/logical_time_deterministic_execution">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/fwkz/dill">dill 0.2.0 released: proxy built around the idea of dynamic listeners&lt;/a>
+(&lt;a href="https://lobste.rs/s/m2qagk/dill_0_2_0_released_proxy_built_around_idea">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/ligurio/luzer">luzer: A coverage-guided, native Lua fuzzing engine&lt;/a>
+(&lt;a href="https://lobste.rs/s/pc8zx8/luzer_coverage_guided_native_lua_fuzzing">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://twdev.blog/2022/10/cpp23/">New C++23 features I&amp;rsquo;m excited about&lt;/a>
+(&lt;a href="https://lobste.rs/s/8zlezx/new_c_23_features_i_m_excited_about">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2023-03-01</title><link>https://frozen-lobster.rohanverma.net/posts/2023-03-01/</link><pubDate>Wed, 01 Mar 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-03-01/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://msrc.microsoft.com/blog/2023/02/first-steps-in-cheriot-security-research/">First steps in CHERIoT Security Research&lt;/a>
 (&lt;a href="https://lobste.rs/s/3pxs5a/first_steps_cheriot_security_research">comments&lt;/a>)&lt;/p>
