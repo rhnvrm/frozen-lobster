@@ -1,4 +1,86 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 02 Mar 2023 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-03-02</title><link>https://frozen-lobster.rohanverma.net/posts/2023-03-02/</link><pubDate>Thu, 02 Mar 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-03-02/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 04 Mar 2023 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-03-04</title><link>https://frozen-lobster.rohanverma.net/posts/2023-03-04/</link><pubDate>Sat, 04 Mar 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-03-04/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://bt.ht/monitor/">Why I Stopped Using an External Monitor&lt;/a>
+(&lt;a href="https://lobste.rs/s/igiytq/why_i_stopped_using_external_monitor">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://diziet.dreamwidth.org/14666.html">Never use git submodules&lt;/a>
+(&lt;a href="https://lobste.rs/s/neab1g/never_use_git_submodules">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://devenv.sh/blog/2023/03/02/devenv-06-generating-containers-and-instant-shell-activation/">devenv 0.6: Generating containers and instant shell activation using Nix&lt;/a>
+(&lt;a href="https://lobste.rs/s/a1jo3a/devenv_0_6_generating_containers_instant">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.andreinc.net/2023/02/01/demystifying-bitwise-ops">Demystifying bitwise operations, a gentle C tutorial&lt;/a>
+(&lt;a href="https://lobste.rs/s/jzahvz/demystifying_bitwise_operations_gentle">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://berthub.eu/articles/posts/eu-cra-secure-coding-solution/">The EU&amp;rsquo;s new Cyber Resilience Act is about to tell us how to code&lt;/a>
+(&lt;a href="https://lobste.rs/s/zavb69/eu_s_new_cyber_resilience_act_is_about_tell">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://words.filippo.io/dispatches/avoid-the-randomness-from-the-sky/">Avoid The Randomness From The Sky&lt;/a>
+(&lt;a href="https://lobste.rs/s/e5xksr/avoid_randomness_from_sky">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://initial-v.com">Initial V: A BMW shifter converted to a Bluetooth Keyboard that you use with Vim&lt;/a>
+(&lt;a href="https://lobste.rs/s/v4rzyw/initial_v_bmw_shifter_converted">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.daklang.com/">Dak Language&lt;/a>
+(&lt;a href="https://lobste.rs/s/a1amag/dak_language">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://honza.pokorny.ca/2023/03/bootstrapping-a-hare-development-environment-with-nix/">Bootstrapping a Hare development environment with Nix&lt;/a>
+(&lt;a href="https://lobste.rs/s/xwnvei/bootstrapping_hare_development">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://rockybergen.com/papercraft">Papercraft Models&lt;/a>
+(&lt;a href="https://lobste.rs/s/cjjs9v/papercraft_models">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2023-03-03</title><link>https://frozen-lobster.rohanverma.net/posts/2023-03-03/</link><pubDate>Fri, 03 Mar 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-03-03/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="http://rtpg.co/2023/03/02/quines-for-dummies.html">Writing The World&amp;rsquo;s Most Boring Quine&lt;/a>
+(&lt;a href="https://lobste.rs/s/tcvtwo/writing_world_s_most_boring_quine">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://initial-v.com">Initial V: A BMW shifter converted to a Bluetooth Keyboard that you use with Vim&lt;/a>
+(&lt;a href="https://lobste.rs/s/v4rzyw/initial_v_bmw_shifter_converted">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://crates.io/crates/pijul/1.0.0-beta.4">new pijul beta release&lt;/a>
+(&lt;a href="https://lobste.rs/s/ubsusz/new_pijul_beta_release">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://viruta.org/reducing-binary-size-generics.html">Reducing code size in librsvg by removing an unnecessary generic struct&lt;/a>
+(&lt;a href="https://lobste.rs/s/vzmwvx/reducing_code_size_librsvg_by_removing">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">OpenPGP / GnuPG notepad recommendations?&lt;/a>
+(&lt;a href="https://lobste.rs/s/vhp170/openpgp_gnupg_notepad_recommendations">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gleam.run/news/v0.27-hello-panic-goodbye-try/">Gleam v0.27 - Hello panic, goodbye try&lt;/a>
+(&lt;a href="https://lobste.rs/s/0ibswc/gleam_v0_27_hello_panic_goodbye_try">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://godotengine.org/article/godot-4-0-sets-sail/">Godot 4.0 sets sail&lt;/a>
+(&lt;a href="https://lobste.rs/s/4gk4db/godot_4_0_sets_sail">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jvns.ca/blog/2023/02/28/some-notes-on-using-nix/">Some notes on using nix&lt;/a>
+(&lt;a href="https://lobste.rs/s/eru89e/some_notes_on_using_nix">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www2.lib.uchicago.edu/keith/emacs/">Use GNU Emacs&lt;/a>
+(&lt;a href="https://lobste.rs/s/tmhk3n/use_gnu_emacs">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.spicyweb.dev/the-great-gaslighting-of-the-js-age/">The Great Gaslighting of the JavaScript Era&lt;/a>
+(&lt;a href="https://lobste.rs/s/zot9qw/great_gaslighting_javascript_era">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2023-03-02</title><link>https://frozen-lobster.rohanverma.net/posts/2023-03-02/</link><pubDate>Thu, 02 Mar 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-03-02/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://www2.lib.uchicago.edu/keith/emacs/">Use GNU Emacs&lt;/a>
 (&lt;a href="https://lobste.rs/s/tmhk3n/use_gnu_emacs">comments&lt;/a>)&lt;/p>
