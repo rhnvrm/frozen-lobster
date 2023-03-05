@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 04 Mar 2023 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-03-04</title><link>https://frozen-lobster.rohanverma.net/posts/2023-03-04/</link><pubDate>Sat, 04 Mar 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-03-04/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 05 Mar 2023 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-03-05</title><link>https://frozen-lobster.rohanverma.net/posts/2023-03-05/</link><pubDate>Sun, 05 Mar 2023 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-03-05/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/npmaile/blog/blob/main/posts/flashbang.md">Please don&amp;rsquo;t flashbang me&lt;/a>
+(&lt;a href="https://lobste.rs/s/sj4nzy/please_don_t_flashbang_me">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://aj.codes/posts/be-careful-using-tmux-and-environment-variables/">Be Careful Using tmux and Environment Variables&lt;/a>
+(&lt;a href="https://lobste.rs/s/j3fxpg/be_careful_using_tmux_environment">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://joshleeb.com/posts/content-defined-chunking.html">Intro to Content Defined Chunking&lt;/a>
+(&lt;a href="https://lobste.rs/s/l3xdnr/intro_content_defined_chunking">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://phoenixframework.org/blog/phoenix-1.7-final-released">Phoenix 1.7.0 released: Built-in Tailwind, Verified Routes, LiveView Streams, and what&amp;rsquo;s next&lt;/a>
+(&lt;a href="https://lobste.rs/s/homhrt/phoenix_1_7_0_released_built_tailwind">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://archaeologist.dev/artifacts/coupling">What microservices can learn from React.js&lt;/a>
+(&lt;a href="https://lobste.rs/s/hcrpgr/what_microservices_can_learn_from_react">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://apps.apple.com/us/app/scratch/id1671420139">&lt;em>scratch&lt;/em> – A minimal org mode scratch area for iOS&lt;/a>
+(&lt;a href="https://lobste.rs/s/ebl3mv/scratch_minimal_org_mode_scratch_area_for">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://shopify.github.io/spatial-commerce-projects/WonkaVision/">Could we make the web more immersive using a simple optical illusion?&lt;/a>
+(&lt;a href="https://lobste.rs/s/lmjthx/could_we_make_web_more_immersive_using">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://box.matto.nl/some-notes-on-openbsd-72-on-a-thinkpad-x201.html">Some notes on OpenBSD 7.2 on a Thinkpad X201&lt;/a>
+(&lt;a href="https://lobste.rs/s/ty647f/some_notes_on_openbsd_7_2_on_thinkpad_x201">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://bt.ht/monitor/">Why I Stopped Using an External Monitor&lt;/a>
+(&lt;a href="https://lobste.rs/s/igiytq/why_i_stopped_using_external_monitor">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://c64os.com/post/howthekeyboardworks">How the C64 Keyboard Works&lt;/a>
+(&lt;a href="https://lobste.rs/s/7ymtcj/how_c64_keyboard_works">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2023-03-04</title><link>https://frozen-lobster.rohanverma.net/posts/2023-03-04/</link><pubDate>Sat, 04 Mar 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-03-04/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://bt.ht/monitor/">Why I Stopped Using an External Monitor&lt;/a>
 (&lt;a href="https://lobste.rs/s/igiytq/why_i_stopped_using_external_monitor">comments&lt;/a>)&lt;/p>
