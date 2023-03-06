@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 05 Mar 2023 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-03-05</title><link>https://frozen-lobster.rohanverma.net/posts/2023-03-05/</link><pubDate>Sun, 05 Mar 2023 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-03-05/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 06 Mar 2023 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-03-06</title><link>https://frozen-lobster.rohanverma.net/posts/2023-03-06/</link><pubDate>Mon, 06 Mar 2023 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-03-06/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://blog.apnic.net/2019/11/12/stop-using-ridiculously-low-dns-ttls/">Stop using ridiculously low DNS TTLs (2019)&lt;/a>
+(&lt;a href="https://lobste.rs/s/qc8py6/stop_using_ridiculously_low_dns_ttls_2019">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.onebigfluke.com/2023/03/a-new-functional-programming-language.html">Why am I building a new functional programming language?&lt;/a>
+(&lt;a href="https://lobste.rs/s/dqdvah/why_am_i_building_new_functional">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What&amp;rsquo;s your editor setup?&lt;/a>
+(&lt;a href="https://lobste.rs/s/nbr9bl/what_s_your_editor_setup">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://muxup.com/2023q1/commercially-available-risc-v-silicon">Commercially available RISC-V silicon&lt;/a>
+(&lt;a href="https://lobste.rs/s/l1tg27/commercially_available_risc_v_silicon">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jacko.io/safety_and_soundness.html">Safety and Soundness in Rust&lt;/a>
+(&lt;a href="https://lobste.rs/s/tpstyz/safety_soundness_rust">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gist.github.com/rain-1/4af9cad7941e5999e44a22e8cd368494">least squares&lt;/a>
+(&lt;a href="https://lobste.rs/s/3hai7n/least_squares">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.orhun.dev/introducing-runst/">Introducing runst: Handle desktop notifications neatly on Linux&lt;/a>
+(&lt;a href="https://lobste.rs/s/zthfec/introducing_runst_handle_desktop">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://capitalex.codeberg.page/scripting-languages-without-gcs/">Scripting Objects without Trash Day&lt;/a>
+(&lt;a href="https://lobste.rs/s/uphsej/scripting_objects_without_trash_day">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://deno.com/blog/you-dont-need-a-build-step">You Don&amp;rsquo;t Need a Build Step&lt;/a>
+(&lt;a href="https://lobste.rs/s/hny87h/you_don_t_need_build_step">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://solutionspace.blog/2022/05/03/much-of-your-work-will-go-to-waste/">Much of Your Work Will Go To Waste&lt;/a>
+(&lt;a href="https://lobste.rs/s/jqsnay/much_your_work_will_go_waste">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2023-03-05</title><link>https://frozen-lobster.rohanverma.net/posts/2023-03-05/</link><pubDate>Sun, 05 Mar 2023 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-03-05/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://github.com/npmaile/blog/blob/main/posts/flashbang.md">Please don&amp;rsquo;t flashbang me&lt;/a>
 (&lt;a href="https://lobste.rs/s/sj4nzy/please_don_t_flashbang_me">comments&lt;/a>)&lt;/p>
