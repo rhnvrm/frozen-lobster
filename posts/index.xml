@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 07 Mar 2023 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-03-07</title><link>https://frozen-lobster.rohanverma.net/posts/2023-03-07/</link><pubDate>Tue, 07 Mar 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-03-07/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 08 Mar 2023 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-03-08</title><link>https://frozen-lobster.rohanverma.net/posts/2023-03-08/</link><pubDate>Wed, 08 Mar 2023 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-03-08/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://jvns.ca/blog/2023/03/06/possible-reasons-8-bit-bytes/">Some possible reasons for 8-bit bytes&lt;/a>
+(&lt;a href="https://lobste.rs/s/b5rmwh/some_possible_reasons_for_8_bit_bytes">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://discord.com/blog/how-discord-stores-trillions-of-messages">How Discord Stores Trillions of Messages&lt;/a>
+(&lt;a href="https://lobste.rs/s/sdttgb/how_discord_stores_trillions_messages">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://zackoverflow.dev/writing/unsafe-rust-vs-zig/">When Zig is safer and faster than Rust&lt;/a>
+(&lt;a href="https://lobste.rs/s/5jzng0/when_zig_is_safer_faster_than_rust">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://earthly.dev/blog/remote-code-execution/">Remote Code Execution as a Service&lt;/a>
+(&lt;a href="https://lobste.rs/s/mjay79/remote_code_execution_as_service">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/RustPython/RustPython">RustPython: A Python (CPython &amp;gt;= 3.11.0) interpreter written in Rust&lt;/a>
+(&lt;a href="https://lobste.rs/s/8c7dx6/rustpython_python_cpython_3_11_0">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://maximullaris.com/parameterized_goals.html">Adding parameterized goals to makesure&lt;/a>
+(&lt;a href="https://lobste.rs/s/dnbfnj/adding_parameterized_goals_makesure">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">Fast byte searching with SIMD without a ton of boilerplate?&lt;/a>
+(&lt;a href="https://lobste.rs/s/9q6rnm/fast_byte_searching_with_simd_without_ton">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/gtramontina/ooze">Ooze: Mutation Testing Library for Golang&lt;/a>
+(&lt;a href="https://lobste.rs/s/cdshnt/ooze_mutation_testing_library_for_golang">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tinkering.xyz/nix-docs-unified-theory/">Nix journey part 1: My grand unified theory of Nix documentation&lt;/a>
+(&lt;a href="https://lobste.rs/s/mhnfs5/nix_journey_part_1_my_grand_unified_theory">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What domain registrar is worth using?&lt;/a>
+(&lt;a href="https://lobste.rs/s/flcpop/what_domain_registrar_is_worth_using">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2023-03-07</title><link>https://frozen-lobster.rohanverma.net/posts/2023-03-07/</link><pubDate>Tue, 07 Mar 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-03-07/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="">What domain registrar is worth using?&lt;/a>
 (&lt;a href="https://lobste.rs/s/flcpop/what_domain_registrar_is_worth_using">comments&lt;/a>)&lt;/p>
