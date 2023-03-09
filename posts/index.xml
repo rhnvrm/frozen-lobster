@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 08 Mar 2023 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-03-08</title><link>https://frozen-lobster.rohanverma.net/posts/2023-03-08/</link><pubDate>Wed, 08 Mar 2023 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-03-08/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 09 Mar 2023 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-03-09</title><link>https://frozen-lobster.rohanverma.net/posts/2023-03-09/</link><pubDate>Thu, 09 Mar 2023 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-03-09/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://ahelwer.ca/post/2023-03-08-google-groups/">Google Groups has been left to die&lt;/a>
+(&lt;a href="https://lobste.rs/s/mt2p8g/google_groups_has_been_left_die">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://xeiaso.net/blog/GraphicalEmoji">The GraphicalEmoji hack&lt;/a>
+(&lt;a href="https://lobste.rs/s/c1ggne/graphicalemoji_hack">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://matklad.github.io/2023/03/08/an-engine-for-an-editor.html">An Engine For An Editor&lt;/a>
+(&lt;a href="https://lobste.rs/s/9a2vfd/engine_for_editor">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/unclebob/cmuratori-discussion/blob/main/cleancodeqa.md">Uncle Bob and Casey Muratori Discuss Clean Code&lt;/a>
+(&lt;a href="https://lobste.rs/s/gzxcab/uncle_bob_casey_muratori_discuss_clean">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.cachix.org/posts/2023-03-08-cachix-1-3-uploads-unleashed/">Cachix 1.3: Nix Uploads unleashed&lt;/a>
+(&lt;a href="https://lobste.rs/s/7lipts/cachix_1_3_nix_uploads_unleashed">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://discord.com/blog/how-discord-stores-trillions-of-messages">How Discord Stores Trillions of Messages&lt;/a>
+(&lt;a href="https://lobste.rs/s/sdttgb/how_discord_stores_trillions_messages">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://peps.python.org/pep-0709/">PEP 709 – Inlined comprehensions&lt;/a>
+(&lt;a href="https://lobste.rs/s/lrstjz/pep_709_inlined_comprehensions">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://without.boats/blog/the-registers-of-rust/">The Registers of Rust&lt;/a>
+(&lt;a href="https://lobste.rs/s/gc8vec/registers_rust">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://spectrum.ieee.org/xerox-alto">50 Years Later, We’re Still Living in the Xerox Alto’s World&lt;/a>
+(&lt;a href="https://lobste.rs/s/hpciau/50_years_later_we_re_still_living_xerox">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://lwn.net/2000/0914/a/lt-debugger.php3">Linus Torvalds on Debuggers (2000)&lt;/a>
+(&lt;a href="https://lobste.rs/s/y57fdj/linus_torvalds_on_debuggers_2000">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2023-03-08</title><link>https://frozen-lobster.rohanverma.net/posts/2023-03-08/</link><pubDate>Wed, 08 Mar 2023 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-03-08/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://jvns.ca/blog/2023/03/06/possible-reasons-8-bit-bytes/">Some possible reasons for 8-bit bytes&lt;/a>
 (&lt;a href="https://lobste.rs/s/b5rmwh/some_possible_reasons_for_8_bit_bytes">comments&lt;/a>)&lt;/p>
