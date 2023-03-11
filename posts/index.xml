@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 10 Mar 2023 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-03-10</title><link>https://frozen-lobster.rohanverma.net/posts/2023-03-10/</link><pubDate>Fri, 10 Mar 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-03-10/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 11 Mar 2023 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-03-11</title><link>https://frozen-lobster.rohanverma.net/posts/2023-03-11/</link><pubDate>Sat, 11 Mar 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-03-11/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://werat.dev/blog/what-a-good-debugger-can-do/">What a good debugger can do&lt;/a>
+(&lt;a href="https://lobste.rs/s/uo3sck/what_good_debugger_can_do">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://leanpub.com/nixos-in-production">NixOS in Production&lt;/a>
+(&lt;a href="https://lobste.rs/s/bbbjfz/nixos_production">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are your favourite pieces of software?&lt;/a>
+(&lt;a href="https://lobste.rs/s/d0ptcu/what_are_your_favourite_pieces_software">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.rfox.eu/en/Hardware/SolarPi_experiment_1_The_PiJuice_Fiasco.html">SolarPi experiment 1: The PiJuice Fiasco&lt;/a>
+(&lt;a href="https://lobste.rs/s/xnm4wd/solarpi_experiment_1_pijuice_fiasco">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://garrit.xyz/posts/2023-03-08-terraform-and-kubernetes-are-fundamentally-different">The fundamental difference between Terraform and Kubernetes&lt;/a>
+(&lt;a href="https://lobste.rs/s/kahcpq/fundamental_difference_between">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.infoworld.com/article/3689648/meet-the-zig-programming-language.html">Meet Zig: The modern alternative to C&lt;/a>
+(&lt;a href="https://lobste.rs/s/qies8p/meet_zig_modern_alternative_c">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://research.exoticsilicon.com/articles/unbreaking_utf8_on_the_console">Discovering one bug after another in the UTF-8 decoding logic in OpenBSD&lt;/a>
+(&lt;a href="https://lobste.rs/s/l2fn3c/discovering_one_bug_after_another_utf_8">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.da.vidbuchanan.co.uk/blog/netflix-on-asahi.html">The Quest for Netflix on Asahi Linux&lt;/a>
+(&lt;a href="https://lobste.rs/s/oajyfi/quest_for_netflix_on_asahi_linux">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.rubick.com/steel-threads/">Steel threads are a technique that will make you a better engineer&lt;/a>
+(&lt;a href="https://lobste.rs/s/d9rqif/steel_threads_are_technique_will_make_you">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ovid.github.io/articles/the-future-of-perl.html">The Future of Perl&lt;/a>
+(&lt;a href="https://lobste.rs/s/dq6ysc/future_perl">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2023-03-10</title><link>https://frozen-lobster.rohanverma.net/posts/2023-03-10/</link><pubDate>Fri, 10 Mar 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-03-10/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://ploum.net/2023-03-09-losing-signal.html">Losing Signal&lt;/a>
 (&lt;a href="https://lobste.rs/s/fuczzm/losing_signal">comments&lt;/a>)&lt;/p>
