@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 11 Mar 2023 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-03-11</title><link>https://frozen-lobster.rohanverma.net/posts/2023-03-11/</link><pubDate>Sat, 11 Mar 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-03-11/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 12 Mar 2023 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-03-12</title><link>https://frozen-lobster.rohanverma.net/posts/2023-03-12/</link><pubDate>Sun, 12 Mar 2023 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-03-12/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://j3s.sh/thought/write-posix-shell.html">write posix shell&lt;/a>
+(&lt;a href="https://lobste.rs/s/k4z2qf/write_posix_shell">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/WebAssembly/gc/blob/master/proposals/gc/Overview.md">GC Extension for WebAssembly&lt;/a>
+(&lt;a href="https://lobste.rs/s/a6m5cy/gc_extension_for_webassembly">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.erlend.sh/weird-web-pages">Weird – Websites as the atomic matter of the internet&lt;/a>
+(&lt;a href="https://lobste.rs/s/zjghwo/weird_websites_as_atomic_matter_internet">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are your favourite pieces of software?&lt;/a>
+(&lt;a href="https://lobste.rs/s/d0ptcu/what_are_your_favourite_pieces_software">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.dcs.warwick.ac.uk/~hugh/TTM/Why-Are-There-No-Relational-DBMSs.pdf">Why Are There No Relational DBMSs? (2015)&lt;/a>
+(&lt;a href="https://lobste.rs/s/bonajo/why_are_there_no_relational_dbmss_2015">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://til.simonwillison.net/llms/llama-7b-m2">Running LLaMA 7B on a 64GB M2 MacBook Pro with llama.cpp&lt;/a>
+(&lt;a href="https://lobste.rs/s/ldxlfp/running_llama_7b_on_64gb_m2_macbook_pro">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://nickdesaulniers.github.io/blog/2023/03/10/disambiguating-arm/">Disambiguating Arm, Arm ARM, Armv9, ARM9, ARM64, Aarch64, A64, A78&lt;/a>
+(&lt;a href="https://lobste.rs/s/djlgpd/disambiguating_arm_arm_arm_armv9_arm9">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/jiacai2050/text-saver">text-saver: A browser extension to save texts anytime, anywhere&lt;/a>
+(&lt;a href="https://lobste.rs/s/o0bwtj/text_saver_browser_extension_save_texts">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://leanpub.com/nixos-in-production">NixOS in Production&lt;/a>
+(&lt;a href="https://lobste.rs/s/bbbjfz/nixos_production">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://susam.net/invaders.html">Andromeda Invaders: Auto Play: Press &amp;lsquo;Enter&amp;rsquo; twice and wait 5 seconds&lt;/a>
+(&lt;a href="https://lobste.rs/s/u5twdx/andromeda_invaders_auto_play_press_enter">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2023-03-11</title><link>https://frozen-lobster.rohanverma.net/posts/2023-03-11/</link><pubDate>Sat, 11 Mar 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-03-11/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://werat.dev/blog/what-a-good-debugger-can-do/">What a good debugger can do&lt;/a>
 (&lt;a href="https://lobste.rs/s/uo3sck/what_good_debugger_can_do">comments&lt;/a>)&lt;/p>
