@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 12 Mar 2023 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-03-12</title><link>https://frozen-lobster.rohanverma.net/posts/2023-03-12/</link><pubDate>Sun, 12 Mar 2023 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-03-12/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 13 Mar 2023 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-03-13</title><link>https://frozen-lobster.rohanverma.net/posts/2023-03-13/</link><pubDate>Mon, 13 Mar 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-03-13/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.haiku-os.org/blog/waddlesplash/2023-03-11_haiku_activity_contract_report_feburary_2023/">Haiku Activity &amp;amp; Contract Report, February 2023&lt;/a>
+(&lt;a href="https://lobste.rs/s/v9ugba/haiku_activity_contract_report_february">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://j3s.sh/thought/write-posix-shell.html">write posix shell&lt;/a>
+(&lt;a href="https://lobste.rs/s/k4z2qf/write_posix_shell">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/orhun/halp">halp: A CLI tool to get help with CLI tools&lt;/a>
+(&lt;a href="https://lobste.rs/s/q0w6fj/halp_cli_tool_get_help_with_cli_tools">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.rom1v.com/2023/03/scrcpy-2-0-with-audio/">Scrcpy 2.0, with audio&lt;/a>
+(&lt;a href="https://lobste.rs/s/q8yr0n/scrcpy_2_0_with_audio">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://snarky.ca/how-virtual-environments-work/">How virtual environments work&lt;/a>
+(&lt;a href="https://lobste.rs/s/ypbrf6/how_virtual_environments_work">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://lisyarus.github.io/blog/programming/2023/03/11/how-not-to-ui.html">How not to design a UI library&lt;/a>
+(&lt;a href="https://lobste.rs/s/9nc3kq/how_not_design_ui_library">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.haskell.org/ghc/blog/20230310-ghc-9.6.1-released.html">GHC 9.6.1 is now available&lt;/a>
+(&lt;a href="https://lobste.rs/s/h8wbhs/ghc_9_6_1_is_now_available">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.kjamistan.com/building-a-privacy-first-newsletter.html">Building a Privacy-First Newsletter&lt;/a>
+(&lt;a href="https://lobste.rs/s/ro3fq8/building_privacy_first_newsletter">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://generativeartistry.com/tutorials/">Generative Artistry Tutorials&lt;/a>
+(&lt;a href="https://lobste.rs/s/lbbd2b/generative_artistry_tutorials">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://zdimension.fr/stack-machines-and-where-to-find-them/">Stack Machines and Where To Find Them&lt;/a>
+(&lt;a href="https://lobste.rs/s/rk8351/stack_machines_where_find_them">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2023-03-12</title><link>https://frozen-lobster.rohanverma.net/posts/2023-03-12/</link><pubDate>Sun, 12 Mar 2023 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-03-12/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://j3s.sh/thought/write-posix-shell.html">write posix shell&lt;/a>
 (&lt;a href="https://lobste.rs/s/k4z2qf/write_posix_shell">comments&lt;/a>)&lt;/p>
