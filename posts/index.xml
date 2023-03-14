@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 13 Mar 2023 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-03-13</title><link>https://frozen-lobster.rohanverma.net/posts/2023-03-13/</link><pubDate>Mon, 13 Mar 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-03-13/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/posts/</link><description>Recent content in Posts on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 14 Mar 2023 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-03-14</title><link>https://frozen-lobster.rohanverma.net/posts/2023-03-14/</link><pubDate>Tue, 14 Mar 2023 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-03-14/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://bytes.zone/posts/aligning-markdown-tables-in-helix/">aligning Markdown tables in Helix&lt;/a>
+(&lt;a href="https://lobste.rs/s/fqgzrk/aligning_markdown_tables_helix">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://xeiaso.net/blog/a-weapon-to-surpass-metal-gear">A weapon to surpass Metal Gear&lt;/a>
+(&lt;a href="https://lobste.rs/s/dcceyb/weapon_surpass_metal_gear">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://laplab.me/posts/switching-from-cpp-to-rust/">Switching From C++ to Rust&lt;/a>
+(&lt;a href="https://lobste.rs/s/aszkl9/switching_from_c_rust">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://programmingisterrible.com/post/176657481103/repeat-yourself-do-more-than-one-thing-and">Repeat yourself, do more than one thing, and rewrite everything (2018)&lt;/a>
+(&lt;a href="https://lobste.rs/s/ibticd/repeat_yourself_do_more_than_one_thing">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.hillelwayne.com/post/task-runner-neovim/">A Neovim Task Runner in 30 lines of Lua&lt;/a>
+(&lt;a href="https://lobste.rs/s/4xu1zb/neovim_task_runner_30_lines_lua">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://austinhenley.com/blog/hofstadter.html">Hofstadter: An esoteric programming language with concurrency, regex, and web requests&lt;/a>
+(&lt;a href="https://lobste.rs/s/iyublc/hofstadter_esoteric_programming">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/exaloop/codon">codon: A high-performance, zero-overhead, extensible Python compiler using LLVM&lt;/a>
+(&lt;a href="https://lobste.rs/s/4isnaa/codon_high_performance_zero_overhead">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ranfdev.com/blog/building-a-flatpak-app-without-the-flatpak-cli/">Building a flatpak app without the flatpak cli&lt;/a>
+(&lt;a href="https://lobste.rs/s/jhb1xn/building_flatpak_app_without_flatpak_cli">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://brandur.org/fragments/policy-on-util-packages">Policy on util packages&lt;/a>
+(&lt;a href="https://lobste.rs/s/czi8ku/policy_on_util_packages">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://boston.conman.org/2023/03/13.2">Notes on optimizing an O(n)+C algorithm where the C matters quite a bit&lt;/a>
+(&lt;a href="https://lobste.rs/s/ojiuck/notes_on_optimizing_o_n_c_algorithm_where_c">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2023-03-13</title><link>https://frozen-lobster.rohanverma.net/posts/2023-03-13/</link><pubDate>Mon, 13 Mar 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-03-13/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://www.haiku-os.org/blog/waddlesplash/2023-03-11_haiku_activity_contract_report_feburary_2023/">Haiku Activity &amp;amp; Contract Report, February 2023&lt;/a>
 (&lt;a href="https://lobste.rs/s/v9ugba/haiku_activity_contract_report_february">comments&lt;/a>)&lt;/p>
