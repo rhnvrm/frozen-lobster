@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 14 Mar 2023 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-03-14</title><link>https://frozen-lobster.rohanverma.net/posts/2023-03-14/</link><pubDate>Tue, 14 Mar 2023 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-03-14/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 15 Mar 2023 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-03-15</title><link>https://frozen-lobster.rohanverma.net/posts/2023-03-15/</link><pubDate>Wed, 15 Mar 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-03-15/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://bt.ht/webfonts/">Stop Using Custom Web Fonts&lt;/a>
+(&lt;a href="https://lobste.rs/s/vktlcr/stop_using_custom_web_fonts">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://faultlore.com/blah/text-hates-you/">Text Rendering Hates You&lt;/a>
+(&lt;a href="https://lobste.rs/s/gbg9xm/text_rendering_hates_you">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.crowdsupply.com/mnt/pocket-reform/updates/our-campaign-is-now-live-on-crowd-supply">MNT Pocket Reform Campaign is Now Live on Crowd Supply&lt;/a>
+(&lt;a href="https://lobste.rs/s/sdkrr0/mnt_pocket_reform_campaign_is_now_live_on">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://laplab.me/posts/switching-from-cpp-to-rust/">Switching From C++ to Rust&lt;/a>
+(&lt;a href="https://lobste.rs/s/aszkl9/switching_from_c_rust">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/setzer22/llama-rs/">LLaMA-rs: A Rust port of llama.cpp for fast LLaMA inference on CPU&lt;/a>
+(&lt;a href="https://lobste.rs/s/gw2aug/llama_rs_rust_port_llama_cpp_for_fast_llama">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.tweag.io/blog/2023-03-14-announcing-fawltydeps/">Announcing FawltyDeps - a dependency checker for your Python code&lt;/a>
+(&lt;a href="https://lobste.rs/s/fxxc5a/announcing_fawltydeps_dependency">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://firsching.ch/github_labels.html">Why some GitHub labels illegible&lt;/a>
+(&lt;a href="https://lobste.rs/s/5lzzsz/why_some_github_labels_illegible">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ntietz.com/blog/happy-pi-day-2023/">Approximating pi using a cake&lt;/a>
+(&lt;a href="https://lobste.rs/s/1hlbiw/approximating_pi_using_cake">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://xeiaso.net/blog/a-weapon-to-surpass-metal-gear">A weapon to surpass Metal Gear&lt;/a>
+(&lt;a href="https://lobste.rs/s/dcceyb/weapon_surpass_metal_gear">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/stevana/elastically-scalable-thread-pools#elastically-scalable-thread-pools">An experiment in elastically scaling a thread pool using a PID controller&lt;/a>
+(&lt;a href="https://lobste.rs/s/ybtxic/experiment_elastically_scaling_thread">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2023-03-14</title><link>https://frozen-lobster.rohanverma.net/posts/2023-03-14/</link><pubDate>Tue, 14 Mar 2023 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-03-14/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://bytes.zone/posts/aligning-markdown-tables-in-helix/">aligning Markdown tables in Helix&lt;/a>
 (&lt;a href="https://lobste.rs/s/fqgzrk/aligning_markdown_tables_helix">comments&lt;/a>)&lt;/p>
