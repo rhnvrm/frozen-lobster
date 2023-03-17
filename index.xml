@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 16 Mar 2023 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-03-16</title><link>https://frozen-lobster.rohanverma.net/posts/2023-03-16/</link><pubDate>Thu, 16 Mar 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-03-16/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 17 Mar 2023 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-03-17</title><link>https://frozen-lobster.rohanverma.net/posts/2023-03-17/</link><pubDate>Fri, 17 Mar 2023 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-03-17/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://tratt.net/laurie/blog/2023/rusts_two_kinds_of_assert_make_for_better_code.html">Rust&amp;rsquo;s Two Kinds of &amp;lsquo;Assert&amp;rsquo; Make for Better Code&lt;/a>
+(&lt;a href="https://lobste.rs/s/w30ijz/rust_s_two_kinds_assert_make_for_better">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://discuss.systems/@dan/110008052977994607">&amp;quot;&amp;hellip;an audiophile forum started debating which versions of memcpy had the highest sound quality&amp;quot;&lt;/a>
+(&lt;a href="https://lobste.rs/s/pleinb/audiophile_forum_started_debating_which">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://justine.lol/rusage/">Portable Rusage Command&lt;/a>
+(&lt;a href="https://lobste.rs/s/engsgy/portable_rusage_command">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://nerdlypleasures.blogspot.com/2023/03/the-saga-of-color-brown-in-early-years.html">The Saga of the Color Brown in the Early Years of the PC&lt;/a>
+(&lt;a href="https://lobste.rs/s/urcorv/saga_color_brown_early_years_pc">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://thenybble.de/posts/json-analysis/">Analyzing multi-gigabyte JSON files locally&lt;/a>
+(&lt;a href="https://lobste.rs/s/h8lsyz/analyzing_multi_gigabyte_json_files">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/griffinmyers/wirepig">Wirepig – Mock HTTP and TCP deps with real sockets in Node.js tests&lt;/a>
+(&lt;a href="https://lobste.rs/s/dx1kpw/wirepig_mock_http_tcp_deps_with_real">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.openziti.io/private-dns-on-windows">Private DNS on Windows&lt;/a>
+(&lt;a href="https://lobste.rs/s/jgq73e/private_dns_on_windows">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://taoa.io/posts/Shape-typing-numpy-with-pyright-and-variadic-generics">Shape typing numpy with pyright and variadic generics&lt;/a>
+(&lt;a href="https://lobste.rs/s/5pydzz/shape_typing_numpy_with_pyright_variadic">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.zaynetro.com/post/what-is-deno/">What is Deno and how to use its sandbox?&lt;/a>
+(&lt;a href="https://lobste.rs/s/ddadcg/what_is_deno_how_use_its_sandbox">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://galowicz.de/2023/03/13/quick-vms-with-nixos/">Quick VMs with NixOS&lt;/a>
+(&lt;a href="https://lobste.rs/s/k4ifjh/quick_vms_with_nixos">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2023-03-16</title><link>https://frozen-lobster.rohanverma.net/posts/2023-03-16/</link><pubDate>Thu, 16 Mar 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-03-16/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://github.com/epilys/gerb#readme">gerb: a new greenfield FOSS graphical font editor / IDE&lt;/a>
 (&lt;a href="https://lobste.rs/s/vjlz7l/gerb_new_greenfield_foss_graphical_font">comments&lt;/a>)&lt;/p>
