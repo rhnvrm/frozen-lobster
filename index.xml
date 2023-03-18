@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 17 Mar 2023 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-03-17</title><link>https://frozen-lobster.rohanverma.net/posts/2023-03-17/</link><pubDate>Fri, 17 Mar 2023 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-03-17/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 18 Mar 2023 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-03-18</title><link>https://frozen-lobster.rohanverma.net/posts/2023-03-18/</link><pubDate>Sat, 18 Mar 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-03-18/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="http://www.oilshell.org/blog/2023/03/release-0.14.2.html">Oil 0.14.2 - Interactive Shell, and Conceding to autoconf&lt;/a>
+(&lt;a href="https://lobste.rs/s/qrbcue/oil_0_14_2_interactive_shell_conceding">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://two-wrongs.com/sidescrolling-flight-simulator">Sidescrolling Flight Simulator&lt;/a>
+(&lt;a href="https://lobste.rs/s/u93z93/sidescrolling_flight_simulator">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://discuss.systems/@dan/110008052977994607">&amp;quot;&amp;hellip;an audiophile forum started debating which versions of memcpy had the highest sound quality&amp;quot;&lt;/a>
+(&lt;a href="https://lobste.rs/s/pleinb/audiophile_forum_started_debating_which">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://retool.com/visual-basic/">Something Pretty Right: A History of Visual Basic&lt;/a>
+(&lt;a href="https://lobste.rs/s/1i1orh/something_pretty_right_history_visual">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.openmymind.net/Writing-Json-To-A-Custom-Output-in-Zig/">Writing JSON to a custom output in Zig&lt;/a>
+(&lt;a href="https://lobste.rs/s/7wwjl6/writing_json_custom_output_zig">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="">What are you doing this weekend?&lt;/a>
+(&lt;a href="https://lobste.rs/s/wyjvv0/what_are_you_doing_this_weekend">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://eli.thegreenplace.net/2023/the-power-of-single-method-interfaces-in-go/">The power of single-method interfaces&lt;/a>
+(&lt;a href="https://lobste.rs/s/rdm3vq/power_single_method_interfaces">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tratt.net/laurie/blog/2023/rusts_two_kinds_of_assert_make_for_better_code.html">Rust&amp;rsquo;s Two Kinds of &amp;lsquo;Assert&amp;rsquo; Make for Better Code&lt;/a>
+(&lt;a href="https://lobste.rs/s/w30ijz/rust_s_two_kinds_assert_make_for_better">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://rudism.com/chatgpt-as-code/">ChatGPT as Code&lt;/a>
+(&lt;a href="https://lobste.rs/s/42hmwd/chatgpt_as_code">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://troz.net/post/2023/to-day/">To-Day — Simple daily todo checklist for Mac&lt;/a>
+(&lt;a href="https://lobste.rs/s/rxb1mp/day_simple_daily_todo_checklist_for_mac">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2023-03-17</title><link>https://frozen-lobster.rohanverma.net/posts/2023-03-17/</link><pubDate>Fri, 17 Mar 2023 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-03-17/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://tratt.net/laurie/blog/2023/rusts_two_kinds_of_assert_make_for_better_code.html">Rust&amp;rsquo;s Two Kinds of &amp;lsquo;Assert&amp;rsquo; Make for Better Code&lt;/a>
 (&lt;a href="https://lobste.rs/s/w30ijz/rust_s_two_kinds_assert_make_for_better">comments&lt;/a>)&lt;/p>
