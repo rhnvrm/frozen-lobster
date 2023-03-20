@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 19 Mar 2023 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-03-19</title><link>https://frozen-lobster.rohanverma.net/posts/2023-03-19/</link><pubDate>Sun, 19 Mar 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-03-19/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 20 Mar 2023 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-03-20</title><link>https://frozen-lobster.rohanverma.net/posts/2023-03-20/</link><pubDate>Mon, 20 Mar 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-03-20/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=I5GvwWKkBmg">World&amp;rsquo;s first video of 56 transition controls for a triple inverted pendulum&lt;/a>
+(&lt;a href="https://lobste.rs/s/sxnuos/world_s_first_video_56_transition">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://solicited-thoughts.bearblog.dev/why-people-misuse-inheritance/">Why people misuse inheritance&lt;/a>
+(&lt;a href="https://lobste.rs/s/fjb8ch/why_people_misuse_inheritance">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/nix-community/nix-init">nix-init Generate Nix packages from URLs with dependency inference, hash prefetching, and more&lt;/a>
+(&lt;a href="https://lobste.rs/s/rzicwc/nix_init_generate_nix_packages_from_urls">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://iamkroot.github.io/blog/zig-memleak">The Curious Case of a Memory Leak in a Zig program&lt;/a>
+(&lt;a href="https://lobste.rs/s/8jqvz9/curious_case_memory_leak_zig_program">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://giannirosato.com/blog/post/image-comparison/">Image Codec Comparison (JXL vs. AVIF vs. WebP vs. JPG)&lt;/a>
+(&lt;a href="https://lobste.rs/s/9g5wao/image_codec_comparison_jxl_vs_avif_vs_webp">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://discourse.llvm.org/t/llvm-16-0-0-release/69326">LLVM 16.0.0 Release&lt;/a>
+(&lt;a href="https://lobste.rs/s/4sojfc/llvm_16_0_0_release">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://twitter.com/ItsSimonTime/status/1636857478263750656">Acropalypse: a serious privacy vulnerability in the Google Pixel&amp;rsquo;s inbuilt screenshot editing tool&lt;/a>
+(&lt;a href="https://lobste.rs/s/48eswe/acropalypse_serious_privacy">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://jordankaye.dev/posts/go-slow-move-fast/">Go slow to move fast&lt;/a>
+(&lt;a href="https://lobste.rs/s/iug50z/go_slow_move_fast">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.da.vidbuchanan.co.uk/blog/exploiting-acropalypse.html">Exploiting aCropalypse: Recovering Truncated PNGs&lt;/a>
+(&lt;a href="https://lobste.rs/s/1gbjgk/exploiting_acropalypse_recovering">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://20th.nixos.org/">20 Years of Nix&lt;/a>
+(&lt;a href="https://lobste.rs/s/ha7kwe/20_years_nix">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2023-03-19</title><link>https://frozen-lobster.rohanverma.net/posts/2023-03-19/</link><pubDate>Sun, 19 Mar 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-03-19/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://twitter.com/ItsSimonTime/status/1636857478263750656">Acropalypse: a serious privacy vulnerability in the Google Pixel&amp;rsquo;s inbuilt screenshot editing tool&lt;/a>
 (&lt;a href="https://lobste.rs/s/48eswe/acropalypse_serious_privacy">comments&lt;/a>)&lt;/p>
