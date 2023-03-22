@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 21 Mar 2023 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-03-21</title><link>https://frozen-lobster.rohanverma.net/posts/2023-03-21/</link><pubDate>Tue, 21 Mar 2023 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-03-21/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 22 Mar 2023 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-03-22</title><link>https://frozen-lobster.rohanverma.net/posts/2023-03-22/</link><pubDate>Wed, 22 Mar 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-03-22/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://emaggiori.com/employed-in-tech-for-years-but-almost-never-worked/">I’ve been employed in tech for years, but I’ve almost never worked&lt;/a>
+(&lt;a href="https://lobste.rs/s/mbgpma/i_ve_been_employed_tech_for_years_i_ve">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://felixcrux.com/blog/it-is-worth-regularly-updating-dependencies">It’s worth putting in the effort to regularly update dependencies&lt;/a>
+(&lt;a href="https://lobste.rs/s/qew2si/it_s_worth_putting_effort_regularly">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/typst/typst">typst: A new markup-based typesetting system that is powerful and easy to learn&lt;/a>
+(&lt;a href="https://lobste.rs/s/ko1yjj/typst_new_markup_based_typesetting">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.orhun.dev/zig-bits-02/">Zig Bits 0x2: Using defer to defeat memory leaks&lt;/a>
+(&lt;a href="https://lobste.rs/s/lalx23/zig_bits_0x2_using_defer_defeat_memory">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://serce.me/posts/21-03-2023-write-predictable-software-not-ergonomic">Write Predictable software, not Ergonomic&lt;/a>
+(&lt;a href="https://lobste.rs/s/w6fxzo/write_predictable_software_not">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/vercel/turbo/issues/986#issuecomment-1477360394">Navigating the Complexities of File Watching&lt;/a>
+(&lt;a href="https://lobste.rs/s/mjppkn/navigating_complexities_file_watching">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://vore.website">vore - a simple rss/atom feed reader&lt;/a>
+(&lt;a href="https://lobste.rs/s/uu46e2/vore_simple_rss_atom_feed_reader">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/letloop/letloop.cloud">letloop.cloud: A cloud for the parenthetical leaning doers&lt;/a>
+(&lt;a href="https://lobste.rs/s/92r5xk/letloop_cloud_cloud_for_parenthetical">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/travisgoodspeed/gbrom-tutorial">Tutorial for extracting the GameBoy ROM from photographs of the die&lt;/a>
+(&lt;a href="https://lobste.rs/s/odoals/tutorial_for_extracting_gameboy_rom_from">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/RaymiiOrg/openssl-modern-cpp">Modern C++ OpenSSL Examples&lt;/a>
+(&lt;a href="https://lobste.rs/s/6twnne/modern_c_openssl_examples">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2023-03-21</title><link>https://frozen-lobster.rohanverma.net/posts/2023-03-21/</link><pubDate>Tue, 21 Mar 2023 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-03-21/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://vore.website">vore - a simple rss/atom feed reader&lt;/a>
 (&lt;a href="https://lobste.rs/s/uu46e2/vore_simple_rss_atom_feed_reader">comments&lt;/a>)&lt;/p>
