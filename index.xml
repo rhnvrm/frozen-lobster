@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 23 Mar 2023 00:05:02 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-03-23</title><link>https://frozen-lobster.rohanverma.net/posts/2023-03-23/</link><pubDate>Thu, 23 Mar 2023 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-03-23/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frozen Lobster</title><link>https://frozen-lobster.rohanverma.net/</link><description>Recent content on Frozen Lobster</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 24 Mar 2023 00:05:01 +0000</lastBuildDate><atom:link href="https://frozen-lobster.rohanverma.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily lobste.rs News for 2023-03-24</title><link>https://frozen-lobster.rohanverma.net/posts/2023-03-24/</link><pubDate>Fri, 24 Mar 2023 00:05:01 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-03-24/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://maximullaris.com/awk.html">Fascination of AWK&lt;/a>
+(&lt;a href="https://lobste.rs/s/ijpr36/fascination_awk">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://tratt.net/laurie/blog/2023/how_big_should_a_programming_language_be.html">How Big Should a Programming Language Be?&lt;/a>
+(&lt;a href="https://lobste.rs/s/qbprbl/how_big_should_programming_language_be">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://about.sourcegraph.com/blog/cheating-is-all-you-need">Cheating is All You Need&lt;/a>
+(&lt;a href="https://lobste.rs/s/pdqmcq/cheating_is_all_you_need">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://frame.work/blog/introducing-the-framework-laptop-16-and-both-intel-and-amd-powered-framework-laptop-13">Introducing the Framework Laptop 16 and both Intel and AMD-powered Framework Laptop 13&lt;/a>
+(&lt;a href="https://lobste.rs/s/jwljsv/introducing_framework_laptop_16_both">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://dev.epicgames.com/documentation/en-us/uefn/verse-language-reference">Verse Language Reference&lt;/a>
+(&lt;a href="https://lobste.rs/s/x5avwc/verse_language_reference">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://pythonspeed.com/articles/faster-text-processing/">Speeding up text processing in Python (is hard)&lt;/a>
+(&lt;a href="https://lobste.rs/s/8kng64/speeding_up_text_processing_python_is">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gitlab.com/engmark/bisect">bisect&lt;/a>
+(&lt;a href="https://lobste.rs/s/lkwafd/bisect">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.sequin.io/finding-and-fixing-eventual-consistency-with-stripe-events/">Finding and fixing eventual consistency with Stripe events&lt;/a>
+(&lt;a href="https://lobste.rs/s/edznnr/finding_fixing_eventual_consistency">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=ccpsyRipHlk">Framework Next Level Event | 2023 Launch Event&lt;/a>
+(&lt;a href="https://lobste.rs/s/cvkobc/framework_next_level_event_2023_launch">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://nullprogram.com/blog/2023/03/23/">Practical libc-free threading on Linux&lt;/a>
+(&lt;a href="https://lobste.rs/s/y4yvrg/practical_libc_free_threading_on_linux">comments&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Daily lobste.rs News for 2023-03-23</title><link>https://frozen-lobster.rohanverma.net/posts/2023-03-23/</link><pubDate>Thu, 23 Mar 2023 00:05:02 +0000</pubDate><guid>https://frozen-lobster.rohanverma.net/posts/2023-03-23/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://outerproduct.net/boring/2023-03-22_cpu-compiler-gc-ohmy.html">A CPU is a compiler&lt;/a>
 (&lt;a href="https://lobste.rs/s/okcml7/cpu_is_compiler">comments&lt;/a>)&lt;/p>
